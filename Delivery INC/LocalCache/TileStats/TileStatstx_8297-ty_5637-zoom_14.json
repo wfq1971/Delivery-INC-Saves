@@ -1,0 +1,424 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0906667
+  }, {
+    "type" : "residential",
+    "area" : 0.9715488
+  }, {
+    "type" : "cemetery",
+    "area" : 0.057256944
+  }, {
+    "type" : "railway",
+    "area" : 0.028451225
+  }, {
+    "type" : "park",
+    "area" : 0.026835736
+  }, {
+    "type" : "parking",
+    "area" : 0.014845942
+  }, {
+    "type" : "education",
+    "area" : 0.010402815
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3022
+  }, {
+    "type" : "apartments",
+    "count" : 787
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 344
+  }, {
+    "type" : "restaurant",
+    "count" : 335
+  }, {
+    "type" : "waste_basket",
+    "count" : 238
+  }, {
+    "type" : "vending_machine",
+    "count" : 181
+  }, {
+    "type" : "bench",
+    "count" : 176
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 84
+  }, {
+    "type" : "fast_food",
+    "count" : 82
+  }, {
+    "type" : "parking_space",
+    "count" : 59
+  }, {
+    "type" : "office",
+    "count" : 49
+  }, {
+    "type" : "recycling",
+    "count" : 46
+  }, {
+    "type" : "cafe",
+    "count" : 44
+  }, {
+    "type" : "post_box",
+    "count" : 43
+  }, {
+    "type" : "school",
+    "count" : 37
+  }, {
+    "type" : "bank",
+    "count" : 35
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 33
+  }, {
+    "type" : "pharmacy",
+    "count" : 30
+  }, {
+    "type" : "bar",
+    "count" : 24
+  }, {
+    "type" : "atm",
+    "count" : 22
+  }, {
+    "type" : "roof",
+    "count" : 20
+  }, {
+    "type" : "parking_entrance",
+    "count" : 20
+  }, {
+    "type" : "retail",
+    "count" : 19
+  }, {
+    "type" : "drinking_water",
+    "count" : 19
+  }, {
+    "type" : "toilets",
+    "count" : 17
+  }, {
+    "type" : "pub",
+    "count" : 16
+  }, {
+    "type" : "hospital",
+    "count" : 16
+  }, {
+    "type" : "hotel",
+    "count" : 14
+  }, {
+    "type" : "service",
+    "count" : 13
+  }, {
+    "type" : "water_point",
+    "count" : 13
+  }, {
+    "type" : "photo_booth",
+    "count" : 13
+  }, {
+    "type" : "doctors",
+    "count" : 11
+  }, {
+    "type" : "social_facility",
+    "count" : 11
+  }, {
+    "type" : "theatre",
+    "count" : 11
+  }, {
+    "type" : "college",
+    "count" : 10
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "taxi",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 9
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "fountain",
+    "count" : 8
+  }, {
+    "type" : "kindergarten",
+    "count" : 8
+  }, {
+    "type" : "dentist",
+    "count" : 7
+  }, {
+    "type" : "charging_station",
+    "count" : 7
+  }, {
+    "type" : "cinema",
+    "count" : 7
+  }, {
+    "type" : "house",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "shed",
+    "count" : 6
+  }, {
+    "type" : "printer",
+    "count" : 5
+  }, {
+    "type" : "car_rental",
+    "count" : 5
+  }, {
+    "type" : "driving_school",
+    "count" : 5
+  }, {
+    "type" : "marketplace",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 5
+  }, {
+    "type" : "childcare",
+    "count" : 5
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "chapel",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "reception_desk",
+    "count" : 4
+  }, {
+    "type" : "music_school",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "piano",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "dormitory",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "parcel_locker",
+    "count" : 3
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "grit_bin",
+    "count" : 2
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "mortuary",
+    "count" : 1
+  }, {
+    "type" : "karaoke_box",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "vending_machine;waste_basket",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "small_electric_vehicle_parking",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "ashtray",
+    "count" : 1
+  }, {
+    "type" : "scooter_parking",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "letter_box",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Montparnasse",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:el" : "Μονπαρνάς",
+      "name" : "Montparnasse",
+      "place" : "suburb",
+      "name:sr" : "Монпарнас"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1237473,
+    "totalVolume" : 24893385,
+    "count" : 3690,
+    "maxHeight" : 210.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 33
+  }, {
+    "type" : "tertiary",
+    "count" : 55
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 169
+  }, {
+    "type" : "service",
+    "count" : 244
+  }, {
+    "type" : "path",
+    "count" : 15
+  }, {
+    "type" : "primary",
+    "count" : 40
+  }, {
+    "type" : "pedestrian",
+    "count" : 34
+  }, {
+    "type" : "subway",
+    "count" : 42
+  }, {
+    "type" : "living_street",
+    "count" : 14
+  }, {
+    "type" : "secondary",
+    "count" : 153
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 289
+  }, {
+    "type" : "rail",
+    "count" : 184
+  }, {
+    "type" : "unclassified",
+    "count" : 5
+  }, {
+    "type" : "footway",
+    "count" : 1743
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 35,
+    "max" : 86,
+    "diff50m" : 10
+  }
+}

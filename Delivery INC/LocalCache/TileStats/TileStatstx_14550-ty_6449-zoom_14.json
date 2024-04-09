@@ -1,0 +1,614 @@
+{
+  "landusages" : [ {
+    "type" : "cemetery",
+    "area" : 0.047827147
+  }, {
+    "type" : "park",
+    "area" : 0.0351011
+  }, {
+    "type" : "pitch",
+    "area" : 0.020931171
+  }, {
+    "type" : "forest",
+    "area" : 0.016799493
+  }, {
+    "type" : "parking",
+    "area" : 0.013431338
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.010200643
+  }, {
+    "type" : "wood",
+    "area" : 0.01019523
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2485
+  }, {
+    "type" : "restaurant",
+    "count" : 155
+  }, {
+    "type" : "apartments",
+    "count" : 65
+  }, {
+    "type" : "fast_food",
+    "count" : 57
+  }, {
+    "type" : "cafe",
+    "count" : 56
+  }, {
+    "type" : "university",
+    "count" : 38
+  }, {
+    "type" : "pub",
+    "count" : 38
+  }, {
+    "type" : "house",
+    "count" : 38
+  }, {
+    "type" : "school",
+    "count" : 26
+  }, {
+    "type" : "pharmacy",
+    "count" : 24
+  }, {
+    "type" : "post_box",
+    "count" : 24
+  }, {
+    "type" : "place_of_worship",
+    "count" : 22
+  }, {
+    "type" : "kindergarten",
+    "count" : 19
+  }, {
+    "type" : "residential",
+    "count" : 18
+  }, {
+    "type" : "vending_machine",
+    "count" : 18
+  }, {
+    "type" : "social_facility",
+    "count" : 15
+  }, {
+    "type" : "toilets",
+    "count" : 14
+  }, {
+    "type" : "police",
+    "count" : 14
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 14
+  }, {
+    "type" : "bank",
+    "count" : 13
+  }, {
+    "type" : "telephone",
+    "count" : 12
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "dentist",
+    "count" : 10
+  }, {
+    "type" : "post_office",
+    "count" : 10
+  }, {
+    "type" : "detached",
+    "count" : 9
+  }, {
+    "type" : "doctors",
+    "count" : 8
+  }, {
+    "type" : "community_centre",
+    "count" : 7
+  }, {
+    "type" : "waste_basket",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "fire_station",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "shower",
+    "count" : 4
+  }, {
+    "type" : "theatre",
+    "count" : 4
+  }, {
+    "type" : "townhall",
+    "count" : 3
+  }, {
+    "type" : "public_building",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "karaoke_box",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "sports_hall",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "fixme",
+    "count" : 2
+  }, {
+    "type" : "studio",
+    "count" : 2
+  }, {
+    "type" : "bench",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "love_hotel",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "temple",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "stable",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "高田馬場二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "高田馬場二丁目",
+      "name" : "高田馬場二丁目",
+      "name:en" : "Takadanobaba 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "たかだのばば2ちょうめ"
+    }
+  }, {
+    "name" : "高田三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "高田三丁目",
+      "name" : "高田三丁目",
+      "name:en" : "Takada 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "たかだ3ちょうめ"
+    }
+  }, {
+    "name" : "高田二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "高田二丁目",
+      "name" : "高田二丁目",
+      "name:en" : "Takada 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "たかだ2ちょうめ"
+    }
+  }, {
+    "name" : "高田一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "高田一丁目",
+      "name" : "高田一丁目",
+      "name:en" : "Takada 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "たかだ1ちょうめ"
+    }
+  }, {
+    "name" : "目白台一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白台一丁目",
+      "name" : "目白台一丁目",
+      "name:en" : "Mejirodai 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろだい1ちょうめ"
+    }
+  }, {
+    "name" : "目白一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白一丁目",
+      "name" : "目白一丁目",
+      "name:en" : "Mejiro 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろ1ちょうめ"
+    }
+  }, {
+    "name" : "雑司が谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "雑司が谷二丁目",
+      "name" : "雑司が谷二丁目",
+      "name:en" : "Zoshigaya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぞうしがや2ちょうめ"
+    }
+  }, {
+    "name" : "雑司が谷三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "雑司が谷三丁目",
+      "name" : "雑司が谷三丁目",
+      "name:en" : "Zoshigaya 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぞうしがや3ちょうめ"
+    }
+  }, {
+    "name" : "南池袋三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南池袋三丁目",
+      "name" : "南池袋三丁目",
+      "name:en" : "Minami-Ikebukuro 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみいけぶくろ3ちょうめ"
+    }
+  }, {
+    "name" : "南池袋",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Минами-Икебукуро",
+      "name:ja" : "南池袋",
+      "name" : "南池袋",
+      "name:en" : "South Ikebukuro",
+      "name:ja_rm" : "Minami-Ikebukuro",
+      "place" : "quarter",
+      "name:es" : "Ikebukuro Sur",
+      "name:ja_kana" : "みなみいけぶくろ"
+    }
+  }, {
+    "name" : "南池袋二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南池袋二丁目",
+      "name" : "南池袋二丁目",
+      "name:en" : "Minami-Ikebukuro 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみいけぶくろ2ちょうめ"
+    }
+  }, {
+    "name" : "南池袋四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南池袋四丁目",
+      "name" : "南池袋四丁目",
+      "name:en" : "Minami-Ikebukuro 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみいけぶくろ4ちょうめ"
+    }
+  }, {
+    "name" : "東池袋五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "東池袋五丁目",
+      "name" : "東池袋五丁目",
+      "name:en" : "Higashi-Ikebukuro 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ひがしいけぶくろ5ちょうめ"
+    }
+  }, {
+    "name" : "東池袋四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "東池袋四丁目",
+      "name" : "東池袋四丁目",
+      "name:en" : "Higashi-Ikebukuro 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ひがしいけぶくろ4ちょうめ"
+    }
+  }, {
+    "name" : "高田馬場一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "高田馬場一丁目",
+      "name" : "高田馬場一丁目",
+      "name:en" : "Takadanobaba 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "たかだのばば1ちょうめ"
+    }
+  }, {
+    "name" : "下落合二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "下落合二丁目",
+      "name" : "下落合二丁目",
+      "name:en" : "Shimoochiai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しもおちあい2ちょうめ"
+    }
+  }, {
+    "name" : "目白二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白二丁目",
+      "name" : "目白二丁目",
+      "name:en" : "Mejiro 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろ2ちょうめ"
+    }
+  }, {
+    "name" : "目白三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白三丁目",
+      "name" : "目白三丁目",
+      "name:en" : "Mejiro 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろ3ちょうめ"
+    }
+  }, {
+    "name" : "西池袋二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西池袋二丁目",
+      "name" : "西池袋二丁目",
+      "name:en" : "Nishi-Ikebukuro 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしいけぶくろ2ちょうめ"
+    }
+  }, {
+    "name" : "目白台二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白台二丁目",
+      "name" : "目白台二丁目",
+      "name:en" : "Mejirodai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろだい2ちょうめ"
+    }
+  }, {
+    "name" : "雑司が谷一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "雑司が谷一丁目",
+      "name" : "雑司が谷一丁目",
+      "name:en" : "Zoshigaya 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぞうしがや1ちょうめ"
+    }
+  }, {
+    "name" : "西早稲田三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西早稲田三丁目",
+      "name" : "西早稲田三丁目",
+      "name:en" : "Nishi-Waseda 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしわせだ3ちょうめ"
+    }
+  }, {
+    "name" : "下落合三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "下落合三丁目",
+      "name" : "下落合三丁目",
+      "name:en" : "Shimoochiai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しもおちあい3ちょうめ"
+    }
+  }, {
+    "name" : "南池袋一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南池袋一丁目",
+      "name" : "南池袋一丁目",
+      "name:en" : "Minami-Ikebukuro 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみいけぶくろ1ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1513604,
+    "totalVolume" : 19808255,
+    "count" : 11411,
+    "maxHeight" : 196.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 43
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 370
+  }, {
+    "type" : "service",
+    "count" : 358
+  }, {
+    "type" : "path",
+    "count" : 442
+  }, {
+    "type" : "motorway",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 70
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 12
+  }, {
+    "type" : "secondary",
+    "count" : 18
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 72
+  }, {
+    "type" : "tram",
+    "count" : 11
+  }, {
+    "type" : "rail",
+    "count" : 134
+  }, {
+    "type" : "unclassified",
+    "count" : 456
+  }, {
+    "type" : "footway",
+    "count" : 478
+  }, {
+    "type" : "primary_link",
+    "count" : 3
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 6,
+    "max" : 69,
+    "diff50m" : 19
+  }
+}

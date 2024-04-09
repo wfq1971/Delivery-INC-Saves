@@ -1,0 +1,471 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.05400102
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.052454524
+  }, {
+    "type" : "commercial",
+    "area" : 0.042878293
+  }, {
+    "type" : "yes",
+    "area" : 0.030697236
+  }, {
+    "type" : "residential",
+    "area" : 0.028536525
+  }, {
+    "type" : "retail",
+    "area" : 0.027280537
+  }, {
+    "type" : "garden",
+    "area" : 0.021674788
+  }, {
+    "type" : "construction",
+    "area" : 0.011503972
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3061
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 433
+  }, {
+    "type" : "retail",
+    "count" : 334
+  }, {
+    "type" : "house",
+    "count" : 299
+  }, {
+    "type" : "bench",
+    "count" : 294
+  }, {
+    "type" : "restaurant",
+    "count" : 235
+  }, {
+    "type" : "telephone",
+    "count" : 144
+  }, {
+    "type" : "cafe",
+    "count" : 131
+  }, {
+    "type" : "commercial",
+    "count" : 109
+  }, {
+    "type" : "fast_food",
+    "count" : 81
+  }, {
+    "type" : "waste_basket",
+    "count" : 78
+  }, {
+    "type" : "apartments",
+    "count" : 78
+  }, {
+    "type" : "university",
+    "count" : 70
+  }, {
+    "type" : "office",
+    "count" : 65
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 59
+  }, {
+    "type" : "post_box",
+    "count" : 49
+  }, {
+    "type" : "bar",
+    "count" : 42
+  }, {
+    "type" : "pub",
+    "count" : 35
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 33
+  }, {
+    "type" : "residential",
+    "count" : 29
+  }, {
+    "type" : "atm",
+    "count" : 25
+  }, {
+    "type" : "toilets",
+    "count" : 18
+  }, {
+    "type" : "church",
+    "count" : 18
+  }, {
+    "type" : "bank",
+    "count" : 14
+  }, {
+    "type" : "recycling",
+    "count" : 13
+  }, {
+    "type" : "dentist",
+    "count" : 12
+  }, {
+    "type" : "public",
+    "count" : 10
+  }, {
+    "type" : "hotel",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "parking_entrance",
+    "count" : 10
+  }, {
+    "type" : "vending_machine",
+    "count" : 9
+  }, {
+    "type" : "clock",
+    "count" : 9
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 7
+  }, {
+    "type" : "terrace",
+    "count" : 7
+  }, {
+    "type" : "no",
+    "count" : 7
+  }, {
+    "type" : "college",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 6
+  }, {
+    "type" : "theatre",
+    "count" : 6
+  }, {
+    "type" : "cinema",
+    "count" : 6
+  }, {
+    "type" : "charging_station",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "casino",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "block",
+    "count" : 3
+  }, {
+    "type" : "grit_bin",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "lifeboat",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "multiple",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "boat",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "stripclub",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "waste_disposal",
+    "count" : 2
+  }, {
+    "type" : "brothel",
+    "count" : 2
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "piano",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "ship",
+    "count" : 1
+  }, {
+    "type" : "archives",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "employment_agency",
+    "count" : 1
+  }, {
+    "type" : "water_point",
+    "count" : 1
+  }, {
+    "type" : "conservatory",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "temporary_toilet_site",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "fixme",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "art_gallery",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Seven Dials",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "historic" : "clock",
+      "display" : "sundial",
+      "name" : "Seven Dials",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Seven Dials, London",
+      "start_date" : "1989"
+    }
+  }, {
+    "name" : "Covent Garden",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Covent Garden",
+      "place" : "suburb",
+      "wikipedia" : "en:Covent Garden"
+    }
+  }, {
+    "name" : "St Clement Danes",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "fixme" : "This is not a suburb, but a former (histroric) parish. Delete?",
+      "name" : "St Clement Danes",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:St Clement Danes (parish)"
+    }
+  }, {
+    "name" : "Temple",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Temple",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "St Giles",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "St Giles",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:St Giles, London"
+    }
+  }, {
+    "name" : "Bloomsbury",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Блумсбери",
+      "is_in" : "Camden, London",
+      "name" : "Bloomsbury",
+      "place" : "suburb",
+      "wikipedia" : "en:Bloomsbury"
+    }
+  }, {
+    "name" : "Gray's Inn",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Gray's Inn",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Holborn",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Holborn",
+      "place" : "suburb",
+      "wikipedia" : "en:Holborn"
+    }
+  }, {
+    "name" : "Gray's Inn",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Gray's Inn",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Gray's Inn"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1300941,
+    "totalVolume" : 22505484,
+    "count" : 3930,
+    "maxHeight" : 117.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 104
+  }, {
+    "type" : "tertiary",
+    "count" : 34
+  }, {
+    "type" : "residential",
+    "count" : 151
+  }, {
+    "type" : "service",
+    "count" : 304
+  }, {
+    "type" : "path",
+    "count" : 17
+  }, {
+    "type" : "pedestrian",
+    "count" : 156
+  }, {
+    "type" : "primary",
+    "count" : 410
+  }, {
+    "type" : "subway",
+    "count" : 35
+  }, {
+    "type" : "living_street",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 55
+  }, {
+    "type" : "steps",
+    "count" : 197
+  }, {
+    "type" : "rail",
+    "count" : 3
+  }, {
+    "type" : "unclassified",
+    "count" : 308
+  }, {
+    "type" : "disused",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 1272
+  }, {
+    "type" : "primary_link",
+    "count" : 6
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2,
+    "max" : 47,
+    "diff50m" : 27
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.71135855
+  }, {
+    "type" : "park",
+    "area" : 0.08533193
+  }, {
+    "type" : "wood",
+    "area" : 0.04971577
+  }, {
+    "type" : "cemetery",
+    "area" : 0.032929454
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.031692915
+  }, {
+    "type" : "retail",
+    "area" : 0.031162795
+  }, {
+    "type" : "yes",
+    "area" : 0.023797387
+  }, {
+    "type" : "grass",
+    "area" : 0.021130247
+  }, {
+    "type" : "industrial",
+    "area" : 0.019970292
+  }, {
+    "type" : "commercial",
+    "area" : 0.010731205
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2184
+  }, {
+    "type" : "apartments",
+    "count" : 1287
+  }, {
+    "type" : "vending_machine",
+    "count" : 244
+  }, {
+    "type" : "restaurant",
+    "count" : 198
+  }, {
+    "type" : "bench",
+    "count" : 187
+  }, {
+    "type" : "waste_basket",
+    "count" : 124
+  }, {
+    "type" : "cafe",
+    "count" : 94
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 92
+  }, {
+    "type" : "bar",
+    "count" : 66
+  }, {
+    "type" : "office",
+    "count" : 63
+  }, {
+    "type" : "fast_food",
+    "count" : 45
+  }, {
+    "type" : "retail",
+    "count" : 43
+  }, {
+    "type" : "post_box",
+    "count" : 33
+  }, {
+    "type" : "hospital",
+    "count" : 31
+  }, {
+    "type" : "fountain",
+    "count" : 30
+  }, {
+    "type" : "residential",
+    "count" : 27
+  }, {
+    "type" : "pub",
+    "count" : 27
+  }, {
+    "type" : "telephone",
+    "count" : 27
+  }, {
+    "type" : "kiosk",
+    "count" : 25
+  }, {
+    "type" : "doctors",
+    "count" : 24
+  }, {
+    "type" : "kindergarten",
+    "count" : 21
+  }, {
+    "type" : "atm",
+    "count" : 21
+  }, {
+    "type" : "charging_station",
+    "count" : 21
+  }, {
+    "type" : "pharmacy",
+    "count" : 20
+  }, {
+    "type" : "house",
+    "count" : 15
+  }, {
+    "type" : "garage",
+    "count" : 15
+  }, {
+    "type" : "school",
+    "count" : 15
+  }, {
+    "type" : "church",
+    "count" : 14
+  }, {
+    "type" : "university",
+    "count" : 14
+  }, {
+    "type" : "parking",
+    "count" : 14
+  }, {
+    "type" : "commercial",
+    "count" : 13
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "bank",
+    "count" : 12
+  }, {
+    "type" : "ice_cream",
+    "count" : 12
+  }, {
+    "type" : "grit_bin",
+    "count" : 11
+  }, {
+    "type" : "parking_entrance",
+    "count" : 11
+  }, {
+    "type" : "taxi",
+    "count" : 11
+  }, {
+    "type" : "shed",
+    "count" : 11
+  }, {
+    "type" : "recycling",
+    "count" : 11
+  }, {
+    "type" : "hotel",
+    "count" : 10
+  }, {
+    "type" : "greenhouse",
+    "count" : 9
+  }, {
+    "type" : "dentist",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 9
+  }, {
+    "type" : "garages",
+    "count" : 8
+  }, {
+    "type" : "social_facility",
+    "count" : 8
+  }, {
+    "type" : "community_centre",
+    "count" : 7
+  }, {
+    "type" : "dormitory",
+    "count" : 7
+  }, {
+    "type" : "cinema",
+    "count" : 7
+  }, {
+    "type" : "arts_centre",
+    "count" : 7
+  }, {
+    "type" : "bridge",
+    "count" : 7
+  }, {
+    "type" : "service",
+    "count" : 6
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 6
+  }, {
+    "type" : "theatre",
+    "count" : 6
+  }, {
+    "type" : "library",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "car_sharing",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "parcel_locker",
+    "count" : 3
+  }, {
+    "type" : "elevator",
+    "count" : 3
+  }, {
+    "type" : "terrace",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "tailor",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "cooking_school",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "collapsed",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "monastery",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Glockenbach",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Glockenbach",
+      "place" : "quarter",
+      "wikipedia" : "de:Glockenbachviertel"
+    }
+  }, {
+    "name" : "Am Alten Südlichen Friedhof",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Am Alten Südlichen Friedhof",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Isarvorstadt",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Isarvorstadt",
+      "place" : "suburb",
+      "wikipedia" : "de:Ludwigsvorstadt-Isarvorstadt"
+    }
+  }, {
+    "name" : "Klinikviertel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Klinikviertel",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Angerviertel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Angerviertel",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Hackenviertel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Hackenviertel",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Gärtnerplatz",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Gärtnerplatz",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1067990,
+    "totalVolume" : 17173003,
+    "count" : 2995,
+    "maxHeight" : 91.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 49
+  }, {
+    "type" : "tertiary",
+    "count" : 16
+  }, {
+    "type" : "residential",
+    "count" : 280
+  }, {
+    "type" : "service",
+    "count" : 339
+  }, {
+    "type" : "path",
+    "count" : 122
+  }, {
+    "type" : "pedestrian",
+    "count" : 82
+  }, {
+    "type" : "subway",
+    "count" : 23
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 132
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 139
+  }, {
+    "type" : "tram",
+    "count" : 25
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 967
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 503,
+    "max" : 535,
+    "diff50m" : 11
+  }
+}

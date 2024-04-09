@@ -1,0 +1,358 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.23132016
+  }, {
+    "type" : "residential",
+    "area" : 0.13688634
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.098301224
+  }, {
+    "type" : "grass",
+    "area" : 0.040819194
+  }, {
+    "type" : "wood",
+    "area" : 0.037628986
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.020387912
+  }, {
+    "type" : "parking",
+    "area" : 0.016083347
+  }, {
+    "type" : "pitch",
+    "area" : 0.011039748
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2758
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 153
+  }, {
+    "type" : "apartments",
+    "count" : 152
+  }, {
+    "type" : "bench",
+    "count" : 102
+  }, {
+    "type" : "restaurant",
+    "count" : 94
+  }, {
+    "type" : "waste_basket",
+    "count" : 46
+  }, {
+    "type" : "school",
+    "count" : 41
+  }, {
+    "type" : "drinking_water",
+    "count" : 39
+  }, {
+    "type" : "fast_food",
+    "count" : 36
+  }, {
+    "type" : "post_box",
+    "count" : 34
+  }, {
+    "type" : "cafe",
+    "count" : 29
+  }, {
+    "type" : "parking_entrance",
+    "count" : 19
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 18
+  }, {
+    "type" : "pharmacy",
+    "count" : 16
+  }, {
+    "type" : "church",
+    "count" : 15
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "bar",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 8
+  }, {
+    "type" : "recycling",
+    "count" : 8
+  }, {
+    "type" : "clinic",
+    "count" : 8
+  }, {
+    "type" : "industrial",
+    "count" : 8
+  }, {
+    "type" : "hospital",
+    "count" : 7
+  }, {
+    "type" : "fountain",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "place_of_worship",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "animal_boarding",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "vending_machine",
+    "count" : 3
+  }, {
+    "type" : "dojo",
+    "count" : 3
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "mosque",
+    "count" : 2
+  }, {
+    "type" : "mansion",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "bbq",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "synagogue",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "ranger_station",
+    "count" : 1
+  }, {
+    "type" : "subway_entrance",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Carnegie Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Каренги-Хилл",
+      "name" : "Carnegie Hill",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "East Harlem",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Ист-Гарлем",
+      "gnis:ST_num" : "36",
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:id" : "2083753",
+      "gnis:Class" : "Populated Place",
+      "name" : "East Harlem",
+      "gnis:County_num" : "061",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "5",
+      "gnis:County" : "New York"
+    }
+  }, {
+    "name" : "Manhattan",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 1694251,
+    "tags" : {
+      "name:vi" : "Manhattan",
+      "name:uk" : "Мангеттен",
+      "name:fa" : "منهتن",
+      "alt_name:ru" : "Манхаттан",
+      "name:sr" : "Менхетн",
+      "name:he" : "מנהטן",
+      "population" : "1694251",
+      "gnis:county_id" : "061",
+      "name:ru" : "Манхэттен",
+      "gnis:created" : "05/07/2008",
+      "int_name" : "Manhattan",
+      "gnis:edited" : "07/22/2008",
+      "name:lt" : "Manhatanas",
+      "name:sr-Latn" : "Menhetn",
+      "name" : "Manhattan",
+      "gnis:state_id" : "36",
+      "gnis:feature_id" : "2432105",
+      "place" : "suburb",
+      "wikipedia" : "en:Manhattan",
+      "alt_name:vi" : "Mã Nhật Tân",
+      "name:zh-Hans" : "曼哈顿",
+      "name:zh-Hant" : "曼哈頓",
+      "ele" : "26"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 916151,
+    "totalVolume" : 28049706,
+    "count" : 2349,
+    "maxHeight" : 200.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 8
+  }, {
+    "type" : "tertiary",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 106
+  }, {
+    "type" : "service",
+    "count" : 217
+  }, {
+    "type" : "path",
+    "count" : 6
+  }, {
+    "type" : "motorway",
+    "count" : 11
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 83
+  }, {
+    "type" : "subway",
+    "count" : 15
+  }, {
+    "type" : "motorway_link",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 70
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "bridleway",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 57
+  }, {
+    "type" : "rail",
+    "count" : 35
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 2136
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -4,
+    "max" : 88,
+    "diff50m" : 41
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.09504394
+  }, {
+    "type" : "construction",
+    "area" : 0.049790636
+  }, {
+    "type" : "park",
+    "area" : 0.016812813
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 417
+  }, {
+    "type" : "apartments",
+    "count" : 116
+  }, {
+    "type" : "restaurant",
+    "count" : 10
+  }, {
+    "type" : "hospital",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "cafe",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "红土店社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "红土店社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "黑窑厂社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "黑窑厂社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "陶然亭街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "陶然亭街道",
+      "name:en" : "Taoranting",
+      "place" : "suburb",
+      "name:zh" : "陶然亭街道",
+      "division_code" : "110102016000"
+    }
+  }, {
+    "name" : "壹瓶社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "壹瓶社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "新兴里社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "新兴里社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "大吉巷社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "大吉巷社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "米市社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "米市社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "粉房琉璃街社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "粉房琉璃街社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "南华里社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "南华里社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "福州馆社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "福州馆社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "椿树街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "椿树街道",
+      "name:en" : "Chunshu",
+      "place" : "suburb",
+      "name:zh" : "椿树街道",
+      "division_code" : "110102015000"
+    }
+  }, {
+    "name" : "大栅栏街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "大栅栏街道",
+      "name:en" : "Dashilan",
+      "place" : "suburb",
+      "name:zh" : "大栅栏街道",
+      "division_code" : "110102013000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 489821,
+    "totalVolume" : 8777198,
+    "count" : 479,
+    "maxHeight" : 40.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 4
+  }, {
+    "type" : "tertiary",
+    "count" : 65
+  }, {
+    "type" : "tertiary_link",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 99
+  }, {
+    "type" : "service",
+    "count" : 117
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 26
+  }, {
+    "type" : "subway",
+    "count" : 7
+  }, {
+    "type" : "secondary",
+    "count" : 8
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 7
+  }, {
+    "type" : "footway",
+    "count" : 52
+  }, {
+    "type" : "primary_link",
+    "count" : 20
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 33,
+    "max" : 72,
+    "diff50m" : 14
+  }
+}

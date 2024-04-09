@@ -1,0 +1,262 @@
+{
+  "landusages" : [ {
+    "type" : "wood",
+    "area" : 0.28300983
+  }, {
+    "type" : "nature_reserve",
+    "area" : 0.26515657
+  }, {
+    "type" : "residential",
+    "area" : 0.20573589
+  }, {
+    "type" : "commercial",
+    "area" : 0.12856607
+  }, {
+    "type" : "park",
+    "area" : 0.081783675
+  }, {
+    "type" : "parking",
+    "area" : 0.05143463
+  }, {
+    "type" : "retail",
+    "area" : 0.017932035
+  }, {
+    "type" : "pitch",
+    "area" : 0.017663104
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.0140177375
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.012934416
+  }, {
+    "type" : "scrub",
+    "area" : 0.010486325
+  } ],
+  "amenities" : [ {
+    "type" : "detached",
+    "count" : 953
+  }, {
+    "type" : "road",
+    "count" : 710
+  }, {
+    "type" : "shed",
+    "count" : 107
+  }, {
+    "type" : "apartments",
+    "count" : 22
+  }, {
+    "type" : "house",
+    "count" : 19
+  }, {
+    "type" : "office",
+    "count" : 16
+  }, {
+    "type" : "residential",
+    "count" : 13
+  }, {
+    "type" : "bench",
+    "count" : 12
+  }, {
+    "type" : "waste_basket",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "table",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "vending_machine",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "restaurant",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "bbq",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Riverdale Heights",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597962",
+      "name" : "Riverdale Heights",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "28",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Riverdale Hills",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597963",
+      "name" : "Riverdale Hills",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "33",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "East Pines",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597368",
+      "name" : "East Pines",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "42",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Riverdale Gardens",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597961",
+      "name" : "Riverdale Gardens",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "22",
+      "gnis:County" : "Prince George's"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 284469,
+    "totalVolume" : 2589585,
+    "count" : 1942,
+    "maxHeight" : 16.7
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 17
+  }, {
+    "type" : "tertiary",
+    "count" : 26
+  }, {
+    "type" : "residential",
+    "count" : 90
+  }, {
+    "type" : "service",
+    "count" : 288
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 53
+  }, {
+    "type" : "track",
+    "count" : 9
+  }, {
+    "type" : "motorway_link",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 25
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 162
+  }, {
+    "type" : "primary_link",
+    "count" : 7
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 4,
+    "max" : 64,
+    "diff50m" : 10
+  }
+}

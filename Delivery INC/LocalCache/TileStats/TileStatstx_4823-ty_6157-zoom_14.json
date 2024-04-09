@@ -1,0 +1,236 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.7201012
+  }, {
+    "type" : "park",
+    "area" : 0.02708927
+  }, {
+    "type" : "yes",
+    "area" : 0.02615075
+  }, {
+    "type" : "marina",
+    "area" : 0.019585203
+  }, {
+    "type" : "residential",
+    "area" : 0.011890665
+  }, {
+    "type" : "parking",
+    "area" : 0.010161655
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 820
+  }, {
+    "type" : "bench",
+    "count" : 75
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 40
+  }, {
+    "type" : "apartments",
+    "count" : 18
+  }, {
+    "type" : "drinking_water",
+    "count" : 10
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "restaurant",
+    "count" : 8
+  }, {
+    "type" : "cafe",
+    "count" : 5
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "waste_disposal",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "data_center",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "boat_rental",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "ship",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "ventilation_shaft",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "boathouse",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "rest",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Lincoln Harbor",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Lincoln Harbor",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 589090,
+    "totalVolume" : 13212159,
+    "count" : 400,
+    "maxHeight" : 211.8
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 6
+  }, {
+    "type" : "tertiary",
+    "count" : 15
+  }, {
+    "type" : "light_rail",
+    "count" : 4
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 42
+  }, {
+    "type" : "service",
+    "count" : 84
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "motorway",
+    "count" : 10
+  }, {
+    "type" : "trunk",
+    "count" : 31
+  }, {
+    "type" : "pedestrian",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 14
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "motorway_link",
+    "count" : 7
+  }, {
+    "type" : "secondary",
+    "count" : 23
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 21
+  }, {
+    "type" : "rail",
+    "count" : 33
+  }, {
+    "type" : "unclassified",
+    "count" : 16
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 498
+  }, {
+    "type" : "trunk_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 29,
+    "diff50m" : 13
+  }
+}

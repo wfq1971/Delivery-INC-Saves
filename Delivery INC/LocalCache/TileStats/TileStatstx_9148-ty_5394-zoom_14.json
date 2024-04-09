@@ -1,0 +1,626 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.23545061
+  }, {
+    "type" : "residential",
+    "area" : 0.18101986
+  }, {
+    "type" : "park",
+    "area" : 0.11499943
+  }, {
+    "type" : "grass",
+    "area" : 0.09289653
+  }, {
+    "type" : "parking",
+    "area" : 0.04469967
+  }, {
+    "type" : "religious",
+    "area" : 0.027183298
+  }, {
+    "type" : "construction",
+    "area" : 0.02468624
+  }, {
+    "type" : "retail",
+    "area" : 0.023385612
+  }, {
+    "type" : "education",
+    "area" : 0.02015296
+  }, {
+    "type" : "garden",
+    "area" : 0.01834961
+  }, {
+    "type" : "yes",
+    "area" : 0.012352628
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3814
+  }, {
+    "type" : "bench",
+    "count" : 610
+  }, {
+    "type" : "apartments",
+    "count" : 427
+  }, {
+    "type" : "vending_machine",
+    "count" : 306
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 196
+  }, {
+    "type" : "restaurant",
+    "count" : 159
+  }, {
+    "type" : "waste_basket",
+    "count" : 159
+  }, {
+    "type" : "office",
+    "count" : 123
+  }, {
+    "type" : "fast_food",
+    "count" : 78
+  }, {
+    "type" : "cafe",
+    "count" : 78
+  }, {
+    "type" : "bar",
+    "count" : 77
+  }, {
+    "type" : "atm",
+    "count" : 74
+  }, {
+    "type" : "outbuilding",
+    "count" : 72
+  }, {
+    "type" : "retail",
+    "count" : 52
+  }, {
+    "type" : "commercial",
+    "count" : 38
+  }, {
+    "type" : "university",
+    "count" : 30
+  }, {
+    "type" : "garage",
+    "count" : 30
+  }, {
+    "type" : "service",
+    "count" : 25
+  }, {
+    "type" : "nightclub",
+    "count" : 24
+  }, {
+    "type" : "transportation",
+    "count" : 23
+  }, {
+    "type" : "parking_entrance",
+    "count" : 23
+  }, {
+    "type" : "government",
+    "count" : 23
+  }, {
+    "type" : "bank",
+    "count" : 22
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 21
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "toilets",
+    "count" : 19
+  }, {
+    "type" : "pub",
+    "count" : 19
+  }, {
+    "type" : "school",
+    "count" : 16
+  }, {
+    "type" : "pharmacy",
+    "count" : 14
+  }, {
+    "type" : "doctors",
+    "count" : 14
+  }, {
+    "type" : "language_school",
+    "count" : 14
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 13
+  }, {
+    "type" : "public",
+    "count" : 12
+  }, {
+    "type" : "dentist",
+    "count" : 12
+  }, {
+    "type" : "parcel_locker",
+    "count" : 11
+  }, {
+    "type" : "hotel",
+    "count" : 11
+  }, {
+    "type" : "kiosk",
+    "count" : 11
+  }, {
+    "type" : "arts_centre",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 10
+  }, {
+    "type" : "post_box",
+    "count" : 10
+  }, {
+    "type" : "garages",
+    "count" : 9
+  }, {
+    "type" : "ice_cream",
+    "count" : 9
+  }, {
+    "type" : "theatre",
+    "count" : 9
+  }, {
+    "type" : "library",
+    "count" : 7
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "place_of_worship",
+    "count" : 6
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "fountain",
+    "count" : 6
+  }, {
+    "type" : "ruins",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "cinema",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "grit_bin",
+    "count" : 5
+  }, {
+    "type" : "payment_terminal",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "training",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 4
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "casino",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "guardhouse",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "research_institute",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "convent",
+    "count" : 2
+  }, {
+    "type" : "religious",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "garbage_shed",
+    "count" : 2
+  }, {
+    "type" : "monastery",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "hall",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "stock_exchange",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "skyway",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "security",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "container",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 1
+  }, {
+    "type" : "elevator_housing",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Centrum",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Zentrum",
+      "name:genitive" : "Centrum",
+      "name" : "Centrum",
+      "name:pl" : "Centrum",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Śródmieście Północne",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Śródmieście Północne",
+      "place" : "quarter",
+      "wikipedia" : "pl:Śródmieście Północne"
+    }
+  }, {
+    "name" : "Warszawa",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 1792718,
+    "tags" : {
+      "name:bs" : "Varšava",
+      "name:sk" : "Varšava",
+      "name:nan" : "Warszawa",
+      "name:sh" : "Varšava",
+      "name:scn" : "Varsavia",
+      "name:ka" : "ვარშავა",
+      "name:nap" : "Varsavia",
+      "name:sl" : "Varšava",
+      "name:xmf" : "ვარშავა",
+      "name:sr" : "Варшава",
+      "name:kk" : "Варшава",
+      "name:pms" : "Varsavia",
+      "name:ca" : "Varsòvia",
+      "name:sq" : "Varshava",
+      "name:nah" : "Varsovia",
+      "name:kn" : "ವಾರ್ಸಾ",
+      "name:sv" : "Warszawa",
+      "name:ko" : "바르샤바",
+      "name:sw" : "Warshawa",
+      "name:kl" : "Warszawa",
+      "name:st" : "Warsaw",
+      "name:kv" : "Варшава",
+      "rank" : "10",
+      "name:kw" : "Warszawa",
+      "name:sco" : "Warsaw",
+      "name:ku" : "Warşova",
+      "name:frp" : "Varsovie",
+      "name:pnb" : "وارسا",
+      "name:cs" : "Varšava",
+      "name:tet" : "Varsóvia",
+      "name:ta" : "வார்சா",
+      "name:ky" : "Варшава",
+      "name:ar" : "وارسو",
+      "name:ckb" : "وارساو",
+      "name:ja" : "ワルシャワ",
+      "name:rm" : "Varsovia",
+      "name:zu" : "IWarshawa",
+      "name:pdc" : "Woarschau",
+      "name:az" : "Varşava",
+      "name:csb" : "Warszawa",
+      "name:ba" : "Варшава",
+      "name:ro" : "Varșovia",
+      "population" : "1792718",
+      "name:be" : "Варшава",
+      "name:ru" : "Варшава",
+      "name:bi" : "Warsaw",
+      "teryt:stan_na" : "2009-01-01",
+      "name:bg" : "Варшава",
+      "name:lmo" : "Varsavia",
+      "name:bn" : "ওয়ার্সা",
+      "name:jv" : "Warsawa",
+      "name:be-tarask" : "Варшава",
+      "name:br" : "Varsovia",
+      "name:sc" : "Varsavia",
+      "teryt:rm" : "96",
+      "name:bo" : "ཝར་སོ།",
+      "name:ug" : "Warshawa",
+      "name:uk" : "Варшава",
+      "name:mi" : "Pakangakite",
+      "name:arc" : "ܘܐܪܣܘ",
+      "name:mg" : "Varsôvia",
+      "name:ml" : "വാഴ്സ",
+      "name:ee" : "Warsaw",
+      "name:ur" : "وارسا",
+      "name:mk" : "Варшава",
+      "name:mn" : "Варшав",
+      "name:arz" : "وارسو",
+      "name:el" : "Βαρσοβία",
+      "name:mt" : "Varsavja",
+      "name:mr" : "वर्झावा",
+      "name:uz" : "Varshava",
+      "name:ms" : "Warsaw",
+      "name:tpi" : "Woso",
+      "name:my" : "ဝါဆောမြို့",
+      "name:en" : "Warsaw",
+      "place" : "city",
+      "name:eo" : "Varsovio",
+      "wikipedia" : "pl:Warszawa",
+      "name:et" : "Varssavi",
+      "name:eu" : "Varsovia",
+      "name:es" : "Varsovia",
+      "name:mrj" : "Варшава",
+      "name:cv" : "Варшава",
+      "name:tg" : "Варшава",
+      "name:th" : "วอร์ซอ",
+      "name:jbo" : "varcavas",
+      "website" : "http://www.um.warszawa.pl",
+      "name:cu" : "Варшава",
+      "name:tk" : "Warşawa",
+      "name:tl" : "Warsaw",
+      "name:la" : "Varsovia",
+      "name:cy" : "Warsaw",
+      "name:lb" : "Warschau",
+      "name:tt" : "Варшава",
+      "name:vro" : "Varssavi",
+      "name:da" : "Warszawa",
+      "name:tr" : "Varşova",
+      "name:de" : "Warschau",
+      "name:ln" : "Warsaw",
+      "name:lt" : "Varšuva",
+      "name:lv" : "Varšava",
+      "name:fy" : "Warsjau",
+      "name:oc" : "Varsòvia",
+      "capital" : "yes",
+      "name:wo" : "Warsaw",
+      "name:pih" : "Worsaaw",
+      "name:ga" : "Vársá",
+      "name:vec" : "Varsavia",
+      "name:gd" : "Warsaw",
+      "name:os" : "Варшавæ",
+      "teryt:simc" : "0918123",
+      "name:gl" : "Varsovia",
+      "admin_level" : "2",
+      "teryt:updated_by" : "teryt2osm combine.py v. 49",
+      "teryt:terc" : "1465011",
+      "name:pap" : "Varsovia",
+      "name:vep" : "Varšav",
+      "name:gv" : "Warszawa",
+      "ele" : "100",
+      "name:na" : "Warsaw",
+      "name:vi" : "Warszawa",
+      "name:nds" : "Warschau",
+      "name:fa" : "ورشو",
+      "name:nn" : "Warszawa",
+      "name:nl" : "Warschau",
+      "name:fi" : "Varsova",
+      "name:no" : "Warszawa",
+      "alt_name" : "m.st. Warszawa",
+      "multi_postcode_place" : "yes",
+      "name:diq" : "Warşowa",
+      "name:roa-rup" : "Varshava",
+      "name:lij" : "Varsavvia",
+      "name" : "Warszawa",
+      "name:fr" : "Varsovie",
+      "name:fo" : "Warszawa",
+      "name:ast" : "Varsovia",
+      "name:ace" : "Warsawa",
+      "name:hif" : "Warsaw",
+      "name:bat-smg" : "Varšova",
+      "official_name" : "miasto stołeczne Warszawa",
+      "name:hy" : "Վարշավա",
+      "name:sah" : "Варшава",
+      "name:crh" : "Varşava",
+      "name:krc" : "Варшава",
+      "name:ia" : "Varsovia",
+      "name:yo" : "Warsaw",
+      "name:id" : "Warsawa",
+      "name:ie" : "Warszawa",
+      "name:nov" : "Varsava",
+      "name:war" : "Warsovya",
+      "name:qu" : "Warszawa",
+      "name:ab" : "Варшава",
+      "name:af" : "Warskou",
+      "name:io" : "Warszawa",
+      "name:it" : "Varsavia",
+      "name:am" : "ዋርሶው",
+      "name:ak" : "Warsaw",
+      "name:is" : "Varsjá",
+      "name:an" : "Varsovia",
+      "name:zh" : "華沙",
+      "name:szl" : "Warszawa",
+      "name:hsb" : "Waršawa",
+      "name:pa" : "ਵਾਰਸਾ",
+      "name:udm" : "Варшава",
+      "name:pl" : "Warszawa",
+      "name:dsb" : "Waršawa",
+      "name:he" : "ורשה",
+      "name:pt" : "Varsóvia",
+      "name:hi" : "वारसॉ",
+      "name:yue" : "華沙",
+      "name:gag" : "Varşava",
+      "name:ht" : "Vasovi",
+      "population:date" : "2021",
+      "name:hr" : "Varšava",
+      "name:zh-Hans" : "华沙",
+      "name:yi" : "ווארשע",
+      "name:zh-Hant" : "華沙",
+      "name:hu" : "Varsó"
+    }
+  }, {
+    "name" : "Śródmieście",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 101979,
+    "tags" : {
+      "name:ru" : "Средместье",
+      "name:de" : "Stadtmitte",
+      "teryt:simc" : "0919810",
+      "name" : "Śródmieście",
+      "name:pl" : "Śródmieście",
+      "population:date" : "2022-01-01",
+      "place" : "suburb",
+      "population" : "101979"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 675783,
+    "totalVolume" : 15632155,
+    "count" : 1324,
+    "maxHeight" : 116.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 97
+  }, {
+    "type" : "tertiary",
+    "count" : 146
+  }, {
+    "type" : "tertiary_link",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 224
+  }, {
+    "type" : "service",
+    "count" : 634
+  }, {
+    "type" : "path",
+    "count" : 28
+  }, {
+    "type" : "pedestrian",
+    "count" : 11
+  }, {
+    "type" : "subway",
+    "count" : 9
+  }, {
+    "type" : "living_street",
+    "count" : 18
+  }, {
+    "type" : "secondary",
+    "count" : 69
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 275
+  }, {
+    "type" : "tram",
+    "count" : 7
+  }, {
+    "type" : "rail",
+    "count" : 18
+  }, {
+    "type" : "unclassified",
+    "count" : 5
+  }, {
+    "type" : "disused",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 2261
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 84,
+    "max" : 145,
+    "diff50m" : 16
+  }
+}

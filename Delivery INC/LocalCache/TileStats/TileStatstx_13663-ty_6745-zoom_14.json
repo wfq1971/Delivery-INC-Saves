@@ -1,0 +1,196 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.2893593
+  }, {
+    "type" : "residential",
+    "area" : 0.12970205
+  }, {
+    "type" : "construction",
+    "area" : 0.08728218
+  }, {
+    "type" : "grass",
+    "area" : 0.031425897
+  }, {
+    "type" : "wood",
+    "area" : 0.011581638
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 268
+  }, {
+    "type" : "parking_space",
+    "count" : 165
+  }, {
+    "type" : "apartments",
+    "count" : 88
+  }, {
+    "type" : "public_building",
+    "count" : 69
+  }, {
+    "type" : "atm",
+    "count" : 19
+  }, {
+    "type" : "clinic",
+    "count" : 18
+  }, {
+    "type" : "transportation",
+    "count" : 17
+  }, {
+    "type" : "training",
+    "count" : 15
+  }, {
+    "type" : "fast_food",
+    "count" : 15
+  }, {
+    "type" : "restaurant",
+    "count" : 13
+  }, {
+    "type" : "marketplace",
+    "count" : 12
+  }, {
+    "type" : "school",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 10
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 7
+  }, {
+    "type" : "bank",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "social_facility",
+    "count" : 6
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "food_court",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "钱塘社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "钱塘社区",
+      "description" : "上城区四季青街道钱塘社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "三堡社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "三堡社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "钱景社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "钱景社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "运新社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "运新社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "钱运社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "钱运社区",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 251348,
+    "totalVolume" : 11869362,
+    "count" : 286,
+    "maxHeight" : 230.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 24
+  }, {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "service",
+    "count" : 29
+  }, {
+    "type" : "path",
+    "count" : 7
+  }, {
+    "type" : "motorway",
+    "count" : 4
+  }, {
+    "type" : "primary",
+    "count" : 20
+  }, {
+    "type" : "subway",
+    "count" : 16
+  }, {
+    "type" : "secondary",
+    "count" : 83
+  }, {
+    "type" : "steps",
+    "count" : 7
+  }, {
+    "type" : "rail",
+    "count" : 12
+  }, {
+    "type" : "unclassified",
+    "count" : 22
+  }, {
+    "type" : "footway",
+    "count" : 13
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "elevation" : {
+    "min" : -2,
+    "max" : 36,
+    "diff50m" : 27
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

@@ -1,0 +1,159 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.8795643
+  }, {
+    "type" : "peninsula",
+    "area" : 0.12218855
+  }, {
+    "type" : "park",
+    "area" : 0.022908214
+  }, {
+    "type" : "harbour",
+    "area" : 0.022236777
+  }, {
+    "type" : "railway",
+    "area" : 0.011946108
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 140
+  }, {
+    "type" : "commercial",
+    "count" : 18
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "restaurant",
+    "count" : 7
+  }, {
+    "type" : "apartments",
+    "count" : 7
+  }, {
+    "type" : "bench",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "mosque",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "waste_basket",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Kılıçali Paşa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "كيليتشالي باشا",
+      "name" : "Kılıçali Paşa",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 105254,
+    "totalVolume" : 1379051,
+    "count" : 262,
+    "maxHeight" : 32.0
+  },
+  "roads" : [ {
+    "type" : "residential",
+    "count" : 17
+  }, {
+    "type" : "service",
+    "count" : 15
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 16
+  }, {
+    "type" : "living_street",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 8
+  }, {
+    "type" : "tram",
+    "count" : 2
+  }, {
+    "type" : "rail",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 66
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 0,
+    "max" : 68,
+    "diff50m" : 21
+  }
+}

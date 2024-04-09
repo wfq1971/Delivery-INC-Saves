@@ -1,0 +1,397 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.6910643
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.2908088
+  }, {
+    "type" : "industrial",
+    "area" : 0.10216931
+  }, {
+    "type" : "retail",
+    "area" : 0.03778702
+  }, {
+    "type" : "commercial",
+    "area" : 0.032691646
+  }, {
+    "type" : "park",
+    "area" : 0.02357662
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3094
+  }, {
+    "type" : "restaurant",
+    "count" : 281
+  }, {
+    "type" : "bench",
+    "count" : 238
+  }, {
+    "type" : "cafe",
+    "count" : 123
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 112
+  }, {
+    "type" : "waste_basket",
+    "count" : 83
+  }, {
+    "type" : "post_box",
+    "count" : 70
+  }, {
+    "type" : "vending_machine",
+    "count" : 70
+  }, {
+    "type" : "fast_food",
+    "count" : 64
+  }, {
+    "type" : "bank",
+    "count" : 58
+  }, {
+    "type" : "apartments",
+    "count" : 41
+  }, {
+    "type" : "atm",
+    "count" : 40
+  }, {
+    "type" : "bar",
+    "count" : 39
+  }, {
+    "type" : "parking_entrance",
+    "count" : 36
+  }, {
+    "type" : "commercial",
+    "count" : 34
+  }, {
+    "type" : "residential",
+    "count" : 32
+  }, {
+    "type" : "roof",
+    "count" : 31
+  }, {
+    "type" : "office",
+    "count" : 30
+  }, {
+    "type" : "pub",
+    "count" : 23
+  }, {
+    "type" : "toilets",
+    "count" : 20
+  }, {
+    "type" : "drinking_water",
+    "count" : 19
+  }, {
+    "type" : "parking",
+    "count" : 19
+  }, {
+    "type" : "retail",
+    "count" : 18
+  }, {
+    "type" : "taxi",
+    "count" : 18
+  }, {
+    "type" : "post_office",
+    "count" : 17
+  }, {
+    "type" : "school",
+    "count" : 11
+  }, {
+    "type" : "car_sharing",
+    "count" : 11
+  }, {
+    "type" : "pharmacy",
+    "count" : 10
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 9
+  }, {
+    "type" : "place_of_worship",
+    "count" : 7
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 7
+  }, {
+    "type" : "hotel",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "dentist",
+    "count" : 7
+  }, {
+    "type" : "nightclub",
+    "count" : 6
+  }, {
+    "type" : "transportation",
+    "count" : 6
+  }, {
+    "type" : "university",
+    "count" : 6
+  }, {
+    "type" : "recycling",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "coworking_space",
+    "count" : 4
+  }, {
+    "type" : "car_pooling",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "reception_desk",
+    "count" : 4
+  }, {
+    "type" : "social_centre",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "warehouse",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "data_center",
+    "count" : 2
+  }, {
+    "type" : "terminal",
+    "count" : 2
+  }, {
+    "type" : "studio",
+    "count" : 2
+  }, {
+    "type" : "mixed_use",
+    "count" : 2
+  }, {
+    "type" : "houseboat",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "event",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "grocery",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "spa",
+    "count" : 1
+  }, {
+    "type" : "popcorn",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Telegraph Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Telegraph Hill",
+      "place" : "neighbourhood",
+      "name:zh" : "电报山"
+    }
+  }, {
+    "name" : "Chinatown",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 9648,
+    "tags" : {
+      "name" : "Chinatown",
+      "population:date" : "2013",
+      "place" : "neighbourhood",
+      "ele" : "29",
+      "name:zh" : "中国城",
+      "population" : "9648"
+    }
+  }, {
+    "name" : "Financial District",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Financial District",
+      "place" : "neighbourhood",
+      "name:zh" : "金融区"
+    }
+  }, {
+    "name" : "North Beach",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "CA",
+      "is_in" : "San Francisco,California,Calif.,CA,USA",
+      "gnis:County_num" : "075",
+      "gnis:County" : "San Francisco",
+      "gnis:ST_num" : "06",
+      "gnis:id" : "1659245",
+      "gnis:Class" : "Populated Place",
+      "name" : "North Beach",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:North Beach, San Francisco",
+      "ele" : "5",
+      "name:zh" : "北滩区"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1563228,
+    "totalVolume" : 59715499,
+    "count" : 2952,
+    "maxHeight" : 326.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 14
+  }, {
+    "type" : "tertiary",
+    "count" : 216
+  }, {
+    "type" : "light_rail",
+    "count" : 35
+  }, {
+    "type" : "tertiary_link",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 102
+  }, {
+    "type" : "service",
+    "count" : 342
+  }, {
+    "type" : "path",
+    "count" : 22
+  }, {
+    "type" : "motorway",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 34
+  }, {
+    "type" : "primary",
+    "count" : 96
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 209
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 208
+  }, {
+    "type" : "tram",
+    "count" : 28
+  }, {
+    "type" : "unclassified",
+    "count" : 20
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 1740
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -27,
+    "max" : 115,
+    "diff50m" : 67
+  }
+}

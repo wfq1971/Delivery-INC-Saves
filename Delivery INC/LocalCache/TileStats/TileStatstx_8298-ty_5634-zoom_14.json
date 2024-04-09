@@ -1,0 +1,395 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0168663
+  }, {
+    "type" : "residential",
+    "area" : 0.9650957
+  }, {
+    "type" : "cemetery",
+    "area" : 0.0391787
+  }, {
+    "type" : "park",
+    "area" : 0.024896108
+  } ],
+  "amenities" : [ {
+    "type" : "apartments",
+    "count" : 1368
+  }, {
+    "type" : "road",
+    "count" : 1292
+  }, {
+    "type" : "restaurant",
+    "count" : 470
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 469
+  }, {
+    "type" : "bench",
+    "count" : 212
+  }, {
+    "type" : "bar",
+    "count" : 122
+  }, {
+    "type" : "parking_space",
+    "count" : 112
+  }, {
+    "type" : "cafe",
+    "count" : 97
+  }, {
+    "type" : "fast_food",
+    "count" : 88
+  }, {
+    "type" : "pharmacy",
+    "count" : 58
+  }, {
+    "type" : "post_box",
+    "count" : 40
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 39
+  }, {
+    "type" : "school",
+    "count" : 37
+  }, {
+    "type" : "bank",
+    "count" : 36
+  }, {
+    "type" : "toilets",
+    "count" : 31
+  }, {
+    "type" : "retail",
+    "count" : 28
+  }, {
+    "type" : "drinking_water",
+    "count" : 27
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 26
+  }, {
+    "type" : "hotel",
+    "count" : 25
+  }, {
+    "type" : "recycling",
+    "count" : 23
+  }, {
+    "type" : "theatre",
+    "count" : 23
+  }, {
+    "type" : "office",
+    "count" : 21
+  }, {
+    "type" : "pub",
+    "count" : 21
+  }, {
+    "type" : "waste_basket",
+    "count" : 19
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "roof",
+    "count" : 17
+  }, {
+    "type" : "vending_machine",
+    "count" : 17
+  }, {
+    "type" : "post_office",
+    "count" : 12
+  }, {
+    "type" : "doctors",
+    "count" : 11
+  }, {
+    "type" : "kindergarten",
+    "count" : 11
+  }, {
+    "type" : "transportation",
+    "count" : 9
+  }, {
+    "type" : "childcare",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 6
+  }, {
+    "type" : "stripclub",
+    "count" : 6
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "shed",
+    "count" : 4
+  }, {
+    "type" : "kiosk",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "photo_booth",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "garages",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "garage",
+    "count" : 3
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "semidetached_house",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "civic",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "money_transfer",
+    "count" : 2
+  }, {
+    "type" : "reuse",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "restaurant;theatre",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  }, {
+    "type" : "water_point",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "swingerclub",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "was:bar",
+    "count" : 1
+  }, {
+    "type" : "monastery",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Pigalle",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Pigalle",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Montmartre",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Montmartre",
+      "place" : "suburb",
+      "name:sr" : "Монмартр"
+    }
+  }, {
+    "name" : "Château Rouge",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "Château-Rouge",
+      "name" : "Château Rouge",
+      "place" : "neighbourhood",
+      "wikipedia" : "fr:Château Rouge (quartier de Paris)"
+    }
+  }, {
+    "name" : "Barbès",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Barbès",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "18e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "XVIII округ",
+      "alt_name" : "XVIIIe Arrondissement",
+      "name:ja" : "18区",
+      "name" : "18e Arrondissement",
+      "name:en" : "18th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:18e arrondissement de Paris",
+      "addr:postcode" : "75018"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1345521,
+    "totalVolume" : 27485534,
+    "count" : 5673,
+    "maxHeight" : 120.0
+  },
+  "roads" : [ {
+    "type" : "funicular",
+    "count" : 2
+  }, {
+    "type" : "cycleway",
+    "count" : 21
+  }, {
+    "type" : "tertiary",
+    "count" : 36
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 406
+  }, {
+    "type" : "service",
+    "count" : 113
+  }, {
+    "type" : "path",
+    "count" : 8
+  }, {
+    "type" : "pedestrian",
+    "count" : 72
+  }, {
+    "type" : "primary",
+    "count" : 55
+  }, {
+    "type" : "subway",
+    "count" : 22
+  }, {
+    "type" : "living_street",
+    "count" : 20
+  }, {
+    "type" : "secondary",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 173
+  }, {
+    "type" : "unclassified",
+    "count" : 19
+  }, {
+    "type" : "footway",
+    "count" : 333
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 53,
+    "max" : 136,
+    "diff50m" : 12
+  }
+}

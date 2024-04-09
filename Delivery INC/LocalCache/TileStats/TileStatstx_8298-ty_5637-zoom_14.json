@@ -1,0 +1,426 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0544955
+  }, {
+    "type" : "residential",
+    "area" : 1.0
+  }, {
+    "type" : "park",
+    "area" : 0.103630446
+  }, {
+    "type" : "grass",
+    "area" : 0.043848798
+  }, {
+    "type" : "garden",
+    "area" : 0.025100177
+  }, {
+    "type" : "education",
+    "area" : 0.019569172
+  }, {
+    "type" : "religious",
+    "area" : 0.016220627
+  }, {
+    "type" : "cemetery",
+    "area" : 0.014577587
+  }, {
+    "type" : "wood",
+    "area" : 0.014361027
+  }, {
+    "type" : "brownfield",
+    "area" : 0.012890341
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1374
+  }, {
+    "type" : "apartments",
+    "count" : 956
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 341
+  }, {
+    "type" : "bench",
+    "count" : 337
+  }, {
+    "type" : "restaurant",
+    "count" : 316
+  }, {
+    "type" : "waste_basket",
+    "count" : 144
+  }, {
+    "type" : "fast_food",
+    "count" : 131
+  }, {
+    "type" : "cafe",
+    "count" : 102
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 93
+  }, {
+    "type" : "recycling",
+    "count" : 53
+  }, {
+    "type" : "post_box",
+    "count" : 49
+  }, {
+    "type" : "school",
+    "count" : 46
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 34
+  }, {
+    "type" : "bank",
+    "count" : 33
+  }, {
+    "type" : "bar",
+    "count" : 33
+  }, {
+    "type" : "hospital",
+    "count" : 31
+  }, {
+    "type" : "university",
+    "count" : 31
+  }, {
+    "type" : "retail",
+    "count" : 28
+  }, {
+    "type" : "pub",
+    "count" : 28
+  }, {
+    "type" : "pharmacy",
+    "count" : 28
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "toilets",
+    "count" : 19
+  }, {
+    "type" : "parking_entrance",
+    "count" : 18
+  }, {
+    "type" : "college",
+    "count" : 18
+  }, {
+    "type" : "drinking_water",
+    "count" : 17
+  }, {
+    "type" : "church",
+    "count" : 15
+  }, {
+    "type" : "vending_machine",
+    "count" : 14
+  }, {
+    "type" : "doctors",
+    "count" : 14
+  }, {
+    "type" : "atm",
+    "count" : 13
+  }, {
+    "type" : "fountain",
+    "count" : 12
+  }, {
+    "type" : "clock",
+    "count" : 11
+  }, {
+    "type" : "cinema",
+    "count" : 11
+  }, {
+    "type" : "shed",
+    "count" : 10
+  }, {
+    "type" : "charging_station",
+    "count" : 10
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "hotel",
+    "count" : 9
+  }, {
+    "type" : "dentist",
+    "count" : 8
+  }, {
+    "type" : "social_facility",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 8
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "government",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "library",
+    "count" : 6
+  }, {
+    "type" : "service",
+    "count" : 6
+  }, {
+    "type" : "water_point",
+    "count" : 6
+  }, {
+    "type" : "waste_disposal",
+    "count" : 6
+  }, {
+    "type" : "arts_centre",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "greenhouse",
+    "count" : 5
+  }, {
+    "type" : "chapel",
+    "count" : 5
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "table",
+    "count" : 4
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "scooter_parking",
+    "count" : 3
+  }, {
+    "type" : "car_sharing",
+    "count" : 3
+  }, {
+    "type" : "driving_school",
+    "count" : 3
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "language_school",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "prep_school",
+    "count" : 3
+  }, {
+    "type" : "public_bookcase",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "social_centre",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "temple",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "studio",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "cafe;coworking_space",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "waste_transfer_station",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "art_school",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "historic",
+    "count" : 1
+  }, {
+    "type" : "bungalow",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "5e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "V округ",
+      "alt_name" : "Ve Arrondissement",
+      "name:ja" : "5区",
+      "name" : "5e Arrondissement",
+      "name:en" : "5th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:5e arrondissement de Paris",
+      "addr:postcode" : "75005"
+    }
+  }, {
+    "name" : "Quartier Latin",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Латинский квартал",
+      "name:de" : "Lateinisches Viertel",
+      "name" : "Quartier Latin",
+      "tourism" : "attraction",
+      "name:en" : "Latin Quarter",
+      "place" : "suburb",
+      "wikipedia" : "en:Latin Quarter, Paris",
+      "name:es" : "Barrio Latino"
+    }
+  }, {
+    "name" : "Faubourg Saint-Jacques",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Faubourg Saint-Jacques",
+      "place" : "suburb",
+      "wikipedia" : "fr:Faubourg Saint-Jacques"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1103359,
+    "totalVolume" : 20438666,
+    "count" : 3573,
+    "maxHeight" : 44.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 10
+  }, {
+    "type" : "tertiary",
+    "count" : 63
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 238
+  }, {
+    "type" : "service",
+    "count" : 214
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "road",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 42
+  }, {
+    "type" : "pedestrian",
+    "count" : 42
+  }, {
+    "type" : "subway",
+    "count" : 7
+  }, {
+    "type" : "living_street",
+    "count" : 26
+  }, {
+    "type" : "secondary",
+    "count" : 39
+  }, {
+    "type" : "steps",
+    "count" : 129
+  }, {
+    "type" : "rail",
+    "count" : 10
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 546
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 37,
+    "max" : 73,
+    "diff50m" : 8
+  }
+}

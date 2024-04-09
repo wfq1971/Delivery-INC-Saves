@@ -1,0 +1,168 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.6579212
+  }, {
+    "type" : "park",
+    "area" : 0.07087439
+  }, {
+    "type" : "residential",
+    "area" : 0.06348706
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 827
+  }, {
+    "type" : "garage",
+    "count" : 45
+  }, {
+    "type" : "bench",
+    "count" : 29
+  }, {
+    "type" : "house",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 18
+  }, {
+    "type" : "shed",
+    "count" : 17
+  }, {
+    "type" : "apartments",
+    "count" : 16
+  }, {
+    "type" : "drinking_water",
+    "count" : 11
+  }, {
+    "type" : "restaurant",
+    "count" : 7
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "waste_basket",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "cafe",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Guttenberg",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 10717,
+    "tags" : {
+      "gnis:ST_num" : "34",
+      "gnis:ST_alpha" : "NJ",
+      "gnis:id" : "876854",
+      "name" : "Guttenberg",
+      "gnis:County_num" : "017",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "town",
+      "wikipedia" : "en:Guttenberg, New Jersey",
+      "census:population" : "10717;2006",
+      "ele" : "61",
+      "population" : "10717",
+      "gnis:County" : "Hudson"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 306610,
+    "totalVolume" : 7386624,
+    "count" : 1077,
+    "maxHeight" : 176.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 13
+  }, {
+    "type" : "tertiary",
+    "count" : 23
+  }, {
+    "type" : "residential",
+    "count" : 87
+  }, {
+    "type" : "service",
+    "count" : 130
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 12
+  }, {
+    "type" : "primary",
+    "count" : 35
+  }, {
+    "type" : "motorway_link",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 14
+  }, {
+    "type" : "steps",
+    "count" : 24
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 475
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -16,
+    "max" : 77,
+    "diff50m" : 37
+  }
+}

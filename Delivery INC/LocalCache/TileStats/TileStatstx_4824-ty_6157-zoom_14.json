@@ -1,0 +1,394 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.1626935
+  }, {
+    "type" : "residential",
+    "area" : 0.031147663
+  }, {
+    "type" : "park",
+    "area" : 0.024500018
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.016631281
+  }, {
+    "type" : "construction",
+    "area" : 0.01659842
+  }, {
+    "type" : "parking",
+    "area" : 0.015620496
+  }, {
+    "type" : "commercial",
+    "area" : 0.014700124
+  }, {
+    "type" : "railway",
+    "area" : 0.0121034905
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3353
+  }, {
+    "type" : "restaurant",
+    "count" : 329
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 207
+  }, {
+    "type" : "fast_food",
+    "count" : 148
+  }, {
+    "type" : "apartments",
+    "count" : 105
+  }, {
+    "type" : "cafe",
+    "count" : 104
+  }, {
+    "type" : "commercial",
+    "count" : 64
+  }, {
+    "type" : "bar",
+    "count" : 61
+  }, {
+    "type" : "hotel",
+    "count" : 58
+  }, {
+    "type" : "theatre",
+    "count" : 56
+  }, {
+    "type" : "bank",
+    "count" : 49
+  }, {
+    "type" : "bench",
+    "count" : 45
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 44
+  }, {
+    "type" : "post_box",
+    "count" : 33
+  }, {
+    "type" : "pub",
+    "count" : 32
+  }, {
+    "type" : "parking_entrance",
+    "count" : 29
+  }, {
+    "type" : "roof",
+    "count" : 26
+  }, {
+    "type" : "retail",
+    "count" : 21
+  }, {
+    "type" : "pharmacy",
+    "count" : 21
+  }, {
+    "type" : "parking",
+    "count" : 20
+  }, {
+    "type" : "vending_machine",
+    "count" : 19
+  }, {
+    "type" : "office",
+    "count" : 17
+  }, {
+    "type" : "drinking_water",
+    "count" : 17
+  }, {
+    "type" : "atm",
+    "count" : 16
+  }, {
+    "type" : "waste_basket",
+    "count" : 16
+  }, {
+    "type" : "church",
+    "count" : 13
+  }, {
+    "type" : "school",
+    "count" : 12
+  }, {
+    "type" : "construction",
+    "count" : 11
+  }, {
+    "type" : "toilets",
+    "count" : 10
+  }, {
+    "type" : "telephone",
+    "count" : 8
+  }, {
+    "type" : "service",
+    "count" : 8
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "food_court",
+    "count" : 7
+  }, {
+    "type" : "college",
+    "count" : 7
+  }, {
+    "type" : "clinic",
+    "count" : 7
+  }, {
+    "type" : "fire_station",
+    "count" : 6
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "stripclub",
+    "count" : 6
+  }, {
+    "type" : "marketplace",
+    "count" : 4
+  }, {
+    "type" : "bus_station",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "device_charging_station",
+    "count" : 4
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "fortune_teller",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "disused:pub",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "payment_centre",
+    "count" : 1
+  }, {
+    "type" : "convenience",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Koreatown",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Кориатаун",
+      "name" : "Koreatown",
+      "tourism" : "yes",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Koreatown, Manhattan"
+    }
+  }, {
+    "name" : "Garment District",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Гармент",
+      "name" : "Garment District",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Theater District",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Театр",
+      "official_name" : "Theater Subdistrict",
+      "name" : "Theater District",
+      "name:en" : "Theater District",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Midtown South",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мидтаун-Саут",
+      "name" : "Midtown South",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Midtown",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мидтаун",
+      "gnis:ST_num" : "36",
+      "gnis:ST_alpha" : "NY",
+      "gnis:id" : "2083196",
+      "gnis:Class" : "Populated Place",
+      "name" : "Midtown",
+      "gnis:County_num" : "061",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "quarter",
+      "wikipedia" : "en:Midtown Manhattan",
+      "ele" : "7",
+      "gnis:County" : "New York"
+    }
+  }, {
+    "name" : "Hudson Yards",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Хадсон-Ярдс",
+      "name" : "Hudson Yards",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2506020,
+    "totalVolume" : 123952839,
+    "count" : 4019,
+    "maxHeight" : 443.2
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 22
+  }, {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 115
+  }, {
+    "type" : "service",
+    "count" : 229
+  }, {
+    "type" : "motorway",
+    "count" : 28
+  }, {
+    "type" : "trunk",
+    "count" : 25
+  }, {
+    "type" : "primary",
+    "count" : 126
+  }, {
+    "type" : "pedestrian",
+    "count" : 17
+  }, {
+    "type" : "subway",
+    "count" : 135
+  }, {
+    "type" : "living_street",
+    "count" : 5
+  }, {
+    "type" : "motorway_link",
+    "count" : 29
+  }, {
+    "type" : "secondary",
+    "count" : 167
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 207
+  }, {
+    "type" : "rail",
+    "count" : 312
+  }, {
+    "type" : "unclassified",
+    "count" : 47
+  }, {
+    "type" : "footway",
+    "count" : 1863
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 137,
+    "diff50m" : 104
+  }
+}

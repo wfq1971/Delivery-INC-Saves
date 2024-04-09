@@ -1,0 +1,456 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.35282716
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.11693723
+  }, {
+    "type" : "yes",
+    "area" : 0.053632826
+  }, {
+    "type" : "garden",
+    "area" : 0.025016606
+  }, {
+    "type" : "retail",
+    "area" : 0.01772133
+  }, {
+    "type" : "bridge",
+    "area" : 0.010410673
+  }, {
+    "type" : "park",
+    "area" : 0.01011884
+  }, {
+    "type" : "residential",
+    "area" : 0.010100167
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 4095
+  }, {
+    "type" : "commercial",
+    "count" : 316
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 290
+  }, {
+    "type" : "bench",
+    "count" : 219
+  }, {
+    "type" : "office",
+    "count" : 100
+  }, {
+    "type" : "restaurant",
+    "count" : 84
+  }, {
+    "type" : "cafe",
+    "count" : 63
+  }, {
+    "type" : "telephone",
+    "count" : 49
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 45
+  }, {
+    "type" : "apartments",
+    "count" : 44
+  }, {
+    "type" : "fast_food",
+    "count" : 43
+  }, {
+    "type" : "retail",
+    "count" : 42
+  }, {
+    "type" : "post_box",
+    "count" : 39
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 31
+  }, {
+    "type" : "bar",
+    "count" : 28
+  }, {
+    "type" : "church",
+    "count" : 26
+  }, {
+    "type" : "pub",
+    "count" : 25
+  }, {
+    "type" : "residential",
+    "count" : 25
+  }, {
+    "type" : "fountain",
+    "count" : 22
+  }, {
+    "type" : "atm",
+    "count" : 22
+  }, {
+    "type" : "tower",
+    "count" : 19
+  }, {
+    "type" : "clock",
+    "count" : 19
+  }, {
+    "type" : "bank",
+    "count" : 19
+  }, {
+    "type" : "roof",
+    "count" : 11
+  }, {
+    "type" : "grit_bin",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 9
+  }, {
+    "type" : "train_station",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 9
+  }, {
+    "type" : "recycling",
+    "count" : 9
+  }, {
+    "type" : "vending_machine",
+    "count" : 8
+  }, {
+    "type" : "waste_basket",
+    "count" : 8
+  }, {
+    "type" : "construction",
+    "count" : 8
+  }, {
+    "type" : "drinking_water",
+    "count" : 8
+  }, {
+    "type" : "car_sharing",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "taxi",
+    "count" : 6
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "newspaper_distribution_bin",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "air_shaft",
+    "count" : 3
+  }, {
+    "type" : "loading_dock",
+    "count" : 3
+  }, {
+    "type" : "block",
+    "count" : 3
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "bell_tower",
+    "count" : 1
+  }, {
+    "type" : "dead_post_office",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "livery_hall",
+    "count" : 1
+  }, {
+    "type" : "court_house",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "hospital_department",
+    "count" : 1
+  }, {
+    "type" : "printers",
+    "count" : 1
+  }, {
+    "type" : "conservatory",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Vintry",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Vintry",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Cheap",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Cheap",
+      "place" : "quarter",
+      "wikipedia" : "en:Cheap (ward)"
+    }
+  }, {
+    "name" : "West Smithfield",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "West Smithfield",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Smithfield, London"
+    }
+  }, {
+    "name" : "City of London",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 7375,
+    "tags" : {
+      "note" : "London consists of a collection of boroughs, two of which are Cities. They are not towns and I have changed the nodes to city to reflect reality",
+      "is_in" : "City of London, London, UK",
+      "name:uk" : "Лондонське Сіті",
+      "name:he" : "הסיטי של לונדון",
+      "population" : "7375",
+      "name:ru" : "Сити",
+      "name:ko" : "시티오브런던",
+      "name:hi" : "सिटी ऑफ़ लंदन",
+      "alt_name" : "The City",
+      "name:lt" : "Londono Sitis",
+      "name" : "City of London",
+      "name:fr" : "Cité de Londres",
+      "name:en" : "City of London",
+      "place" : "city",
+      "wikipedia" : "en:City of London",
+      "name:zh-Hans" : "伦敦市",
+      "name:es" : "City de Londres",
+      "name:zh" : "倫敦市"
+    }
+  }, {
+    "name" : "Barbican",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Barbican",
+      "place" : "quarter",
+      "wikipedia" : "en:Barbican Estate"
+    }
+  }, {
+    "name" : "King's Reach",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "King's Reach",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Blackfriars",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Blackfriars",
+      "place" : "quarter",
+      "wikipedia" : "en:Blackfriars, London"
+    }
+  }, {
+    "name" : "Hatton Garden",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Hatton Garden",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Hatton Garden"
+    }
+  }, {
+    "name" : "Farringdon",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Farringdon",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Farringdon, London"
+    }
+  }, {
+    "name" : "Finsbury",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Finsbury",
+      "name:en" : "Finsbury",
+      "place" : "suburb",
+      "wikipedia" : "en:Finsbury",
+      "name:he" : "פינסבורי"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1388779,
+    "totalVolume" : 27276853,
+    "count" : 2190,
+    "maxHeight" : 123.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 157
+  }, {
+    "type" : "tertiary",
+    "count" : 250
+  }, {
+    "type" : "light_rail",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 174
+  }, {
+    "type" : "service",
+    "count" : 408
+  }, {
+    "type" : "path",
+    "count" : 31
+  }, {
+    "type" : "road",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 101
+  }, {
+    "type" : "primary",
+    "count" : 319
+  }, {
+    "type" : "track",
+    "count" : 4
+  }, {
+    "type" : "subway",
+    "count" : 65
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 46
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 357
+  }, {
+    "type" : "rail",
+    "count" : 62
+  }, {
+    "type" : "unclassified",
+    "count" : 360
+  }, {
+    "type" : "disused",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 1729
+  }, {
+    "type" : "primary_link",
+    "count" : 14
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 49,
+    "diff50m" : 25
+  }
+}

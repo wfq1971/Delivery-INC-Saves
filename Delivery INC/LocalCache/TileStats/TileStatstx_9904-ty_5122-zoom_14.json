@@ -1,0 +1,571 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.33354864
+  }, {
+    "type" : "residential",
+    "area" : 0.20544621
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.12005489
+  }, {
+    "type" : "park",
+    "area" : 0.10998413
+  }, {
+    "type" : "grass",
+    "area" : 0.044123
+  }, {
+    "type" : "construction",
+    "area" : 0.036616508
+  }, {
+    "type" : "wood",
+    "area" : 0.032656968
+  }, {
+    "type" : "parking",
+    "area" : 0.021518223
+  }, {
+    "type" : "religious",
+    "area" : 0.014876728
+  }, {
+    "type" : "institutional",
+    "area" : 0.011709385
+  }, {
+    "type" : "bridge",
+    "area" : 0.010897089
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2158
+  }, {
+    "type" : "bench",
+    "count" : 127
+  }, {
+    "type" : "apartments",
+    "count" : 97
+  }, {
+    "type" : "commercial",
+    "count" : 76
+  }, {
+    "type" : "office",
+    "count" : 62
+  }, {
+    "type" : "cafe",
+    "count" : 60
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 37
+  }, {
+    "type" : "service",
+    "count" : 36
+  }, {
+    "type" : "waste_disposal",
+    "count" : 33
+  }, {
+    "type" : "restaurant",
+    "count" : 32
+  }, {
+    "type" : "bank",
+    "count" : 22
+  }, {
+    "type" : "parking_entrance",
+    "count" : 22
+  }, {
+    "type" : "retail",
+    "count" : 20
+  }, {
+    "type" : "fountain",
+    "count" : 18
+  }, {
+    "type" : "waste_basket",
+    "count" : 18
+  }, {
+    "type" : "fast_food",
+    "count" : 17
+  }, {
+    "type" : "bar",
+    "count" : 17
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "vending_machine",
+    "count" : 17
+  }, {
+    "type" : "construction",
+    "count" : 16
+  }, {
+    "type" : "church",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 12
+  }, {
+    "type" : "dentist",
+    "count" : 11
+  }, {
+    "type" : "clinic",
+    "count" : 10
+  }, {
+    "type" : "pharmacy",
+    "count" : 10
+  }, {
+    "type" : "charging_station",
+    "count" : 10
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "wall",
+    "count" : 7
+  }, {
+    "type" : "industrial",
+    "count" : 7
+  }, {
+    "type" : "pub",
+    "count" : 7
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "university",
+    "count" : 6
+  }, {
+    "type" : "doctors",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "training",
+    "count" : 3
+  }, {
+    "type" : "recycling",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "payment_terminal",
+    "count" : 3
+  }, {
+    "type" : "cathedral",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "social_facility",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 3
+  }, {
+    "type" : "music_school",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "garages",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "security_booth",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "binoculars",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "temple",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "dancing_school",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Москва",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 12635466,
+    "tags" : {
+      "name:nan" : "Bo̍k-su-kho",
+      "name:ka" : "მოსკოვი",
+      "name:nap" : "Mosca",
+      "name:kg" : "Moskva",
+      "ISO3166-2" : "RU-MOW",
+      "name:kk" : "Мәскеу",
+      "name:nah" : "Moscohuia",
+      "name:kn" : "ಮಾಸ್ಕೋ",
+      "name:ko" : "모스크바",
+      "name:kl" : "Moskva",
+      "name:nrm" : "Moscou",
+      "name:kv" : "Мӧскуа",
+      "rank" : "0",
+      "name:kw" : "Moskva",
+      "name:ku" : "Moskow",
+      "name:frp" : "Moscou",
+      "name:frr" : "Moskva",
+      "name:ky" : "Москва",
+      "name:ckb" : "مۆسکۆ",
+      "name:ja" : "モスクワ",
+      "name:zu" : "IMoskwa",
+      "name:pdc" : "Moscow",
+      "okato:user" : "none",
+      "population" : "12635466",
+      "name:lmo" : "Musca",
+      "name:jv" : "Moskwa",
+      "name:mi" : "Mohikau",
+      "name:mg" : "Moskva",
+      "name:ml" : "മോസ്കോ",
+      "name:mk" : "Москва",
+      "name:mn" : "Москва",
+      "name:mt" : "Moska",
+      "name:mr" : "मॉस्को",
+      "name:ms" : "Moscow",
+      "name:tpi" : "Mosko",
+      "addr:region" : "Москва",
+      "name:my" : "မော်စကိုမြို့",
+      "wikipedia" : "ru:Москва",
+      "name:mrj" : "Москва",
+      "name:la" : "Moscua",
+      "name:lg" : "Moosko",
+      "name:vro" : "Moskva",
+      "name:li" : "Moskou",
+      "name:ln" : "Moskú",
+      "name:lt" : "Maskva",
+      "name:lv" : "Maskava",
+      "name:fy" : "Moskou",
+      "name:lzh" : "莫斯科",
+      "name:wo" : "Mosku",
+      "name:haw" : "Mokekao",
+      "name:ga" : "Moscó",
+      "name:gd" : "Mosgo",
+      "name:zea" : "Moskou",
+      "name:chm" : "Моско",
+      "name:gn" : "Mosku",
+      "name:gl" : "Moscova - Москва",
+      "name:pap" : "Moskou",
+      "name:gv" : "Moscow",
+      "name:xal" : "Москва балһсн",
+      "name:tzl" : "Moscal",
+      "ele" : "130",
+      "name:vi" : "Mát-xcơ-va",
+      "name:vls" : "Moskou",
+      "name:fa" : "مسکو",
+      "name:vo" : "Moskva",
+      "name:fi" : "Moskova",
+      "name:diq" : "Moskowa",
+      "name:roa-rup" : "Moscova",
+      "name:lij" : "Mosca",
+      "name" : "Москва",
+      "name:fr" : "Moscou",
+      "name:fo" : "Moskva",
+      "name:ast" : "Moscú",
+      "name:rue" : "Москва",
+      "name:wa" : "Moscou",
+      "alt_name:vi" : "Mạc Tư Khoa",
+      "name:ace" : "Moskow",
+      "name:hy" : "Մոսկվա",
+      "name:bxr" : "Мушхаваа",
+      "name:ia" : "Moscova",
+      "name:yo" : "Mọsko",
+      "name:id" : "Moskwa",
+      "name:ie" : "Moskwa",
+      "name:pcd" : "Moscou",
+      "name:gan" : "莫斯科",
+      "name:nov" : "Moskva",
+      "name:war" : "Moscow",
+      "name:za" : "Moscow",
+      "name:io" : "Moskva",
+      "name:it" : "Mosca",
+      "name:iu" : "ᒨᔅᑯ",
+      "name:is" : "Moskva",
+      "name:zh" : "莫斯科",
+      "name:szl" : "Moskwa",
+      "name:hsb" : "Moskwa",
+      "name:chu" : "Москва̀",
+      "name:he" : "מוסקווה",
+      "name:hi" : "मास्को",
+      "name:yue" : "莫斯科",
+      "name:simple" : "Moscow",
+      "name:gag" : "Moskva",
+      "name:ht" : "Moskou",
+      "name:hr" : "Moskva",
+      "name:eml" : "Måssca",
+      "name:yi" : "מאסקווע",
+      "name:hu" : "Moszkva",
+      "name:sg" : "Moscow",
+      "name:bs" : "Moskva",
+      "name:se" : "Moskva",
+      "is_capital" : "country",
+      "name:sk" : "Moskva",
+      "name:sh" : "Moskva",
+      "name:scn" : "Mosca",
+      "name:so" : "Moskow",
+      "name:sl" : "Moskva",
+      "name:sm" : "Moscow",
+      "name:xmf" : "მოსკოვი",
+      "name:sr" : "Москва",
+      "name:ss" : "Moscow",
+      "name:pms" : "Mosca",
+      "name:ca" : "Moscou",
+      "name:sq" : "Moska",
+      "name:sv" : "Moskva",
+      "name:sw" : "Moscow",
+      "name:st" : "Moscow",
+      "name:ce" : "Москох",
+      "name:su" : "Moskwa",
+      "name:roa-tara" : "Mosche",
+      "name:ch" : "Moscow",
+      "name:co" : "Moscù",
+      "name:sco" : "Moscow",
+      "name:ext" : "Moscú",
+      "name:lez" : "Москва",
+      "name:pnb" : "ماسکو",
+      "name:cs" : "Moskva",
+      "name:tet" : "Moskovu",
+      "name:ta" : "மாஸ்கோ",
+      "name:ar" : "موسكو",
+      "name:ay" : "Mosku",
+      "name:av" : "Москва",
+      "name:az" : "Moskva",
+      "name:csb" : "Mòskwa",
+      "name:ba" : "Мәскәү",
+      "name:ro" : "Moscova",
+      "name:be" : "Масква",
+      "name:ru" : "Москва",
+      "name:bi" : "Moskow",
+      "name:bg" : "Москва",
+      "name:bn" : "মস্কো",
+      "name:mwl" : "Moscobo",
+      "name:be-tarask" : "Масква",
+      "name:br" : "Moskov",
+      "name:sc" : "Mosca",
+      "name:bo" : "མོ་སི་ཁོ།",
+      "name:dv" : "މޮސްކޯ",
+      "name:ug" : "Moskwa",
+      "name:dz" : "མོསི་ཀོ",
+      "name:uk" : "Москва",
+      "name:arc" : "ܡܘܣܩܒܐ",
+      "name:ur" : "ماسکو",
+      "name:arz" : "موسكو",
+      "name:el" : "Μόσχα",
+      "name:uz" : "Moskva",
+      "name:en" : "Moscow",
+      "place" : "city",
+      "name:eo" : "Moskvo",
+      "name:mzn" : "موسکو",
+      "name:et" : "Moskva",
+      "name:eu" : "Mosku",
+      "name:es" : "Moscú",
+      "start_date" : "1147",
+      "name:cv" : "Мускав",
+      "name:tg" : "Маскав",
+      "name:th" : "มอสโก",
+      "name:jbo" : "moskovas",
+      "name:mhr" : "Моско",
+      "name:te" : "మాస్కో",
+      "name:cu" : "Москъва",
+      "name:tk" : "Moskwa",
+      "name:tl" : "Moscow",
+      "name:cy" : "Moscfa",
+      "name:tt" : "Мәскәү",
+      "name:da" : "Moskva",
+      "name:pnt" : "Μόσχα",
+      "name:tr" : "Moskova",
+      "name:de" : "Moskau",
+      "int_name" : "Moscow",
+      "name:myv" : "Москов ош",
+      "name:bcl" : "Mosku",
+      "name:ty" : "Moscou",
+      "name:nds-nl" : "Moskou",
+      "name:oc" : "Moscòu",
+      "capital" : "yes",
+      "name:rmy" : "Moscova",
+      "official_status" : "ru:город",
+      "name:lad" : "Mosku",
+      "name:vec" : "Mosca",
+      "name:os" : "Мæскуы",
+      "name:ilo" : "Moscow",
+      "admin_level" : "2",
+      "name:vep" : "Moskv",
+      "name:na" : "Moscow",
+      "name:nb" : "Moskva",
+      "name:nds" : "Moskau",
+      "name:nn" : "Moskva",
+      "name:nl" : "Moskou",
+      "name:no" : "Moskva",
+      "name:hif" : "Moscow",
+      "name:koi" : "Мӧсква",
+      "note" : "эта точка должна быть здесь, в историческом центре Москвы",
+      "name:bat-smg" : "Maskva",
+      "name:ang" : "Moscoƿ",
+      "name:sah" : "Москва",
+      "name:crh" : "Moskva",
+      "name:krc" : "Москва",
+      "name:qu" : "Moskwa",
+      "name:ab" : "Москва",
+      "name:af" : "Moskou",
+      "name:kbd" : "Мэзкуу",
+      "name:am" : "ሞስኮ",
+      "name:ak" : "Moscow",
+      "name:an" : "Moscú",
+      "name:udm" : "Муско",
+      "name:pl" : "Moskwa",
+      "name:lbe" : "Москав",
+      "name:mdf" : "Моску",
+      "name:dsb" : "Moskwa",
+      "name:ps" : "مسکو",
+      "name:pt" : "Moscou",
+      "name:kab" : "Mosku",
+      "name:kaa" : "Moskva",
+      "population:date" : "2022-01-01"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 586370,
+    "totalVolume" : 10280628,
+    "count" : 1004,
+    "maxHeight" : 68.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 66
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 29
+  }, {
+    "type" : "service",
+    "count" : 755
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 18
+  }, {
+    "type" : "subway",
+    "count" : 30
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 57
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 114
+  }, {
+    "type" : "tram",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 17
+  }, {
+    "type" : "footway",
+    "count" : 1046
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 119,
+    "max" : 164,
+    "diff50m" : 14
+  }
+}

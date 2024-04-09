@@ -1,0 +1,270 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.36317196
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.13597731
+  }, {
+    "type" : "residential",
+    "area" : 0.03931056
+  }, {
+    "type" : "grass",
+    "area" : 0.018289082
+  }, {
+    "type" : "wood",
+    "area" : 0.0112854885
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2288
+  }, {
+    "type" : "apartments",
+    "count" : 180
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 150
+  }, {
+    "type" : "restaurant",
+    "count" : 113
+  }, {
+    "type" : "bench",
+    "count" : 83
+  }, {
+    "type" : "post_box",
+    "count" : 42
+  }, {
+    "type" : "waste_basket",
+    "count" : 37
+  }, {
+    "type" : "cafe",
+    "count" : 34
+  }, {
+    "type" : "school",
+    "count" : 30
+  }, {
+    "type" : "fast_food",
+    "count" : 28
+  }, {
+    "type" : "drinking_water",
+    "count" : 25
+  }, {
+    "type" : "bank",
+    "count" : 20
+  }, {
+    "type" : "telephone",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 16
+  }, {
+    "type" : "parking",
+    "count" : 14
+  }, {
+    "type" : "church",
+    "count" : 12
+  }, {
+    "type" : "bar",
+    "count" : 12
+  }, {
+    "type" : "recycling",
+    "count" : 11
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "atm",
+    "count" : 7
+  }, {
+    "type" : "pub",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "retail",
+    "count" : 4
+  }, {
+    "type" : "fire_station",
+    "count" : 3
+  }, {
+    "type" : "vending_machine",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "museum",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "animal_shelter",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "salon",
+    "count" : 1
+  }, {
+    "type" : "shoe_repair",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "planetarium",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Upper West Side",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Аппер-Вест-Сайд",
+      "name" : "Upper West Side",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 902657,
+    "totalVolume" : 29787930,
+    "count" : 2542,
+    "maxHeight" : 120.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 38
+  }, {
+    "type" : "residential",
+    "count" : 76
+  }, {
+    "type" : "service",
+    "count" : 93
+  }, {
+    "type" : "path",
+    "count" : 17
+  }, {
+    "type" : "motorway",
+    "count" : 9
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 76
+  }, {
+    "type" : "subway",
+    "count" : 49
+  }, {
+    "type" : "motorway_link",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 86
+  }, {
+    "type" : "bridleway",
+    "count" : 9
+  }, {
+    "type" : "steps",
+    "count" : 36
+  }, {
+    "type" : "rail",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 1783
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 61,
+    "diff50m" : 18
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.29587528
+  }, {
+    "type" : "park",
+    "area" : 0.28780165
+  }, {
+    "type" : "nature_reserve",
+    "area" : 0.16409126
+  }, {
+    "type" : "forest",
+    "area" : 0.15179335
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.122381315
+  }, {
+    "type" : "commercial",
+    "area" : 0.050589547
+  }, {
+    "type" : "grass",
+    "area" : 0.034133777
+  }, {
+    "type" : "garden",
+    "area" : 0.029700965
+  }, {
+    "type" : "village_green",
+    "area" : 0.024350572
+  }, {
+    "type" : "yes",
+    "area" : 0.02280114
+  }, {
+    "type" : "parking",
+    "area" : 0.018292068
+  }, {
+    "type" : "marina",
+    "area" : 0.0134998625
+  }, {
+    "type" : "construction",
+    "area" : 0.011432091
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1913
+  }, {
+    "type" : "residential",
+    "count" : 917
+  }, {
+    "type" : "bench",
+    "count" : 413
+  }, {
+    "type" : "garage",
+    "count" : 111
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 65
+  }, {
+    "type" : "restaurant",
+    "count" : 57
+  }, {
+    "type" : "civic",
+    "count" : 56
+  }, {
+    "type" : "vending_machine",
+    "count" : 47
+  }, {
+    "type" : "cafe",
+    "count" : 40
+  }, {
+    "type" : "recycling",
+    "count" : 29
+  }, {
+    "type" : "fast_food",
+    "count" : 18
+  }, {
+    "type" : "bar",
+    "count" : 15
+  }, {
+    "type" : "post_box",
+    "count" : 13
+  }, {
+    "type" : "shelter",
+    "count" : 13
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "atm",
+    "count" : 11
+  }, {
+    "type" : "house",
+    "count" : 9
+  }, {
+    "type" : "service",
+    "count" : 9
+  }, {
+    "type" : "theatre",
+    "count" : 9
+  }, {
+    "type" : "pharmacy",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "industrial",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "clock",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 7
+  }, {
+    "type" : "waste_basket",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 6
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "apartments",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "warehouse",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "houseboat",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "boathouse",
+    "count" : 2
+  }, {
+    "type" : "ship",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "grandstand",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "ski_rental",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "sports_hall",
+    "count" : 1
+  }, {
+    "type" : "animal_breeding",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "trolley_bay",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Bývalý Stalinův pomník",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "note" : "Bývalý Stalinův pomník (1955-1962).",
+      "alt_name" : "Stalin",
+      "name" : "Bývalý Stalinův pomník",
+      "note:en" : "Stalin Monument (1955-1962)",
+      "loc_name" : "U Stalina",
+      "place" : "locality",
+      "wikipedia" : "cs:Stalinův pomník",
+      "wikipedia:en" : "Stalin_Monument_(Prague)"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 573947,
+    "totalVolume" : 10178065,
+    "count" : 1516,
+    "maxHeight" : 50.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 128
+  }, {
+    "type" : "tertiary",
+    "count" : 41
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 210
+  }, {
+    "type" : "service",
+    "count" : 120
+  }, {
+    "type" : "path",
+    "count" : 19
+  }, {
+    "type" : "trunk",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 63
+  }, {
+    "type" : "pedestrian",
+    "count" : 53
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 102
+  }, {
+    "type" : "secondary_link",
+    "count" : 9
+  }, {
+    "type" : "steps",
+    "count" : 92
+  }, {
+    "type" : "tram",
+    "count" : 83
+  }, {
+    "type" : "disused",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 950
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  }, {
+    "type" : "primary_link",
+    "count" : 23
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 167,
+    "max" : 242,
+    "diff50m" : 15
+  }
+}

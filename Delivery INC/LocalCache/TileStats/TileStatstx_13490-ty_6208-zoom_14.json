@@ -1,0 +1,194 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.2229951
+  }, {
+    "type" : "park",
+    "area" : 0.04981095
+  }, {
+    "type" : "railway",
+    "area" : 0.04678654
+  }, {
+    "type" : "commercial",
+    "area" : 0.036918625
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 744
+  }, {
+    "type" : "apartments",
+    "count" : 30
+  }, {
+    "type" : "commercial",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 23
+  }, {
+    "type" : "restaurant",
+    "count" : 12
+  }, {
+    "type" : "fast_food",
+    "count" : 12
+  }, {
+    "type" : "retail",
+    "count" : 11
+  }, {
+    "type" : "university",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "cafe",
+    "count" : 8
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "office",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "telephone",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "崇文门外街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "崇文门外街道",
+      "name:en" : "Chongwenmenwai",
+      "place" : "suburb",
+      "name:zh-Hans" : "崇文门外街道",
+      "name:zh-Hant" : "崇文門外街道",
+      "name:zh" : "崇文门外街道",
+      "division_code" : "110101012000"
+    }
+  }, {
+    "name" : "东花市街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "东花市街道",
+      "name:en" : "Donghuashi",
+      "place" : "suburb",
+      "name:zh" : "东花市街道",
+      "division_code" : "110101013000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 848967,
+    "totalVolume" : 11784142,
+    "count" : 531,
+    "maxHeight" : 88.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 8
+  }, {
+    "type" : "tertiary",
+    "count" : 52
+  }, {
+    "type" : "tertiary_link",
+    "count" : 14
+  }, {
+    "type" : "residential",
+    "count" : 98
+  }, {
+    "type" : "service",
+    "count" : 78
+  }, {
+    "type" : "path",
+    "count" : 6
+  }, {
+    "type" : "trunk",
+    "count" : 21
+  }, {
+    "type" : "primary",
+    "count" : 54
+  }, {
+    "type" : "subway",
+    "count" : 20
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 38
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 39
+  }, {
+    "type" : "rail",
+    "count" : 112
+  }, {
+    "type" : "unclassified",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 142
+  }, {
+    "type" : "trunk_link",
+    "count" : 38
+  }, {
+    "type" : "primary_link",
+    "count" : 11
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 32,
+    "max" : 84,
+    "diff50m" : 26
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.5082213
+  }, {
+    "type" : "yes",
+    "area" : 0.06266242
+  }, {
+    "type" : "residential",
+    "area" : 0.05078814
+  }, {
+    "type" : "park",
+    "area" : 0.035944827
+  }, {
+    "type" : "grass",
+    "area" : 0.03424672
+  }, {
+    "type" : "industrial",
+    "area" : 0.010978281
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1893
+  }, {
+    "type" : "apartments",
+    "count" : 251
+  }, {
+    "type" : "bench",
+    "count" : 120
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 106
+  }, {
+    "type" : "restaurant",
+    "count" : 75
+  }, {
+    "type" : "fast_food",
+    "count" : 56
+  }, {
+    "type" : "cafe",
+    "count" : 26
+  }, {
+    "type" : "post_box",
+    "count" : 17
+  }, {
+    "type" : "parking_entrance",
+    "count" : 17
+  }, {
+    "type" : "parking",
+    "count" : 15
+  }, {
+    "type" : "waste_basket",
+    "count" : 15
+  }, {
+    "type" : "pharmacy",
+    "count" : 14
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 13
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "school",
+    "count" : 12
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "clinic",
+    "count" : 10
+  }, {
+    "type" : "dentist",
+    "count" : 9
+  }, {
+    "type" : "hospital",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 9
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "university",
+    "count" : 5
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "car_rental",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "fortune_teller",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 4
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 3
+  }, {
+    "type" : "vending_machine",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "animal_boarding",
+    "count" : 3
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "ventilation_shaft",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "religious",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Kips Bay",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Кипс-Бей",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062669",
+      "gnis:Class" : "Populated Place",
+      "name" : "Kips Bay",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Kips Bay, Manhattan",
+      "ele" : "7"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 731827,
+    "totalVolume" : 30955713,
+    "count" : 1505,
+    "maxHeight" : 178.918
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 35
+  }, {
+    "type" : "tertiary",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 89
+  }, {
+    "type" : "service",
+    "count" : 127
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 25
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 120
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "motorway_link",
+    "count" : 37
+  }, {
+    "type" : "secondary",
+    "count" : 37
+  }, {
+    "type" : "steps",
+    "count" : 76
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 1305
+  }, {
+    "type" : "primary_link",
+    "count" : 3
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 87,
+    "diff50m" : 72
+  }
+}

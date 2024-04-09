@@ -1,0 +1,382 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.11184801
+  }, {
+    "type" : "commercial",
+    "area" : 0.05910776
+  }, {
+    "type" : "yes",
+    "area" : 0.04303974
+  }, {
+    "type" : "park",
+    "area" : 0.023860719
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2557
+  }, {
+    "type" : "restaurant",
+    "count" : 229
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 159
+  }, {
+    "type" : "fast_food",
+    "count" : 137
+  }, {
+    "type" : "apartments",
+    "count" : 129
+  }, {
+    "type" : "bench",
+    "count" : 101
+  }, {
+    "type" : "cafe",
+    "count" : 100
+  }, {
+    "type" : "commercial",
+    "count" : 90
+  }, {
+    "type" : "bank",
+    "count" : 69
+  }, {
+    "type" : "post_box",
+    "count" : 49
+  }, {
+    "type" : "parking_entrance",
+    "count" : 44
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 40
+  }, {
+    "type" : "vending_machine",
+    "count" : 37
+  }, {
+    "type" : "bar",
+    "count" : 25
+  }, {
+    "type" : "pub",
+    "count" : 22
+  }, {
+    "type" : "waste_basket",
+    "count" : 21
+  }, {
+    "type" : "parking",
+    "count" : 19
+  }, {
+    "type" : "office",
+    "count" : 18
+  }, {
+    "type" : "pharmacy",
+    "count" : 17
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "hotel",
+    "count" : 13
+  }, {
+    "type" : "clinic",
+    "count" : 11
+  }, {
+    "type" : "dentist",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "fountain",
+    "count" : 9
+  }, {
+    "type" : "drinking_water",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 8
+  }, {
+    "type" : "charging_station",
+    "count" : 7
+  }, {
+    "type" : "telephone",
+    "count" : 7
+  }, {
+    "type" : "doctors",
+    "count" : 7
+  }, {
+    "type" : "place_of_worship",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "library",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "car_rental",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "fire_station",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "synagogue",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "ventilation_shaft",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "disused:restaurant",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Murray Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Мюррей-Хилл",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062670",
+      "gnis:Class" : "Populated Place",
+      "name" : "Murray Hill",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Murray Hill, Manhattan",
+      "ele" : "20"
+    }
+  }, {
+    "name" : "Tudor City",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "tourism" : "yes",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Тьюдор-сити",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2083304",
+      "gnis:Class" : "Populated Place",
+      "name" : "Tudor City",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "18"
+    }
+  }, {
+    "name" : "Turtle Bay",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Тёртл-Бей",
+      "name" : "Turtle Bay",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Midtown East",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мидтаун-Ист",
+      "name" : "Midtown East",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2588751,
+    "totalVolume" : 136326498,
+    "count" : 5627,
+    "maxHeight" : 426.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 7
+  }, {
+    "type" : "residential",
+    "count" : 133
+  }, {
+    "type" : "service",
+    "count" : 131
+  }, {
+    "type" : "path",
+    "count" : 8
+  }, {
+    "type" : "motorway",
+    "count" : 17
+  }, {
+    "type" : "trunk",
+    "count" : 17
+  }, {
+    "type" : "pedestrian",
+    "count" : 25
+  }, {
+    "type" : "primary",
+    "count" : 190
+  }, {
+    "type" : "subway",
+    "count" : 64
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 16
+  }, {
+    "type" : "secondary",
+    "count" : 175
+  }, {
+    "type" : "steps",
+    "count" : 52
+  }, {
+    "type" : "rail",
+    "count" : 378
+  }, {
+    "type" : "unclassified",
+    "count" : 14
+  }, {
+    "type" : "footway",
+    "count" : 1315
+  }, {
+    "type" : "trunk_link",
+    "count" : 10
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -16,
+    "max" : 196,
+    "diff50m" : 101
+  }
+}

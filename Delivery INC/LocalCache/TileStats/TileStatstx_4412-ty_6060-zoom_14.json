@@ -1,0 +1,287 @@
+{
+  "landusages" : [ {
+    "type" : "grass",
+    "area" : 0.15796271
+  }, {
+    "type" : "residential",
+    "area" : 0.1514578
+  }, {
+    "type" : "industrial",
+    "area" : 0.12784943
+  }, {
+    "type" : "parking",
+    "area" : 0.1275511
+  }, {
+    "type" : "commercial",
+    "area" : 0.050789937
+  }, {
+    "type" : "park",
+    "area" : 0.045750227
+  }, {
+    "type" : "retail",
+    "area" : 0.026050758
+  }, {
+    "type" : "brownfield",
+    "area" : 0.024333568
+  }, {
+    "type" : "religious",
+    "area" : 0.015897809
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2437
+  }, {
+    "type" : "terrace",
+    "count" : 145
+  }, {
+    "type" : "retail",
+    "count" : 73
+  }, {
+    "type" : "apartments",
+    "count" : 64
+  }, {
+    "type" : "industrial",
+    "count" : 45
+  }, {
+    "type" : "house",
+    "count" : 40
+  }, {
+    "type" : "bench",
+    "count" : 33
+  }, {
+    "type" : "garage",
+    "count" : 23
+  }, {
+    "type" : "waste_basket",
+    "count" : 20
+  }, {
+    "type" : "warehouse",
+    "count" : 20
+  }, {
+    "type" : "restaurant",
+    "count" : 17
+  }, {
+    "type" : "parking_entrance",
+    "count" : 14
+  }, {
+    "type" : "hospital",
+    "count" : 11
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 10
+  }, {
+    "type" : "waste_disposal",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "semidetached_house",
+    "count" : 7
+  }, {
+    "type" : "cafe",
+    "count" : 7
+  }, {
+    "type" : "university",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 6
+  }, {
+    "type" : "shed",
+    "count" : 5
+  }, {
+    "type" : "carport",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 4
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "greenhouse",
+    "count" : 2
+  }, {
+    "type" : "garages",
+    "count" : 2
+  }, {
+    "type" : "loading_dock",
+    "count" : 2
+  }, {
+    "type" : "ruins",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "proposed",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Brush Park",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Brush Park",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Douglass",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Douglass",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Eastern Market",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Eastern Market",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Forest Park",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Forest Park",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 653547,
+    "totalVolume" : 8464760,
+    "count" : 754,
+    "maxHeight" : 84.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 11
+  }, {
+    "type" : "tertiary",
+    "count" : 48
+  }, {
+    "type" : "tertiary_link",
+    "count" : 16
+  }, {
+    "type" : "residential",
+    "count" : 145
+  }, {
+    "type" : "service",
+    "count" : 544
+  }, {
+    "type" : "path",
+    "count" : 62
+  }, {
+    "type" : "motorway",
+    "count" : 37
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 33
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 32
+  }, {
+    "type" : "secondary",
+    "count" : 38
+  }, {
+    "type" : "secondary_link",
+    "count" : 14
+  }, {
+    "type" : "steps",
+    "count" : 16
+  }, {
+    "type" : "tram",
+    "count" : 2
+  }, {
+    "type" : "rail",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 10
+  }, {
+    "type" : "disused",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 1421
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 172,
+    "max" : 208,
+    "diff50m" : 11
+  }
+}

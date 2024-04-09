@@ -1,0 +1,412 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 0.7954478
+  }, {
+    "type" : "wood",
+    "area" : 0.25970706
+  }, {
+    "type" : "residential",
+    "area" : 0.123295374
+  }, {
+    "type" : "commercial",
+    "area" : 0.031515528
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.02914201
+  }, {
+    "type" : "grass",
+    "area" : 0.02519092
+  }, {
+    "type" : "industrial",
+    "area" : 0.01837039
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.015692668
+  }, {
+    "type" : "park",
+    "area" : 0.015455672
+  }, {
+    "type" : "pitch",
+    "area" : 0.015047964
+  }, {
+    "type" : "yes",
+    "area" : 0.013982415
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 948
+  }, {
+    "type" : "road",
+    "count" : 526
+  }, {
+    "type" : "public_building",
+    "count" : 273
+  }, {
+    "type" : "restaurant",
+    "count" : 236
+  }, {
+    "type" : "training",
+    "count" : 192
+  }, {
+    "type" : "clinic",
+    "count" : 165
+  }, {
+    "type" : "apartments",
+    "count" : 147
+  }, {
+    "type" : "school",
+    "count" : 109
+  }, {
+    "type" : "atm",
+    "count" : 103
+  }, {
+    "type" : "toilets",
+    "count" : 99
+  }, {
+    "type" : "fast_food",
+    "count" : 99
+  }, {
+    "type" : "bank",
+    "count" : 84
+  }, {
+    "type" : "college",
+    "count" : 83
+  }, {
+    "type" : "library",
+    "count" : 60
+  }, {
+    "type" : "marketplace",
+    "count" : 53
+  }, {
+    "type" : "cafe",
+    "count" : 46
+  }, {
+    "type" : "food_court",
+    "count" : 42
+  }, {
+    "type" : "townhall",
+    "count" : 35
+  }, {
+    "type" : "social_facility",
+    "count" : 31
+  }, {
+    "type" : "hospital",
+    "count" : 27
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 26
+  }, {
+    "type" : "pharmacy",
+    "count" : 19
+  }, {
+    "type" : "police",
+    "count" : 16
+  }, {
+    "type" : "pub",
+    "count" : 15
+  }, {
+    "type" : "transportation",
+    "count" : 12
+  }, {
+    "type" : "commercial",
+    "count" : 7
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "西湖区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 908000,
+    "tags" : {
+      "name:wuu" : "西湖区",
+      "capital" : "6",
+      "gns:UNI" : "9346609",
+      "name:nan" : "Sai-ô͘-khu",
+      "name:hak" : "Sî-fù-khî",
+      "gns:DSG" : "ADM3",
+      "gns:UFI" : "9264838",
+      "name:ur" : "شیہو ضلع، ہانگژو",
+      "name:sv" : "Xihu",
+      "name:ko" : "시후구",
+      "name:it" : "Distretto di Xihu",
+      "name:en" : "Xihu District",
+      "place" : "city",
+      "wikipedia" : "en:Xihu District, Hangzhou",
+      "name:eu" : "Xihu",
+      "name:zh" : "西湖区",
+      "name:vi" : "Tây Hồ",
+      "name:ja" : "西湖区",
+      "gns:ADM1" : "02",
+      "population" : "908000",
+      "name:de" : "Xihu",
+      "name:no" : "Xihu",
+      "place:CN" : "district",
+      "name:yue" : "西湖區",
+      "name" : "西湖区",
+      "name:ceb" : "Xihu Qu",
+      "name:fr" : "Xihu",
+      "population:date" : "2019-11-01",
+      "name:zh-Hant" : "西湖區",
+      "name:zh_pinyin" : "Xīhú Qū"
+    }
+  }, {
+    "name" : "白沙泉",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "白沙泉",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "宝石社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "宝石社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "黄姑山社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "黄姑山社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "友谊社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "友谊社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "沿山河社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "沿山河社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "北山街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "北山街道",
+      "name:en" : "Beishan Subdistrict",
+      "place" : "town"
+    }
+  }, {
+    "name" : "上马塍社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "上马塍社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "曲院社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "曲院社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "栖霞岭社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "栖霞岭社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "上保社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "上保社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "松木场社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "松木场社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "金祝社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "金祝社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "西溪街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "西溪街道",
+      "name:en" : "Xixi",
+      "place" : "town"
+    }
+  }, {
+    "name" : "曙光社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "曙光社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "文三社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "文三社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "黄龙社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "黄龙社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "花园亭社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "花园亭社区",
+      "place" : "village"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 868589,
+    "totalVolume" : 11082971,
+    "count" : 1299,
+    "maxHeight" : 20.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 46
+  }, {
+    "type" : "service",
+    "count" : 217
+  }, {
+    "type" : "path",
+    "count" : 7
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 14
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 64
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 43
+  }, {
+    "type" : "unclassified",
+    "count" : 19
+  }, {
+    "type" : "footway",
+    "count" : 78
+  } ],
+  "elevation" : {
+    "min" : -2,
+    "max" : 122,
+    "diff50m" : 38
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

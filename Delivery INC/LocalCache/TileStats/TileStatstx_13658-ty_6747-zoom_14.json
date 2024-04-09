@@ -1,0 +1,164 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 2.0
+  }, {
+    "type" : "wood",
+    "area" : 0.78714335
+  }, {
+    "type" : "orchard",
+    "area" : 0.0828969
+  }, {
+    "type" : "residential",
+    "area" : 0.06112633
+  }, {
+    "type" : "commercial",
+    "area" : 0.022277592
+  }, {
+    "type" : "grass",
+    "area" : 0.013124456
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.011275182
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 312
+  }, {
+    "type" : "parking_space",
+    "count" : 82
+  }, {
+    "type" : "toilets",
+    "count" : 29
+  }, {
+    "type" : "restaurant",
+    "count" : 29
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "cafe",
+    "count" : 4
+  }, {
+    "type" : "public_building",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 4
+  }, {
+    "type" : "shelter",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "training",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "里鸡笼山",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "里鸡笼山",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "双峰村",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "双峰村",
+      "name:en" : "Shuangfeng",
+      "place" : "village",
+      "name:zh_pinyin" : "Shuāngfēng Cūn"
+    }
+  }, {
+    "name" : "双峰",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "双峰",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "饮马桥",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "饮马桥",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "外鸡笼山",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "外鸡笼山",
+      "place" : "hamlet"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 137709,
+    "totalVolume" : 1739668,
+    "count" : 684,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 15
+  }, {
+    "type" : "residential",
+    "count" : 25
+  }, {
+    "type" : "service",
+    "count" : 132
+  }, {
+    "type" : "path",
+    "count" : 34
+  }, {
+    "type" : "secondary",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 19
+  }, {
+    "type" : "unclassified",
+    "count" : 17
+  }, {
+    "type" : "footway",
+    "count" : 59
+  } ],
+  "elevation" : {
+    "min" : 8,
+    "max" : 264,
+    "diff50m" : 43
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

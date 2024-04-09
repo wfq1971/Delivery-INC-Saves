@@ -1,0 +1,293 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 1.0
+  }, {
+    "type" : "residential",
+    "area" : 0.18852314
+  }, {
+    "type" : "park",
+    "area" : 0.08014067
+  }, {
+    "type" : "yes",
+    "area" : 0.07644921
+  }, {
+    "type" : "wood",
+    "area" : 0.053173456
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.047549576
+  }, {
+    "type" : "railway",
+    "area" : 0.045311324
+  }, {
+    "type" : "parking",
+    "area" : 0.027609792
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.019506969
+  }, {
+    "type" : "stadium",
+    "area" : 0.018085744
+  }, {
+    "type" : "commercial",
+    "area" : 0.013989873
+  }, {
+    "type" : "pitch",
+    "area" : 0.011907639
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 919
+  }, {
+    "type" : "residential",
+    "count" : 568
+  }, {
+    "type" : "apartments",
+    "count" : 488
+  }, {
+    "type" : "commercial",
+    "count" : 145
+  }, {
+    "type" : "school",
+    "count" : 24
+  }, {
+    "type" : "retail",
+    "count" : 21
+  }, {
+    "type" : "public",
+    "count" : 16
+  }, {
+    "type" : "office",
+    "count" : 14
+  }, {
+    "type" : "doctors",
+    "count" : 13
+  }, {
+    "type" : "restaurant",
+    "count" : 13
+  }, {
+    "type" : "house",
+    "count" : 11
+  }, {
+    "type" : "bench",
+    "count" : 11
+  }, {
+    "type" : "prep_school",
+    "count" : 11
+  }, {
+    "type" : "toilets",
+    "count" : 10
+  }, {
+    "type" : "pharmacy",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "parking_entrance",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "fuel",
+    "count" : 7
+  }, {
+    "type" : "cafe",
+    "count" : 7
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "dentist",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "veterinary",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "dojo",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "terrace",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "stadium",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "parkingbuilding",
+    "count" : 1
+  }, {
+    "type" : "fast_food;cafe",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "중동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "중동",
+      "name:ko-Latn" : "Jung-dong",
+      "name:el" : "Τζούνγκ-ντονγκ",
+      "name" : "중동",
+      "name:en" : "Jung-dong",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "성산동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "성산동",
+      "name:ko-Latn" : "Seongsan-dong",
+      "name:el" : "Σόνγκσαν-ντονγκ",
+      "name:ja" : "城山洞",
+      "name" : "성산동",
+      "name:en" : "Seongsan-dong",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 581656,
+    "totalVolume" : 13172623,
+    "count" : 2483,
+    "maxHeight" : 140.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 18
+  }, {
+    "type" : "tertiary",
+    "count" : 15
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 200
+  }, {
+    "type" : "service",
+    "count" : 237
+  }, {
+    "type" : "path",
+    "count" : 51
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "primary",
+    "count" : 35
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 57
+  }, {
+    "type" : "secondary_link",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 17
+  }, {
+    "type" : "rail",
+    "count" : 120
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 129
+  }, {
+    "type" : "trunk_link",
+    "count" : 5
+  }, {
+    "type" : "primary_link",
+    "count" : 12
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 1,
+    "max" : 80,
+    "diff50m" : 21
+  }
+}

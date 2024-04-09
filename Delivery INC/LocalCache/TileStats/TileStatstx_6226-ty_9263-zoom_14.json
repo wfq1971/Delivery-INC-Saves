@@ -1,0 +1,398 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.18659171
+  }, {
+    "type" : "commercial",
+    "area" : 0.15751357
+  }, {
+    "type" : "retail",
+    "area" : 0.069915995
+  }, {
+    "type" : "park",
+    "area" : 0.05480415
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.031648435
+  }, {
+    "type" : "railway",
+    "area" : 0.014158427
+  }, {
+    "type" : "parking",
+    "area" : 0.013979726
+  }, {
+    "type" : "yes",
+    "area" : 0.012200741
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1903
+  }, {
+    "type" : "restaurant",
+    "count" : 132
+  }, {
+    "type" : "commercial",
+    "count" : 81
+  }, {
+    "type" : "bank",
+    "count" : 76
+  }, {
+    "type" : "fast_food",
+    "count" : 67
+  }, {
+    "type" : "pub",
+    "count" : 50
+  }, {
+    "type" : "roof",
+    "count" : 47
+  }, {
+    "type" : "residential",
+    "count" : 42
+  }, {
+    "type" : "school",
+    "count" : 42
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 36
+  }, {
+    "type" : "cafe",
+    "count" : 30
+  }, {
+    "type" : "apartments",
+    "count" : 27
+  }, {
+    "type" : "pharmacy",
+    "count" : 26
+  }, {
+    "type" : "office",
+    "count" : 26
+  }, {
+    "type" : "telephone",
+    "count" : 25
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 24
+  }, {
+    "type" : "bench",
+    "count" : 24
+  }, {
+    "type" : "parking",
+    "count" : 24
+  }, {
+    "type" : "bar",
+    "count" : 21
+  }, {
+    "type" : "grandstand",
+    "count" : 20
+  }, {
+    "type" : "place_of_worship",
+    "count" : 19
+  }, {
+    "type" : "church",
+    "count" : 15
+  }, {
+    "type" : "house",
+    "count" : 14
+  }, {
+    "type" : "toilets",
+    "count" : 14
+  }, {
+    "type" : "police",
+    "count" : 13
+  }, {
+    "type" : "taxi",
+    "count" : 12
+  }, {
+    "type" : "theatre",
+    "count" : 10
+  }, {
+    "type" : "university",
+    "count" : 10
+  }, {
+    "type" : "waste_disposal",
+    "count" : 10
+  }, {
+    "type" : "public",
+    "count" : 7
+  }, {
+    "type" : "arts_centre",
+    "count" : 7
+  }, {
+    "type" : "nightclub",
+    "count" : 6
+  }, {
+    "type" : "transportation",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "fuel",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 5
+  }, {
+    "type" : "clinic",
+    "count" : 5
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 4
+  }, {
+    "type" : "waste_basket",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "language_school",
+    "count" : 3
+  }, {
+    "type" : "driving_school",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "brothel",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "love_hotel",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "carport",
+    "count" : 2
+  }, {
+    "type" : "station",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "hostel",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "flats",
+    "count" : 1
+  }, {
+    "type" : "organic;fast_food",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "military",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "supermarket",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "store",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "abandoned",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Bairro de Fátima",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Bairro de Fátima",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Saara",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Saara",
+      "description" : "open-air street market",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Gamboa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 13108,
+    "tags" : {
+      "name" : "Gamboa",
+      "place" : "suburb",
+      "wikipedia" : "pt:Gamboa (Rio de Janeiro)",
+      "population" : "13108"
+    }
+  }, {
+    "name" : "Centro",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 41142,
+    "tags" : {
+      "name" : "Centro",
+      "place" : "suburb",
+      "wikipedia" : "pt:Centro (Rio de Janeiro)",
+      "population" : "41142"
+    }
+  }, {
+    "name" : "Lapa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Lapa",
+      "place" : "suburb",
+      "wikipedia" : "pt:Lapa (bairro do Rio de Janeiro)"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2034949,
+    "totalVolume" : 37950902,
+    "count" : 11245,
+    "maxHeight" : 152.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 136
+  }, {
+    "type" : "light_rail",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 241
+  }, {
+    "type" : "service",
+    "count" : 353
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 90
+  }, {
+    "type" : "primary",
+    "count" : 132
+  }, {
+    "type" : "subway",
+    "count" : 15
+  }, {
+    "type" : "living_street",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 140
+  }, {
+    "type" : "secondary_link",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 61
+  }, {
+    "type" : "tram",
+    "count" : 51
+  }, {
+    "type" : "rail",
+    "count" : 67
+  }, {
+    "type" : "unclassified",
+    "count" : 51
+  }, {
+    "type" : "disused",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 495
+  }, {
+    "type" : "primary_link",
+    "count" : 35
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 115,
+    "diff50m" : 44
+  }
+}

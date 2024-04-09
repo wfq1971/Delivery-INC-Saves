@@ -1,0 +1,527 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.5677117
+  }, {
+    "type" : "residential",
+    "area" : 0.079967365
+  }, {
+    "type" : "park",
+    "area" : 0.047160223
+  }, {
+    "type" : "grass",
+    "area" : 0.034413464
+  }, {
+    "type" : "retail",
+    "area" : 0.03072235
+  }, {
+    "type" : "construction",
+    "area" : 0.020294717
+  }, {
+    "type" : "military",
+    "area" : 0.019489897
+  }, {
+    "type" : "wood",
+    "area" : 0.01581435
+  }, {
+    "type" : "institutional",
+    "area" : 0.012695409
+  }, {
+    "type" : "parking",
+    "area" : 0.011625492
+  }, {
+    "type" : "religious",
+    "area" : 0.011300241
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2820
+  }, {
+    "type" : "bench",
+    "count" : 122
+  }, {
+    "type" : "restaurant",
+    "count" : 118
+  }, {
+    "type" : "cafe",
+    "count" : 107
+  }, {
+    "type" : "office",
+    "count" : 90
+  }, {
+    "type" : "bar",
+    "count" : 75
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 74
+  }, {
+    "type" : "waste_basket",
+    "count" : 63
+  }, {
+    "type" : "fast_food",
+    "count" : 61
+  }, {
+    "type" : "apartments",
+    "count" : 57
+  }, {
+    "type" : "service",
+    "count" : 45
+  }, {
+    "type" : "retail",
+    "count" : 41
+  }, {
+    "type" : "commercial",
+    "count" : 28
+  }, {
+    "type" : "atm",
+    "count" : 27
+  }, {
+    "type" : "clinic",
+    "count" : 27
+  }, {
+    "type" : "vending_machine",
+    "count" : 27
+  }, {
+    "type" : "waste_disposal",
+    "count" : 26
+  }, {
+    "type" : "pharmacy",
+    "count" : 24
+  }, {
+    "type" : "bank",
+    "count" : 23
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 17
+  }, {
+    "type" : "pub",
+    "count" : 17
+  }, {
+    "type" : "construction",
+    "count" : 16
+  }, {
+    "type" : "church",
+    "count" : 15
+  }, {
+    "type" : "toilets",
+    "count" : 15
+  }, {
+    "type" : "university",
+    "count" : 12
+  }, {
+    "type" : "dentist",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "place_of_worship",
+    "count" : 10
+  }, {
+    "type" : "post_box",
+    "count" : 10
+  }, {
+    "type" : "nightclub",
+    "count" : 10
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 8
+  }, {
+    "type" : "clock",
+    "count" : 8
+  }, {
+    "type" : "payment_terminal",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 6
+  }, {
+    "type" : "community_centre",
+    "count" : 6
+  }, {
+    "type" : "wall",
+    "count" : 6
+  }, {
+    "type" : "hotel",
+    "count" : 6
+  }, {
+    "type" : "training",
+    "count" : 6
+  }, {
+    "type" : "language_school",
+    "count" : 5
+  }, {
+    "type" : "coworking_space",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 5
+  }, {
+    "type" : "charging_station",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "government",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 4
+  }, {
+    "type" : "bridge",
+    "count" : 4
+  }, {
+    "type" : "food_court",
+    "count" : 4
+  }, {
+    "type" : "stripclub",
+    "count" : 4
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 4
+  }, {
+    "type" : "courthouse",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "kiosk",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "love_hotel",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "ruins",
+    "count" : 2
+  }, {
+    "type" : "security_booth",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "grandstand",
+    "count" : 2
+  }, {
+    "type" : "studio",
+    "count" : 2
+  }, {
+    "type" : "device_charging_station",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "smoking_area",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "photo_lab",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "military",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "brothel",
+    "count" : 1
+  }, {
+    "type" : "gazebo",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "18",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "13",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "20-24",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "12",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "11",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "10",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "62",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "2",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "5",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "8",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "7",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "15",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "4",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "14",
+      "place" : "quarter",
+      "start_date" : "1781"
+    }
+  }, {
+    "name" : "Китай-город",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:be" : "Китай-горад",
+      "name:de" : "Kitai-Gorod",
+      "name:uk" : "Китай-город",
+      "name" : "Китай-город",
+      "name:fr" : "Kitaï-gorod",
+      "name:pl" : "Kitajgród",
+      "description" : "исторический район",
+      "name:en" : "Kitay-gorod",
+      "place" : "neighbourhood",
+      "wikipedia" : "ru:Китай-город"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "6",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "ref" : "9",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1162478,
+    "totalVolume" : 20764617,
+    "count" : 1596,
+    "maxHeight" : 71.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 32
+  }, {
+    "type" : "residential",
+    "count" : 10
+  }, {
+    "type" : "service",
+    "count" : 1006
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 28
+  }, {
+    "type" : "primary",
+    "count" : 20
+  }, {
+    "type" : "subway",
+    "count" : 41
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 45
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 216
+  }, {
+    "type" : "unclassified",
+    "count" : 87
+  }, {
+    "type" : "footway",
+    "count" : 1329
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 127,
+    "max" : 177,
+    "diff50m" : 9
+  }
+}

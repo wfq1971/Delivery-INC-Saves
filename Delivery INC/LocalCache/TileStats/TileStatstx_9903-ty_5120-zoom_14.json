@@ -1,0 +1,328 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.5606703
+  }, {
+    "type" : "commercial",
+    "area" : 0.14156008
+  }, {
+    "type" : "park",
+    "area" : 0.09220898
+  }, {
+    "type" : "wood",
+    "area" : 0.043528754
+  }, {
+    "type" : "grass",
+    "area" : 0.040298346
+  }, {
+    "type" : "police",
+    "area" : 0.015737439
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3098
+  }, {
+    "type" : "apartments",
+    "count" : 190
+  }, {
+    "type" : "bench",
+    "count" : 176
+  }, {
+    "type" : "restaurant",
+    "count" : 92
+  }, {
+    "type" : "cafe",
+    "count" : 87
+  }, {
+    "type" : "commercial",
+    "count" : 82
+  }, {
+    "type" : "waste_disposal",
+    "count" : 51
+  }, {
+    "type" : "office",
+    "count" : 50
+  }, {
+    "type" : "service",
+    "count" : 50
+  }, {
+    "type" : "bar",
+    "count" : 49
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 43
+  }, {
+    "type" : "fast_food",
+    "count" : 34
+  }, {
+    "type" : "waste_basket",
+    "count" : 29
+  }, {
+    "type" : "clinic",
+    "count" : 27
+  }, {
+    "type" : "dentist",
+    "count" : 26
+  }, {
+    "type" : "bank",
+    "count" : 23
+  }, {
+    "type" : "vending_machine",
+    "count" : 22
+  }, {
+    "type" : "parking_entrance",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 18
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "school",
+    "count" : 15
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 13
+  }, {
+    "type" : "church",
+    "count" : 11
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 11
+  }, {
+    "type" : "theatre",
+    "count" : 11
+  }, {
+    "type" : "university",
+    "count" : 10
+  }, {
+    "type" : "kindergarten",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "pub",
+    "count" : 9
+  }, {
+    "type" : "payment_terminal",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "retail",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 8
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "nightclub",
+    "count" : 7
+  }, {
+    "type" : "garages",
+    "count" : 7
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 7
+  }, {
+    "type" : "training",
+    "count" : 6
+  }, {
+    "type" : "fountain",
+    "count" : 6
+  }, {
+    "type" : "garage",
+    "count" : 5
+  }, {
+    "type" : "charging_station",
+    "count" : 4
+  }, {
+    "type" : "gazebo",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 4
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "stripclub",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "ruins",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "kick-scooter_parking",
+    "count" : 1
+  }, {
+    "type" : "love_hotel",
+    "count" : 1
+  }, {
+    "type" : "public_service",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "guardhouse",
+    "count" : 1
+  }, {
+    "type" : "dancing_school",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Тверской",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Тверской",
+      "alt_name" : "муниципальный округ Тверской",
+      "name" : "Тверской",
+      "description" : "внутригородская территория города федерального значения",
+      "name:en" : "Tverskoy",
+      "place" : "suburb",
+      "wikipedia" : "ru:Тверской район (Москва)"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 834679,
+    "totalVolume" : 15841106,
+    "count" : 1469,
+    "maxHeight" : 68.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 6
+  }, {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 34
+  }, {
+    "type" : "service",
+    "count" : 1116
+  }, {
+    "type" : "path",
+    "count" : 6
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 76
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 41
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 162
+  }, {
+    "type" : "unclassified",
+    "count" : 39
+  }, {
+    "type" : "footway",
+    "count" : 1583
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 146,
+    "max" : 180,
+    "diff50m" : 9
+  }
+}

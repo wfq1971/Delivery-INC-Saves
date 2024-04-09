@@ -1,0 +1,83 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.94991374
+  }, {
+    "type" : "marina",
+    "area" : 0.45923597
+  }, {
+    "type" : "water_works",
+    "area" : 0.022236992
+  }, {
+    "type" : "retail",
+    "area" : 0.019514315
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 83
+  }, {
+    "type" : "bench",
+    "count" : 24
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 5
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "loading_dock",
+    "count" : 1
+  }, {
+    "type" : "restaurant",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 141650,
+    "totalVolume" : 1200962,
+    "count" : 34,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "service",
+    "count" : 28
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 30
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 18
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 170,
+    "max" : 192,
+    "diff50m" : 16
+  }
+}

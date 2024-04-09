@@ -1,0 +1,360 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.6381453
+  }, {
+    "type" : "cemetery",
+    "area" : 0.061699852
+  }, {
+    "type" : "commercial",
+    "area" : 0.056092095
+  }, {
+    "type" : "park",
+    "area" : 0.038477104
+  }, {
+    "type" : "grass",
+    "area" : 0.02777075
+  }, {
+    "type" : "parking",
+    "area" : 0.021295963
+  }, {
+    "type" : "playground",
+    "area" : 0.01760798
+  }, {
+    "type" : "construction",
+    "area" : 0.0120466305
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2451
+  }, {
+    "type" : "residential",
+    "count" : 921
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 437
+  }, {
+    "type" : "apartments",
+    "count" : 424
+  }, {
+    "type" : "bench",
+    "count" : 156
+  }, {
+    "type" : "restaurant",
+    "count" : 130
+  }, {
+    "type" : "waste_basket",
+    "count" : 120
+  }, {
+    "type" : "cafe",
+    "count" : 74
+  }, {
+    "type" : "vending_machine",
+    "count" : 61
+  }, {
+    "type" : "commercial",
+    "count" : 50
+  }, {
+    "type" : "atm",
+    "count" : 36
+  }, {
+    "type" : "fast_food",
+    "count" : 31
+  }, {
+    "type" : "pub",
+    "count" : 29
+  }, {
+    "type" : "bar",
+    "count" : 25
+  }, {
+    "type" : "parking_entrance",
+    "count" : 24
+  }, {
+    "type" : "school",
+    "count" : 23
+  }, {
+    "type" : "post_box",
+    "count" : 21
+  }, {
+    "type" : "kindergarten",
+    "count" : 21
+  }, {
+    "type" : "recycling",
+    "count" : 20
+  }, {
+    "type" : "office",
+    "count" : 19
+  }, {
+    "type" : "hotel",
+    "count" : 18
+  }, {
+    "type" : "retail",
+    "count" : 16
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 16
+  }, {
+    "type" : "service",
+    "count" : 15
+  }, {
+    "type" : "telephone",
+    "count" : 11
+  }, {
+    "type" : "doctors",
+    "count" : 10
+  }, {
+    "type" : "charging_station",
+    "count" : 8
+  }, {
+    "type" : "house",
+    "count" : 8
+  }, {
+    "type" : "pharmacy",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 7
+  }, {
+    "type" : "industrial",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "dentist",
+    "count" : 6
+  }, {
+    "type" : "fountain",
+    "count" : 6
+  }, {
+    "type" : "nightclub",
+    "count" : 6
+  }, {
+    "type" : "shed",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "events_venue",
+    "count" : 5
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "clock",
+    "count" : 5
+  }, {
+    "type" : "church",
+    "count" : 5
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "music_school",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "garages",
+    "count" : 3
+  }, {
+    "type" : "chapel",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "dog_station",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "brothel",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "viaduct",
+    "count" : 2
+  }, {
+    "type" : "sports_hall",
+    "count" : 2
+  }, {
+    "type" : "religious",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "sports_centre",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "water_tower",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "electricity",
+    "count" : 1
+  }, {
+    "type" : "tutoring",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "workshop",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "student_accommodation",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Barnimkiez",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Barnimkiez",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Scheunenviertel",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Scheunenviertel",
+      "place" : "neighbourhood",
+      "wikipedia" : "de:Scheunenviertel (Berlin)"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 778201,
+    "totalVolume" : 16817943,
+    "count" : 2076,
+    "maxHeight" : 125.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 45
+  }, {
+    "type" : "tertiary",
+    "count" : 46
+  }, {
+    "type" : "light_rail",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 245
+  }, {
+    "type" : "service",
+    "count" : 573
+  }, {
+    "type" : "path",
+    "count" : 16
+  }, {
+    "type" : "pedestrian",
+    "count" : 4
+  }, {
+    "type" : "primary",
+    "count" : 126
+  }, {
+    "type" : "subway",
+    "count" : 14
+  }, {
+    "type" : "secondary",
+    "count" : 43
+  }, {
+    "type" : "steps",
+    "count" : 46
+  }, {
+    "type" : "tram",
+    "count" : 88
+  }, {
+    "type" : "rail",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 7
+  }, {
+    "type" : "footway",
+    "count" : 1180
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 35,
+    "max" : 68,
+    "diff50m" : 10
+  }
+}

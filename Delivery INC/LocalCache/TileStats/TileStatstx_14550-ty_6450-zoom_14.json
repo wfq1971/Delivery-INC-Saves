@@ -1,0 +1,656 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.054047506
+  }, {
+    "type" : "residential",
+    "area" : 0.037240077
+  }, {
+    "type" : "pitch",
+    "area" : 0.022368547
+  }, {
+    "type" : "wood",
+    "area" : 0.019378962
+  }, {
+    "type" : "yes",
+    "area" : 0.017164808
+  }, {
+    "type" : "parking",
+    "area" : 0.015194257
+  }, {
+    "type" : "commercial",
+    "area" : 0.012266805
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1816
+  }, {
+    "type" : "restaurant",
+    "count" : 182
+  }, {
+    "type" : "apartments",
+    "count" : 136
+  }, {
+    "type" : "bench",
+    "count" : 64
+  }, {
+    "type" : "university",
+    "count" : 50
+  }, {
+    "type" : "bar",
+    "count" : 45
+  }, {
+    "type" : "cafe",
+    "count" : 41
+  }, {
+    "type" : "pharmacy",
+    "count" : 39
+  }, {
+    "type" : "place_of_worship",
+    "count" : 37
+  }, {
+    "type" : "fast_food",
+    "count" : 32
+  }, {
+    "type" : "social_facility",
+    "count" : 25
+  }, {
+    "type" : "pub",
+    "count" : 24
+  }, {
+    "type" : "vending_machine",
+    "count" : 18
+  }, {
+    "type" : "school",
+    "count" : 18
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 18
+  }, {
+    "type" : "temple",
+    "count" : 17
+  }, {
+    "type" : "post_box",
+    "count" : 16
+  }, {
+    "type" : "kindergarten",
+    "count" : 16
+  }, {
+    "type" : "telephone",
+    "count" : 15
+  }, {
+    "type" : "dentist",
+    "count" : 14
+  }, {
+    "type" : "doctors",
+    "count" : 13
+  }, {
+    "type" : "parking",
+    "count" : 13
+  }, {
+    "type" : "post_office",
+    "count" : 13
+  }, {
+    "type" : "toilets",
+    "count" : 11
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "house",
+    "count" : 9
+  }, {
+    "type" : "atm",
+    "count" : 9
+  }, {
+    "type" : "drinking_water",
+    "count" : 9
+  }, {
+    "type" : "parking_entrance",
+    "count" : 9
+  }, {
+    "type" : "commercial",
+    "count" : 9
+  }, {
+    "type" : "dormitory",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 7
+  }, {
+    "type" : "office",
+    "count" : 7
+  }, {
+    "type" : "clock",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "detached",
+    "count" : 7
+  }, {
+    "type" : "shower",
+    "count" : 6
+  }, {
+    "type" : "brothel",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 6
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "hotel",
+    "count" : 5
+  }, {
+    "type" : "bank",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "prep_school",
+    "count" : 4
+  }, {
+    "type" : "internet_cafe",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "love_hotel",
+    "count" : 2
+  }, {
+    "type" : "car_sharing",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "swingerclub",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  }, {
+    "type" : "music",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "karaoke_box",
+    "count" : 1
+  }, {
+    "type" : "brothal",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "歌舞伎町",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "歌舞伎町",
+      "is_in" : "新宿区",
+      "name" : "歌舞伎町",
+      "name:en" : "Kabukicho",
+      "name:ja_rm" : "Kabukicho",
+      "place" : "quarter",
+      "name:ja-Hira" : "かぶきちょう",
+      "name:eu" : "Kabukicho"
+    }
+  }, {
+    "name" : "新宿五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿五丁目",
+      "name" : "新宿五丁目",
+      "name:en" : "Shinjuku 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく5ちょうめ"
+    }
+  }, {
+    "name" : "市谷台町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "市谷台町",
+      "name" : "市谷台町",
+      "name:en" : "Ichigaya-Daimachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちがやだいまち"
+    }
+  }, {
+    "name" : "住吉町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "住吉町",
+      "name" : "住吉町",
+      "name:en" : "Sumiyoshicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "すみよしちょう"
+    }
+  }, {
+    "name" : "歌舞伎町二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "歌舞伎町2丁目;歌舞伎町二;歌舞伎町2",
+      "name:ja" : "歌舞伎町二丁目",
+      "name" : "歌舞伎町二丁目",
+      "name:en" : "Kabukicho 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かぶきちょう2ちょうめ"
+    }
+  }, {
+    "name" : "大久保一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大久保一丁目",
+      "name" : "大久保一丁目",
+      "name:en" : "Okubo 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおくぼ1ちょうめ"
+    }
+  }, {
+    "name" : "新宿六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿六丁目",
+      "name" : "新宿六丁目",
+      "name:en" : "Shinjuku 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく6ちょうめ"
+    }
+  }, {
+    "name" : "大久保二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大久保二丁目",
+      "name" : "大久保二丁目",
+      "name:en" : "Okubo 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおくぼ2ちょうめ"
+    }
+  }, {
+    "name" : "戸山二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "戸山二丁目",
+      "name" : "戸山二丁目",
+      "name:en" : "Toyama 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とやま2ちょうめ"
+    }
+  }, {
+    "name" : "河田町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "河田町",
+      "name" : "河田町",
+      "name:en" : "Kawadacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かわだちょう"
+    }
+  }, {
+    "name" : "市谷仲之町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "市谷仲之町",
+      "name" : "市谷仲之町",
+      "name:en" : "Ichigaya-Nakanocho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちがやなかのちょう"
+    }
+  }, {
+    "name" : "喜久井町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "喜久井町",
+      "name" : "喜久井町",
+      "name:en" : "Kikuicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "きくいちょう"
+    }
+  }, {
+    "name" : "早稲田南町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "早稲田南町",
+      "name" : "早稲田南町",
+      "name:en" : "Waseda-Minamicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わせだみなみちょう"
+    }
+  }, {
+    "name" : "西早稲田二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西早稲田二丁目",
+      "name" : "西早稲田二丁目",
+      "name:en" : "Nishi-Waseda 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしわせだ2ちょうめ"
+    }
+  }, {
+    "name" : "馬場下町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "馬場下町",
+      "name" : "馬場下町",
+      "name:en" : "Babashitacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ばばしたちょう"
+    }
+  }, {
+    "name" : "早稲田町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "早稲田町",
+      "name" : "早稲田町",
+      "name:en" : "Wasedamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わせだまち"
+    }
+  }, {
+    "name" : "戸塚町一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "戸塚町一丁目",
+      "name" : "戸塚町一丁目",
+      "name:en" : "Totsukamachi 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とつかまち1ちょうめ"
+    }
+  }, {
+    "name" : "新宿区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 337556,
+    "tags" : {
+      "name:th" : "เขตชินจูกุ",
+      "capital" : "4",
+      "name:ja" : "新宿区",
+      "name:uk" : "Сіндзюку",
+      "name:ja-Latn" : "Shinjuku-ku",
+      "name:pl" : "Shinjuku",
+      "name:ja-Hira" : "しんじゅくく",
+      "population" : "337556",
+      "name:ru" : "Синдзюку",
+      "name:ko" : "신주쿠구",
+      "name:mr" : "शिंजुकू",
+      "name" : "新宿区",
+      "name:it" : "Shinjuku",
+      "name:fr" : "Shinjuku",
+      "name:en" : "Shinjuku",
+      "place" : "city",
+      "wikipedia" : "ja:新宿区",
+      "name:zh-Hans" : "新宿区",
+      "name:cs" : "Šindžuku",
+      "name:zh-Hant" : "新宿區",
+      "name:es" : "Shinjuku",
+      "name:zh" : "新宿区/新宿區"
+    }
+  }, {
+    "name" : "富久町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "富久町",
+      "name" : "富久町",
+      "name:en" : "Tomihisacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とみひさちょう"
+    }
+  }, {
+    "name" : "原町三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "原町三丁目",
+      "name" : "原町三丁目",
+      "name:en" : "Haramachi 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "はらまち3ちょうめ"
+    }
+  }, {
+    "name" : "大久保三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大久保三丁目",
+      "name" : "大久保三丁目",
+      "name:en" : "Okubo 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおくぼ3ちょうめ"
+    }
+  }, {
+    "name" : "新宿七丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿七丁目",
+      "name" : "新宿七丁目",
+      "name:en" : "Shinjuku 7-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく7ちょうめ"
+    }
+  }, {
+    "name" : "大久保",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大久保",
+      "name" : "大久保",
+      "name:en" : "Okubo",
+      "place" : "quarter",
+      "wikipedia" : "en:Ōkubo, Tokyo"
+    }
+  }, {
+    "name" : "余丁町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "余丁町",
+      "name" : "余丁町",
+      "name:en" : "Yochomachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よちょうまち"
+    }
+  }, {
+    "name" : "若松町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "若松町",
+      "name" : "若松町",
+      "name:en" : "Wakamatsucho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わかまつちょう"
+    }
+  }, {
+    "name" : "戸山一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "戸山一丁目",
+      "name" : "戸山一丁目",
+      "name:en" : "Toyama 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とやま1ちょうめ"
+    }
+  }, {
+    "name" : "戸山三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "戸山三丁目",
+      "name" : "戸山三丁目",
+      "name:en" : "Toyama 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とやま3ちょうめ"
+    }
+  }, {
+    "name" : "西早稲田一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西早稲田一丁目",
+      "name" : "西早稲田一丁目",
+      "name:en" : "Nishi-Waseda 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしわせだ1ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1554487,
+    "totalVolume" : 21093066,
+    "count" : 11104,
+    "maxHeight" : 148.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 39
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 436
+  }, {
+    "type" : "service",
+    "count" : 280
+  }, {
+    "type" : "path",
+    "count" : 82
+  }, {
+    "type" : "pedestrian",
+    "count" : 23
+  }, {
+    "type" : "primary",
+    "count" : 64
+  }, {
+    "type" : "subway",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 13
+  }, {
+    "type" : "steps",
+    "count" : 88
+  }, {
+    "type" : "rail",
+    "count" : 23
+  }, {
+    "type" : "unclassified",
+    "count" : 131
+  }, {
+    "type" : "footway",
+    "count" : 623
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 11,
+    "max" : 57,
+    "diff50m" : 19
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.9986774
+  }, {
+    "type" : "marina",
+    "area" : 0.46787655
+  } ],
+  "amenities" : [ ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 0,
+    "totalVolume" : 0,
+    "count" : 0,
+    "maxHeight" : 0.0
+  },
+  "roads" : [ ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 174,
+    "max" : 180,
+    "diff50m" : 4
+  }
+}

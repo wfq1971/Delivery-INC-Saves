@@ -1,0 +1,147 @@
+{
+  "landusages" : [ {
+    "type" : "construction",
+    "area" : 0.118724346
+  }, {
+    "type" : "park",
+    "area" : 0.107689664
+  }, {
+    "type" : "forest",
+    "area" : 0.061782405
+  }, {
+    "type" : "residential",
+    "area" : 0.03767645
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.025743816
+  }, {
+    "type" : "village_green",
+    "area" : 0.022838615
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.01921157
+  }, {
+    "type" : "yes",
+    "area" : 0.015123528
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 381
+  }, {
+    "type" : "apartments",
+    "count" : 41
+  }, {
+    "type" : "residential",
+    "count" : 10
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "gymnasium",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "永定门外街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "subdistrict",
+      "name" : "永定门外街道",
+      "name:en" : "Yongdingmenwai",
+      "place" : "suburb",
+      "name:zh" : "永定门外街道",
+      "division_code" : "110101017000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 436854,
+    "totalVolume" : 5023804,
+    "count" : 502,
+    "maxHeight" : 64.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 15
+  }, {
+    "type" : "tertiary",
+    "count" : 54
+  }, {
+    "type" : "tertiary_link",
+    "count" : 17
+  }, {
+    "type" : "residential",
+    "count" : 37
+  }, {
+    "type" : "service",
+    "count" : 27
+  }, {
+    "type" : "trunk",
+    "count" : 26
+  }, {
+    "type" : "primary",
+    "count" : 9
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 2
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 10
+  }, {
+    "type" : "rail",
+    "count" : 28
+  }, {
+    "type" : "unclassified",
+    "count" : 11
+  }, {
+    "type" : "footway",
+    "count" : 94
+  }, {
+    "type" : "trunk_link",
+    "count" : 41
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 33,
+    "max" : 60,
+    "diff50m" : 10
+  }
+}

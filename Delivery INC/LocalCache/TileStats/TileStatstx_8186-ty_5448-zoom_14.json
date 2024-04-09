@@ -1,0 +1,724 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.1974553
+  }, {
+    "type" : "park",
+    "area" : 0.09454502
+  }, {
+    "type" : "governmental",
+    "area" : 0.08287836
+  }, {
+    "type" : "residential",
+    "area" : 0.06839364
+  }, {
+    "type" : "yes",
+    "area" : 0.058761586
+  }, {
+    "type" : "grass",
+    "area" : 0.021026433
+  }, {
+    "type" : "garden",
+    "area" : 0.019039808
+  }, {
+    "type" : "retail",
+    "area" : 0.01608013
+  }, {
+    "type" : "parking",
+    "area" : 0.015319933
+  }, {
+    "type" : "wood",
+    "area" : 0.014493955
+  }, {
+    "type" : "bridge",
+    "area" : 0.011174439
+  }, {
+    "type" : "construction",
+    "area" : 0.010309878
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3145
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 212
+  }, {
+    "type" : "apartments",
+    "count" : 108
+  }, {
+    "type" : "house",
+    "count" : 100
+  }, {
+    "type" : "telephone",
+    "count" : 73
+  }, {
+    "type" : "restaurant",
+    "count" : 69
+  }, {
+    "type" : "cafe",
+    "count" : 61
+  }, {
+    "type" : "bench",
+    "count" : 42
+  }, {
+    "type" : "fast_food",
+    "count" : 32
+  }, {
+    "type" : "post_box",
+    "count" : 31
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 27
+  }, {
+    "type" : "office",
+    "count" : 27
+  }, {
+    "type" : "commercial",
+    "count" : 26
+  }, {
+    "type" : "atm",
+    "count" : 19
+  }, {
+    "type" : "pub",
+    "count" : 18
+  }, {
+    "type" : "bar",
+    "count" : 16
+  }, {
+    "type" : "waste_basket",
+    "count" : 14
+  }, {
+    "type" : "hut",
+    "count" : 14
+  }, {
+    "type" : "residential",
+    "count" : 14
+  }, {
+    "type" : "school",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 11
+  }, {
+    "type" : "terrace",
+    "count" : 11
+  }, {
+    "type" : "drinking_water",
+    "count" : 9
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "hospital",
+    "count" : 9
+  }, {
+    "type" : "air_shaft",
+    "count" : 9
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "university",
+    "count" : 7
+  }, {
+    "type" : "retail",
+    "count" : 7
+  }, {
+    "type" : "train_station",
+    "count" : 6
+  }, {
+    "type" : "theatre",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "fountain",
+    "count" : 5
+  }, {
+    "type" : "kiosk",
+    "count" : 5
+  }, {
+    "type" : "grit_bin",
+    "count" : 5
+  }, {
+    "type" : "car_sharing",
+    "count" : 5
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "parking_space",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "recycling",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "bridge",
+    "count" : 3
+  }, {
+    "type" : "dormitory",
+    "count" : 3
+  }, {
+    "type" : "flats",
+    "count" : 3
+  }, {
+    "type" : "photo_booth",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "ship",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "lost_property",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "barn",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "block",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "police_station",
+    "count" : 1
+  }, {
+    "type" : "arch",
+    "count" : 1
+  }, {
+    "type" : "retail;yes",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "trade_union",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "ventilation_shaft",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "water_point",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "vacant",
+    "count" : 1
+  }, {
+    "type" : "electricity",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "plinth",
+    "count" : 1
+  }, {
+    "type" : "container",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Lambeth Reach",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Lambeth Reach",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Westminster",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "note" : "The area named Westminster is distinct from the wider City of Westminster",
+      "name" : "Westminster",
+      "place" : "quarter",
+      "wikipedia" : "en:Westminster"
+    }
+  }, {
+    "name" : "Whitehall",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Westminster, London",
+      "name" : "Whitehall",
+      "name:en" : "Whitehall",
+      "place" : "locality",
+      "wikipedia" : "en:Whitehall",
+      "name:he" : "וייטהול",
+      "name:zh" : "白廳"
+    }
+  }, {
+    "name" : "Waterloo",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Lambeth, London",
+      "name" : "Waterloo",
+      "place" : "suburb",
+      "wikipedia" : "en:Waterloo, London",
+      "phonetic:en" : "/ˌwɔːtəˈluː/"
+    }
+  }, {
+    "name" : "Lambeth",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Lambeth, London",
+      "name" : "Lambeth",
+      "place" : "suburb",
+      "wikipedia" : "en:Lambeth",
+      "phonetic:en" : "/ˈlæmbəθ/"
+    }
+  }, {
+    "name" : "London",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 8908083,
+    "tags" : {
+      "name:skr" : "لندن",
+      "name:nan" : "Lûn-tun",
+      "name:ka" : "ლონდონი",
+      "name:nap" : "Londra",
+      "name:kk" : "Лондон",
+      "name:gcr" : "Lonn",
+      "name:nah" : "Londres",
+      "name:kn" : "ಲಂಡನ್",
+      "name:ko" : "런던",
+      "name:kl" : "London",
+      "name:km" : "ឡុងដ៍",
+      "name:nrm" : "Londres",
+      "name:kv" : "Лондон",
+      "name:kw" : "Loundres",
+      "name:ku" : "London",
+      "name:frp" : "Londres",
+      "name:frr" : "London",
+      "name:ky" : "Лондон",
+      "name:ckb" : "لەندەن",
+      "name:ja" : "ロンドン",
+      "name:zu" : "ILondon",
+      "name:pdc" : "London",
+      "population" : "8908083",
+      "name:lmo" : "Lundra",
+      "name:jv" : "London",
+      "name:wuu" : "伦敦",
+      "name:mi" : "Rānana",
+      "alt_name:gl" : "London",
+      "name:mg" : "Lôndôna",
+      "name:ml" : "ലണ്ടൻ",
+      "name:smn" : "Lontoo",
+      "old_name:ang:886-1066" : "Lundenburh",
+      "name:mk" : "Лондон",
+      "name:mai" : "लन्डन",
+      "name:mn" : "Лондон",
+      "name:mt" : "Londra",
+      "name:mr" : "लंडन",
+      "name:ms" : "London",
+      "name:tpi" : "Landen",
+      "name:my" : "လန်ဒန်မြို့",
+      "wikipedia" : "en:London",
+      "name:mrj" : "Лондон",
+      "website" : "https://www.london.gov.uk/",
+      "name:lb" : "London",
+      "name:li" : "Londe",
+      "name:lo" : "ລອນດອນ",
+      "name:ln" : "Londoni",
+      "name:azb" : "لندن",
+      "name:lt" : "Londonas",
+      "name:lv" : "Londona",
+      "name:fy" : "Londen",
+      "alt_name:ur" : "لنڈن",
+      "name:lzh" : "倫敦",
+      "name:wo" : "Londar",
+      "name:haw" : "Lākana",
+      "name:hak" : "Lùn-tûn",
+      "name:ga" : "Londain",
+      "name:gd" : "Lunnainn",
+      "name:zea" : "Londen",
+      "name:gn" : "Londye",
+      "name:gl" : "Londres",
+      "name:chr" : "ᎫᎴ ᏗᏍᎪᏂᎯᏱ",
+      "name:pap" : "London",
+      "name:gv" : "Lunnin",
+      "name:tzl" : "Londra",
+      "ele" : "15",
+      "name:gu" : "લંડન",
+      "name:vi" : "Luân Đôn",
+      "name:vls" : "Londn",
+      "name:fa" : "لندن",
+      "name:ff" : "London",
+      "name:fi" : "Lontoo",
+      "name:fj" : "Lodoni",
+      "name:diq" : "Londra",
+      "name:roa-rup" : "Londra",
+      "name:lij" : "Londra",
+      "name" : "London",
+      "name:fr" : "Londres",
+      "name:fo" : "London",
+      "name:ast" : "Londres",
+      "name:rue" : "Лондон",
+      "name:wa" : "Londe",
+      "name:ace" : "London",
+      "name:zh_pinyin" : "Lúndūn",
+      "name:gom" : "London",
+      "old_name:la:47-500" : "Londinium",
+      "name:hy" : "Լոնդոն",
+      "name:bxr" : "Лондон",
+      "name:yo" : "Lọndọnu",
+      "name:id" : "London",
+      "name:pcd" : "Londe",
+      "name:gan" : "倫敦",
+      "name:avk" : "London",
+      "name:ig" : "London",
+      "name:nov" : "London",
+      "name:war" : "London",
+      "name:awa" : "लण्डन",
+      "name:io" : "London",
+      "name:it" : "Londra",
+      "name:is" : "Lundúnir",
+      "name:lld" : "London",
+      "name:zh" : "倫敦",
+      "name:szl" : "Lōndōn",
+      "name:hsb" : "London",
+      "name:ha" : "Landan",
+      "name:he" : "לונדון",
+      "name:ady" : "Лондон",
+      "name:hi" : "लंदन",
+      "name:yue" : "倫敦",
+      "name:gag" : "London",
+      "name:ht" : "Lonn",
+      "name:hr" : "London",
+      "name:eml" : "Lòndra",
+      "name:yi" : "לאנדאן",
+      "name:hu" : "London",
+      "name:bs" : "London",
+      "name:sd" : "لنڊن",
+      "name:se" : "London",
+      "is_capital" : "country",
+      "name:sk" : "Londýn",
+      "name:sh" : "London",
+      "name:scn" : "Londra",
+      "name:si" : "ලන්ඩන්",
+      "name:sn" : "London",
+      "name:so" : "London",
+      "name:ban" : "London",
+      "name:sl" : "London",
+      "name:sm" : "Lonetona",
+      "name:xmf" : "ლონდონი",
+      "name:sr" : "Лондон",
+      "name:bar" : "London",
+      "name:jam" : "Landan",
+      "name:pms" : "Londra",
+      "name:ca" : "Londres",
+      "name:sq" : "Londra",
+      "name:sv" : "London",
+      "name:sw" : "London",
+      "name:st" : "London",
+      "name:ce" : "Лондон",
+      "name:su" : "London",
+      "name:roa-tara" : "Londre",
+      "name:cdo" : "Lùng-dŭng",
+      "name:co" : "Londra",
+      "name:sco" : "Lunnon",
+      "name:ext" : "Londri",
+      "name:lez" : "Лондон",
+      "name:pnb" : "لندن",
+      "name:cs" : "Londýn",
+      "name:tet" : "Londres",
+      "name:ta" : "இலண்டன்",
+      "name:ar" : "لندن",
+      "name:ay" : "London",
+      "name:av" : "Лондон",
+      "name:rm" : "Londra",
+      "name:srn" : "London",
+      "name:az" : "London",
+      "name:csb" : "Londin",
+      "name:ba" : "Лондон",
+      "wikimedia_commons" : "Category:London",
+      "name:ro" : "Londra",
+      "name:be" : "Лондан",
+      "name:ru" : "Лондон",
+      "name:bi" : "London",
+      "name:tum" : "London",
+      "name:bg" : "Лондон",
+      "name:bh" : "लंदन",
+      "name:bm" : "London",
+      "name:ksh" : "London",
+      "name:bn" : "লন্ডন",
+      "name:mwl" : "Londres",
+      "name:be-tarask" : "Лёндан",
+      "name:br" : "Londrez",
+      "name:sc" : "Londra",
+      "name:bo" : "ལོན་ཊོན།",
+      "name:sa" : "लन्डन्",
+      "name:ug" : "لوندۇن",
+      "name:uk" : "Лондон",
+      "name:arc" : "ܠܘܢܕܘܢ",
+      "name:min" : "London",
+      "name:ee" : "London",
+      "name:ur" : "لندن",
+      "name:ary" : "لندن",
+      "name:arz" : "لندن",
+      "old_name:en:886-1066" : "Lundenburg",
+      "name:el" : "Λονδίνο",
+      "name:uz" : "London",
+      "name:en" : "London",
+      "place" : "city",
+      "name:eo" : "Londono",
+      "name:mzn" : "لندن",
+      "name:et" : "London",
+      "name:eu" : "Londres",
+      "name:es" : "Londres",
+      "name:cv" : "Лондон",
+      "name:tg" : "Лондон",
+      "name:th" : "ลอนดอน",
+      "name:jbo" : "london",
+      "name:mhr" : "Лондон",
+      "name:te" : "లండన్",
+      "name:cu" : "Лондонъ",
+      "name:tk" : "London",
+      "name:tl" : "Londres",
+      "name:cy" : "Llundain",
+      "name:to" : "Lonitoni",
+      "name:stq" : "London",
+      "name:tt" : "Лондон",
+      "name:da" : "London",
+      "name:pnt" : "Λονδίνο",
+      "name:tr" : "Londra",
+      "name:tw" : "London",
+      "name:de" : "London",
+      "name:myv" : "Лондон ош",
+      "name:bcl" : "Londres",
+      "name:ceb" : "London",
+      "name:nds-nl" : "Londen",
+      "name:oc" : "Londres",
+      "capital" : "yes",
+      "name:rmy" : "London",
+      "name:lad" : "Londra",
+      "name:pih" : "London",
+      "name:vec" : "Łondra",
+      "name:om" : "Landan",
+      "name:or" : "ଲଣ୍ଡନ",
+      "name:als" : "London",
+      "name:os" : "Лондон",
+      "is_in:country_code" : "GB",
+      "name:ilo" : "Londres",
+      "old_name:ang:597-886" : "Lundenwic",
+      "admin_level" : "2",
+      "name:new" : "लण्डन",
+      "name:vep" : "London",
+      "name:na" : "London",
+      "name:ne" : "लण्डन",
+      "name:nds" : "London",
+      "name:nn" : "London",
+      "name:nl" : "Londen",
+      "name:no" : "London",
+      "is_in:iso_3166_2" : "GB-ENG",
+      "name:ny" : "London",
+      "name:fur" : "Londre",
+      "name:hyw" : "Լոնտոն",
+      "name:hif" : "London",
+      "name:koi" : "Лондон",
+      "note" : "Centre of London officially at the former location of the Charing Cross, now the Charles I statue, near Trafalgar Square.",
+      "name:bat-smg" : "Londons",
+      "name:ang" : "Lunden",
+      "name:sah" : "Лондон",
+      "name:crh" : "London",
+      "name:krc" : "Лондон",
+      "name:qu" : "London",
+      "name:ab" : "Лондан",
+      "name:dty" : "लण्डन",
+      "name:af" : "Londen",
+      "name:kbd" : "Лондон",
+      "name:am" : "ለንደን",
+      "name:inh" : "Лондон",
+      "name:an" : "Londres",
+      "name:sat" : "ᱞᱚᱱᱰᱚᱱ",
+      "name:pa" : "ਲੰਡਨ",
+      "name:udm" : "Лондон",
+      "addr:country" : "GB",
+      "name:pl" : "Londyn",
+      "name:lbe" : "Лондон",
+      "name:mdf" : "Лондон",
+      "name:dsb" : "London",
+      "name:ps" : "لندن",
+      "name:pt" : "Londres",
+      "name:kab" : "London",
+      "name:kaa" : "London",
+      "name:zh-Hans" : "伦敦"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 877021,
+    "totalVolume" : 16775918,
+    "count" : 2112,
+    "maxHeight" : 135.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 183
+  }, {
+    "type" : "tertiary",
+    "count" : 31
+  }, {
+    "type" : "residential",
+    "count" : 175
+  }, {
+    "type" : "service",
+    "count" : 354
+  }, {
+    "type" : "path",
+    "count" : 13
+  }, {
+    "type" : "pedestrian",
+    "count" : 32
+  }, {
+    "type" : "primary",
+    "count" : 419
+  }, {
+    "type" : "subway",
+    "count" : 46
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 32
+  }, {
+    "type" : "steps",
+    "count" : 218
+  }, {
+    "type" : "rail",
+    "count" : 247
+  }, {
+    "type" : "unclassified",
+    "count" : 72
+  }, {
+    "type" : "disused",
+    "count" : 7
+  }, {
+    "type" : "footway",
+    "count" : 1302
+  }, {
+    "type" : "primary_link",
+    "count" : 13
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 39,
+    "diff50m" : 22
+  }
+}

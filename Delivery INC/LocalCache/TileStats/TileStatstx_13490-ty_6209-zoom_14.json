@@ -1,0 +1,198 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.13467418
+  }, {
+    "type" : "residential",
+    "area" : 0.07738453
+  }, {
+    "type" : "commercial",
+    "area" : 0.04984608
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.03538734
+  }, {
+    "type" : "pitch",
+    "area" : 0.010912711
+  }, {
+    "type" : "parking",
+    "area" : 0.010512299
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 554
+  }, {
+    "type" : "apartments",
+    "count" : 43
+  }, {
+    "type" : "residential",
+    "count" : 38
+  }, {
+    "type" : "restaurant",
+    "count" : 23
+  }, {
+    "type" : "bank",
+    "count" : 15
+  }, {
+    "type" : "fast_food",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "cafe",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "bench",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "grandstand",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "体育馆路街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "体育馆路街道",
+      "name:en" : "Tiyuguan Road",
+      "place" : "suburb",
+      "name:zh" : "体育馆路街道",
+      "division_code" : "110101015000"
+    }
+  }, {
+    "name" : "龙潭北里社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "龙潭北里社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "光明社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "光明社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "龙潭街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "龙潭街道",
+      "name:en" : "Longtan",
+      "place" : "suburb",
+      "name:zh" : "龙潭街道",
+      "division_code" : "110101014000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 409524,
+    "totalVolume" : 4831115,
+    "count" : 373,
+    "maxHeight" : 40.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 42
+  }, {
+    "type" : "tertiary_link",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 89
+  }, {
+    "type" : "service",
+    "count" : 58
+  }, {
+    "type" : "path",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 20
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 12
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 20
+  }, {
+    "type" : "rail",
+    "count" : 25
+  }, {
+    "type" : "unclassified",
+    "count" : 30
+  }, {
+    "type" : "footway",
+    "count" : 218
+  }, {
+    "type" : "primary_link",
+    "count" : 22
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 34,
+    "max" : 62,
+    "diff50m" : 11
+  }
+}

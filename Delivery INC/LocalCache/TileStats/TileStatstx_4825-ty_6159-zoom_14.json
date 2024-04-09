@@ -1,0 +1,305 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.4132437
+  }, {
+    "type" : "residential",
+    "area" : 0.09884709
+  }, {
+    "type" : "park",
+    "area" : 0.07973575
+  }, {
+    "type" : "construction",
+    "area" : 0.021289418
+  }, {
+    "type" : "pitch",
+    "area" : 0.019545574
+  }, {
+    "type" : "yes",
+    "area" : 0.0179967
+  }, {
+    "type" : "industrial",
+    "area" : 0.016927356
+  }, {
+    "type" : "grass",
+    "area" : 0.013422754
+  }, {
+    "type" : "parking",
+    "area" : 0.012774178
+  }, {
+    "type" : "brownfield",
+    "area" : 0.010388591
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1499
+  }, {
+    "type" : "apartments",
+    "count" : 762
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 153
+  }, {
+    "type" : "bench",
+    "count" : 85
+  }, {
+    "type" : "restaurant",
+    "count" : 52
+  }, {
+    "type" : "drinking_water",
+    "count" : 30
+  }, {
+    "type" : "industrial",
+    "count" : 29
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 24
+  }, {
+    "type" : "fast_food",
+    "count" : 20
+  }, {
+    "type" : "bar",
+    "count" : 20
+  }, {
+    "type" : "cafe",
+    "count" : 20
+  }, {
+    "type" : "waste_basket",
+    "count" : 18
+  }, {
+    "type" : "school",
+    "count" : 17
+  }, {
+    "type" : "retail",
+    "count" : 15
+  }, {
+    "type" : "church",
+    "count" : 14
+  }, {
+    "type" : "toilets",
+    "count" : 12
+  }, {
+    "type" : "pharmacy",
+    "count" : 11
+  }, {
+    "type" : "shed",
+    "count" : 10
+  }, {
+    "type" : "warehouse",
+    "count" : 6
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "ice_cream",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 4
+  }, {
+    "type" : "government",
+    "count" : 4
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 3
+  }, {
+    "type" : "sports_centre",
+    "count" : 3
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "music_venue",
+    "count" : 1
+  }, {
+    "type" : "postal_relay_box",
+    "count" : 1
+  }, {
+    "type" : "ventilation_shaft",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "animal_shelter",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "food_and_drink",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "religious",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "works",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Alphabet City",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "tourism" : "yes",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Алфабет-сити",
+      "alt_name" : "Loisaida",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062665",
+      "gnis:Class" : "Populated Place",
+      "name" : "Alphabet City",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "4"
+    }
+  }, {
+    "name" : "Monitor Point",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Monitor Point",
+      "place" : "locality"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 657518,
+    "totalVolume" : 15267836,
+    "count" : 1685,
+    "maxHeight" : 133.807
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 12
+  }, {
+    "type" : "tertiary",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 104
+  }, {
+    "type" : "service",
+    "count" : 96
+  }, {
+    "type" : "path",
+    "count" : 13
+  }, {
+    "type" : "motorway",
+    "count" : 20
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 36
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "motorway_link",
+    "count" : 13
+  }, {
+    "type" : "secondary",
+    "count" : 45
+  }, {
+    "type" : "steps",
+    "count" : 12
+  }, {
+    "type" : "unclassified",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 1118
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 30,
+    "diff50m" : 30
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 0.65939254
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.34268114
+  }, {
+    "type" : "commercial",
+    "area" : 0.09793153
+  }, {
+    "type" : "park",
+    "area" : 0.035647687
+  }, {
+    "type" : "industrial",
+    "area" : 0.022357594
+  }, {
+    "type" : "railway",
+    "area" : 0.019635087
+  }, {
+    "type" : "bridge",
+    "area" : 0.014312235
+  }, {
+    "type" : "parking",
+    "area" : 0.010523762
+  }, {
+    "type" : "yes",
+    "area" : 0.01043464
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1339
+  }, {
+    "type" : "restaurant",
+    "count" : 291
+  }, {
+    "type" : "cafe",
+    "count" : 246
+  }, {
+    "type" : "apartments",
+    "count" : 103
+  }, {
+    "type" : "fast_food",
+    "count" : 96
+  }, {
+    "type" : "bank",
+    "count" : 91
+  }, {
+    "type" : "atm",
+    "count" : 60
+  }, {
+    "type" : "place_of_worship",
+    "count" : 50
+  }, {
+    "type" : "mosque",
+    "count" : 38
+  }, {
+    "type" : "bar",
+    "count" : 37
+  }, {
+    "type" : "toilets",
+    "count" : 27
+  }, {
+    "type" : "parking",
+    "count" : 24
+  }, {
+    "type" : "pharmacy",
+    "count" : 23
+  }, {
+    "type" : "retail",
+    "count" : 22
+  }, {
+    "type" : "hotel",
+    "count" : 21
+  }, {
+    "type" : "commercial",
+    "count" : 21
+  }, {
+    "type" : "bench",
+    "count" : 18
+  }, {
+    "type" : "house",
+    "count" : 16
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 16
+  }, {
+    "type" : "university",
+    "count" : 13
+  }, {
+    "type" : "post_office",
+    "count" : 12
+  }, {
+    "type" : "industrial",
+    "count" : 12
+  }, {
+    "type" : "train_station",
+    "count" : 11
+  }, {
+    "type" : "library",
+    "count" : 11
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "pub",
+    "count" : 7
+  }, {
+    "type" : "construction",
+    "count" : 7
+  }, {
+    "type" : "drinking_water",
+    "count" : 7
+  }, {
+    "type" : "telephone",
+    "count" : 6
+  }, {
+    "type" : "waste_disposal",
+    "count" : 6
+  }, {
+    "type" : "bus_station",
+    "count" : 5
+  }, {
+    "type" : "post_box",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "food_court",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "water_point",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "support_tower",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "motel",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "Union_of_Chambers_of_Turkish_Engineers_and_Architects",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "grave_yard",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Tahtakale",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Тахтакале",
+      "name:ar" : "تهتاكالي",
+      "name" : "Tahtakale",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Demirtaş",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "ديميرتاش",
+      "name" : "Demirtaş",
+      "place" : "suburb",
+      "wikipedia" : "tr:Demirtaş, Fatih"
+    }
+  }, {
+    "name" : "Hobyar",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "هوبيار",
+      "name" : "Hobyar",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Hocapaşa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Hocapaşa",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Azapkapı",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Azapkapı",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Emekyemez",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "ايكيميز",
+      "name" : "Emekyemez",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Bedrettin",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "بدرالدين",
+      "name" : "Bedrettin",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Arap Cami",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "عرب جامع",
+      "name" : "Arap Cami",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Galata",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:bg" : "Галата",
+      "name" : "Galata",
+      "place" : "quarter",
+      "wikipedia" : "tr:Galata"
+    }
+  }, {
+    "name" : "Kuledibi",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "note" : "Bugünkü Bereketzade ve Şahkulu mahallelerinin kısımlarını kapsayan Galatadaki ünlü alan ismidir.",
+      "name" : "Kuledibi",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Şahkulu",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "شاهكلولو",
+      "name" : "Şahkulu",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Kemankeş Karamustafa Paşa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "كمتنكيش كارامصطفى باشا",
+      "name" : "Kemankeş Karamustafa Paşa",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Hacımimi",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "حجيميمي",
+      "name" : "Hacımimi",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Tophane",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Tophane",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Unkapanı",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:el" : "Ουνκαπανί",
+      "name" : "Unkapanı",
+      "note:en" : "The name is interchangeable with Vefa. However Vefa is referring to areas around the castles with the same name, and Unkapanı is associated with areas near the Golden Horn bay.",
+      "place" : "quarter",
+      "wikipedia" : "tr:Unkapanı"
+    }
+  }, {
+    "name" : "Eminönü",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Эминёню",
+      "name:hi" : "एमिनोनु",
+      "name" : "Eminönü",
+      "note:en" : "This is the name of former administrative district. Presently and formally it consists of two neighborhoods. But the name is associated with much larger surrounding area.",
+      "place" : "quarter",
+      "wikipedia" : "tr:Eminönü",
+      "name:ml" : "എമിനോനു",
+      "wikimedia_commons" : "Category:Eminönü"
+    }
+  }, {
+    "name" : "Bereketzade",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "بركاتزادي",
+      "name" : "Bereketzade",
+      "place" : "suburb",
+      "wikipedia" : "tr:Bereketzade",
+      "wikimedia_commons" : "Category:Bereketzade"
+    }
+  }, {
+    "name" : "Süleymaniye",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Сюлеймание",
+      "name:ar" : "سليمانية",
+      "name" : "Süleymaniye",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Rüstempaşa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Рюстемпаша",
+      "name:ar" : "رستم باشا",
+      "name" : "Rüstempaşa",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Hoca Gıyasettin",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "هوجا غياث الدين",
+      "name" : "Hoca Gıyasettin",
+      "place" : "suburb",
+      "wikipedia" : "tr:Hoca Gıyasettin, Fatih"
+    }
+  }, {
+    "name" : "Yavuz Sinan",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "يافوز سنان",
+      "name" : "Yavuz Sinan",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Sarıdemir",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Сарыдемир",
+      "name:ar" : "ساريديمير",
+      "name" : "Sarıdemir",
+      "place" : "suburb",
+      "wikipedia" : "tr:Sarıdemir, Fatih"
+    }
+  }, {
+    "name" : "Sururi",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Сурури",
+      "name:ar" : "سوروري",
+      "name" : "Sururi",
+      "place" : "suburb",
+      "wikipedia" : "tr:Sururi"
+    }
+  }, {
+    "name" : "Sirkeci",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Sirkeci",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Şişhane",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Şişhane",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Müeyyedzade",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "مؤيد زادي",
+      "name" : "Müeyyedzade",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Beyoğlu",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 238762,
+    "tags" : {
+      "name:ru" : "Бейоглу",
+      "name:ar" : "بك أوغلي",
+      "old_name" : "Pera",
+      "name:bg" : "Бейоглу",
+      "name" : "Beyoğlu",
+      "population:date" : "2016",
+      "place" : "town",
+      "alt_name:ar" : "بيأوغلو",
+      "population" : "238762"
+    }
+  }, {
+    "name" : "Mercan",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мерджан",
+      "name:ar" : "مرجان",
+      "name" : "Mercan",
+      "place" : "suburb",
+      "wikipedia" : "tr:Mercan, Fatih"
+    }
+  }, {
+    "name" : "Karaköy",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Karaköy",
+      "place" : "quarter",
+      "wikipedia" : "tr:Karaköy",
+      "wikimedia_commons" : "Category:Karaköy"
+    }
+  }, {
+    "name" : "Tünel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Tünel",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 900917,
+    "totalVolume" : 11656875,
+    "count" : 3617,
+    "maxHeight" : 65.0
+  },
+  "roads" : [ {
+    "type" : "funicular",
+    "count" : 4
+  }, {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 26
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 258
+  }, {
+    "type" : "service",
+    "count" : 54
+  }, {
+    "type" : "path",
+    "count" : 7
+  }, {
+    "type" : "pedestrian",
+    "count" : 161
+  }, {
+    "type" : "primary",
+    "count" : 74
+  }, {
+    "type" : "subway",
+    "count" : 13
+  }, {
+    "type" : "living_street",
+    "count" : 176
+  }, {
+    "type" : "secondary",
+    "count" : 23
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 119
+  }, {
+    "type" : "tram",
+    "count" : 13
+  }, {
+    "type" : "rail",
+    "count" : 3
+  }, {
+    "type" : "unclassified",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 351
+  }, {
+    "type" : "primary_link",
+    "count" : 41
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -3,
+    "max" : 79,
+    "diff50m" : 14
+  }
+}

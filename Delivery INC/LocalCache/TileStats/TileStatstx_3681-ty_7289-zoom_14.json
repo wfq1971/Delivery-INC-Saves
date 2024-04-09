@@ -1,0 +1,379 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.074100584
+  }, {
+    "type" : "industrial",
+    "area" : 0.025186136
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1006
+  }, {
+    "type" : "house",
+    "count" : 72
+  }, {
+    "type" : "school",
+    "count" : 67
+  }, {
+    "type" : "apartments",
+    "count" : 30
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "industrial",
+    "count" : 7
+  }, {
+    "type" : "bus_station",
+    "count" : 7
+  }, {
+    "type" : "pharmacy",
+    "count" : 7
+  }, {
+    "type" : "restaurant",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "grandstand",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "bridge",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "workshop",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Colonia Michoacana",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Michoacana",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15240"
+    }
+  }, {
+    "name" : "Colonia 20 de Noviembre",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 20 de Noviembre",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15300"
+    }
+  }, {
+    "name" : "Colonia Miguel Hidalgo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Miguel Hidalgo",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15470"
+    }
+  }, {
+    "name" : "Colonia Progresista",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Progresista",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15370"
+    }
+  }, {
+    "name" : "Colonia Ampliación Penitenciaría",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Ampliación Penitenciaría",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15350"
+    }
+  }, {
+    "name" : "Colonia Janitzio",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Janitzio",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15200"
+    }
+  }, {
+    "name" : "Colonia Ampliación Michoacana",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Ampliación Michoacana",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15250"
+    }
+  }, {
+    "name" : "Colonia 2o. tramo 20 de Noviembre",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 2o. tramo 20 de Noviembre",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15300"
+    }
+  }, {
+    "name" : "Colonia Felipe Ángeles",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Felipe Ángeles",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15310"
+    }
+  }, {
+    "name" : "Colonia Ampliación Simón Bolívar",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Ampliación Simón Bolívar",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15420"
+    }
+  }, {
+    "name" : "Colonia Morelos II",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Morelos II",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15280"
+    }
+  }, {
+    "name" : "Colonia Penitenciaría",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Penitenciaría",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15280"
+    }
+  }, {
+    "name" : "Colonia Madero",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Madero",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15370"
+    }
+  }, {
+    "name" : "Colonia Ampliación 20 de Noviembre",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Ampliación 20 de Noviembre",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15260"
+    }
+  }, {
+    "name" : "Colonia Damián Carmona",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Damián Carmona",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15450"
+    }
+  }, {
+    "name" : "Colonia Romero Rubio",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Romero Rubio",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15400"
+    }
+  }, {
+    "name" : "Colonia 1o. de Mayo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 1o. de Mayo",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15440"
+    }
+  }, {
+    "name" : "Colonia 20 de Noviembre 5o. tramo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 20 de Noviembre 5o. tramo",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15309"
+    }
+  }, {
+    "name" : "Colonia La Malinche",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia La Malinche",
+      "place" : "neighbourhood",
+      "addr:postcode" : "07899"
+    }
+  }, {
+    "name" : "Colonia Ex Escuela de tiro",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Ex Escuela de tiro",
+      "place" : "neighbourhood",
+      "addr:postcode" : "07960"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2018945,
+    "totalVolume" : 24318893,
+    "count" : 3030,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 45
+  }, {
+    "type" : "residential",
+    "count" : 370
+  }, {
+    "type" : "service",
+    "count" : 83
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "motorway",
+    "count" : 20
+  }, {
+    "type" : "trunk",
+    "count" : 12
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 64
+  }, {
+    "type" : "subway",
+    "count" : 13
+  }, {
+    "type" : "motorway_link",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 47
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 38
+  }, {
+    "type" : "unclassified",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 279
+  }, {
+    "type" : "trunk_link",
+    "count" : 9
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2223,
+    "max" : 2244,
+    "diff50m" : 8
+  }
+}

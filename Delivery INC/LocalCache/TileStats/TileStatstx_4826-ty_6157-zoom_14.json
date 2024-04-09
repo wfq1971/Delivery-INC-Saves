@@ -1,0 +1,299 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.25962052
+  }, {
+    "type" : "residential",
+    "area" : 0.114598334
+  }, {
+    "type" : "park",
+    "area" : 0.046767328
+  }, {
+    "type" : "industrial",
+    "area" : 0.040740848
+  }, {
+    "type" : "parking",
+    "area" : 0.020610435
+  }, {
+    "type" : "bridge",
+    "area" : 0.016735766
+  }, {
+    "type" : "substation",
+    "area" : 0.014924471
+  }, {
+    "type" : "grass",
+    "area" : 0.011731656
+  }, {
+    "type" : "brownfield",
+    "area" : 0.011024307
+  }, {
+    "type" : "grassland",
+    "area" : 0.01072589
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1568
+  }, {
+    "type" : "bench",
+    "count" : 101
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 49
+  }, {
+    "type" : "restaurant",
+    "count" : 32
+  }, {
+    "type" : "terrace",
+    "count" : 21
+  }, {
+    "type" : "apartments",
+    "count" : 19
+  }, {
+    "type" : "fast_food",
+    "count" : 17
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 16
+  }, {
+    "type" : "cafe",
+    "count" : 16
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "post_box",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 9
+  }, {
+    "type" : "hotel",
+    "count" : 8
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "bar",
+    "count" : 7
+  }, {
+    "type" : "parking",
+    "count" : 6
+  }, {
+    "type" : "parking_entrance",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "waste_basket",
+    "count" : 5
+  }, {
+    "type" : "industrial",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "vending_machine",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "brewery",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Roosevelt Island",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Roosevelt Island",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Queensbridge",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Queensbridge",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Ravenswood",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Ravenswood",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 936211,
+    "totalVolume" : 21925062,
+    "count" : 1513,
+    "maxHeight" : 232.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 19
+  }, {
+    "type" : "tertiary",
+    "count" : 56
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 102
+  }, {
+    "type" : "service",
+    "count" : 206
+  }, {
+    "type" : "path",
+    "count" : 13
+  }, {
+    "type" : "motorway",
+    "count" : 16
+  }, {
+    "type" : "trunk",
+    "count" : 30
+  }, {
+    "type" : "primary",
+    "count" : 26
+  }, {
+    "type" : "pedestrian",
+    "count" : 7
+  }, {
+    "type" : "subway",
+    "count" : 61
+  }, {
+    "type" : "motorway_link",
+    "count" : 13
+  }, {
+    "type" : "secondary",
+    "count" : 62
+  }, {
+    "type" : "steps",
+    "count" : 17
+  }, {
+    "type" : "rail",
+    "count" : 13
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 894
+  }, {
+    "type" : "trunk_link",
+    "count" : 17
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -13,
+    "max" : 43,
+    "diff50m" : 43
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.05846744
+  }, {
+    "type" : "residential",
+    "area" : 0.019032216
+  }, {
+    "type" : "grass",
+    "area" : 0.010456132
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1933
+  }, {
+    "type" : "restaurant",
+    "count" : 124
+  }, {
+    "type" : "bank",
+    "count" : 77
+  }, {
+    "type" : "parking",
+    "count" : 76
+  }, {
+    "type" : "fast_food",
+    "count" : 58
+  }, {
+    "type" : "telephone",
+    "count" : 47
+  }, {
+    "type" : "roof",
+    "count" : 45
+  }, {
+    "type" : "pharmacy",
+    "count" : 24
+  }, {
+    "type" : "cafe",
+    "count" : 23
+  }, {
+    "type" : "taxi",
+    "count" : 21
+  }, {
+    "type" : "apartments",
+    "count" : 21
+  }, {
+    "type" : "bar",
+    "count" : 19
+  }, {
+    "type" : "church",
+    "count" : 14
+  }, {
+    "type" : "place_of_worship",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 11
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 9
+  }, {
+    "type" : "theatre",
+    "count" : 9
+  }, {
+    "type" : "commercial",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "fuel",
+    "count" : 8
+  }, {
+    "type" : "ice_cream",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "university",
+    "count" : 5
+  }, {
+    "type" : "social_facility",
+    "count" : 5
+  }, {
+    "type" : "car_rental",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "garage",
+    "count" : 4
+  }, {
+    "type" : "hostel:homeless",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "transportation",
+    "count" : 4
+  }, {
+    "type" : "house",
+    "count" : 4
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "civic",
+    "count" : 3
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "money_transfer",
+    "count" : 2
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "public_council",
+    "count" : 1
+  }, {
+    "type" : "casino",
+    "count" : 1
+  }, {
+    "type" : "yes;residential",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "bench",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "exhibition_centre",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Morro dos Ingleses",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "district" : "Bela Vista",
+      "name" : "Morro dos Ingleses",
+      "place" : "suburb",
+      "wikipedia" : "pt:Morro dos Ingleses"
+    }
+  }, {
+    "name" : "Vila Buarque",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Vila Buarque",
+      "place" : "suburb",
+      "wikipedia" : "pt:Vila Buarque"
+    }
+  }, {
+    "name" : "São Paulo",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 12396372,
+    "tags" : {
+      "name:oc" : "São Paulo",
+      "capital" : "4",
+      "name:sh" : "Sao Paulo",
+      "name:ka" : "სან-პაულუ",
+      "name:sr" : "Сао Пауло",
+      "name:kk" : "Сан-Паулу",
+      "name:kn" : "ಸಾವೊ ಪೌಲೊ",
+      "name:sv" : "São Paulo",
+      "name:ko" : "상파울루",
+      "name:os" : "Сан-Паулу",
+      "name:ce" : "Сан-Паулу",
+      "name:gl" : "San Paulo",
+      "name:kv" : "Сан-Паулу",
+      "loc_name" : "Sampa",
+      "name:ta" : "சாவோ பாவுலோ",
+      "ele" : "760",
+      "IBGE:GEOCODIGO" : "3550308",
+      "name:ar" : "ساو باولو",
+      "name:ja" : "サンパウロ",
+      "name:ne" : "साओ पाउलो",
+      "name:ay" : "San Pauluw",
+      "name:fa" : "سائوپائولو",
+      "name:az" : "San Paulo",
+      "name:ba" : "Сан-Паулу",
+      "name:nl" : "São Paulo",
+      "population" : "12396372",
+      "name:be" : "Сан-Паўлу",
+      "name:ru" : "Сан-Паулу",
+      "name:no" : "São Paulo",
+      "name:bg" : "Сао Пауло",
+      "name" : "São Paulo",
+      "name:bn" : "সাঁউ পাউলু",
+      "name:fr" : "São Paulo",
+      "short_name" : "São Paulo",
+      "name:wa" : "Sawo Pålo",
+      "name:br" : "São Paulo",
+      "name:sa" : "साओ पाओलो",
+      "name:hy" : "Սան Պաուլո",
+      "flag" : "http://upload.wikimedia.org/wikipedia/commons/4/4b/Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg",
+      "name:dv" : "ސައޮ ޕައުލޯ",
+      "name:ug" : "San Pawlo",
+      "name:uk" : "Сан-Паулу",
+      "name:yo" : "Sao Paulo",
+      "name:ml" : "സാവോ പോളോ",
+      "name:ur" : "ساؤ پالو",
+      "name:mk" : "Сао Паоло",
+      "name:ab" : "Сан-Паулу",
+      "name:mn" : "Сан-Паулу",
+      "name:el" : "Σάο Πάολο",
+      "name:mr" : "साओ पाउलो",
+      "name:uz" : "San-Paulu",
+      "name:io" : "Sao Paulo",
+      "name:it" : "San Paolo",
+      "name:am" : "ሳው ፓውሉ",
+      "name:en" : "São Paulo",
+      "place" : "city",
+      "name:eo" : "San-Paŭlo",
+      "wikipedia" : "pt:São Paulo",
+      "name:es" : "São Paulo",
+      "name:zh" : "聖保羅/圣保罗",
+      "start_date" : "1554-01-25",
+      "name:cv" : "Сан-Паулу",
+      "name:tg" : "Сан-Паулу",
+      "name:th" : "เซาเปาโล",
+      "name:jbo" : ".saupaulos.",
+      "name:pa" : "ਸਾਓ ਪਾਓਲੋ",
+      "website" : "http://www.capital.sp.gov.br/",
+      "name:tk" : "San-Paulu",
+      "name:la" : "Paulopolis",
+      "name:pl" : "São Paulo",
+      "name:tt" : "Сан-Паулу",
+      "name:he" : "סאו פאולו",
+      "name:tr" : "São Paulo",
+      "name:pt" : "São Paulo",
+      "name:de" : "São Paulo",
+      "name:hi" : "साओ पाउलो",
+      "name:lt" : "San Paulas",
+      "old_name" : "São Paulo de Piratininga",
+      "population:date" : "2018",
+      "name:lv" : "Sanpaulu",
+      "name:zh-Hans" : "圣保罗",
+      "name:yi" : "סאו פאולא",
+      "name:zh-Hant" : "聖保羅",
+      "state_capital" : "yes"
+    }
+  }, {
+    "name" : "Sé",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Sé",
+      "place" : "suburb",
+      "wikipedia" : "pt:Sé (distrito de São Paulo)"
+    }
+  }, {
+    "name" : "Bixiga",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Bixiga",
+      "place" : "suburb",
+      "wikipedia" : "en:Bixiga"
+    }
+  }, {
+    "name" : "Glicério",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "Baixada do Glicério",
+      "name" : "Glicério",
+      "loc_name" : "Várzea do Glicério",
+      "place" : "suburb",
+      "wikipedia" : "pt:Glicério (bairro de São Paulo)"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2438393,
+    "totalVolume" : 44237168,
+    "count" : 10104,
+    "maxHeight" : 168.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 31
+  }, {
+    "type" : "tertiary",
+    "count" : 209
+  }, {
+    "type" : "tertiary_link",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 333
+  }, {
+    "type" : "service",
+    "count" : 188
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "trunk",
+    "count" : 118
+  }, {
+    "type" : "pedestrian",
+    "count" : 95
+  }, {
+    "type" : "primary",
+    "count" : 120
+  }, {
+    "type" : "subway",
+    "count" : 17
+  }, {
+    "type" : "living_street",
+    "count" : 14
+  }, {
+    "type" : "secondary",
+    "count" : 274
+  }, {
+    "type" : "secondary_link",
+    "count" : 20
+  }, {
+    "type" : "steps",
+    "count" : 58
+  }, {
+    "type" : "rail",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 335
+  }, {
+    "type" : "trunk_link",
+    "count" : 84
+  }, {
+    "type" : "primary_link",
+    "count" : 22
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 719,
+    "max" : 837,
+    "diff50m" : 38
+  }
+}

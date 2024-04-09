@@ -1,0 +1,149 @@
+{
+  "landusages" : [ {
+    "type" : "cemetery",
+    "area" : 0.038880244
+  }, {
+    "type" : "residential",
+    "area" : 0.035771873
+  }, {
+    "type" : "parking",
+    "area" : 0.024352398
+  }, {
+    "type" : "wood",
+    "area" : 0.023813624
+  }, {
+    "type" : "park",
+    "area" : 0.023341345
+  }, {
+    "type" : "pitch",
+    "area" : 0.012216262
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.011355861
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1684
+  }, {
+    "type" : "house",
+    "count" : 44
+  }, {
+    "type" : "garage",
+    "count" : 35
+  }, {
+    "type" : "apartments",
+    "count" : 17
+  }, {
+    "type" : "shed",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 8
+  }, {
+    "type" : "restaurant",
+    "count" : 7
+  }, {
+    "type" : "retail",
+    "count" : 4
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 3
+  }, {
+    "type" : "cafe",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "bench",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "West New York",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 49708,
+    "tags" : {
+      "website" : "http://www.westnewyorknj.org/",
+      "name" : "West New York",
+      "place" : "town",
+      "wikipedia" : "en:West New York, New Jersey",
+      "population" : "49708"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1186996,
+    "totalVolume" : 14532664,
+    "count" : 6628,
+    "maxHeight" : 152.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 32
+  }, {
+    "type" : "light_rail",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 222
+  }, {
+    "type" : "service",
+    "count" : 223
+  }, {
+    "type" : "primary",
+    "count" : 34
+  }, {
+    "type" : "secondary",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 14
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 1152
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -5,
+    "max" : 79,
+    "diff50m" : 21
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 0.6846409
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.31560984
+  }, {
+    "type" : "park",
+    "area" : 0.06797387
+  }, {
+    "type" : "retail",
+    "area" : 0.017425787
+  }, {
+    "type" : "yes",
+    "area" : 0.010244402
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 990
+  }, {
+    "type" : "restaurant",
+    "count" : 452
+  }, {
+    "type" : "cafe",
+    "count" : 125
+  }, {
+    "type" : "atm",
+    "count" : 65
+  }, {
+    "type" : "fast_food",
+    "count" : 52
+  }, {
+    "type" : "mosque",
+    "count" : 49
+  }, {
+    "type" : "bank",
+    "count" : 45
+  }, {
+    "type" : "library",
+    "count" : 36
+  }, {
+    "type" : "hotel",
+    "count" : 33
+  }, {
+    "type" : "retail",
+    "count" : 31
+  }, {
+    "type" : "place_of_worship",
+    "count" : 28
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 28
+  }, {
+    "type" : "university",
+    "count" : 27
+  }, {
+    "type" : "pharmacy",
+    "count" : 25
+  }, {
+    "type" : "school",
+    "count" : 20
+  }, {
+    "type" : "toilets",
+    "count" : 19
+  }, {
+    "type" : "apartments",
+    "count" : 15
+  }, {
+    "type" : "fountain",
+    "count" : 14
+  }, {
+    "type" : "parking",
+    "count" : 13
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "telephone",
+    "count" : 8
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "bar",
+    "count" : 7
+  }, {
+    "type" : "public",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "public_bath",
+    "count" : 5
+  }, {
+    "type" : "bench",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 5
+  }, {
+    "type" : "vending_machine",
+    "count" : 5
+  }, {
+    "type" : "money_transfer",
+    "count" : 4
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "church",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "ruins",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "grave_yard",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "collapsed",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "mosqe",
+    "count" : 1
+  }, {
+    "type" : "gallery",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Muhsine Hatun",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мухсине Хатун",
+      "name:ar" : "محسيني هاتون",
+      "alt_name" : "Muhsinehatun",
+      "name" : "Muhsine Hatun",
+      "place" : "suburb",
+      "wikipedia" : "tr:Muhsinehatun"
+    }
+  }, {
+    "name" : "Kumkapı",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Kumkapı",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Saraç İshak",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "ساراتش اسحاق",
+      "alt_name" : "Saraçishak",
+      "name" : "Saraç İshak",
+      "place" : "suburb",
+      "wikipedia" : "tr:Saraçishak"
+    }
+  }, {
+    "name" : "Mimar Hayrettin",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мимар Хайреттин",
+      "name:ar" : "معمار خيرالدين",
+      "alt_name" : "Mimarhayrettin",
+      "name" : "Mimar Hayrettin",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Emin Sinan",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "أمين سنان",
+      "alt_name" : "Eminsinan",
+      "name" : "Emin Sinan",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Molla Fenari",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Молла Фенари",
+      "name:ar" : "مولا فيناري",
+      "alt_name" : "Mollafenari",
+      "name" : "Molla Fenari",
+      "place" : "suburb",
+      "wikipedia" : "tr:Mollafenari, Fatih"
+    }
+  }, {
+    "name" : "Sultan Ahmet",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "سلطان أحمد",
+      "alt_name" : "Sultanahmet",
+      "name" : "Sultan Ahmet",
+      "place" : "suburb",
+      "name:ml" : "സുൽത്താൻ അഹമ്മദ്"
+    }
+  }, {
+    "name" : "Mahmutpaşa",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:hi" : "महमूद पाशा",
+      "name" : "Mahmutpaşa",
+      "place" : "quarter",
+      "wikipedia" : "tr:Mahmutpaşa"
+    }
+  }, {
+    "name" : "Taya Hatun",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Тая Хатун",
+      "name:ar" : "تايا هاتون",
+      "name" : "Taya Hatun",
+      "place" : "suburb",
+      "wikipedia" : "tr:Taya Hatun, Fatih"
+    }
+  }, {
+    "name" : "Nişanca",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "نيشانجا",
+      "name" : "Nişanca",
+      "place" : "suburb",
+      "wikipedia" : "tr:Nişanca, Fatih"
+    }
+  }, {
+    "name" : "İstanbul",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 15840900,
+    "tags" : {
+      "name:bs" : "Istanbul",
+      "name:sd" : "استنبول",
+      "name:se" : "Istanbul",
+      "name:sk" : "Istanbul",
+      "name:ka" : "სტამბული",
+      "name:so" : "Istanbuul",
+      "name:sl" : "Carigrad",
+      "name:sr" : "Истанбул",
+      "name:kk" : "Ыстанбұл",
+      "name:ca" : "Istanbul",
+      "name:sq" : "Stambolli",
+      "name:kn" : "ಇಸ್ತಾಂಬುಲ್",
+      "name:sv" : "Istanbul",
+      "name:ko" : "이스탄불",
+      "name:sw" : "Istanbul",
+      "name:ce" : "Истмала",
+      "name:kw" : "Istanbul",
+      "name:ku" : "Stembol",
+      "name:cs" : "Istanbul",
+      "name:ta" : "இசுதான்புல்",
+      "name:ky" : "Стамбул",
+      "old_name:pl" : "Bizancjum;Konstantynopol",
+      "name:ar" : "إسطنبول",
+      "name:ckb" : "ئەستەمبوڵ",
+      "name:as" : "ইষ্টানবুল",
+      "name:ja" : "イスタンブール",
+      "name:av" : "Истанбул",
+      "name:rm" : "Istanbul",
+      "name:ba" : "Истанбул",
+      "wikimedia_commons" : "Category:Istanbul",
+      "name:ro" : "Istanbul",
+      "population" : "15840900",
+      "name:be" : "Стамбул",
+      "name:ru" : "Стамбул",
+      "name:bg" : "Истанбул",
+      "name:rw" : "Istanbul",
+      "name:bh" : "इस्तांबुल",
+      "name:bm" : "Istanbul",
+      "name:bn" : "ইস্তাম্বুল",
+      "name:jv" : "Istanbul",
+      "name:br" : "Istanbul",
+      "name:sc" : "Istanbul",
+      "alt_name:ar" : "بيزنطة",
+      "name:ug" : "Istanbul",
+      "name:uk" : "Стамбул",
+      "name:mg" : "Istanbul",
+      "name:ml" : "ഇസ്താംബുൾ",
+      "name:ur" : "استنبول",
+      "name:mk" : "Истанбул",
+      "name:mn" : "Стамбул",
+      "name:el" : "Κωνσταντινούπολη",
+      "name:mt" : "Istanbul",
+      "name:mr" : "इस्तंबूल",
+      "name:uz" : "Istanbul",
+      "name:ms" : "Istanbul",
+      "name:my" : "အစ်စတန်ဘူလ်မြို့",
+      "name:en" : "Istanbul",
+      "place" : "city",
+      "name:eo" : "Istanbulo",
+      "wikipedia" : "tr:İstanbul",
+      "name:eu" : "Istanbul",
+      "name:es" : "Estambul",
+      "name:cv" : "Стамбул",
+      "name:tg" : "Истанбул",
+      "name:th" : "อิสตันบูล",
+      "name:te" : "ఇస్తాంబుల్",
+      "website" : "http://istanbul.gov.tr",
+      "name:cu" : "Цѣсар҄ь Градъ",
+      "name:tk" : "Stambul",
+      "name:tl" : "Istanbul",
+      "name:la" : "Constantinopolis",
+      "name:cy" : "Istanbul",
+      "name:lb" : "Istanbul",
+      "old_name:ru" : "Константинополь;Царьград",
+      "name:tt" : "Истанбул",
+      "name:da" : "Istanbul",
+      "name:li" : "Istanboel",
+      "old_name:bg" : "Цариград",
+      "name:tr" : "İstanbul",
+      "name:lo" : "ອິສະຕັນບູນ",
+      "name:tw" : "Istanbul",
+      "name:de" : "Istanbul",
+      "name:ln" : "Istanbul",
+      "name:lt" : "Stambulas",
+      "old_name" : "Konstantiniyye",
+      "old_name:zh" : "君士坦丁堡",
+      "old_name:ar" : "القسطنطينية",
+      "name:lv" : "Stambula",
+      "name:fy" : "Istanbûl",
+      "alt_name:mk" : "Цариград",
+      "name:oc" : "Istambol",
+      "capital" : "4",
+      "old_name:ca" : "Constantinoble",
+      "name:ga" : "Iostanbúl",
+      "name:gd" : "Istanbul",
+      "name:os" : "Стамбул",
+      "name:gl" : "Istambul",
+      "admin_level" : "4",
+      "old_name:sk" : "Konštantínopol;Carihrad",
+      "name:na" : "Istanbul",
+      "name:vi" : "Istanbul",
+      "name:nb" : "Istanbul",
+      "name:ne" : "इस्तानबुल",
+      "name:fa" : "استانبول",
+      "old_name:de" : "Konstantinopel",
+      "name:nn" : "Istanbul",
+      "name:nl" : "Istanboel",
+      "name:fi" : "Istanbul",
+      "name:fj" : "Istanbul",
+      "old_name:cs" : "Konstantinopol",
+      "name" : "İstanbul",
+      "name:ny" : "Istanbul",
+      "name:fr" : "Istanbul",
+      "name:fo" : "Istanbul",
+      "old_name:la" : "Byzantium",
+      "name:hy" : "Ստամբուլ",
+      "name:ia" : "Istanbul",
+      "name:yo" : "Istanbul",
+      "name:id" : "Istanbul",
+      "name:ie" : "Istanbul",
+      "old_name:el" : "Κωνσταντινούπολη",
+      "name:qu" : "Istanbul",
+      "name:ab" : "Асҭампыл",
+      "name:af" : "Istanboel",
+      "name:io" : "Istanbul",
+      "name:it" : "Istanbul",
+      "name:am" : "ኢስታንቡል",
+      "name:ak" : "Istanbul",
+      "name:is" : "Mikligarður",
+      "name:an" : "Istambul",
+      "name:zh" : "伊斯坦布尔 / 伊斯坦堡",
+      "name:pa" : "ਇਸਤਾਨਬੁਲ",
+      "name:pl" : "Stambuł",
+      "name:ha" : "Istanbul",
+      "name:he" : "איסטנבול",
+      "name:ps" : "استنبول",
+      "name:pt" : "Istambul",
+      "name:hi" : "इस्तांबुल",
+      "old_name:en" : "Constantinople",
+      "old_name:eo" : "Stambulo;Konstantinopolo;Bizanco",
+      "name:ht" : "Istanboul",
+      "population:date" : "2021",
+      "name:hr" : "Istanbul",
+      "name:zh-Hans" : "伊斯坦布尔",
+      "name:yi" : "סטאמבול",
+      "name:zh-Hant" : "伊斯坦堡",
+      "name:hu" : "Isztambul"
+    }
+  }, {
+    "name" : "Mimar Kemalettin",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "معمار كمال الدين",
+      "name" : "Mimar Kemalettin",
+      "place" : "suburb",
+      "wikipedia" : "tr:Mimar Kemalettin, Fatih"
+    }
+  }, {
+    "name" : "Alemdar",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "علمدار",
+      "name" : "Alemdar",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Şehsuvar Bey",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Шехсувар Бей",
+      "name:ar" : "شهسوفاربي",
+      "alt_name" : "Şehsuvarbey",
+      "name" : "Şehsuvar Bey",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Beyazıt",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "بيازيد",
+      "name" : "Beyazıt",
+      "place" : "suburb",
+      "wikipedia" : "tr:Beyazıt, Fatih"
+    }
+  }, {
+    "name" : "Küçük Ayasofya",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "كتشوك اية صوفيا",
+      "name" : "Küçük Ayasofya",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Cankurtaran",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Cankurtaran",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Binbirdirek",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "بنبيرديريك",
+      "name" : "Binbirdirek",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 978937,
+    "totalVolume" : 11798948,
+    "count" : 4749,
+    "maxHeight" : 85.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 49
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 203
+  }, {
+    "type" : "service",
+    "count" : 33
+  }, {
+    "type" : "trunk",
+    "count" : 11
+  }, {
+    "type" : "primary",
+    "count" : 10
+  }, {
+    "type" : "pedestrian",
+    "count" : 317
+  }, {
+    "type" : "subway",
+    "count" : 1
+  }, {
+    "type" : "living_street",
+    "count" : 86
+  }, {
+    "type" : "secondary",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 22
+  }, {
+    "type" : "tram",
+    "count" : 4
+  }, {
+    "type" : "rail",
+    "count" : 3
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 228
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  }, {
+    "type" : "primary_link",
+    "count" : 6
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -2,
+    "max" : 76,
+    "diff50m" : 12
+  }
+}

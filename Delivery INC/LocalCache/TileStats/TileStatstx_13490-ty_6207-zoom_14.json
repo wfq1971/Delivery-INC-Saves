@@ -1,0 +1,216 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.124753125
+  }, {
+    "type" : "residential",
+    "area" : 0.027081162
+  }, {
+    "type" : "commercial",
+    "area" : 0.016523324
+  }, {
+    "type" : "retail",
+    "area" : 0.016233817
+  }, {
+    "type" : "park",
+    "area" : 0.0102476
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 403
+  }, {
+    "type" : "restaurant",
+    "count" : 25
+  }, {
+    "type" : "residential",
+    "count" : 19
+  }, {
+    "type" : "toilets",
+    "count" : 15
+  }, {
+    "type" : "bank",
+    "count" : 13
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "cafe",
+    "count" : 7
+  }, {
+    "type" : "fast_food",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "apartments",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "telephone",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "waste_basket",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "建国门街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "建国门街道",
+      "name:en" : "Jianguomen",
+      "place" : "suburb",
+      "name:zh" : "建国门街道",
+      "division_code" : "110101008000"
+    }
+  }, {
+    "name" : "史家社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "史家社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "朝阳门街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "朝阳门街道",
+      "name:en" : "Chaoyangmen",
+      "place" : "suburb",
+      "name:zh" : "朝阳门街道",
+      "division_code" : "110101007000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 735184,
+    "totalVolume" : 9767349,
+    "count" : 825,
+    "maxHeight" : 96.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 8
+  }, {
+    "type" : "tertiary",
+    "count" : 33
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 98
+  }, {
+    "type" : "service",
+    "count" : 79
+  }, {
+    "type" : "trunk",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 23
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 11
+  }, {
+    "type" : "secondary_link",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 22
+  }, {
+    "type" : "unclassified",
+    "count" : 5
+  }, {
+    "type" : "footway",
+    "count" : 91
+  }, {
+    "type" : "trunk_link",
+    "count" : 7
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 37,
+    "max" : 114,
+    "diff50m" : 32
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.31227142
+  }, {
+    "type" : "parking",
+    "area" : 0.09771469
+  }, {
+    "type" : "wood",
+    "area" : 0.066572815
+  }, {
+    "type" : "retail",
+    "area" : 0.05586297
+  }, {
+    "type" : "golf_course",
+    "area" : 0.05545315
+  }, {
+    "type" : "farmland",
+    "area" : 0.039206505
+  }, {
+    "type" : "scrub",
+    "area" : 0.031698693
+  }, {
+    "type" : "park",
+    "area" : 0.022886591
+  }, {
+    "type" : "water_works",
+    "area" : 0.020788383
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.015589597
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1010
+  }, {
+    "type" : "house",
+    "count" : 302
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 32
+  }, {
+    "type" : "roof",
+    "count" : 13
+  }, {
+    "type" : "retail",
+    "count" : 11
+  }, {
+    "type" : "restaurant",
+    "count" : 10
+  }, {
+    "type" : "apartments",
+    "count" : 8
+  }, {
+    "type" : "atm",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "commercial",
+    "count" : 4
+  }, {
+    "type" : "industrial",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "bench",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 439916,
+    "totalVolume" : 4573298,
+    "count" : 1232,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 27
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 84
+  }, {
+    "type" : "service",
+    "count" : 472
+  }, {
+    "type" : "path",
+    "count" : 23
+  }, {
+    "type" : "trunk",
+    "count" : 34
+  }, {
+    "type" : "secondary",
+    "count" : 40
+  }, {
+    "type" : "steps",
+    "count" : 3
+  }, {
+    "type" : "rail",
+    "count" : 7
+  }, {
+    "type" : "unclassified",
+    "count" : 19
+  }, {
+    "type" : "footway",
+    "count" : 299
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 297,
+    "max" : 371,
+    "diff50m" : 21
+  }
+}

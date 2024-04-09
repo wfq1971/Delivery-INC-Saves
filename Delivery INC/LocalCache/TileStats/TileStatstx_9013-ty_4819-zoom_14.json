@@ -1,0 +1,270 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.46165594
+  }, {
+    "type" : "park",
+    "area" : 0.14545849
+  }, {
+    "type" : "commercial",
+    "area" : 0.089004025
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.08147983
+  }, {
+    "type" : "allotments",
+    "area" : 0.06307568
+  }, {
+    "type" : "wood",
+    "area" : 0.04671117
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.01553313
+  }, {
+    "type" : "pitch",
+    "area" : 0.011325403
+  }, {
+    "type" : "parking",
+    "area" : 0.010265579
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1181
+  }, {
+    "type" : "apartments",
+    "count" : 127
+  }, {
+    "type" : "vending_machine",
+    "count" : 53
+  }, {
+    "type" : "fast_food",
+    "count" : 33
+  }, {
+    "type" : "restaurant",
+    "count" : 32
+  }, {
+    "type" : "bench",
+    "count" : 32
+  }, {
+    "type" : "allotment_house",
+    "count" : 23
+  }, {
+    "type" : "residential",
+    "count" : 22
+  }, {
+    "type" : "cafe",
+    "count" : 16
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 11
+  }, {
+    "type" : "recycling",
+    "count" : 9
+  }, {
+    "type" : "waste_basket",
+    "count" : 9
+  }, {
+    "type" : "retail",
+    "count" : 8
+  }, {
+    "type" : "shed",
+    "count" : 8
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "post_box",
+    "count" : 8
+  }, {
+    "type" : "service",
+    "count" : 8
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "bar",
+    "count" : 7
+  }, {
+    "type" : "house",
+    "count" : 6
+  }, {
+    "type" : "ship",
+    "count" : 5
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "boat",
+    "count" : 4
+  }, {
+    "type" : "compressed_air",
+    "count" : 3
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "grandstand",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "art_work",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "institute",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Ansgarieberget",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Ansgarieberget",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Zinkensdamm",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Zinkensdamm",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Zinkensdamm"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 370740,
+    "totalVolume" : 6951882,
+    "count" : 748,
+    "maxHeight" : 78.5
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 85
+  }, {
+    "type" : "tertiary",
+    "count" : 60
+  }, {
+    "type" : "residential",
+    "count" : 98
+  }, {
+    "type" : "service",
+    "count" : 98
+  }, {
+    "type" : "path",
+    "count" : 18
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 25
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 161
+  }, {
+    "type" : "rail",
+    "count" : 22
+  }, {
+    "type" : "unclassified",
+    "count" : 14
+  }, {
+    "type" : "footway",
+    "count" : 589
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 1,
+    "max" : 55,
+    "diff50m" : 12
+  }
+}

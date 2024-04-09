@@ -1,0 +1,281 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.13371068
+  }, {
+    "type" : "grass",
+    "area" : 0.066875495
+  }, {
+    "type" : "park",
+    "area" : 0.045154523
+  }, {
+    "type" : "parking",
+    "area" : 0.02711296
+  }, {
+    "type" : "industrial",
+    "area" : 0.012113887
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2024
+  }, {
+    "type" : "apartments",
+    "count" : 239
+  }, {
+    "type" : "school",
+    "count" : 41
+  }, {
+    "type" : "restaurant",
+    "count" : 17
+  }, {
+    "type" : "bench",
+    "count" : 15
+  }, {
+    "type" : "hospital",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "fountain",
+    "count" : 8
+  }, {
+    "type" : "cafe",
+    "count" : 6
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "cultural_center",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "court",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Colonia 10 de Mayo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 10 de Mayo",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15290"
+    }
+  }, {
+    "name" : "Colonia 7 de Julio",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 7 de Julio",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15390"
+    }
+  }, {
+    "name" : "Colonia 24 de Abril",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia 24 de Abril",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15980"
+    }
+  }, {
+    "name" : "Venustiano Carranza",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 430978,
+    "tags" : {
+      "name" : "Venustiano Carranza",
+      "place" : "neighbourhood",
+      "wikipedia" : "es:Venustiano Carranza (Ciudad de México)",
+      "population" : "430978"
+    }
+  }, {
+    "name" : "Colonia Kennedy",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Kennedy",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15950"
+    }
+  }, {
+    "name" : "Colonia Santa Cruz Aviación",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Santa Cruz Aviación",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15540"
+    }
+  }, {
+    "name" : "Colonia Aeronáutica militar",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Aeronáutica militar",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15970"
+    }
+  }, {
+    "name" : "Colonia Moctezuma 2a. Sección",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Moctezuma 2a. Sección",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15530"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1517233,
+    "totalVolume" : 18085158,
+    "count" : 2597,
+    "maxHeight" : 28.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 77
+  }, {
+    "type" : "tertiary_link",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 516
+  }, {
+    "type" : "service",
+    "count" : 278
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "motorway",
+    "count" : 14
+  }, {
+    "type" : "trunk",
+    "count" : 19
+  }, {
+    "type" : "primary",
+    "count" : 69
+  }, {
+    "type" : "pedestrian",
+    "count" : 17
+  }, {
+    "type" : "subway",
+    "count" : 5
+  }, {
+    "type" : "living_street",
+    "count" : 6
+  }, {
+    "type" : "motorway_link",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 60
+  }, {
+    "type" : "secondary_link",
+    "count" : 20
+  }, {
+    "type" : "steps",
+    "count" : 22
+  }, {
+    "type" : "unclassified",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 845
+  }, {
+    "type" : "trunk_link",
+    "count" : 31
+  }, {
+    "type" : "primary_link",
+    "count" : 15
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2224,
+    "max" : 2248,
+    "diff50m" : 12
+  }
+}

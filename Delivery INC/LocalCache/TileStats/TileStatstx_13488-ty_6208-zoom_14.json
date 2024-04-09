@@ -1,0 +1,185 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.08966116
+  }, {
+    "type" : "park",
+    "area" : 0.0890209
+  }, {
+    "type" : "residential",
+    "area" : 0.07840206
+  }, {
+    "type" : "governmental",
+    "area" : 0.065633334
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.056031767
+  }, {
+    "type" : "yes",
+    "area" : 0.034986034
+  }, {
+    "type" : "retail",
+    "area" : 0.028837293
+  }, {
+    "type" : "grass",
+    "area" : 0.01950054
+  }, {
+    "type" : "military",
+    "area" : 0.012153528
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 716
+  }, {
+    "type" : "residential",
+    "count" : 158
+  }, {
+    "type" : "house",
+    "count" : 64
+  }, {
+    "type" : "restaurant",
+    "count" : 36
+  }, {
+    "type" : "retail",
+    "count" : 32
+  }, {
+    "type" : "fast_food",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 8
+  }, {
+    "type" : "apartments",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 7
+  }, {
+    "type" : "wall",
+    "count" : 6
+  }, {
+    "type" : "waste_basket",
+    "count" : 6
+  }, {
+    "type" : "cafe",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "bar",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "西长安街街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "西长安街街道",
+      "name:en" : "Xichang'anjie",
+      "place" : "suburb",
+      "name:zh-Hant" : "西長安街街道",
+      "name:zh" : "西长安街街道",
+      "division_code" : "110102001000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 700883,
+    "totalVolume" : 12859823,
+    "count" : 910,
+    "maxHeight" : 46.68
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 11
+  }, {
+    "type" : "tertiary",
+    "count" : 41
+  }, {
+    "type" : "tertiary_link",
+    "count" : 11
+  }, {
+    "type" : "residential",
+    "count" : 76
+  }, {
+    "type" : "service",
+    "count" : 140
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "primary",
+    "count" : 44
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 25
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 325
+  }, {
+    "type" : "primary_link",
+    "count" : 18
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 37,
+    "max" : 92,
+    "diff50m" : 23
+  }
+}

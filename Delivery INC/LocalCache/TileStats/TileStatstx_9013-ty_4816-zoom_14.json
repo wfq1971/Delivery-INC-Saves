@@ -1,0 +1,288 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.38579538
+  }, {
+    "type" : "park",
+    "area" : 0.22131549
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.07410107
+  }, {
+    "type" : "commercial",
+    "area" : 0.066257745
+  }, {
+    "type" : "construction",
+    "area" : 0.050127607
+  }, {
+    "type" : "grass",
+    "area" : 0.035232265
+  }, {
+    "type" : "marina",
+    "area" : 0.023293603
+  }, {
+    "type" : "wood",
+    "area" : 0.013782842
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1303
+  }, {
+    "type" : "bench",
+    "count" : 185
+  }, {
+    "type" : "waste_basket",
+    "count" : 103
+  }, {
+    "type" : "apartments",
+    "count" : 87
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 68
+  }, {
+    "type" : "restaurant",
+    "count" : 65
+  }, {
+    "type" : "vending_machine",
+    "count" : 39
+  }, {
+    "type" : "school",
+    "count" : 34
+  }, {
+    "type" : "fast_food",
+    "count" : 27
+  }, {
+    "type" : "recycling",
+    "count" : 21
+  }, {
+    "type" : "cafe",
+    "count" : 21
+  }, {
+    "type" : "university",
+    "count" : 11
+  }, {
+    "type" : "post_box",
+    "count" : 11
+  }, {
+    "type" : "kindergarten",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "bar",
+    "count" : 6
+  }, {
+    "type" : "pub",
+    "count" : 6
+  }, {
+    "type" : "retail",
+    "count" : 6
+  }, {
+    "type" : "office",
+    "count" : 5
+  }, {
+    "type" : "hotel",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "government",
+    "count" : 5
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "service",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "dormitory",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "car_wash",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "hangar",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Roslagstull",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "check_date" : "2020-06-11",
+      "name" : "Roslagstull",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Albano",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Albano",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Norrtull",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "check_date" : "2020-02-13",
+      "name" : "Norrtull",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Sibirien",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "check_date" : "2020-01-29",
+      "name" : "Sibirien",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Sibirien, Stockholm"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 388985,
+    "totalVolume" : 7431277,
+    "count" : 313,
+    "maxHeight" : 74.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 89
+  }, {
+    "type" : "tertiary",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 97
+  }, {
+    "type" : "narrow_gauge",
+    "count" : 8
+  }, {
+    "type" : "service",
+    "count" : 173
+  }, {
+    "type" : "path",
+    "count" : 20
+  }, {
+    "type" : "motorway",
+    "count" : 10
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 16
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 23
+  }, {
+    "type" : "secondary",
+    "count" : 78
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 62
+  }, {
+    "type" : "rail",
+    "count" : 12
+  }, {
+    "type" : "unclassified",
+    "count" : 40
+  }, {
+    "type" : "footway",
+    "count" : 638
+  }, {
+    "type" : "primary_link",
+    "count" : 15
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -7,
+    "max" : 50,
+    "diff50m" : 12
+  }
+}

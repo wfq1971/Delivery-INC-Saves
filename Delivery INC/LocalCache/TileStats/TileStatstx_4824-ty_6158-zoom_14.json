@@ -1,0 +1,460 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.033447456
+  }, {
+    "type" : "park",
+    "area" : 0.025684407
+  }, {
+    "type" : "residential",
+    "area" : 0.011656599
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2498
+  }, {
+    "type" : "apartments",
+    "count" : 1371
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 621
+  }, {
+    "type" : "restaurant",
+    "count" : 385
+  }, {
+    "type" : "fast_food",
+    "count" : 179
+  }, {
+    "type" : "cafe",
+    "count" : 146
+  }, {
+    "type" : "bench",
+    "count" : 96
+  }, {
+    "type" : "bar",
+    "count" : 87
+  }, {
+    "type" : "office",
+    "count" : 64
+  }, {
+    "type" : "university",
+    "count" : 57
+  }, {
+    "type" : "bank",
+    "count" : 56
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 51
+  }, {
+    "type" : "post_box",
+    "count" : 50
+  }, {
+    "type" : "waste_basket",
+    "count" : 49
+  }, {
+    "type" : "retail",
+    "count" : 47
+  }, {
+    "type" : "school",
+    "count" : 41
+  }, {
+    "type" : "pharmacy",
+    "count" : 31
+  }, {
+    "type" : "church",
+    "count" : 28
+  }, {
+    "type" : "pub",
+    "count" : 25
+  }, {
+    "type" : "clinic",
+    "count" : 24
+  }, {
+    "type" : "hotel",
+    "count" : 22
+  }, {
+    "type" : "atm",
+    "count" : 21
+  }, {
+    "type" : "drinking_water",
+    "count" : 18
+  }, {
+    "type" : "parking_entrance",
+    "count" : 16
+  }, {
+    "type" : "dormitory",
+    "count" : 15
+  }, {
+    "type" : "college",
+    "count" : 13
+  }, {
+    "type" : "theatre",
+    "count" : 12
+  }, {
+    "type" : "doctors",
+    "count" : 12
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "nightclub",
+    "count" : 11
+  }, {
+    "type" : "telephone",
+    "count" : 11
+  }, {
+    "type" : "dentist",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 9
+  }, {
+    "type" : "vending_machine",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 9
+  }, {
+    "type" : "hospital",
+    "count" : 8
+  }, {
+    "type" : "roof",
+    "count" : 8
+  }, {
+    "type" : "house",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "place_of_worship",
+    "count" : 6
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "service",
+    "count" : 6
+  }, {
+    "type" : "charging_station",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "car_rental",
+    "count" : 5
+  }, {
+    "type" : "fortune_teller",
+    "count" : 5
+  }, {
+    "type" : "fire_station",
+    "count" : 5
+  }, {
+    "type" : "cinema",
+    "count" : 4
+  }, {
+    "type" : "shelter",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "synagogue",
+    "count" : 3
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "disused:restaurant",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "religious",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "spa",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "loading_dock",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "clothing store",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "triumphal_arch",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "bbq",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "urgent_care",
+    "count" : 1
+  }, {
+    "type" : "wifi;telephone;device_charging_station",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "music_venue",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Greenwich Village",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Гринвич-Виллидж",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "951781",
+      "gnis:Class" : "Populated Place",
+      "name" : "Greenwich Village",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Greenwich Village",
+      "ele" : "6"
+    }
+  }, {
+    "name" : "Chelsea",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Челси",
+      "gnis:ST_num" : "36",
+      "gnis:ST_alpha" : "NY",
+      "gnis:id" : "2042282",
+      "gnis:Class" : "Populated Place",
+      "name" : "Chelsea",
+      "gnis:County_num" : "061",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "5",
+      "gnis:County" : "New York"
+    }
+  }, {
+    "name" : "Flatiron District",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Флэтайрон",
+      "name" : "Flatiron District",
+      "tourism" : "attraction",
+      "name:en" : "Flatiron District",
+      "place" : "neighbourhood",
+      "name:zh-Hans" : "熨斗区",
+      "name:zh-Hant" : "熨斗區",
+      "addr:postcode" : "10010"
+    }
+  }, {
+    "name" : "NoMad",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Номад",
+      "name" : "NoMad",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:NoMad, Manhattan",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Gramercy",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Грамерси",
+      "name" : "Gramercy",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Union Square",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Юнион-сквер",
+      "name" : "Union Square",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Rose Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Роуз-хилл",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062667",
+      "gnis:Class" : "Populated Place",
+      "name" : "Rose Hill",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Rose Hill, Manhattan",
+      "ele" : "11"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2020038,
+    "totalVolume" : 68668158,
+    "count" : 5904,
+    "maxHeight" : 243.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 9
+  }, {
+    "type" : "tertiary",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 254
+  }, {
+    "type" : "service",
+    "count" : 56
+  }, {
+    "type" : "pedestrian",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 75
+  }, {
+    "type" : "subway",
+    "count" : 118
+  }, {
+    "type" : "living_street",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 164
+  }, {
+    "type" : "secondary_link",
+    "count" : 9
+  }, {
+    "type" : "steps",
+    "count" : 60
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 1711
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 5,
+    "max" : 79,
+    "diff50m" : 36
+  }
+}

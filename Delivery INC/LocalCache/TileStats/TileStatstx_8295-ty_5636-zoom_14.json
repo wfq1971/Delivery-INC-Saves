@@ -1,0 +1,345 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.9857282
+  }, {
+    "type" : "residential",
+    "area" : 0.95935285
+  }, {
+    "type" : "park",
+    "area" : 0.11659863
+  }, {
+    "type" : "grass",
+    "area" : 0.037417814
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.03596796
+  }, {
+    "type" : "forest",
+    "area" : 0.016619224
+  }, {
+    "type" : "marina",
+    "area" : 0.010622995
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1041
+  }, {
+    "type" : "apartments",
+    "count" : 217
+  }, {
+    "type" : "bench",
+    "count" : 123
+  }, {
+    "type" : "parking_space",
+    "count" : 112
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 97
+  }, {
+    "type" : "restaurant",
+    "count" : 77
+  }, {
+    "type" : "post_box",
+    "count" : 48
+  }, {
+    "type" : "waste_basket",
+    "count" : 38
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 29
+  }, {
+    "type" : "bank",
+    "count" : 27
+  }, {
+    "type" : "school",
+    "count" : 27
+  }, {
+    "type" : "recycling",
+    "count" : 25
+  }, {
+    "type" : "pharmacy",
+    "count" : 22
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 22
+  }, {
+    "type" : "cafe",
+    "count" : 19
+  }, {
+    "type" : "fast_food",
+    "count" : 19
+  }, {
+    "type" : "atm",
+    "count" : 16
+  }, {
+    "type" : "drinking_water",
+    "count" : 15
+  }, {
+    "type" : "parking_entrance",
+    "count" : 12
+  }, {
+    "type" : "college",
+    "count" : 12
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "vending_machine",
+    "count" : 6
+  }, {
+    "type" : "office",
+    "count" : 6
+  }, {
+    "type" : "retail",
+    "count" : 6
+  }, {
+    "type" : "social_facility",
+    "count" : 6
+  }, {
+    "type" : "taxi",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "driving_school",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "piano_lessons",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "device_charging_station",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "water_point",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "monastery",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Porte de Passy",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte de Passy",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte de Passy"
+    }
+  }, {
+    "name" : "Porte de la Muette",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte de la Muette",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte de la Muette"
+    }
+  }, {
+    "name" : "Passy",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Passy",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "16e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "XVI округ",
+      "name:ar" : "الدائرة السادسة عشرة",
+      "alt_name" : "XVIe Arrondissement",
+      "name:ja" : "16区",
+      "alt_name:en" : "16th Arrondissement",
+      "name" : "16e Arrondissement",
+      "name:en" : "16th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:16e arrondissement de Paris",
+      "addr:postcode" : "75016"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1036851,
+    "totalVolume" : 24231094,
+    "count" : 3247,
+    "maxHeight" : 96.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 32
+  }, {
+    "type" : "tertiary",
+    "count" : 74
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 210
+  }, {
+    "type" : "service",
+    "count" : 106
+  }, {
+    "type" : "path",
+    "count" : 46
+  }, {
+    "type" : "trunk",
+    "count" : 11
+  }, {
+    "type" : "pedestrian",
+    "count" : 15
+  }, {
+    "type" : "primary",
+    "count" : 38
+  }, {
+    "type" : "track",
+    "count" : 6
+  }, {
+    "type" : "subway",
+    "count" : 3
+  }, {
+    "type" : "living_street",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 62
+  }, {
+    "type" : "secondary_link",
+    "count" : 7
+  }, {
+    "type" : "bridleway",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 64
+  }, {
+    "type" : "rail",
+    "count" : 18
+  }, {
+    "type" : "unclassified",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 319
+  }, {
+    "type" : "trunk_link",
+    "count" : 7
+  }, {
+    "type" : "primary_link",
+    "count" : 6
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 24,
+    "max" : 85,
+    "diff50m" : 12
+  }
+}

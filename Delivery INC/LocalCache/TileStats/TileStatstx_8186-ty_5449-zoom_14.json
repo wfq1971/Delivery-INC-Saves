@@ -1,0 +1,410 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.37347284
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.1315599
+  }, {
+    "type" : "park",
+    "area" : 0.075187065
+  }, {
+    "type" : "commercial",
+    "area" : 0.053986005
+  }, {
+    "type" : "construction",
+    "area" : 0.050827555
+  }, {
+    "type" : "yes",
+    "area" : 0.039967105
+  }, {
+    "type" : "retail",
+    "area" : 0.022363832
+  }, {
+    "type" : "grass",
+    "area" : 0.018283121
+  }, {
+    "type" : "stadium",
+    "area" : 0.01730611
+  }, {
+    "type" : "pitch",
+    "area" : 0.013588866
+  }, {
+    "type" : "railway",
+    "area" : 0.010507592
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2593
+  }, {
+    "type" : "house",
+    "count" : 433
+  }, {
+    "type" : "apartments",
+    "count" : 234
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 191
+  }, {
+    "type" : "bench",
+    "count" : 92
+  }, {
+    "type" : "residential",
+    "count" : 67
+  }, {
+    "type" : "terrace",
+    "count" : 36
+  }, {
+    "type" : "restaurant",
+    "count" : 28
+  }, {
+    "type" : "office",
+    "count" : 27
+  }, {
+    "type" : "cafe",
+    "count" : 26
+  }, {
+    "type" : "post_box",
+    "count" : 25
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 23
+  }, {
+    "type" : "school",
+    "count" : 19
+  }, {
+    "type" : "waste_basket",
+    "count" : 18
+  }, {
+    "type" : "telephone",
+    "count" : 18
+  }, {
+    "type" : "roof",
+    "count" : 16
+  }, {
+    "type" : "retail",
+    "count" : 16
+  }, {
+    "type" : "fast_food",
+    "count" : 15
+  }, {
+    "type" : "parking",
+    "count" : 12
+  }, {
+    "type" : "bar",
+    "count" : 12
+  }, {
+    "type" : "commercial",
+    "count" : 10
+  }, {
+    "type" : "industrial",
+    "count" : 10
+  }, {
+    "type" : "church",
+    "count" : 9
+  }, {
+    "type" : "atm",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "waste_disposal",
+    "count" : 8
+  }, {
+    "type" : "recycling",
+    "count" : 7
+  }, {
+    "type" : "garages",
+    "count" : 6
+  }, {
+    "type" : "garage",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 4
+  }, {
+    "type" : "dormitory",
+    "count" : 4
+  }, {
+    "type" : "shed",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "charging_station",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "car_sharing",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "no",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "grit_bin",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "civic",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "greenhouse",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "stadium",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "air_shaft",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "sty",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "plumber",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "fixme",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "ship",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "gatehouse",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "loading_dock",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "gallery",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "swimming_pool",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Nine Elms Reach",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Nine Elms Reach",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Vauxhall",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Lambeth, London, UK",
+      "name" : "Vauxhall",
+      "place" : "suburb",
+      "wikipedia" : "en:Vauxhall"
+    }
+  }, {
+    "name" : "Kennington Cross",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Kennington Cross",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Kennington Cross"
+    }
+  }, {
+    "name" : "Millbank",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Millbank",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Oval",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Oval",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 694932,
+    "totalVolume" : 12893584,
+    "count" : 2064,
+    "maxHeight" : 200.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 207
+  }, {
+    "type" : "tertiary",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 257
+  }, {
+    "type" : "service",
+    "count" : 419
+  }, {
+    "type" : "path",
+    "count" : 16
+  }, {
+    "type" : "trunk",
+    "count" : 191
+  }, {
+    "type" : "pedestrian",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 126
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 9
+  }, {
+    "type" : "secondary",
+    "count" : 26
+  }, {
+    "type" : "steps",
+    "count" : 38
+  }, {
+    "type" : "rail",
+    "count" : 193
+  }, {
+    "type" : "unclassified",
+    "count" : 53
+  }, {
+    "type" : "footway",
+    "count" : 1043
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 29,
+    "diff50m" : 27
+  }
+}

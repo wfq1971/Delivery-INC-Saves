@@ -1,0 +1,279 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.5247696
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.13823164
+  }, {
+    "type" : "commercial",
+    "area" : 0.13720624
+  }, {
+    "type" : "construction",
+    "area" : 0.08482352
+  }, {
+    "type" : "park",
+    "area" : 0.049150314
+  }, {
+    "type" : "cemetery",
+    "area" : 0.025374072
+  }, {
+    "type" : "yes",
+    "area" : 0.01348917
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1104
+  }, {
+    "type" : "apartments",
+    "count" : 159
+  }, {
+    "type" : "restaurant",
+    "count" : 100
+  }, {
+    "type" : "vending_machine",
+    "count" : 57
+  }, {
+    "type" : "cafe",
+    "count" : 54
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 49
+  }, {
+    "type" : "fast_food",
+    "count" : 45
+  }, {
+    "type" : "bar",
+    "count" : 30
+  }, {
+    "type" : "pub",
+    "count" : 23
+  }, {
+    "type" : "bench",
+    "count" : 21
+  }, {
+    "type" : "post_box",
+    "count" : 15
+  }, {
+    "type" : "retail",
+    "count" : 13
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "recycling",
+    "count" : 7
+  }, {
+    "type" : "shed",
+    "count" : 7
+  }, {
+    "type" : "office",
+    "count" : 7
+  }, {
+    "type" : "pharmacy",
+    "count" : 7
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 4
+  }, {
+    "type" : "compressed_air",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "mosque",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Franska Bukten",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Franska Bukten",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Södermalm",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Содермальм",
+      "name" : "Södermalm",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 551258,
+    "totalVolume" : 11145971,
+    "count" : 437,
+    "maxHeight" : 104.4
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 75
+  }, {
+    "type" : "tertiary",
+    "count" : 57
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 189
+  }, {
+    "type" : "service",
+    "count" : 56
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "trunk",
+    "count" : 9
+  }, {
+    "type" : "pedestrian",
+    "count" : 27
+  }, {
+    "type" : "subway",
+    "count" : 20
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 12
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 130
+  }, {
+    "type" : "rail",
+    "count" : 12
+  }, {
+    "type" : "unclassified",
+    "count" : 21
+  }, {
+    "type" : "disused",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 472
+  }, {
+    "type" : "trunk_link",
+    "count" : 7
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 0,
+    "max" : 56,
+    "diff50m" : 14
+  }
+}

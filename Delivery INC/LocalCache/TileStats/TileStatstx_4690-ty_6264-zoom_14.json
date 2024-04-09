@@ -1,0 +1,320 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.19384916
+  }, {
+    "type" : "nature_reserve",
+    "area" : 0.15864186
+  }, {
+    "type" : "industrial",
+    "area" : 0.13878518
+  }, {
+    "type" : "park",
+    "area" : 0.034699168
+  }, {
+    "type" : "wood",
+    "area" : 0.0334228
+  }, {
+    "type" : "retail",
+    "area" : 0.025728043
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.023375124
+  }, {
+    "type" : "parking",
+    "area" : 0.021090062
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1236
+  }, {
+    "type" : "detached",
+    "count" : 663
+  }, {
+    "type" : "bench",
+    "count" : 39
+  }, {
+    "type" : "house",
+    "count" : 36
+  }, {
+    "type" : "waste_basket",
+    "count" : 23
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 17
+  }, {
+    "type" : "terrace",
+    "count" : 15
+  }, {
+    "type" : "retail",
+    "count" : 11
+  }, {
+    "type" : "vending_machine",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "restaurant",
+    "count" : 6
+  }, {
+    "type" : "bbq",
+    "count" : 6
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "recycling",
+    "count" : 5
+  }, {
+    "type" : "public",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "table",
+    "count" : 4
+  }, {
+    "type" : "public_bookcase",
+    "count" : 3
+  }, {
+    "type" : "apartments",
+    "count" : 3
+  }, {
+    "type" : "gazebo",
+    "count" : 3
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Hyattsville",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 21187,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "gnis:id" : "597595",
+      "name" : "Hyattsville",
+      "gnis:County_num" : "033",
+      "place" : "city",
+      "wikipedia" : "en:Hyattsville, Maryland",
+      "census:population" : "15091;2006",
+      "ele" : "32",
+      "population" : "21187",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Ellaville",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597378",
+      "name" : "Ellaville",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "32",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Edmonston",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 1374,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "gnis:id" : "597374",
+      "name" : "Edmonston",
+      "gnis:County_num" : "033",
+      "place" : "village",
+      "wikipedia" : "en:Edmonston, Maryland",
+      "census:population" : "1374;2006",
+      "ele" : "6",
+      "population" : "1374",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Whiteley",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "598257",
+      "name" : "Whiteley",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "17",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Green Manor",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597489",
+      "name" : "Green Manor",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "8",
+      "gnis:County" : "Prince George's"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 494937,
+    "totalVolume" : 4861654,
+    "count" : 2884,
+    "maxHeight" : 20.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 24
+  }, {
+    "type" : "tertiary",
+    "count" : 18
+  }, {
+    "type" : "residential",
+    "count" : 153
+  }, {
+    "type" : "service",
+    "count" : 494
+  }, {
+    "type" : "path",
+    "count" : 11
+  }, {
+    "type" : "primary",
+    "count" : 52
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 4
+  }, {
+    "type" : "rail",
+    "count" : 29
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "footway",
+    "count" : 429
+  }, {
+    "type" : "primary_link",
+    "count" : 8
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -2,
+    "max" : 46,
+    "diff50m" : 9
+  }
+}

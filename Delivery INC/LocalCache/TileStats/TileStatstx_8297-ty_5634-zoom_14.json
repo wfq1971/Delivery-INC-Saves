@@ -1,0 +1,430 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0159036
+  }, {
+    "type" : "residential",
+    "area" : 0.93931687
+  }, {
+    "type" : "park",
+    "area" : 0.06291157
+  }, {
+    "type" : "railway",
+    "area" : 0.054011494
+  }, {
+    "type" : "grass",
+    "area" : 0.022547657
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2951
+  }, {
+    "type" : "apartments",
+    "count" : 1169
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 378
+  }, {
+    "type" : "bench",
+    "count" : 352
+  }, {
+    "type" : "restaurant",
+    "count" : 334
+  }, {
+    "type" : "parking_space",
+    "count" : 154
+  }, {
+    "type" : "waste_basket",
+    "count" : 133
+  }, {
+    "type" : "fast_food",
+    "count" : 86
+  }, {
+    "type" : "office",
+    "count" : 76
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 72
+  }, {
+    "type" : "cafe",
+    "count" : 71
+  }, {
+    "type" : "post_box",
+    "count" : 54
+  }, {
+    "type" : "bank",
+    "count" : 53
+  }, {
+    "type" : "school",
+    "count" : 52
+  }, {
+    "type" : "bar",
+    "count" : 48
+  }, {
+    "type" : "pharmacy",
+    "count" : 42
+  }, {
+    "type" : "recycling",
+    "count" : 42
+  }, {
+    "type" : "retail",
+    "count" : 37
+  }, {
+    "type" : "atm",
+    "count" : 37
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 36
+  }, {
+    "type" : "residential",
+    "count" : 32
+  }, {
+    "type" : "drinking_water",
+    "count" : 28
+  }, {
+    "type" : "pub",
+    "count" : 27
+  }, {
+    "type" : "hotel",
+    "count" : 24
+  }, {
+    "type" : "vending_machine",
+    "count" : 16
+  }, {
+    "type" : "toilets",
+    "count" : 16
+  }, {
+    "type" : "childcare",
+    "count" : 12
+  }, {
+    "type" : "social_facility",
+    "count" : 12
+  }, {
+    "type" : "college",
+    "count" : 12
+  }, {
+    "type" : "parking_entrance",
+    "count" : 12
+  }, {
+    "type" : "dentist",
+    "count" : 11
+  }, {
+    "type" : "charging_station",
+    "count" : 11
+  }, {
+    "type" : "shed",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "shelter",
+    "count" : 8
+  }, {
+    "type" : "doctors",
+    "count" : 8
+  }, {
+    "type" : "church",
+    "count" : 8
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "driving_school",
+    "count" : 7
+  }, {
+    "type" : "kindergarten",
+    "count" : 7
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "cinema",
+    "count" : 5
+  }, {
+    "type" : "taxi",
+    "count" : 5
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "service",
+    "count" : 4
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "kiosk",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "civic",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "training",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "cooking_school",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "was:restaurant",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "vacant",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "toy_library",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "workshop",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  }, {
+    "type" : "restaurant;deli",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "art",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Batignolles",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:el" : "Μπατινιόλ",
+      "name" : "Batignolles",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Monceau",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Monceau",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "17e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "XVII округ",
+      "name:ar" : "الدائرة السابعة عشرة",
+      "alt_name" : "XVIIe Arrondissement",
+      "name:ja" : "17区",
+      "name" : "17e Arrondissement",
+      "name:en" : "17th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:17e arrondissement de Paris",
+      "addr:postcode" : "75017"
+    }
+  }, {
+    "name" : "Les Épinettes",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Les Épinettes",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1257181,
+    "totalVolume" : 25736767,
+    "count" : 5167,
+    "maxHeight" : 68.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 19
+  }, {
+    "type" : "tertiary",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 263
+  }, {
+    "type" : "service",
+    "count" : 83
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 52
+  }, {
+    "type" : "primary",
+    "count" : 67
+  }, {
+    "type" : "track",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 24
+  }, {
+    "type" : "living_street",
+    "count" : 14
+  }, {
+    "type" : "secondary",
+    "count" : 51
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 122
+  }, {
+    "type" : "tram",
+    "count" : 2
+  }, {
+    "type" : "rail",
+    "count" : 284
+  }, {
+    "type" : "unclassified",
+    "count" : 12
+  }, {
+    "type" : "disused",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 1938
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 30,
+    "max" : 80,
+    "diff50m" : 9
+  }
+}

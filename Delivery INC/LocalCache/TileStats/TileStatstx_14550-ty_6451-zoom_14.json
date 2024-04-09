@@ -1,0 +1,616 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.16831431
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.108932994
+  }, {
+    "type" : "forest",
+    "area" : 0.037106372
+  }, {
+    "type" : "parking",
+    "area" : 0.017628811
+  }, {
+    "type" : "residential",
+    "area" : 0.01753888
+  }, {
+    "type" : "pitch",
+    "area" : 0.014443816
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2216
+  }, {
+    "type" : "restaurant",
+    "count" : 200
+  }, {
+    "type" : "cafe",
+    "count" : 72
+  }, {
+    "type" : "bench",
+    "count" : 67
+  }, {
+    "type" : "vending_machine",
+    "count" : 57
+  }, {
+    "type" : "temple",
+    "count" : 56
+  }, {
+    "type" : "fast_food",
+    "count" : 54
+  }, {
+    "type" : "pub",
+    "count" : 44
+  }, {
+    "type" : "bar",
+    "count" : 36
+  }, {
+    "type" : "toilets",
+    "count" : 26
+  }, {
+    "type" : "pharmacy",
+    "count" : 22
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 19
+  }, {
+    "type" : "telephone",
+    "count" : 16
+  }, {
+    "type" : "parking",
+    "count" : 15
+  }, {
+    "type" : "post_box",
+    "count" : 15
+  }, {
+    "type" : "kindergarten",
+    "count" : 14
+  }, {
+    "type" : "apartments",
+    "count" : 14
+  }, {
+    "type" : "place_of_worship",
+    "count" : 13
+  }, {
+    "type" : "studio",
+    "count" : 13
+  }, {
+    "type" : "police",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "social_facility",
+    "count" : 10
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 8
+  }, {
+    "type" : "drinking_water",
+    "count" : 8
+  }, {
+    "type" : "commercial",
+    "count" : 8
+  }, {
+    "type" : "bank",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 6
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "doctors",
+    "count" : 5
+  }, {
+    "type" : "dentist",
+    "count" : 5
+  }, {
+    "type" : "shrine",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 4
+  }, {
+    "type" : "waste_disposal",
+    "count" : 4
+  }, {
+    "type" : "brothel",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "car_rental",
+    "count" : 4
+  }, {
+    "type" : "fire_station",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "stadium",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "shower",
+    "count" : 3
+  }, {
+    "type" : "smoking_area",
+    "count" : 3
+  }, {
+    "type" : "luggage_locker",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "conservatory",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "千駄ヶ谷三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷三丁目",
+      "name" : "千駄ヶ谷三丁目",
+      "name:en" : "Sendagaya 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや3ちょうめ"
+    }
+  }, {
+    "name" : "千駄ヶ谷一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷一丁目",
+      "name" : "千駄ヶ谷一丁目",
+      "name:en" : "Sendagaya 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや1ちょうめ"
+    }
+  }, {
+    "name" : "霞ヶ丘町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "霞ヶ丘町",
+      "name" : "霞ヶ丘町",
+      "name:en" : "Kasumigaokamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かすみがおかまち"
+    }
+  }, {
+    "name" : "北青山一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "北青山一丁目",
+      "name" : "北青山一丁目",
+      "name:en" : "Kitaaoyama 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "きたあおやま1ちょうめ"
+    }
+  }, {
+    "name" : "南元町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南元町",
+      "name" : "南元町",
+      "name:en" : "Minamimotomachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみもとまち"
+    }
+  }, {
+    "name" : "信濃町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "信濃町",
+      "name" : "信濃町",
+      "name:en" : "Shinanomachi",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:信濃町 (新宿区)",
+      "name:ja-Hira" : "しなのまち"
+    }
+  }, {
+    "name" : "内藤町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "内藤町",
+      "name" : "内藤町",
+      "name:en" : "Naitomachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ないとうまち"
+    }
+  }, {
+    "name" : "左門町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "左門町",
+      "name" : "左門町",
+      "name:en" : "Samoncho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "さもんちょう"
+    }
+  }, {
+    "name" : "須賀町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "須賀町",
+      "name" : "須賀町",
+      "name:en" : "Sugacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "すがちょう"
+    }
+  }, {
+    "name" : "愛住町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "愛住町",
+      "name" : "愛住町",
+      "name:en" : "Aizumicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あいずみちょう"
+    }
+  }, {
+    "name" : "舟町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "舟町",
+      "name" : "舟町",
+      "name:en" : "Funamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ふなまち"
+    }
+  }, {
+    "name" : "千駄ヶ谷四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷四丁目",
+      "name" : "千駄ヶ谷四丁目",
+      "name:en" : "Sendagaya 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや4ちょうめ"
+    }
+  }, {
+    "name" : "霞岳町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "霞岳町",
+      "name" : "霞岳町",
+      "name:en" : "Kasumigaokamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かすみがおかまち"
+    }
+  }, {
+    "name" : "新宿二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 1213,
+    "tags" : {
+      "name:ja" : "新宿二丁目",
+      "name" : "新宿二丁目",
+      "name:en" : "Shinjuku 2-chome",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:新宿二丁目",
+      "name:ja-Hira" : "しんじゅく2ちょうめ",
+      "name:es" : "Shinjuku 2-chōme",
+      "population" : "1213",
+      "start_date" : "1973"
+    }
+  }, {
+    "name" : "大京町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大京町",
+      "name" : "大京町",
+      "name:en" : "Daikyocho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "だいきょうちょう"
+    }
+  }, {
+    "name" : "荒木町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "荒木町",
+      "name" : "荒木町",
+      "name:en" : "Arakicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらきちょう"
+    }
+  }, {
+    "name" : "千駄ヶ谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷二丁目",
+      "name" : "千駄ヶ谷二丁目",
+      "name:en" : "Sendagaya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや2ちょうめ"
+    }
+  }, {
+    "name" : "千駄ヶ谷五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷五丁目",
+      "name" : "千駄ヶ谷五丁目",
+      "name:en" : "Sendagaya 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや5ちょうめ"
+    }
+  }, {
+    "name" : "千駄ヶ谷六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千駄ヶ谷六丁目",
+      "name" : "千駄ヶ谷六丁目",
+      "name:en" : "Sendagaya 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんだがや6ちょうめ"
+    }
+  }, {
+    "name" : "新宿四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿四丁目",
+      "name" : "新宿四丁目",
+      "name:en" : "Shinjuku 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく4ちょうめ"
+    }
+  }, {
+    "name" : "新宿三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿三丁目",
+      "name" : "新宿三丁目",
+      "name:en" : "Shinjuku 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく3ちょうめ"
+    }
+  }, {
+    "name" : "新宿一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新宿一丁目",
+      "name" : "新宿一丁目",
+      "name:en" : "Shinjuku 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しんじゅく1ちょうめ"
+    }
+  }, {
+    "name" : "四谷四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷四丁目",
+      "name" : "四谷四丁目",
+      "name:en" : "Yotsuya 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつや4ちょうめ"
+    }
+  }, {
+    "name" : "四谷三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷三丁目",
+      "name" : "四谷三丁目",
+      "name:en" : "Yotsuya 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつや3ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1266256,
+    "totalVolume" : 16874825,
+    "count" : 7273,
+    "maxHeight" : 240.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 38
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 348
+  }, {
+    "type" : "service",
+    "count" : 112
+  }, {
+    "type" : "path",
+    "count" : 23
+  }, {
+    "type" : "motorway",
+    "count" : 8
+  }, {
+    "type" : "trunk",
+    "count" : 25
+  }, {
+    "type" : "primary",
+    "count" : 86
+  }, {
+    "type" : "pedestrian",
+    "count" : 74
+  }, {
+    "type" : "subway",
+    "count" : 25
+  }, {
+    "type" : "motorway_link",
+    "count" : 19
+  }, {
+    "type" : "secondary",
+    "count" : 60
+  }, {
+    "type" : "secondary_link",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 106
+  }, {
+    "type" : "rail",
+    "count" : 91
+  }, {
+    "type" : "unclassified",
+    "count" : 178
+  }, {
+    "type" : "footway",
+    "count" : 1002
+  }, {
+    "type" : "trunk_link",
+    "count" : 1
+  }, {
+    "type" : "primary_link",
+    "count" : 13
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 12,
+    "max" : 81,
+    "diff50m" : 23
+  }
+}

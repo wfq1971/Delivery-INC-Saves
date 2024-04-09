@@ -1,0 +1,321 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.16461596
+  }, {
+    "type" : "wood",
+    "area" : 0.021621542
+  }, {
+    "type" : "park",
+    "area" : 0.019958086
+  }, {
+    "type" : "construction",
+    "area" : 0.013304603
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 1055
+  }, {
+    "type" : "restaurant",
+    "count" : 347
+  }, {
+    "type" : "road",
+    "count" : 294
+  }, {
+    "type" : "public_building",
+    "count" : 272
+  }, {
+    "type" : "training",
+    "count" : 271
+  }, {
+    "type" : "clinic",
+    "count" : 202
+  }, {
+    "type" : "fast_food",
+    "count" : 153
+  }, {
+    "type" : "toilets",
+    "count" : 150
+  }, {
+    "type" : "apartments",
+    "count" : 140
+  }, {
+    "type" : "marketplace",
+    "count" : 125
+  }, {
+    "type" : "atm",
+    "count" : 120
+  }, {
+    "type" : "school",
+    "count" : 109
+  }, {
+    "type" : "food_court",
+    "count" : 88
+  }, {
+    "type" : "bank",
+    "count" : 88
+  }, {
+    "type" : "pub",
+    "count" : 67
+  }, {
+    "type" : "pharmacy",
+    "count" : 58
+  }, {
+    "type" : "hospital",
+    "count" : 57
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 50
+  }, {
+    "type" : "townhall",
+    "count" : 37
+  }, {
+    "type" : "police",
+    "count" : 35
+  }, {
+    "type" : "social_facility",
+    "count" : 29
+  }, {
+    "type" : "college",
+    "count" : 28
+  }, {
+    "type" : "cafe",
+    "count" : 24
+  }, {
+    "type" : "transportation",
+    "count" : 15
+  }, {
+    "type" : "library",
+    "count" : 14
+  }, {
+    "type" : "commercial",
+    "count" : 6
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "南肖埠社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "南肖埠社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "钱江苑社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "钱江苑社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景秀社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景秀社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "凯旋街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "凯旋街道",
+      "name:en" : "Kaixuan",
+      "place" : "town"
+    }
+  }, {
+    "name" : "景芳社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景芳社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景苑社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景苑社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景湖社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景湖社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景华社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景华社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "水湘社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "水湘社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "五福社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "五福社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景昙社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景昙社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景新社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "景新社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "新塘社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "新塘社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "庆春门社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "庆春门社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "南萧埠",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "南萧埠",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "三叉社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "三叉社区",
+      "place" : "village"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 854109,
+    "totalVolume" : 60127396,
+    "count" : 1623,
+    "maxHeight" : 260.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 14
+  }, {
+    "type" : "residential",
+    "count" : 35
+  }, {
+    "type" : "service",
+    "count" : 69
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "motorway",
+    "count" : 6
+  }, {
+    "type" : "trunk",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 23
+  }, {
+    "type" : "subway",
+    "count" : 17
+  }, {
+    "type" : "motorway_link",
+    "count" : 16
+  }, {
+    "type" : "secondary",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 35
+  }, {
+    "type" : "footway",
+    "count" : 28
+  } ],
+  "elevation" : {
+    "min" : -3,
+    "max" : 27,
+    "diff50m" : 12
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

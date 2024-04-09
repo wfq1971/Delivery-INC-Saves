@@ -1,0 +1,119 @@
+{
+  "landusages" : [ {
+    "type" : "sand",
+    "area" : 0.49159676
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.3034453
+  }, {
+    "type" : "marina",
+    "area" : 0.034259006
+  }, {
+    "type" : "commercial",
+    "area" : 0.019097274
+  }, {
+    "type" : "parking",
+    "area" : 0.013924411
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 675
+  }, {
+    "type" : "restaurant",
+    "count" : 9
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "telephone",
+    "count" : 4
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "cafe",
+    "count" : 2
+  }, {
+    "type" : "mosque",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 374332,
+    "totalVolume" : 4395713,
+    "count" : 659,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 11
+  }, {
+    "type" : "residential",
+    "count" : 40
+  }, {
+    "type" : "service",
+    "count" : 240
+  }, {
+    "type" : "primary",
+    "count" : 21
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 16
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 119
+  }, {
+    "type" : "footway",
+    "count" : 178
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  }, {
+    "type" : "primary_link",
+    "count" : 42
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -9,
+    "max" : 15,
+    "diff50m" : 13
+  }
+}

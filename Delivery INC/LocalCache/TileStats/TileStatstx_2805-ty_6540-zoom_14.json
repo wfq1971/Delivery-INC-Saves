@@ -1,0 +1,186 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.702452
+  }, {
+    "type" : "commercial",
+    "area" : 0.20557451
+  }, {
+    "type" : "park",
+    "area" : 0.03698808
+  }, {
+    "type" : "retail",
+    "area" : 0.02208097
+  }, {
+    "type" : "parking",
+    "area" : 0.019636467
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 3992
+  }, {
+    "type" : "residential",
+    "count" : 1561
+  }, {
+    "type" : "apartments",
+    "count" : 887
+  }, {
+    "type" : "road",
+    "count" : 694
+  }, {
+    "type" : "retail",
+    "count" : 327
+  }, {
+    "type" : "commercial",
+    "count" : 135
+  }, {
+    "type" : "restaurant",
+    "count" : 54
+  }, {
+    "type" : "school",
+    "count" : 36
+  }, {
+    "type" : "garages",
+    "count" : 30
+  }, {
+    "type" : "industrial",
+    "count" : 21
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "cafe",
+    "count" : 17
+  }, {
+    "type" : "fast_food",
+    "count" : 17
+  }, {
+    "type" : "garage",
+    "count" : 11
+  }, {
+    "type" : "hotel",
+    "count" : 9
+  }, {
+    "type" : "warehouse",
+    "count" : 7
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "farm_auxiliary",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "residential;house",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "bench",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Fairfax",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Fairfax",
+      "place" : "suburb",
+      "wikipedia" : "en:Fairfax District, Los Angeles"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1455889,
+    "totalVolume" : 12579639,
+    "count" : 7251,
+    "maxHeight" : 50.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 21
+  }, {
+    "type" : "residential",
+    "count" : 124
+  }, {
+    "type" : "service",
+    "count" : 309
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 147
+  }, {
+    "type" : "steps",
+    "count" : 9
+  }, {
+    "type" : "tram",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 75
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 48,
+    "max" : 87,
+    "diff50m" : 10
+  }
+}

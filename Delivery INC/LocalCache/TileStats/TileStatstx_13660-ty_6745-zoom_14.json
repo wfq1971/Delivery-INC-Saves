@@ -1,0 +1,430 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 0.16702606
+  }, {
+    "type" : "commercial",
+    "area" : 0.09625442
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.068503544
+  }, {
+    "type" : "park",
+    "area" : 0.04579109
+  }, {
+    "type" : "wood",
+    "area" : 0.03706335
+  }, {
+    "type" : "residential",
+    "area" : 0.031359088
+  }, {
+    "type" : "grass",
+    "area" : 0.031163674
+  }, {
+    "type" : "yes",
+    "area" : 0.015498684
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 1729
+  }, {
+    "type" : "road",
+    "count" : 970
+  }, {
+    "type" : "restaurant",
+    "count" : 918
+  }, {
+    "type" : "public_building",
+    "count" : 646
+  }, {
+    "type" : "clinic",
+    "count" : 371
+  }, {
+    "type" : "training",
+    "count" : 361
+  }, {
+    "type" : "toilets",
+    "count" : 247
+  }, {
+    "type" : "fast_food",
+    "count" : 216
+  }, {
+    "type" : "food_court",
+    "count" : 204
+  }, {
+    "type" : "bank",
+    "count" : 164
+  }, {
+    "type" : "marketplace",
+    "count" : 162
+  }, {
+    "type" : "atm",
+    "count" : 157
+  }, {
+    "type" : "cafe",
+    "count" : 131
+  }, {
+    "type" : "school",
+    "count" : 129
+  }, {
+    "type" : "hospital",
+    "count" : 122
+  }, {
+    "type" : "apartments",
+    "count" : 121
+  }, {
+    "type" : "pub",
+    "count" : 119
+  }, {
+    "type" : "pharmacy",
+    "count" : 75
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 71
+  }, {
+    "type" : "social_facility",
+    "count" : 70
+  }, {
+    "type" : "townhall",
+    "count" : 63
+  }, {
+    "type" : "commercial",
+    "count" : 35
+  }, {
+    "type" : "college",
+    "count" : 27
+  }, {
+    "type" : "police",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 19
+  }, {
+    "type" : "library",
+    "count" : 17
+  }, {
+    "type" : "transportation",
+    "count" : 13
+  }, {
+    "type" : "house",
+    "count" : 8
+  }, {
+    "type" : "bar",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 6
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "bus_station",
+    "count" : 3
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 3
+  }, {
+    "type" : "department_store",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "杭州市青少年活动中心联欢厅",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "杭州市青少年活动中心联欢厅",
+      "description" : "原昭庆寺大雄宝殿",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "长寿社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "长寿社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "武林街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "武林街道",
+      "name:en" : "Wulin",
+      "place" : "town"
+    }
+  }, {
+    "name" : "凤麟社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "凤麟社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "仙林社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "仙林社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "长庆街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "长庆街道",
+      "name:en" : "Changqing",
+      "place" : "town"
+    }
+  }, {
+    "name" : "环北新村社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "环北新村社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "灯芯巷社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "灯芯巷社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "天水街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "天水街道",
+      "name:en" : "Tianshui",
+      "place" : "town"
+    }
+  }, {
+    "name" : "延安新村社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "延安新村社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "仓桥社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "仓桥社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "竹竿巷社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "竹竿巷社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "中北社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "中北社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "戒坛寺巷社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "戒坛寺巷社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "皇亲苑社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "皇亲苑社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "胭脂新村社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "胭脂新村社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "安吉社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "安吉社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "环西社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "环西社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "东坡路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "东坡路社区",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1088476,
+    "totalVolume" : 13831838,
+    "count" : 1646,
+    "maxHeight" : 48.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 46
+  }, {
+    "type" : "tertiary",
+    "count" : 31
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 33
+  }, {
+    "type" : "service",
+    "count" : 263
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 7
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 21
+  }, {
+    "type" : "primary",
+    "count" : 71
+  }, {
+    "type" : "subway",
+    "count" : 25
+  }, {
+    "type" : "motorway_link",
+    "count" : 27
+  }, {
+    "type" : "secondary",
+    "count" : 95
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 67
+  }, {
+    "type" : "rail",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 75
+  }, {
+    "type" : "footway",
+    "count" : 198
+  } ],
+  "elevation" : {
+    "min" : -9,
+    "max" : 44,
+    "diff50m" : 25
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

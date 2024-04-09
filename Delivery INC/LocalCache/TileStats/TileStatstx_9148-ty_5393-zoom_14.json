@@ -1,0 +1,432 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.1767354
+  }, {
+    "type" : "park",
+    "area" : 0.1527163
+  }, {
+    "type" : "residential",
+    "area" : 0.13929051
+  }, {
+    "type" : "commercial",
+    "area" : 0.101748645
+  }, {
+    "type" : "grass",
+    "area" : 0.09254837
+  }, {
+    "type" : "religious",
+    "area" : 0.041590583
+  }, {
+    "type" : "wood",
+    "area" : 0.03948042
+  }, {
+    "type" : "parking",
+    "area" : 0.029047353
+  }, {
+    "type" : "garden",
+    "area" : 0.026052376
+  }, {
+    "type" : "scrub",
+    "area" : 0.019176029
+  }, {
+    "type" : "yes",
+    "area" : 0.016600551
+  }, {
+    "type" : "forest",
+    "area" : 0.0110849375
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2777
+  }, {
+    "type" : "apartments",
+    "count" : 413
+  }, {
+    "type" : "bench",
+    "count" : 361
+  }, {
+    "type" : "vending_machine",
+    "count" : 109
+  }, {
+    "type" : "restaurant",
+    "count" : 94
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 90
+  }, {
+    "type" : "waste_basket",
+    "count" : 51
+  }, {
+    "type" : "outbuilding",
+    "count" : 37
+  }, {
+    "type" : "cafe",
+    "count" : 35
+  }, {
+    "type" : "office",
+    "count" : 33
+  }, {
+    "type" : "service",
+    "count" : 25
+  }, {
+    "type" : "fast_food",
+    "count" : 21
+  }, {
+    "type" : "garage",
+    "count" : 20
+  }, {
+    "type" : "university",
+    "count" : 19
+  }, {
+    "type" : "church",
+    "count" : 16
+  }, {
+    "type" : "place_of_worship",
+    "count" : 15
+  }, {
+    "type" : "roof",
+    "count" : 13
+  }, {
+    "type" : "ice_cream",
+    "count" : 13
+  }, {
+    "type" : "bar",
+    "count" : 13
+  }, {
+    "type" : "pavilion",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 12
+  }, {
+    "type" : "school",
+    "count" : 12
+  }, {
+    "type" : "retail",
+    "count" : 12
+  }, {
+    "type" : "palace",
+    "count" : 11
+  }, {
+    "type" : "parking_entrance",
+    "count" : 11
+  }, {
+    "type" : "atm",
+    "count" : 8
+  }, {
+    "type" : "monastery",
+    "count" : 8
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "waste_disposal",
+    "count" : 7
+  }, {
+    "type" : "pub",
+    "count" : 7
+  }, {
+    "type" : "post_box",
+    "count" : 7
+  }, {
+    "type" : "theatre",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "public",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 5
+  }, {
+    "type" : "plinth",
+    "count" : 5
+  }, {
+    "type" : "kiosk",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 5
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 5
+  }, {
+    "type" : "dentist",
+    "count" : 5
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "commercial",
+    "count" : 4
+  }, {
+    "type" : "convent",
+    "count" : 4
+  }, {
+    "type" : "government",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "shed",
+    "count" : 4
+  }, {
+    "type" : "garages",
+    "count" : 4
+  }, {
+    "type" : "boat",
+    "count" : 3
+  }, {
+    "type" : "warehouse",
+    "count" : 3
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "dormitory",
+    "count" : 3
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "presbytery",
+    "count" : 2
+  }, {
+    "type" : "religious",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "pole",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "lawyer",
+    "count" : 1
+  }, {
+    "type" : "student_accommodation",
+    "count" : 1
+  }, {
+    "type" : "wifi",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "archive",
+    "count" : 1
+  }, {
+    "type" : "left_luggage",
+    "count" : 1
+  }, {
+    "type" : "container",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "belfry",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "skyway",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Stare Miasto",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "whc:inscription_date" : "1980",
+      "name:ar" : "منطقة التاون مع مجموعة مطاعم",
+      "name:pl" : "Stare Miasto",
+      "heritage" : "1",
+      "heritage:operator" : "whc",
+      "teryt:sympod" : "0919810",
+      "name:be" : "Стары горад",
+      "name:ru" : "Старый город",
+      "name:de" : "Altstadt",
+      "ref:whc" : "30",
+      "teryt:simc" : "0919861",
+      "teryt:stan_na" : "2009-01-01",
+      "teryt:updated_by" : "teryt2osm combine.py v. 49",
+      "name" : "Stare Miasto",
+      "name:fr" : "Vieille Ville",
+      "whc:criteria" : "(ii),(vi)",
+      "name:en" : "Old Town",
+      "loc_name" : "Starówka",
+      "place" : "quarter",
+      "wikipedia" : "pl:Stare Miasto w Warszawie",
+      "teryt:rm" : "99",
+      "name:es" : "Ciudad Vieja"
+    }
+  }, {
+    "name" : "Mariensztat",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Мариенштат",
+      "name:de" : "Marienstadt",
+      "teryt:simc" : "0919832",
+      "name" : "Mariensztat",
+      "name:pl" : "Mariensztat",
+      "place" : "neighbourhood",
+      "wikipedia" : "pl:Mariensztat"
+    }
+  }, {
+    "name" : "Nowe Miasto",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Neustadt",
+      "teryt:simc" : "0919849",
+      "teryt:stan_na" : "2009-01-01",
+      "teryt:updated_by" : "teryt2osm combine.py v. 49",
+      "name" : "Nowe Miasto",
+      "name:pl" : "Nowe Miasto",
+      "name:en" : "New Town",
+      "place" : "quarter",
+      "wikipedia" : "pl:Nowe Miasto (Warszawa)",
+      "teryt:rm" : "99",
+      "teryt:sympod" : "0919810"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 476970,
+    "totalVolume" : 6951321,
+    "count" : 1178,
+    "maxHeight" : 48.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 58
+  }, {
+    "type" : "tertiary",
+    "count" : 80
+  }, {
+    "type" : "tertiary_link",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 99
+  }, {
+    "type" : "service",
+    "count" : 363
+  }, {
+    "type" : "path",
+    "count" : 75
+  }, {
+    "type" : "primary",
+    "count" : 34
+  }, {
+    "type" : "pedestrian",
+    "count" : 64
+  }, {
+    "type" : "track",
+    "count" : 7
+  }, {
+    "type" : "living_street",
+    "count" : 20
+  }, {
+    "type" : "secondary",
+    "count" : 53
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 287
+  }, {
+    "type" : "tram",
+    "count" : 16
+  }, {
+    "type" : "footway",
+    "count" : 1612
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 77,
+    "max" : 130,
+    "diff50m" : 14
+  }
+}

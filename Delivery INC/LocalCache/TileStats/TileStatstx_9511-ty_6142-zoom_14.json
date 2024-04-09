@@ -1,0 +1,83 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.8819043
+  }, {
+    "type" : "peninsula",
+    "area" : 0.11809559
+  }, {
+    "type" : "park",
+    "area" : 0.013041339
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 71
+  }, {
+    "type" : "restaurant",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "bench",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "lighthouse",
+    "count" : 1
+  }, {
+    "type" : "mosque",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 99018,
+    "totalVolume" : 1088699,
+    "count" : 147,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "residential",
+    "count" : 11
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 4
+  }, {
+    "type" : "primary",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 44
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 0,
+    "max" : 57,
+    "diff50m" : 18
+  }
+}

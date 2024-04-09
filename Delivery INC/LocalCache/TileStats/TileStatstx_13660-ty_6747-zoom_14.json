@@ -1,0 +1,300 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 1.5764421
+  }, {
+    "type" : "wood",
+    "area" : 0.42292333
+  }, {
+    "type" : "park",
+    "area" : 0.07862896
+  }, {
+    "type" : "residential",
+    "area" : 0.061818503
+  }, {
+    "type" : "military",
+    "area" : 0.057391454
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.049350716
+  }, {
+    "type" : "railway",
+    "area" : 0.01760696
+  }, {
+    "type" : "commercial",
+    "area" : 0.015311917
+  } ],
+  "amenities" : [ {
+    "type" : "residential",
+    "count" : 498
+  }, {
+    "type" : "road",
+    "count" : 346
+  }, {
+    "type" : "parking_space",
+    "count" : 234
+  }, {
+    "type" : "restaurant",
+    "count" : 162
+  }, {
+    "type" : "toilets",
+    "count" : 128
+  }, {
+    "type" : "public_building",
+    "count" : 69
+  }, {
+    "type" : "clinic",
+    "count" : 69
+  }, {
+    "type" : "school",
+    "count" : 68
+  }, {
+    "type" : "marketplace",
+    "count" : 40
+  }, {
+    "type" : "hospital",
+    "count" : 38
+  }, {
+    "type" : "industrial",
+    "count" : 34
+  }, {
+    "type" : "food_court",
+    "count" : 33
+  }, {
+    "type" : "commercial",
+    "count" : 32
+  }, {
+    "type" : "retail",
+    "count" : 26
+  }, {
+    "type" : "training",
+    "count" : 26
+  }, {
+    "type" : "fast_food",
+    "count" : 20
+  }, {
+    "type" : "atm",
+    "count" : 18
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 18
+  }, {
+    "type" : "social_facility",
+    "count" : 15
+  }, {
+    "type" : "cafe",
+    "count" : 15
+  }, {
+    "type" : "townhall",
+    "count" : 14
+  }, {
+    "type" : "pub",
+    "count" : 13
+  }, {
+    "type" : "college",
+    "count" : 13
+  }, {
+    "type" : "hotel",
+    "count" : 12
+  }, {
+    "type" : "pharmacy",
+    "count" : 11
+  }, {
+    "type" : "police",
+    "count" : 9
+  }, {
+    "type" : "warehouse",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 8
+  }, {
+    "type" : "apartments",
+    "count" : 6
+  }, {
+    "type" : "bench",
+    "count" : 6
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "shelter",
+    "count" : 5
+  }, {
+    "type" : "telephone",
+    "count" : 4
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "boat_rental",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "馒头山社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "馒头山社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "观音洞",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "观音洞",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "阔石板",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "阔石板",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "彩霞岭社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "彩霞岭社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "清波门社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "清波门社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "十五奎巷社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "十五奎巷社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "南山村",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "南山村",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "汪庄",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "汪庄",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "太庙社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "太庙社区",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 698449,
+    "totalVolume" : 9452076,
+    "count" : 1181,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 16
+  }, {
+    "type" : "residential",
+    "count" : 27
+  }, {
+    "type" : "service",
+    "count" : 122
+  }, {
+    "type" : "path",
+    "count" : 10
+  }, {
+    "type" : "motorway",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 21
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 3
+  }, {
+    "type" : "motorway_link",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 34
+  }, {
+    "type" : "rail",
+    "count" : 11
+  }, {
+    "type" : "unclassified",
+    "count" : 15
+  }, {
+    "type" : "footway",
+    "count" : 66
+  } ],
+  "elevation" : {
+    "min" : 5,
+    "max" : 164,
+    "diff50m" : 41
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

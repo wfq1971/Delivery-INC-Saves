@@ -1,0 +1,239 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.3966572
+  }, {
+    "type" : "residential",
+    "area" : 0.031887252
+  }, {
+    "type" : "park",
+    "area" : 0.024803413
+  }, {
+    "type" : "parking",
+    "area" : 0.024581665
+  }, {
+    "type" : "forest",
+    "area" : 0.02159699
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1349
+  }, {
+    "type" : "apartments",
+    "count" : 44
+  }, {
+    "type" : "garage",
+    "count" : 22
+  }, {
+    "type" : "bench",
+    "count" : 18
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 17
+  }, {
+    "type" : "house",
+    "count" : 9
+  }, {
+    "type" : "restaurant",
+    "count" : 8
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "parking_entrance",
+    "count" : 6
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Weehawken",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 12649,
+    "tags" : {
+      "gnis:ST_num" : "34",
+      "gnis:ST_alpha" : "NJ",
+      "gnis:id" : "882409",
+      "name" : "Weehawken",
+      "gnis:County_num" : "017",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "town",
+      "census:population" : "12649;2006",
+      "ele" : "50",
+      "population" : "12649",
+      "gnis:County" : "Hudson"
+    }
+  }, {
+    "name" : "Union City",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 63930,
+    "tags" : {
+      "gnis:ST_num" : "34",
+      "gnis:ST_alpha" : "NJ",
+      "gnis:id" : "881349",
+      "name" : "Union City",
+      "gnis:County_num" : "017",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "town",
+      "census:population" : "63930;2006",
+      "ele" : "53",
+      "population" : "63930",
+      "gnis:County" : "Hudson"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 600230,
+    "totalVolume" : 8114443,
+    "count" : 2948,
+    "maxHeight" : 96.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 24
+  }, {
+    "type" : "light_rail",
+    "count" : 13
+  }, {
+    "type" : "residential",
+    "count" : 111
+  }, {
+    "type" : "service",
+    "count" : 144
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "motorway",
+    "count" : 25
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 65
+  }, {
+    "type" : "motorway_link",
+    "count" : 23
+  }, {
+    "type" : "secondary",
+    "count" : 52
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 29
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 14
+  }, {
+    "type" : "footway",
+    "count" : 841
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -6,
+    "max" : 65,
+    "diff50m" : 25
+  }
+}

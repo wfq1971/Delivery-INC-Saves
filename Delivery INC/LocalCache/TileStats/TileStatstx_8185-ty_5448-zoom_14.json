@@ -1,0 +1,375 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.2179519
+  }, {
+    "type" : "garden",
+    "area" : 0.102096096
+  }, {
+    "type" : "wood",
+    "area" : 0.0925427
+  }, {
+    "type" : "residential",
+    "area" : 0.030590355
+  }, {
+    "type" : "grass",
+    "area" : 0.02828317
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.02064831
+  }, {
+    "type" : "retail",
+    "area" : 0.01944649
+  }, {
+    "type" : "military",
+    "area" : 0.016118154
+  }, {
+    "type" : "yes",
+    "area" : 0.014472004
+  }, {
+    "type" : "commercial",
+    "area" : 0.014007654
+  }, {
+    "type" : "construction",
+    "area" : 0.011580661
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1834
+  }, {
+    "type" : "residential",
+    "count" : 372
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 167
+  }, {
+    "type" : "apartments",
+    "count" : 158
+  }, {
+    "type" : "house",
+    "count" : 106
+  }, {
+    "type" : "restaurant",
+    "count" : 104
+  }, {
+    "type" : "bench",
+    "count" : 87
+  }, {
+    "type" : "telephone",
+    "count" : 64
+  }, {
+    "type" : "cafe",
+    "count" : 61
+  }, {
+    "type" : "commercial",
+    "count" : 57
+  }, {
+    "type" : "post_box",
+    "count" : 52
+  }, {
+    "type" : "fast_food",
+    "count" : 46
+  }, {
+    "type" : "office",
+    "count" : 35
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 34
+  }, {
+    "type" : "waste_basket",
+    "count" : 29
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 22
+  }, {
+    "type" : "retail",
+    "count" : 18
+  }, {
+    "type" : "pub",
+    "count" : 17
+  }, {
+    "type" : "bar",
+    "count" : 16
+  }, {
+    "type" : "hotel",
+    "count" : 13
+  }, {
+    "type" : "bank",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "terrace",
+    "count" : 10
+  }, {
+    "type" : "drinking_water",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "recycling",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 6
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 5
+  }, {
+    "type" : "vending_machine",
+    "count" : 4
+  }, {
+    "type" : "barracks",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "car_sharing",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "casino",
+    "count" : 3
+  }, {
+    "type" : "learned_society;library",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "private_club",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "block",
+    "count" : 1
+  }, {
+    "type" : "mosque",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "air_shaft",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "Nutritionist",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "learned_society",
+    "count" : 1
+  }, {
+    "type" : "monument",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Belgravia",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Belgravia",
+      "place" : "suburb",
+      "wikipedia" : "en:Belgravia"
+    }
+  }, {
+    "name" : "Victoria",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Victoria",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "City of Westminster",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 233292,
+    "tags" : {
+      "note" : "Westminster is technically a \"city within a city\" as it has city status but is in the metropolitan area of London. However, it is a very important area recognised as the centre London and the centre of government in the UK.",
+      "note_1" : "London consists of a collection of boroughs, two of which area Cities. They are not towns and I have changed the nodes to city to reflect reality",
+      "is_in" : "London, UK",
+      "name:cy" : "San Steffan",
+      "name:he" : "וסטמינסטר",
+      "population" : "233292",
+      "name:be" : "Вэстмінстэр",
+      "name:ru" : "Вестминстер",
+      "name:ko" : "시티오브웨스트민스터",
+      "name" : "City of Westminster",
+      "name:fr" : "Cité de Westminster",
+      "name:en" : "Westminster",
+      "place" : "city",
+      "wikipedia" : "en:City of Westminster",
+      "name:zh-Hans" : "威斯敏斯特市",
+      "name:zh-Hant" : "西敏市"
+    }
+  }, {
+    "name" : "Queen Elizabeth Gates",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "note" : "Remove access restriction if gate reopens post-Covid",
+      "access" : "no",
+      "barrier" : "gate",
+      "name" : "Queen Elizabeth Gates",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "St. James's",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "St. James's",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:St James's"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 877899,
+    "totalVolume" : 15360121,
+    "count" : 2020,
+    "maxHeight" : 101.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 97
+  }, {
+    "type" : "tertiary",
+    "count" : 37
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 276
+  }, {
+    "type" : "service",
+    "count" : 213
+  }, {
+    "type" : "path",
+    "count" : 18
+  }, {
+    "type" : "trunk",
+    "count" : 97
+  }, {
+    "type" : "pedestrian",
+    "count" : 36
+  }, {
+    "type" : "primary",
+    "count" : 85
+  }, {
+    "type" : "track",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 51
+  }, {
+    "type" : "secondary",
+    "count" : 45
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "bridleway",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 110
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "footway",
+    "count" : 726
+  }, {
+    "type" : "trunk_link",
+    "count" : 11
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 0,
+    "max" : 44,
+    "diff50m" : 9
+  }
+}

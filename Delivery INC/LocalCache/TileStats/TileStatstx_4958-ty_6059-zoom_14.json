@@ -1,0 +1,348 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.6576125
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.5118776
+  }, {
+    "type" : "park",
+    "area" : 0.0639496
+  }, {
+    "type" : "residential",
+    "area" : 0.03893631
+  }, {
+    "type" : "marina",
+    "area" : 0.036559183
+  }, {
+    "type" : "retail",
+    "area" : 0.035513513
+  }, {
+    "type" : "parking",
+    "area" : 0.026851546
+  }, {
+    "type" : "construction",
+    "area" : 0.015214903
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2249
+  }, {
+    "type" : "bench",
+    "count" : 242
+  }, {
+    "type" : "apartments",
+    "count" : 202
+  }, {
+    "type" : "restaurant",
+    "count" : 77
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 57
+  }, {
+    "type" : "waste_basket",
+    "count" : 53
+  }, {
+    "type" : "office",
+    "count" : 30
+  }, {
+    "type" : "retail",
+    "count" : 28
+  }, {
+    "type" : "cafe",
+    "count" : 26
+  }, {
+    "type" : "house",
+    "count" : 23
+  }, {
+    "type" : "commercial",
+    "count" : 17
+  }, {
+    "type" : "fast_food",
+    "count" : 16
+  }, {
+    "type" : "parking_entrance",
+    "count" : 15
+  }, {
+    "type" : "recycling",
+    "count" : 14
+  }, {
+    "type" : "toilets",
+    "count" : 13
+  }, {
+    "type" : "bar",
+    "count" : 13
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 11
+  }, {
+    "type" : "fountain",
+    "count" : 9
+  }, {
+    "type" : "drinking_water",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 8
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 7
+  }, {
+    "type" : "bank",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 7
+  }, {
+    "type" : "pub",
+    "count" : 5
+  }, {
+    "type" : "kiosk",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 4
+  }, {
+    "type" : "vending_machine",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "garage",
+    "count" : 3
+  }, {
+    "type" : "telephone",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "social_centre",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "semidetached_house",
+    "count" : 2
+  }, {
+    "type" : "biergarten",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "historic",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "payment_terminal",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "money_transfer",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "yes;public",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "boathouse",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "boat_rental",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Dock Square",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "25",
+      "gnis:ST_alpha" : "MA",
+      "gnis:id" : "1877489",
+      "gnis:Class" : "Populated Place",
+      "name" : "Dock Square",
+      "gnis:County_num" : "025",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "5",
+      "gnis:County" : "Suffolk"
+    }
+  }, {
+    "name" : "North End",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "25",
+      "gnis:ST_alpha" : "MA",
+      "gnis:id" : "607004",
+      "gnis:Class" : "Populated Place",
+      "name" : "North End",
+      "gnis:County_num" : "025",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "suburb",
+      "ele" : "7",
+      "gnis:County" : "Suffolk"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 624934,
+    "totalVolume" : 14966130,
+    "count" : 2234,
+    "maxHeight" : 183.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 18
+  }, {
+    "type" : "tertiary",
+    "count" : 32
+  }, {
+    "type" : "light_rail",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 167
+  }, {
+    "type" : "service",
+    "count" : 221
+  }, {
+    "type" : "path",
+    "count" : 59
+  }, {
+    "type" : "motorway",
+    "count" : 24
+  }, {
+    "type" : "primary",
+    "count" : 31
+  }, {
+    "type" : "pedestrian",
+    "count" : 23
+  }, {
+    "type" : "subway",
+    "count" : 16
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "motorway_link",
+    "count" : 43
+  }, {
+    "type" : "secondary",
+    "count" : 70
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 74
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 7
+  }, {
+    "type" : "disused",
+    "count" : 7
+  }, {
+    "type" : "footway",
+    "count" : 1440
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -11,
+    "max" : 38,
+    "diff50m" : 27
+  }
+}

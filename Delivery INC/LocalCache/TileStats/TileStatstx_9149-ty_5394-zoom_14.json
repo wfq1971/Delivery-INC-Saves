@@ -1,0 +1,375 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.19774325
+  }, {
+    "type" : "park",
+    "area" : 0.1398488
+  }, {
+    "type" : "residential",
+    "area" : 0.12993698
+  }, {
+    "type" : "grass",
+    "area" : 0.0892735
+  }, {
+    "type" : "stadium",
+    "area" : 0.07672017
+  }, {
+    "type" : "wood",
+    "area" : 0.06292136
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.020429501
+  }, {
+    "type" : "commercial",
+    "area" : 0.019039867
+  }, {
+    "type" : "bridge",
+    "area" : 0.017216606
+  }, {
+    "type" : "parking",
+    "area" : 0.01606006
+  }, {
+    "type" : "railway",
+    "area" : 0.014329055
+  }, {
+    "type" : "yes",
+    "area" : 0.012517812
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2084
+  }, {
+    "type" : "apartments",
+    "count" : 196
+  }, {
+    "type" : "bench",
+    "count" : 181
+  }, {
+    "type" : "vending_machine",
+    "count" : 77
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 67
+  }, {
+    "type" : "outbuilding",
+    "count" : 60
+  }, {
+    "type" : "garage",
+    "count" : 46
+  }, {
+    "type" : "office",
+    "count" : 43
+  }, {
+    "type" : "waste_basket",
+    "count" : 31
+  }, {
+    "type" : "retail",
+    "count" : 27
+  }, {
+    "type" : "semidetached_house",
+    "count" : 24
+  }, {
+    "type" : "restaurant",
+    "count" : 24
+  }, {
+    "type" : "terrace",
+    "count" : 22
+  }, {
+    "type" : "detached",
+    "count" : 19
+  }, {
+    "type" : "toilets",
+    "count" : 19
+  }, {
+    "type" : "bar",
+    "count" : 18
+  }, {
+    "type" : "fast_food",
+    "count" : 18
+  }, {
+    "type" : "grit_bin",
+    "count" : 16
+  }, {
+    "type" : "roof",
+    "count" : 15
+  }, {
+    "type" : "service",
+    "count" : 15
+  }, {
+    "type" : "hospital",
+    "count" : 12
+  }, {
+    "type" : "parking_entrance",
+    "count" : 11
+  }, {
+    "type" : "atm",
+    "count" : 9
+  }, {
+    "type" : "garages",
+    "count" : 9
+  }, {
+    "type" : "cafe",
+    "count" : 9
+  }, {
+    "type" : "farm_auxiliary",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "shed",
+    "count" : 6
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "kiosk",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "warehouse",
+    "count" : 4
+  }, {
+    "type" : "sports_centre",
+    "count" : 4
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "parcel_locker",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "elevator_housing",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "religious",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "boat",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "elvator_housing",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "guardhouse",
+    "count" : 1
+  }, {
+    "type" : "sports_hall",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "educational_research",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "boat_rental",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "supermarket",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Solec",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Solec",
+      "place" : "quarter",
+      "wikipedia" : "pl:Solec (Warszawa)"
+    }
+  }, {
+    "name" : "Powiśle",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "teryt:simc" : "0919855",
+      "teryt:stan_na" : "2009-01-01",
+      "teryt:updated_by" : "teryt2osm combine.py v. 49",
+      "name" : "Powiśle",
+      "place" : "quarter",
+      "wikipedia" : "pl:Powiśle (Warszawa)",
+      "teryt:rm" : "99",
+      "teryt:sympod" : "0919810"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 409029,
+    "totalVolume" : 6142286,
+    "count" : 831,
+    "maxHeight" : 70.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 84
+  }, {
+    "type" : "tertiary",
+    "count" : 62
+  }, {
+    "type" : "tertiary_link",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 50
+  }, {
+    "type" : "service",
+    "count" : 347
+  }, {
+    "type" : "path",
+    "count" : 92
+  }, {
+    "type" : "raceway",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 20
+  }, {
+    "type" : "track",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 39
+  }, {
+    "type" : "secondary_link",
+    "count" : 51
+  }, {
+    "type" : "steps",
+    "count" : 209
+  }, {
+    "type" : "tram",
+    "count" : 14
+  }, {
+    "type" : "rail",
+    "count" : 32
+  }, {
+    "type" : "footway",
+    "count" : 1061
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 77,
+    "max" : 112,
+    "diff50m" : 16
+  }
+}

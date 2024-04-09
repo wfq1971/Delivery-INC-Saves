@@ -1,0 +1,367 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.43473852
+  }, {
+    "type" : "park",
+    "area" : 0.1588195
+  }, {
+    "type" : "forest",
+    "area" : 0.06863561
+  }, {
+    "type" : "commercial",
+    "area" : 0.06385004
+  }, {
+    "type" : "railway",
+    "area" : 0.06014996
+  }, {
+    "type" : "village_green",
+    "area" : 0.052126665
+  }, {
+    "type" : "grass",
+    "area" : 0.015671875
+  }, {
+    "type" : "bridge",
+    "area" : 0.014283545
+  }, {
+    "type" : "brownfield",
+    "area" : 0.012685959
+  }, {
+    "type" : "parking",
+    "area" : 0.0116924895
+  }, {
+    "type" : "garden",
+    "area" : 0.010897645
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2523
+  }, {
+    "type" : "residential",
+    "count" : 1317
+  }, {
+    "type" : "bench",
+    "count" : 316
+  }, {
+    "type" : "restaurant",
+    "count" : 129
+  }, {
+    "type" : "civic",
+    "count" : 115
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 108
+  }, {
+    "type" : "apartments",
+    "count" : 99
+  }, {
+    "type" : "vending_machine",
+    "count" : 96
+  }, {
+    "type" : "garage",
+    "count" : 61
+  }, {
+    "type" : "bar",
+    "count" : 45
+  }, {
+    "type" : "cafe",
+    "count" : 42
+  }, {
+    "type" : "fast_food",
+    "count" : 39
+  }, {
+    "type" : "recycling",
+    "count" : 37
+  }, {
+    "type" : "service",
+    "count" : 34
+  }, {
+    "type" : "pub",
+    "count" : 32
+  }, {
+    "type" : "waste_basket",
+    "count" : 32
+  }, {
+    "type" : "industrial",
+    "count" : 29
+  }, {
+    "type" : "roof",
+    "count" : 27
+  }, {
+    "type" : "commercial",
+    "count" : 27
+  }, {
+    "type" : "atm",
+    "count" : 26
+  }, {
+    "type" : "shelter",
+    "count" : 25
+  }, {
+    "type" : "transportation",
+    "count" : 21
+  }, {
+    "type" : "toilets",
+    "count" : 14
+  }, {
+    "type" : "pharmacy",
+    "count" : 11
+  }, {
+    "type" : "post_box",
+    "count" : 11
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "nightclub",
+    "count" : 9
+  }, {
+    "type" : "drinking_water",
+    "count" : 8
+  }, {
+    "type" : "hotel",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "clock",
+    "count" : 7
+  }, {
+    "type" : "police",
+    "count" : 6
+  }, {
+    "type" : "parking",
+    "count" : 6
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "parcel_locker",
+    "count" : 5
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 5
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "church",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "retail",
+    "count" : 4
+  }, {
+    "type" : "charging_station",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "warehouse",
+    "count" : 3
+  }, {
+    "type" : "townhall",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "waste_disposal",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "brothel",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "bunker",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "bungalow",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Florenc",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Florenz",
+      "name" : "Florenc",
+      "place" : "neighbourhood",
+      "wikipedia" : "cs:Florenc"
+    }
+  }, {
+    "name" : "Žižkov",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Zischkaberg",
+      "name" : "Žižkov",
+      "old_name:de" : "Veitsberg",
+      "place" : "suburb",
+      "ref:cobe" : "490261"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 845210,
+    "totalVolume" : 14047479,
+    "count" : 2673,
+    "maxHeight" : 216.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 37
+  }, {
+    "type" : "tertiary",
+    "count" : 139
+  }, {
+    "type" : "tertiary_link",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 247
+  }, {
+    "type" : "service",
+    "count" : 219
+  }, {
+    "type" : "path",
+    "count" : 51
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "primary",
+    "count" : 11
+  }, {
+    "type" : "track",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 31
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 34
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 213
+  }, {
+    "type" : "tram",
+    "count" : 26
+  }, {
+    "type" : "rail",
+    "count" : 226
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 1220
+  }, {
+    "type" : "primary_link",
+    "count" : 29
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 186,
+    "max" : 292,
+    "diff50m" : 27
+  }
+}

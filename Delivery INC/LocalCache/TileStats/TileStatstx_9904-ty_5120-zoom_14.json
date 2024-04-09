@@ -1,0 +1,347 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.46011144
+  }, {
+    "type" : "commercial",
+    "area" : 0.21493174
+  }, {
+    "type" : "park",
+    "area" : 0.06583093
+  }, {
+    "type" : "healthcare",
+    "area" : 0.05402799
+  }, {
+    "type" : "grass",
+    "area" : 0.038294494
+  }, {
+    "type" : "religious",
+    "area" : 0.026698744
+  }, {
+    "type" : "wood",
+    "area" : 0.018033404
+  }, {
+    "type" : "construction",
+    "area" : 0.011650211
+  }, {
+    "type" : "parking",
+    "area" : 0.011123119
+  }, {
+    "type" : "yes",
+    "area" : 0.011092184
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2705
+  }, {
+    "type" : "bench",
+    "count" : 238
+  }, {
+    "type" : "apartments",
+    "count" : 231
+  }, {
+    "type" : "office",
+    "count" : 99
+  }, {
+    "type" : "waste_basket",
+    "count" : 93
+  }, {
+    "type" : "cafe",
+    "count" : 79
+  }, {
+    "type" : "restaurant",
+    "count" : 63
+  }, {
+    "type" : "commercial",
+    "count" : 61
+  }, {
+    "type" : "waste_disposal",
+    "count" : 61
+  }, {
+    "type" : "service",
+    "count" : 53
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 46
+  }, {
+    "type" : "parking_entrance",
+    "count" : 45
+  }, {
+    "type" : "bar",
+    "count" : 37
+  }, {
+    "type" : "bank",
+    "count" : 37
+  }, {
+    "type" : "fast_food",
+    "count" : 34
+  }, {
+    "type" : "atm",
+    "count" : 33
+  }, {
+    "type" : "vending_machine",
+    "count" : 30
+  }, {
+    "type" : "clinic",
+    "count" : 29
+  }, {
+    "type" : "dentist",
+    "count" : 24
+  }, {
+    "type" : "pharmacy",
+    "count" : 23
+  }, {
+    "type" : "payment_terminal",
+    "count" : 17
+  }, {
+    "type" : "parking",
+    "count" : 16
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 15
+  }, {
+    "type" : "construction",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 12
+  }, {
+    "type" : "pub",
+    "count" : 11
+  }, {
+    "type" : "doctors",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "retail",
+    "count" : 9
+  }, {
+    "type" : "school",
+    "count" : 9
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 8
+  }, {
+    "type" : "church",
+    "count" : 8
+  }, {
+    "type" : "taxi",
+    "count" : 6
+  }, {
+    "type" : "training",
+    "count" : 6
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 6
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "recycling",
+    "count" : 6
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "garages",
+    "count" : 5
+  }, {
+    "type" : "post_box",
+    "count" : 5
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "ruins",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 4
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "coworking_space",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "stripclub",
+    "count" : 3
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 3
+  }, {
+    "type" : "language_school",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "temple",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "military",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "device_charging_station",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "security_booth",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 760547,
+    "totalVolume" : 14051161,
+    "count" : 1242,
+    "maxHeight" : 64.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 21
+  }, {
+    "type" : "tertiary",
+    "count" : 25
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 34
+  }, {
+    "type" : "service",
+    "count" : 1112
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 21
+  }, {
+    "type" : "subway",
+    "count" : 20
+  }, {
+    "type" : "secondary",
+    "count" : 100
+  }, {
+    "type" : "secondary_link",
+    "count" : 14
+  }, {
+    "type" : "steps",
+    "count" : 105
+  }, {
+    "type" : "tram",
+    "count" : 3
+  }, {
+    "type" : "unclassified",
+    "count" : 36
+  }, {
+    "type" : "footway",
+    "count" : 1209
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 139,
+    "max" : 175,
+    "diff50m" : 6
+  }
+}

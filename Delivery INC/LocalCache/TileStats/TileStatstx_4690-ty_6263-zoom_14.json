@@ -1,0 +1,360 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.5875511
+  }, {
+    "type" : "commercial",
+    "area" : 0.09865975
+  }, {
+    "type" : "park",
+    "area" : 0.059104975
+  }, {
+    "type" : "parking",
+    "area" : 0.047410518
+  }, {
+    "type" : "wood",
+    "area" : 0.046929523
+  }, {
+    "type" : "retail",
+    "area" : 0.032387123
+  }, {
+    "type" : "construction",
+    "area" : 0.014247911
+  }, {
+    "type" : "industrial",
+    "area" : 0.0140456
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1741
+  }, {
+    "type" : "detached",
+    "count" : 955
+  }, {
+    "type" : "residential",
+    "count" : 810
+  }, {
+    "type" : "house",
+    "count" : 215
+  }, {
+    "type" : "shed",
+    "count" : 101
+  }, {
+    "type" : "bench",
+    "count" : 81
+  }, {
+    "type" : "waste_basket",
+    "count" : 52
+  }, {
+    "type" : "garage",
+    "count" : 48
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 23
+  }, {
+    "type" : "retail",
+    "count" : 13
+  }, {
+    "type" : "vending_machine",
+    "count" : 12
+  }, {
+    "type" : "office",
+    "count" : 10
+  }, {
+    "type" : "recycling",
+    "count" : 8
+  }, {
+    "type" : "public",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "tent",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "public_bookcase",
+    "count" : 5
+  }, {
+    "type" : "restaurant",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "apartments",
+    "count" : 4
+  }, {
+    "type" : "industrial",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 4
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "bbq",
+    "count" : 2
+  }, {
+    "type" : "container",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "table",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "University Park",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 2369,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "gnis:id" : "598206",
+      "name" : "University Park",
+      "gnis:County_num" : "033",
+      "place" : "village",
+      "wikipedia" : "en:University Park, Maryland",
+      "census:population" : "2369;2006",
+      "ele" : "22",
+      "population" : "2369",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Riverdale Park Station",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Riverdale Park Station",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Calvert Hills",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597163",
+      "name" : "Calvert Hills",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "suburb",
+      "ele" : "23",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "West Riverdale",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "598239",
+      "name" : "West Riverdale",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "24",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "Riverdale Park",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 6550,
+    "tags" : {
+      "alt_name" : "Riverdale",
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "gnis:id" : "597960",
+      "name" : "Riverdale Park",
+      "gnis:County_num" : "033",
+      "place" : "town",
+      "wikipedia" : "en:Riverdale Park, Maryland",
+      "census:population" : "6550;2006",
+      "ele" : "12",
+      "population" : "6550",
+      "gnis:County" : "Prince George's"
+    }
+  }, {
+    "name" : "College Heights",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "24",
+      "gnis:ST_alpha" : "MD",
+      "is_in" : "Prince George's,Maryland,Md.,MD,USA",
+      "gnis:id" : "597261",
+      "name" : "College Heights",
+      "gnis:County_num" : "033",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "26",
+      "gnis:County" : "Prince George's"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 456578,
+    "totalVolume" : 3799810,
+    "count" : 3722,
+    "maxHeight" : 32.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 19
+  }, {
+    "type" : "tertiary",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 264
+  }, {
+    "type" : "service",
+    "count" : 363
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 53
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 18
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 968
+  }, {
+    "type" : "primary_link",
+    "count" : 9
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 6,
+    "max" : 49,
+    "diff50m" : 7
+  }
+}

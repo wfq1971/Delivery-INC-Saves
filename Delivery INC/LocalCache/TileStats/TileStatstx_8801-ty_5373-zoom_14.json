@@ -1,0 +1,612 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.27615032
+  }, {
+    "type" : "residential",
+    "area" : 0.18207239
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.053988427
+  }, {
+    "type" : "yes",
+    "area" : 0.05264849
+  }, {
+    "type" : "park",
+    "area" : 0.04783004
+  }, {
+    "type" : "grass",
+    "area" : 0.027174342
+  }, {
+    "type" : "construction",
+    "area" : 0.020803137
+  }, {
+    "type" : "parking",
+    "area" : 0.01186546
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2173
+  }, {
+    "type" : "bench",
+    "count" : 405
+  }, {
+    "type" : "waste_basket",
+    "count" : 210
+  }, {
+    "type" : "apartments",
+    "count" : 189
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 161
+  }, {
+    "type" : "restaurant",
+    "count" : 131
+  }, {
+    "type" : "office",
+    "count" : 114
+  }, {
+    "type" : "vending_machine",
+    "count" : 61
+  }, {
+    "type" : "commercial",
+    "count" : 61
+  }, {
+    "type" : "cafe",
+    "count" : 60
+  }, {
+    "type" : "residential",
+    "count" : 51
+  }, {
+    "type" : "roof",
+    "count" : 38
+  }, {
+    "type" : "parking_entrance",
+    "count" : 33
+  }, {
+    "type" : "university",
+    "count" : 27
+  }, {
+    "type" : "government",
+    "count" : 25
+  }, {
+    "type" : "fast_food",
+    "count" : 24
+  }, {
+    "type" : "hotel",
+    "count" : 21
+  }, {
+    "type" : "telephone",
+    "count" : 20
+  }, {
+    "type" : "atm",
+    "count" : 19
+  }, {
+    "type" : "retail",
+    "count" : 15
+  }, {
+    "type" : "post_box",
+    "count" : 14
+  }, {
+    "type" : "taxi",
+    "count" : 14
+  }, {
+    "type" : "bank",
+    "count" : 14
+  }, {
+    "type" : "bar",
+    "count" : 13
+  }, {
+    "type" : "fountain",
+    "count" : 13
+  }, {
+    "type" : "public",
+    "count" : 12
+  }, {
+    "type" : "clock",
+    "count" : 12
+  }, {
+    "type" : "theatre",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "doctors",
+    "count" : 9
+  }, {
+    "type" : "pharmacy",
+    "count" : 9
+  }, {
+    "type" : "charging_station",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "kindergarten",
+    "count" : 8
+  }, {
+    "type" : "container",
+    "count" : 7
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 7
+  }, {
+    "type" : "embassy",
+    "count" : 7
+  }, {
+    "type" : "civic",
+    "count" : 7
+  }, {
+    "type" : "library",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 6
+  }, {
+    "type" : "viaduct",
+    "count" : 6
+  }, {
+    "type" : "pub",
+    "count" : 6
+  }, {
+    "type" : "car_rental",
+    "count" : 5
+  }, {
+    "type" : "events_venue",
+    "count" : 5
+  }, {
+    "type" : "museum",
+    "count" : 5
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "bridge",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "studio",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "canteen",
+    "count" : 4
+  }, {
+    "type" : "garages",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "brothel",
+    "count" : 1
+  }, {
+    "type" : "ticket_validator",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "bunker",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "electricity",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "opera_house",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "lockers",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Friedrichstadt",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Friedrichstadt",
+      "place" : "locality",
+      "wikipedia" : "de:Berlin-Friedrichstadt"
+    }
+  }, {
+    "name" : "Friedrichswerder",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Mitte,Berlin,Bundesrepublik Deutschland,Europe",
+      "name" : "Friedrichswerder",
+      "place" : "neighbourhood",
+      "wikipedia" : "de:Berlin-Friedrichswerder"
+    }
+  }, {
+    "name" : "Berlin",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 3769962,
+    "tags" : {
+      "name:nan" : "Berlin",
+      "name:ka" : "ბერლინი",
+      "name:nap" : "Berlino",
+      "name:kk" : "Берлин",
+      "openGeoDB:telephone_area_code" : "030",
+      "name:nah" : "Berlin",
+      "name:kn" : "ಬೆರ್ಲಿನ್",
+      "name:ko" : "베를린",
+      "name:nrm" : "Bèrlîn",
+      "name:kv" : "Берлин",
+      "name:kw" : "Berlin",
+      "name:ku" : "Berlîn",
+      "name:frp" : "Bèrlin",
+      "name:ky" : "Берлин",
+      "name:ckb" : "بەرلین",
+      "name:ja" : "ベルリン",
+      "name:zu" : "Berlin",
+      "name:pdc" : "Berlin, Deitschland",
+      "population" : "3769962",
+      "name:lmo" : "Berlin",
+      "name:jv" : "Berlin",
+      "name:mi" : "Pearīni",
+      "openGeoDB:postal_codes" : "10178,10115,10117,10119,10179,10243,10245,10247,10249,10315,10317,10318,10319,10365,10367,10369,10405,10407,10409,10435,10437,10439,10551,10553,10555,10557,10559,10585,10587,10589,10623,10625,10627,10629,10707,10709,10711,10713,10715,10717,10719,10777,10",
+      "name:mg" : "Berlin",
+      "name:ml" : "ബെര്‍ലിന്",
+      "name:mk" : "Берлин",
+      "name:mn" : "Берлин",
+      "name:mt" : "Berlin",
+      "name:cbk-zam" : "Berlín",
+      "name:mr" : "बर्लिन",
+      "openGeoDB:license_plate_code" : "B",
+      "name:ms" : "Berlin",
+      "name:tpi" : "Berlin",
+      "name:my" : "ဘာလင်မြို့",
+      "wikipedia" : "de:Berlin",
+      "email" : "info@berlin.de",
+      "name:mrj" : "Берлин",
+      "website" : "https://www.berlin.de/",
+      "name:la" : "Berolinum",
+      "name:lb" : "Berlin",
+      "name:lg" : "Berlin",
+      "name:vro" : "Berliin",
+      "name:li" : "Berlien",
+      "name:pfl" : "Balin",
+      "name:ln" : "Berlin",
+      "openGeoDB:loc_id" : "14356",
+      "name:lt" : "Berlynas",
+      "name:lv" : "Berlīne",
+      "name:short" : "BE",
+      "name:fy" : "Berlyn",
+      "name:lzh" : "柏林",
+      "name:pam" : "Berlin",
+      "name:wo" : "Berlin",
+      "name:haw" : "Pelelina",
+      "name:ga" : "Beirlín",
+      "name:gd" : "Berlin",
+      "name:zea" : "Berlijn",
+      "name:gn" : "Berlin",
+      "name:gl" : "Berlín",
+      "name:gv" : "Berleen",
+      "name:tzl" : "Berlin",
+      "ele" : "35",
+      "name:vi" : "Béc-lin",
+      "name:vls" : "Berlyn",
+      "name:fa" : "برلین",
+      "name:fi" : "Berliini",
+      "name:prefix" : "Land und Kreisfreie Stadt",
+      "name:diq" : "Berlin",
+      "name:roa-rup" : "Berlin",
+      "name:lij" : "Berlin",
+      "name" : "Berlin",
+      "name:fr" : "Berlin",
+      "name:fo" : "Berlin",
+      "name:ast" : "Berlín",
+      "name:rue" : "Берлін",
+      "name:hy" : "Բեռլին",
+      "name:bxr" : "Берлин",
+      "name:ia" : "Berlin",
+      "name:yo" : "Berlin",
+      "name:id" : "Berlin",
+      "name:ie" : "Berlin",
+      "name:gan" : "柏林",
+      "name:nov" : "Berlin",
+      "name:io" : "Berlin",
+      "name:it" : "Berlino",
+      "name:iu" : "ᐱᕐᓖᓐ",
+      "name:is" : "Berlín",
+      "name:zh" : "柏林",
+      "name:szl" : "Berlin",
+      "name:hsb" : "Berlin",
+      "name:he" : "ברלין",
+      "name:hi" : "बर्लिन",
+      "name:yue" : "柏林",
+      "name:ht" : "Bèlen",
+      "name:hr" : "Berlin",
+      "name:yi" : "בערלין",
+      "name:hu" : "Berlin",
+      "name:bs" : "Berlin",
+      "name:se" : "Berlin",
+      "name:sk" : "Berlín",
+      "name:sh" : "Berlin",
+      "name:scn" : "Birlinu",
+      "name:si" : "බර්ලිනය",
+      "name:so" : "Berlin",
+      "ref:LOCODE" : "DEBER",
+      "name:sl" : "Berlin",
+      "name:xmf" : "ბერლინი",
+      "name:sr" : "Берлин",
+      "name:bar" : "Berlin",
+      "name:pms" : "Berlin",
+      "name:ca" : "Berlín",
+      "name:sq" : "Berlini",
+      "name:sv" : "Berlin",
+      "name:sw" : "Berlin",
+      "name:su" : "Berliini",
+      "name:roa-tara" : "Berline",
+      "name:co" : "Berlinu",
+      "name:sco" : "Berlin",
+      "name:ext" : "Berlín",
+      "name:lez" : "Берлин",
+      "name:pnb" : "برلن",
+      "name:cs" : "Berlín",
+      "name:tet" : "Berlín",
+      "name:ta" : "பெர்லின்",
+      "name:ar" : "برلين",
+      "name:rm" : "Berlin",
+      "name:az" : "Berlin",
+      "name:csb" : "Berlëno",
+      "name:ba" : "Берлин",
+      "name:ro" : "Berlin",
+      "name:be" : "Берлін",
+      "name:ru" : "Берлин",
+      "name:bi" : "Berlin",
+      "name:bg" : "Берлин",
+      "name:ksh" : "Bälliin",
+      "name:bn" : "বার্লিন",
+      "name:be-tarask" : "Бэрлін",
+      "name:br" : "Berlin",
+      "name:sc" : "Berlinu",
+      "name:bo" : "པེ་ལིང་",
+      "official_status:ru" : "земля",
+      "name:ug" : "Bérlin",
+      "name:uk" : "Берлін",
+      "name:arc" : "ܒܪܠܝܢ",
+      "name:ur" : "برلن",
+      "name:arz" : "بيرلين",
+      "name:el" : "Βερολίνο",
+      "name:uz" : "Berlin",
+      "name:en" : "Berlin",
+      "place" : "city",
+      "name:eo" : "Berlino",
+      "name:mzn" : "برلین",
+      "name:et" : "Berliin",
+      "name:eu" : "Berlin",
+      "name:es" : "Berlín",
+      "name:cv" : "Берлин",
+      "name:tg" : "Берлин",
+      "name:th" : "เบอร์ลิน",
+      "name:jbo" : "berlin",
+      "name:mhr" : "Берлин",
+      "name:te" : "బెర్లిన్",
+      "name:cu" : "Берлинъ",
+      "name:tl" : "Berlin",
+      "name:cy" : "Berlin",
+      "name:stq" : "Berlin",
+      "name:tt" : "Берлин",
+      "name:da" : "Berlin",
+      "name:pnt" : "Βερολίνον",
+      "name:tr" : "Berlin",
+      "name:de" : "Berlin",
+      "name:myv" : "Берлин ош",
+      "name:ty" : "Berlin",
+      "name:nds-nl" : "Berlien",
+      "official_status:de" : "Land",
+      "blind:description:de" : "Auf www.berlinfuerblinde.de gibt es einen kostenlosen Audioguide und weitere Informationen.",
+      "name:oc" : "Berlin",
+      "capital" : "yes",
+      "openGeoDB:community_identification_number" : "11000000",
+      "name:rmy" : "Berlin",
+      "official_status" : "Land",
+      "name:vec" : "Berlin",
+      "name:als" : "Berlin",
+      "name:os" : "Берлин",
+      "name:ilo" : "Berlin, Alemania",
+      "admin_level" : "2",
+      "name:na" : "Berlin",
+      "name:nds" : "Berlin",
+      "name:nn" : "Berlin",
+      "name:nl" : "Berlijn",
+      "name:no" : "Berlin",
+      "name:fur" : "Berlin",
+      "name:koi" : "Берлин",
+      "name:bat-smg" : "Berlīns",
+      "name:ang" : "Berlin",
+      "name:sah" : "Берлин",
+      "name:crh" : "Berlin",
+      "name:qu" : "Berlin",
+      "name:ab" : "Берлин",
+      "name:af" : "Berlyn",
+      "name:kbd" : "Берлин",
+      "name:am" : "በርሊን",
+      "name:ltg" : "Berlins",
+      "name:an" : "Berlín",
+      "name:udm" : "Берлин",
+      "official_status:en" : "State",
+      "name:pl" : "Berlin",
+      "capital_ISO3166-1" : "yes",
+      "name:dsb" : "Barliń",
+      "name:ps" : "برلين",
+      "name:pt" : "Berlim",
+      "name:kab" : "Berlin",
+      "old_name:vi" : "Bá Linh",
+      "name:zh-Hans" : "柏林",
+      "name:zh-Hant" : "柏林"
+    }
+  }, {
+    "name" : "Dorotheenstadt",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Mitte,Berlin,Bundesrepublik Deutschland,Europe",
+      "name" : "Dorotheenstadt",
+      "place" : "neighbourhood",
+      "wikipedia" : "de:Berlin-Dorotheenstadt"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1034666,
+    "totalVolume" : 21687552,
+    "count" : 1206,
+    "maxHeight" : 100.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 9
+  }, {
+    "type" : "tertiary",
+    "count" : 61
+  }, {
+    "type" : "light_rail",
+    "count" : 43
+  }, {
+    "type" : "residential",
+    "count" : 256
+  }, {
+    "type" : "service",
+    "count" : 283
+  }, {
+    "type" : "path",
+    "count" : 9
+  }, {
+    "type" : "pedestrian",
+    "count" : 27
+  }, {
+    "type" : "primary",
+    "count" : 87
+  }, {
+    "type" : "subway",
+    "count" : 49
+  }, {
+    "type" : "living_street",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 47
+  }, {
+    "type" : "steps",
+    "count" : 197
+  }, {
+    "type" : "tram",
+    "count" : 38
+  }, {
+    "type" : "rail",
+    "count" : 50
+  }, {
+    "type" : "disused",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 1000
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 25,
+    "max" : 68,
+    "diff50m" : 16
+  }
+}

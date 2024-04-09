@@ -1,0 +1,286 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.03313334
+  }, {
+    "type" : "parking",
+    "area" : 0.010247555
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 892
+  }, {
+    "type" : "apartments",
+    "count" : 69
+  }, {
+    "type" : "house",
+    "count" : 28
+  }, {
+    "type" : "school",
+    "count" : 27
+  }, {
+    "type" : "restaurant",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 17
+  }, {
+    "type" : "bar",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "commercial",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 8
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "fast_food",
+    "count" : 7
+  }, {
+    "type" : "retail",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "police",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 3
+  }, {
+    "type" : "cafe",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "historic",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "shelter;prostitution",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Colonia Tepito",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Tepito",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06200"
+    }
+  }, {
+    "name" : "Colonia Morelos",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Morelos",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15270"
+    }
+  }, {
+    "name" : "Colonia Morelos",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Morelos",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06200"
+    }
+  }, {
+    "name" : "Colonia Emilio Carranza",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Emilio Carranza",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15230"
+    }
+  }, {
+    "name" : "Colonia Maza",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Maza",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06270"
+    }
+  }, {
+    "name" : "Colonia Felipe Pescador",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Felipe Pescador",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06280"
+    }
+  }, {
+    "name" : "Colonia Nicolás Bravo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Nicolás Bravo",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15220"
+    }
+  }, {
+    "name" : "Colonia Popular Rastro",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Popular Rastro",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15220"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2253631,
+    "totalVolume" : 30324241,
+    "count" : 7844,
+    "maxHeight" : 100.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 41
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 291
+  }, {
+    "type" : "service",
+    "count" : 243
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 16
+  }, {
+    "type" : "primary",
+    "count" : 57
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 34
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 14
+  }, {
+    "type" : "footway",
+    "count" : 169
+  }, {
+    "type" : "primary_link",
+    "count" : 10
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2224,
+    "max" : 2249,
+    "diff50m" : 14
+  }
+}

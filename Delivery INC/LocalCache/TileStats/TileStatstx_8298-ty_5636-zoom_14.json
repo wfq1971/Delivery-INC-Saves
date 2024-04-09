@@ -1,0 +1,636 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.1012064
+  }, {
+    "type" : "residential",
+    "area" : 0.90674835
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.09583673
+  }, {
+    "type" : "park",
+    "area" : 0.045978703
+  }, {
+    "type" : "grass",
+    "area" : 0.02382886
+  }, {
+    "type" : "bridge",
+    "area" : 0.011879496
+  }, {
+    "type" : "garden",
+    "area" : 0.010496265
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2545
+  }, {
+    "type" : "apartments",
+    "count" : 1286
+  }, {
+    "type" : "restaurant",
+    "count" : 651
+  }, {
+    "type" : "bench",
+    "count" : 494
+  }, {
+    "type" : "waste_basket",
+    "count" : 336
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 285
+  }, {
+    "type" : "cafe",
+    "count" : 197
+  }, {
+    "type" : "fast_food",
+    "count" : 143
+  }, {
+    "type" : "bar",
+    "count" : 123
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 68
+  }, {
+    "type" : "retail",
+    "count" : 55
+  }, {
+    "type" : "parking_space",
+    "count" : 52
+  }, {
+    "type" : "post_box",
+    "count" : 50
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 49
+  }, {
+    "type" : "pub",
+    "count" : 43
+  }, {
+    "type" : "bank",
+    "count" : 42
+  }, {
+    "type" : "roof",
+    "count" : 42
+  }, {
+    "type" : "drinking_water",
+    "count" : 40
+  }, {
+    "type" : "recycling",
+    "count" : 39
+  }, {
+    "type" : "pharmacy",
+    "count" : 29
+  }, {
+    "type" : "vending_machine",
+    "count" : 29
+  }, {
+    "type" : "parking_entrance",
+    "count" : 27
+  }, {
+    "type" : "university",
+    "count" : 26
+  }, {
+    "type" : "toilets",
+    "count" : 24
+  }, {
+    "type" : "atm",
+    "count" : 23
+  }, {
+    "type" : "school",
+    "count" : 22
+  }, {
+    "type" : "hotel",
+    "count" : 18
+  }, {
+    "type" : "ice_cream",
+    "count" : 17
+  }, {
+    "type" : "nightclub",
+    "count" : 17
+  }, {
+    "type" : "clock",
+    "count" : 15
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 15
+  }, {
+    "type" : "taxi",
+    "count" : 14
+  }, {
+    "type" : "parking",
+    "count" : 14
+  }, {
+    "type" : "office",
+    "count" : 13
+  }, {
+    "type" : "church",
+    "count" : 13
+  }, {
+    "type" : "kiosk",
+    "count" : 12
+  }, {
+    "type" : "cinema",
+    "count" : 10
+  }, {
+    "type" : "doctors",
+    "count" : 10
+  }, {
+    "type" : "house",
+    "count" : 10
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "theatre",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "dentist",
+    "count" : 9
+  }, {
+    "type" : "service",
+    "count" : 8
+  }, {
+    "type" : "library",
+    "count" : 8
+  }, {
+    "type" : "charging_station",
+    "count" : 7
+  }, {
+    "type" : "fountain",
+    "count" : 6
+  }, {
+    "type" : "parcel_locker",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 6
+  }, {
+    "type" : "social_facility",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "photo_booth",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 4
+  }, {
+    "type" : "boat",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "waste_disposal",
+    "count" : 3
+  }, {
+    "type" : "civic",
+    "count" : 2
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 2
+  }, {
+    "type" : "hut",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "container",
+    "count" : 2
+  }, {
+    "type" : "temple",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 2
+  }, {
+    "type" : "houseboat",
+    "count" : 2
+  }, {
+    "type" : "piano",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "cabin",
+    "count" : 1
+  }, {
+    "type" : "vending_machine;waste_basket",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "castle",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "reception_desk",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "religious",
+    "count" : 1
+  }, {
+    "type" : "dancing_school",
+    "count" : 1
+  }, {
+    "type" : "museum",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "luggage_locker",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "scooter_parking",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "love_hotel",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "6e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "VI округ",
+      "alt_name" : "VIe Arrondissement",
+      "name:ja" : "6区",
+      "name" : "6e Arrondissement",
+      "name:en" : "6th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:6e arrondissement de Paris",
+      "addr:postcode" : "75006"
+    }
+  }, {
+    "name" : "Quartier de l'Odéon",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Quartier de l'Odéon",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Les Halles",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Viertel der Hallen",
+      "name:el" : "Λε Αλ",
+      "name" : "Les Halles",
+      "name:fr" : "Les Halles",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Saint-Germain-des-Prés",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Saint-Germain-des-Prés",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Paris",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 2187526,
+    "tags" : {
+      "name:bs" : "Pariz",
+      "is_capital" : "country",
+      "name:sk" : "Paríž",
+      "name:nan" : "Pa-lí",
+      "name:sh" : "Pariz",
+      "name:scn" : "Pariggi",
+      "name:ka" : "პარიზი",
+      "name:nap" : "Parigge",
+      "name:so" : "Baariis",
+      "name:sl" : "Pariz",
+      "name:xmf" : "პარიზი",
+      "name:sr" : "Париз",
+      "name:kk" : "Париж",
+      "name:ca" : "París",
+      "name:sq" : "Parisi",
+      "name:kn" : "ಪ್ಯಾರಿಸ್",
+      "name:sv" : "Paris",
+      "name:ko" : "파리",
+      "old_name:fr" : "Lutèce",
+      "name:km" : "ប៉ារីស",
+      "name:roa-tara" : "Parigge",
+      "name:cdo" : "Bă-là̤",
+      "name:kv" : "Париж",
+      "rank" : "0",
+      "name:co" : "Parighji",
+      "loc_name" : "Paname",
+      "name:ku" : "Parîs",
+      "name:ext" : "París",
+      "name:lez" : "Париж",
+      "name:pnb" : "پیرس",
+      "name:cs" : "Paříž",
+      "name:tet" : "París",
+      "name:ta" : "பாரிஸ்",
+      "name:ky" : "Париж",
+      "name:ar" : "باريس",
+      "name:ckb" : "پاریس",
+      "name:ja" : "パリ",
+      "name:zu" : "IParisi",
+      "name:csb" : "Pariz",
+      "name:ba" : "Париж",
+      "population" : "2187526",
+      "name:be" : "Парыж",
+      "name:ru" : "Париж",
+      "name:bg" : "Париж",
+      "name:bn" : "প্যারিস",
+      "name:be-tarask" : "Парыж",
+      "name:br" : "Pariz",
+      "name:sc" : "Parigi",
+      "name:bo" : "ཕ་རི།",
+      "name:ug" : "پارىژ",
+      "name:uk" : "Париж",
+      "name:mi" : "Parī",
+      "name:arc" : "ܦܐܪܝܣ",
+      "name:ml" : "പാരിസ്",
+      "name:ur" : "پیرس",
+      "name:mk" : "Париз",
+      "name:pronunciation" : "paʁi",
+      "name:mn" : "Парис",
+      "name:arz" : "باريس",
+      "name:el" : "Παρίσι",
+      "name:mr" : "पॅरिस",
+      "name:uz" : "Parij",
+      "name:my" : "ပါရီမြို့",
+      "name:en" : "Paris",
+      "place" : "city",
+      "name:eo" : "Parizo",
+      "name:mzn" : "پاریس",
+      "wikipedia" : "fr:Paris",
+      "name:et" : "Pariis",
+      "name:eu" : "Paris",
+      "name:es" : "París",
+      "name:mrj" : "Париж",
+      "name:cv" : "Парис",
+      "name:tg" : "Париж",
+      "name:th" : "ปารีส",
+      "name:jbo" : "paris",
+      "name:mhr" : "Париж",
+      "name:te" : "పారిస్",
+      "name:cu" : "Парижь",
+      "name:tk" : "Pariž",
+      "name:tl" : "Paris",
+      "name:la" : "Lutetia",
+      "name:lb" : "Paräis",
+      "name:tt" : "Париж",
+      "name:vro" : "Pariis",
+      "name:li" : "Paries",
+      "name:de" : "Paris",
+      "name:myv" : "Париж ош",
+      "name:ln" : "Pari",
+      "name:lt" : "Paryžius",
+      "old_name" : "Lutèce",
+      "name:nds-nl" : "Paries",
+      "name:lv" : "Parīze",
+      "name:fy" : "Parys",
+      "name:oc" : "París",
+      "capital" : "yes",
+      "name:lzh" : "巴黎",
+      "name:wo" : "Pari",
+      "name:haw" : "Palika",
+      "name:hak" : "Pâ-lì-sṳ",
+      "name:ga" : "Páras",
+      "name:vec" : "Parixe",
+      "name:gd" : "Parais",
+      "name:or" : "ପ୍ୟାରିସ",
+      "name:fr:pronunciation" : "paʁi",
+      "name:os" : "Париж",
+      "name:gn" : "Parĩ",
+      "name:gl" : "París",
+      "admin_level" : "2",
+      "name:vep" : "Pariž",
+      "name:gv" : "Paarys",
+      "name:tzl" : "Parighi",
+      "contact:website" : "http://www.paris.fr",
+      "name:gu" : "પૅરિસ",
+      "name:vi" : "Paris",
+      "name:ne" : "पेरिस",
+      "name:nds" : "Paris",
+      "name:vls" : "Parys",
+      "name:fa" : "پاریس",
+      "name:nl" : "Parijs",
+      "name:fi" : "Pariisi",
+      "name:no" : "Paris",
+      "name:diq" : "Paris",
+      "name:roa-rup" : "Parij",
+      "name:lij" : "Pariggi",
+      "name" : "Paris",
+      "name:fr" : "Paris",
+      "name:ast" : "París",
+      "name:rue" : "Паріж",
+      "alt_name:vi" : "Ba Lê",
+      "name:fur" : "Parîs",
+      "name:zh_pinyin" : "Bālí",
+      "name:koi" : "Париж",
+      "name:bat-smg" : "Parīžios",
+      "name:hy" : "Փարիզ",
+      "name:sah" : "Париж",
+      "name:krc" : "Париж",
+      "name:yo" : "Parisi",
+      "name:gan" : "巴黎",
+      "name:za" : "Bahliz",
+      "name:af" : "Parys",
+      "name:it" : "Parigi",
+      "name:am" : "ፓሪስ",
+      "name:is" : "París",
+      "name:an" : "París",
+      "name:zh" : "巴黎",
+      "name:szl" : "Paryż",
+      "loc_name:fr" : "Paname",
+      "name:pa" : "ਪੈਰਿਸ",
+      "name:udm" : "Париж",
+      "name:pl" : "Paryż",
+      "name:ha" : "Pariis",
+      "capital_ISO3166-1" : "yes",
+      "name:he" : "פריז",
+      "name:ps" : "پاريس",
+      "name:pt" : "Paris",
+      "name:hi" : "पैरिस",
+      "name:yue" : "巴黎",
+      "name:en:pronunciation" : "ˈpæɹ.ɪs",
+      "old_name:vi" : "Ba Lê",
+      "name:ht" : "Pari",
+      "name:hr" : "Pariz",
+      "name:eml" : "Parì",
+      "name:yi" : "פאריז",
+      "name:hu" : "Párizs"
+    }
+  }, {
+    "name" : "1er Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "I округ",
+      "alt_name" : "Ier Arrondissement",
+      "name:ja" : "1区",
+      "name" : "1er Arrondissement",
+      "name:en" : "1st Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:1er arrondissement de Paris",
+      "addr:postcode" : "75001"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1286461,
+    "totalVolume" : 23586303,
+    "count" : 4403,
+    "maxHeight" : 75.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 78
+  }, {
+    "type" : "tertiary",
+    "count" : 89
+  }, {
+    "type" : "residential",
+    "count" : 205
+  }, {
+    "type" : "service",
+    "count" : 160
+  }, {
+    "type" : "path",
+    "count" : 16
+  }, {
+    "type" : "primary",
+    "count" : 78
+  }, {
+    "type" : "pedestrian",
+    "count" : 157
+  }, {
+    "type" : "subway",
+    "count" : 28
+  }, {
+    "type" : "living_street",
+    "count" : 84
+  }, {
+    "type" : "secondary",
+    "count" : 64
+  }, {
+    "type" : "steps",
+    "count" : 461
+  }, {
+    "type" : "rail",
+    "count" : 43
+  }, {
+    "type" : "unclassified",
+    "count" : 27
+  }, {
+    "type" : "footway",
+    "count" : 1055
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 12,
+    "max" : 59,
+    "diff50m" : 21
+  }
+}

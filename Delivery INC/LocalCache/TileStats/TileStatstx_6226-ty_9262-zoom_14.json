@@ -1,0 +1,175 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.7948796
+  }, {
+    "type" : "harbour",
+    "area" : 0.01609552
+  }, {
+    "type" : "military",
+    "area" : 0.011642891
+  }, {
+    "type" : "industrial",
+    "area" : 0.011580252
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 266
+  }, {
+    "type" : "bench",
+    "count" : 23
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 11
+  }, {
+    "type" : "roof",
+    "count" : 8
+  }, {
+    "type" : "waste_basket",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "warehouse",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "tent",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "restaurant",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Saúde",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 2749,
+    "tags" : {
+      "name" : "Saúde",
+      "place" : "suburb",
+      "wikipedia" : "pt:Saúde (bairro do Rio de Janeiro)",
+      "population" : "2749"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 487055,
+    "totalVolume" : 6405676,
+    "count" : 1792,
+    "maxHeight" : 102.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 39
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 40
+  }, {
+    "type" : "service",
+    "count" : 50
+  }, {
+    "type" : "trunk",
+    "count" : 6
+  }, {
+    "type" : "pedestrian",
+    "count" : 14
+  }, {
+    "type" : "primary",
+    "count" : 25
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 6
+  }, {
+    "type" : "tram",
+    "count" : 24
+  }, {
+    "type" : "rail",
+    "count" : 14
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 41
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -4,
+    "max" : 36,
+    "diff50m" : 27
+  }
+}

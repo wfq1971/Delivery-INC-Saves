@@ -1,0 +1,332 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.28532773
+  }, {
+    "type" : "residential",
+    "area" : 0.23027034
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.13456343
+  }, {
+    "type" : "commercial",
+    "area" : 0.086751044
+  }, {
+    "type" : "grass",
+    "area" : 0.057621676
+  }, {
+    "type" : "wood",
+    "area" : 0.036284197
+  }, {
+    "type" : "parking",
+    "area" : 0.015298714
+  }, {
+    "type" : "construction",
+    "area" : 0.014900492
+  }, {
+    "type" : "religious",
+    "area" : 0.010928426
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1572
+  }, {
+    "type" : "bench",
+    "count" : 162
+  }, {
+    "type" : "waste_basket",
+    "count" : 70
+  }, {
+    "type" : "apartments",
+    "count" : 59
+  }, {
+    "type" : "cafe",
+    "count" : 39
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 38
+  }, {
+    "type" : "fast_food",
+    "count" : 31
+  }, {
+    "type" : "restaurant",
+    "count" : 27
+  }, {
+    "type" : "toilets",
+    "count" : 24
+  }, {
+    "type" : "service",
+    "count" : 23
+  }, {
+    "type" : "office",
+    "count" : 22
+  }, {
+    "type" : "retail",
+    "count" : 18
+  }, {
+    "type" : "university",
+    "count" : 13
+  }, {
+    "type" : "vending_machine",
+    "count" : 13
+  }, {
+    "type" : "parking_entrance",
+    "count" : 12
+  }, {
+    "type" : "bank",
+    "count" : 11
+  }, {
+    "type" : "waste_disposal",
+    "count" : 11
+  }, {
+    "type" : "atm",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "commercial",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 8
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 7
+  }, {
+    "type" : "drinking_water",
+    "count" : 7
+  }, {
+    "type" : "clinic",
+    "count" : 7
+  }, {
+    "type" : "bar",
+    "count" : 6
+  }, {
+    "type" : "taxi",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "sports_centre",
+    "count" : 5
+  }, {
+    "type" : "dentist",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "binoculars",
+    "count" : 4
+  }, {
+    "type" : "car_wash",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 3
+  }, {
+    "type" : "boat_rental",
+    "count" : 3
+  }, {
+    "type" : "kiosk",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "recycling",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "gazebo",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "rescue_station",
+    "count" : 1
+  }, {
+    "type" : "security_booth",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "triumphal_arch",
+    "count" : 1
+  }, {
+    "type" : "payment_terminal",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "public_service",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Якиманка",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Якиманка",
+      "name:vi" : "Yakimanka",
+      "name" : "Якиманка",
+      "description" : "внутригородское муниципальное образование",
+      "name:en" : "Yakimanka",
+      "place" : "suburb",
+      "wikipedia" : "ru:Якиманка (район Москвы)",
+      "addr:city" : "Москва"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 420461,
+    "totalVolume" : 9507345,
+    "count" : 631,
+    "maxHeight" : 87.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 8
+  }, {
+    "type" : "tertiary",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 23
+  }, {
+    "type" : "service",
+    "count" : 295
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 71
+  }, {
+    "type" : "subway",
+    "count" : 14
+  }, {
+    "type" : "secondary",
+    "count" : 33
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 97
+  }, {
+    "type" : "tram",
+    "count" : 10
+  }, {
+    "type" : "rail",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 26
+  }, {
+    "type" : "footway",
+    "count" : 957
+  }, {
+    "type" : "primary_link",
+    "count" : 25
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 118,
+    "max" : 151,
+    "diff50m" : 9
+  }
+}

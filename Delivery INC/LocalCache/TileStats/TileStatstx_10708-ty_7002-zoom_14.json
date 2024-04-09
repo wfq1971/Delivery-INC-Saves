@@ -1,0 +1,403 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.3767456
+  }, {
+    "type" : "residential",
+    "area" : 0.27078778
+  }, {
+    "type" : "commercial",
+    "area" : 0.13592611
+  }, {
+    "type" : "sand",
+    "area" : 0.07268572
+  }, {
+    "type" : "construction",
+    "area" : 0.026680056
+  }, {
+    "type" : "parking",
+    "area" : 0.011393859
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 972
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 47
+  }, {
+    "type" : "restaurant",
+    "count" : 39
+  }, {
+    "type" : "cafe",
+    "count" : 18
+  }, {
+    "type" : "pharmacy",
+    "count" : 15
+  }, {
+    "type" : "residential",
+    "count" : 15
+  }, {
+    "type" : "bank",
+    "count" : 12
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 6
+  }, {
+    "type" : "commercial",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "car_rental",
+    "count" : 4
+  }, {
+    "type" : "mosque",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "apartments",
+    "count" : 1
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "دبي",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 3396194,
+    "tags" : {
+      "name:bs" : "Dubai",
+      "name:sd" : "دبئي",
+      "name:se" : "Dubai",
+      "name:sk" : "Dubaj",
+      "name:scn" : "Dubai",
+      "name:ka" : "დუბაი",
+      "name:si" : "ඩුබායි",
+      "name:so" : "Dubay",
+      "name:sl" : "Dubaj",
+      "name:xmf" : "დუბაი",
+      "name:sr" : "Дубаи",
+      "name:kk" : "Дубай",
+      "name:pms" : "Dubai",
+      "name:ki" : "Dubai",
+      "name:sq" : "Dubai",
+      "name:kn" : "ದುಬೈ",
+      "name:sv" : "Dubai",
+      "name:ko" : "두바이",
+      "name:sw" : "Dubai",
+      "name:ks" : "دبئی",
+      "rank" : "0",
+      "name:kw" : "Dubai",
+      "name:sco" : "Dubai",
+      "name:ku" : "Dubey",
+      "name:ext" : "Dubai",
+      "name:lez" : "Дубай",
+      "name:frp" : "Doubayi",
+      "name:pnb" : "دبئی",
+      "name:cs" : "Dubaj",
+      "name:az-Arab" : "دوبی",
+      "name:ta" : "துபாய்",
+      "name:ky" : "Дубай",
+      "name:kk-Arab" : "دۋباي",
+      "name:ar" : "دبي",
+      "name:ckb" : "دوبەی",
+      "name:as" : "ডুবাই",
+      "name:ja" : "ドバイ",
+      "name:ba" : "Дубай",
+      "name:ro" : "Dubai",
+      "population" : "3396194",
+      "name:be" : "Дубай",
+      "name:ru" : "Дубай",
+      "name:bg" : "Дубай",
+      "name:lmo" : "Dubai",
+      "name:bh" : "दुबई",
+      "name:jv" : "Dubai",
+      "name:br" : "Dubai",
+      "alt_name:ar" : "دبى",
+      "name:wuu" : "迪拜",
+      "name:ug" : "دۇبائى",
+      "name:uk" : "Дубай",
+      "name:kmr" : "دوبای",
+      "name:ml" : "ദുബായ്",
+      "name:ur" : "دبئی",
+      "name:mk" : "Дубаи",
+      "name:mai" : "दुबई",
+      "name:mn" : "Дубай",
+      "alt_name:fr" : "Dubaï",
+      "name:el" : "Ντουμπάι",
+      "name:mr" : "दुबई",
+      "name:uz" : "Dubay",
+      "name:ms" : "Dubai",
+      "name:my" : "ဒူဘိုင်းမြို့",
+      "name:en" : "Dubai",
+      "place" : "city",
+      "name:eo" : "Dubajurbo",
+      "name:mzn" : "دوبی",
+      "wikipedia" : "ar:دبي",
+      "name:et" : "Dubai",
+      "name:eu" : "Dubai",
+      "name:es" : "Dubái",
+      "name:cv" : "Дубай",
+      "name:tg" : "Дубай",
+      "name:th" : "ดูไบ",
+      "name:te" : "దుబాయ్",
+      "name:tk" : "Dubaý",
+      "name:tl" : "Dubai",
+      "name:cy" : "Dubai",
+      "name:lb" : "Dubai",
+      "name:tt" : "Дөбәй",
+      "name:da" : "Dubai",
+      "name:li" : "Dubai",
+      "name:tr" : "Dubai",
+      "name:de" : "Dubai",
+      "name:azb" : "دوبی",
+      "name:lt" : "Dubajus",
+      "name:ceb" : "Dubai",
+      "name:lv" : "Dubaija",
+      "alt_name:pa" : "ਡੁਬਈ",
+      "name:fy" : "ELDûbai",
+      "name:oc" : "Dubai",
+      "name:ga" : "Dubai",
+      "name:gd" : "Dubai",
+      "name:os" : "Дубай",
+      "name:gn" : "Nduvái",
+      "name:ilo" : "Dubai",
+      "name:gl" : "Dubai",
+      "name:pap" : "Dubai",
+      "name:vep" : "Dubai",
+      "name:gu" : "દુબઇ",
+      "name:vi" : "Dubai",
+      "name:ne" : "दुबई",
+      "name:fa" : "دبی",
+      "name:vo" : "Dubayy",
+      "name:nl" : "Dubai",
+      "name:fi" : "Dubai",
+      "name:no" : "Dubai",
+      "alt_name:en" : "Dubayy",
+      "name:lij" : "Dubai",
+      "name" : "دبي",
+      "name:ny" : "Dubai",
+      "name:fr" : "Doubaï",
+      "name:fo" : "Dubai",
+      "name:ast" : "Dubái",
+      "name:rue" : "Дубай",
+      "name:ace" : "Dubai",
+      "name:hy" : "Դուբայ",
+      "name:sah" : "Дубай",
+      "name:yo" : "Dubai",
+      "name:id" : "Dubai",
+      "name:ie" : "Dubai",
+      "name:war" : "Dubai",
+      "name:af" : "Doebai",
+      "name:io" : "Dubai",
+      "name:it" : "Dubai",
+      "name:am" : "ዱባይ",
+      "name:is" : "Dúbaí",
+      "name:an" : "Dubai",
+      "name:sat" : "ᱫᱩᱵᱟᱭ",
+      "name:zh" : "迪拜",
+      "name:szl" : "Dubaj",
+      "name:pa" : "ਦੁਬਈ",
+      "name:pl" : "Dubaj",
+      "name:ha" : "Dubai",
+      "name:he" : "דובאי",
+      "name:ps" : "دوبۍ",
+      "name:pt" : "Dubai",
+      "name:hi" : "दुबई",
+      "name:kab" : "Dubay",
+      "name:kaa" : "Dubai",
+      "name:hr" : "Dubai",
+      "name:yi" : "דוביי",
+      "name:hu" : "Dubaj"
+    }
+  }, {
+    "name" : "البطين",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "البطين",
+      "name" : "البطين",
+      "name:en" : "Al Bateen",
+      "place" : "suburb",
+      "name:ml" : "അൽ ബത്തീൻ"
+    }
+  }, {
+    "name" : "السبخة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "السبخة",
+      "name" : "السبخة",
+      "name:en" : "Al Sabkha",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "الضغاية",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "الضغاية",
+      "name" : "الضغاية",
+      "name:en" : "Al Dhagaya",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "الشندغة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "الشندغة",
+      "name" : "الشندغة",
+      "name:en" : "Al Shindagha",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "الرأس",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "الرأس",
+      "name" : "الرأس",
+      "name:en" : "Al Ras",
+      "place" : "suburb",
+      "name:ml" : "അൽ റാസ്"
+    }
+  }, {
+    "name" : "عيال ناصر",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "عيال ناصر",
+      "name" : "عيال ناصر",
+      "name:en" : "Ayal Nasir",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 804693,
+    "totalVolume" : 11000074,
+    "count" : 1808,
+    "maxHeight" : 56.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 29
+  }, {
+    "type" : "tertiary_link",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 91
+  }, {
+    "type" : "service",
+    "count" : 251
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "trunk",
+    "count" : 13
+  }, {
+    "type" : "pedestrian",
+    "count" : 4
+  }, {
+    "type" : "primary",
+    "count" : 61
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 52
+  }, {
+    "type" : "footway",
+    "count" : 407
+  }, {
+    "type" : "trunk_link",
+    "count" : 4
+  }, {
+    "type" : "primary_link",
+    "count" : 28
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -16,
+    "max" : 28,
+    "diff50m" : 24
+  }
+}

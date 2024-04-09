@@ -1,0 +1,225 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.1747163
+  }, {
+    "type" : "park",
+    "area" : 0.06353132
+  }, {
+    "type" : "wood",
+    "area" : 0.032813042
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.030150179
+  }, {
+    "type" : "commercial",
+    "area" : 0.028707664
+  }, {
+    "type" : "construction",
+    "area" : 0.013174871
+  }, {
+    "type" : "garden",
+    "area" : 0.011472979
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1099
+  }, {
+    "type" : "wall",
+    "count" : 153
+  }, {
+    "type" : "restaurant",
+    "count" : 59
+  }, {
+    "type" : "toilets",
+    "count" : 31
+  }, {
+    "type" : "house",
+    "count" : 22
+  }, {
+    "type" : "cafe",
+    "count" : 16
+  }, {
+    "type" : "fast_food",
+    "count" : 10
+  }, {
+    "type" : "hospital",
+    "count" : 7
+  }, {
+    "type" : "bank",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 4
+  }, {
+    "type" : "transportation",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "ruins",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "东厂社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "东厂社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "多福巷社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "多福巷社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "景山街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "景山街道",
+      "name:en" : "Jingshan",
+      "place" : "suburb",
+      "name:zh" : "景山街道",
+      "division_code" : "110101002000"
+    }
+  }, {
+    "name" : "东华门街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "东华门街道",
+      "name:en" : "Donghuamen",
+      "place" : "suburb",
+      "name:zh" : "东华门街道",
+      "division_code" : "110101001000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1037725,
+    "totalVolume" : 13042227,
+    "count" : 2557,
+    "maxHeight" : 76.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 11
+  }, {
+    "type" : "tertiary",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 89
+  }, {
+    "type" : "service",
+    "count" : 114
+  }, {
+    "type" : "path",
+    "count" : 20
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "primary",
+    "count" : 10
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 8
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 153
+  }, {
+    "type" : "unclassified",
+    "count" : 10
+  }, {
+    "type" : "footway",
+    "count" : 647
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 41,
+    "max" : 82,
+    "diff50m" : 19
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.088281974
+  }, {
+    "type" : "farmland",
+    "area" : 0.07980745
+  }, {
+    "type" : "golf_course",
+    "area" : 0.072624564
+  }, {
+    "type" : "wood",
+    "area" : 0.07134827
+  }, {
+    "type" : "park",
+    "area" : 0.039699014
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.025635585
+  }, {
+    "type" : "scrub",
+    "area" : 0.0108743
+  }, {
+    "type" : "parking",
+    "area" : 0.010598608
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 1875
+  }, {
+    "type" : "road",
+    "count" : 1130
+  }, {
+    "type" : "semidetached_house",
+    "count" : 158
+  }, {
+    "type" : "garage",
+    "count" : 39
+  }, {
+    "type" : "bench",
+    "count" : 11
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 11
+  }, {
+    "type" : "apartments",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 353240,
+    "totalVolume" : 3469965,
+    "count" : 2518,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 15
+  }, {
+    "type" : "residential",
+    "count" : 145
+  }, {
+    "type" : "service",
+    "count" : 722
+  }, {
+    "type" : "path",
+    "count" : 16
+  }, {
+    "type" : "trunk",
+    "count" : 16
+  }, {
+    "type" : "steps",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 209
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 296,
+    "max" : 373,
+    "diff50m" : 19
+  }
+}

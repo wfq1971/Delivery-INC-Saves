@@ -1,0 +1,444 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.65121955
+  }, {
+    "type" : "park",
+    "area" : 0.07461478
+  }, {
+    "type" : "commercial",
+    "area" : 0.054870512
+  }, {
+    "type" : "wood",
+    "area" : 0.051182855
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.04898645
+  }, {
+    "type" : "yes",
+    "area" : 0.02282794
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.014378713
+  }, {
+    "type" : "pitch",
+    "area" : 0.013182672
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2553
+  }, {
+    "type" : "apartments",
+    "count" : 1385
+  }, {
+    "type" : "bench",
+    "count" : 205
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 157
+  }, {
+    "type" : "restaurant",
+    "count" : 139
+  }, {
+    "type" : "vending_machine",
+    "count" : 126
+  }, {
+    "type" : "waste_basket",
+    "count" : 70
+  }, {
+    "type" : "cafe",
+    "count" : 60
+  }, {
+    "type" : "office",
+    "count" : 59
+  }, {
+    "type" : "house",
+    "count" : 44
+  }, {
+    "type" : "school",
+    "count" : 38
+  }, {
+    "type" : "fast_food",
+    "count" : 33
+  }, {
+    "type" : "residential",
+    "count" : 32
+  }, {
+    "type" : "kindergarten",
+    "count" : 32
+  }, {
+    "type" : "lounger",
+    "count" : 26
+  }, {
+    "type" : "atm",
+    "count" : 25
+  }, {
+    "type" : "parking",
+    "count" : 25
+  }, {
+    "type" : "post_box",
+    "count" : 25
+  }, {
+    "type" : "fountain",
+    "count" : 24
+  }, {
+    "type" : "charging_station",
+    "count" : 24
+  }, {
+    "type" : "garages",
+    "count" : 24
+  }, {
+    "type" : "retail",
+    "count" : 23
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "parking_entrance",
+    "count" : 20
+  }, {
+    "type" : "pub",
+    "count" : 19
+  }, {
+    "type" : "grit_bin",
+    "count" : 17
+  }, {
+    "type" : "doctors",
+    "count" : 16
+  }, {
+    "type" : "recycling",
+    "count" : 15
+  }, {
+    "type" : "bar",
+    "count" : 14
+  }, {
+    "type" : "telephone",
+    "count" : 14
+  }, {
+    "type" : "pharmacy",
+    "count" : 13
+  }, {
+    "type" : "church",
+    "count" : 13
+  }, {
+    "type" : "garage",
+    "count" : 12
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "hotel",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 10
+  }, {
+    "type" : "toilets",
+    "count" : 9
+  }, {
+    "type" : "service",
+    "count" : 9
+  }, {
+    "type" : "shed",
+    "count" : 8
+  }, {
+    "type" : "arts_centre",
+    "count" : 7
+  }, {
+    "type" : "industrial",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 7
+  }, {
+    "type" : "car_sharing",
+    "count" : 7
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 6
+  }, {
+    "type" : "government",
+    "count" : 6
+  }, {
+    "type" : "cinema",
+    "count" : 5
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "sports_centre",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 4
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 4
+  }, {
+    "type" : "driving_school",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "photo_booth",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "dormitory",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 4
+  }, {
+    "type" : "bridge",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "kiosk",
+    "count" : 3
+  }, {
+    "type" : "prep_school",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "studio",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "biergarten",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "terrace",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "canteen",
+    "count" : 1
+  }, {
+    "type" : "cultural_association",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "student_accommodation",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "segway_rental",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "cooking_school",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "ship",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "dancing_school",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Untere Au",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Untere Au",
+      "place" : "quarter",
+      "name:bar" : "Untare Au"
+    }
+  }, {
+    "name" : "Au",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Au",
+      "place" : "suburb",
+      "wikipedia" : "de:Au (München)"
+    }
+  }, {
+    "name" : "Haidhausen-Süd",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Haidhausen-Süd",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Obere Au",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Obere Au",
+      "place" : "quarter",
+      "name:bar" : "Obare Au"
+    }
+  }, {
+    "name" : "Haidhausen",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Haidhausen",
+      "place" : "suburb",
+      "wikipedia" : "de:Haidhausen"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 964289,
+    "totalVolume" : 16778097,
+    "count" : 2582,
+    "maxHeight" : 65.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 43
+  }, {
+    "type" : "tertiary",
+    "count" : 47
+  }, {
+    "type" : "residential",
+    "count" : 203
+  }, {
+    "type" : "service",
+    "count" : 372
+  }, {
+    "type" : "path",
+    "count" : 227
+  }, {
+    "type" : "pedestrian",
+    "count" : 32
+  }, {
+    "type" : "subway",
+    "count" : 17
+  }, {
+    "type" : "living_street",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 158
+  }, {
+    "type" : "secondary_link",
+    "count" : 9
+  }, {
+    "type" : "steps",
+    "count" : 184
+  }, {
+    "type" : "tram",
+    "count" : 58
+  }, {
+    "type" : "rail",
+    "count" : 41
+  }, {
+    "type" : "disused",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 1154
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 505,
+    "max" : 549,
+    "diff50m" : 13
+  }
+}

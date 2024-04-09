@@ -1,0 +1,209 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.06521079
+  }, {
+    "type" : "railway",
+    "area" : 0.027787171
+  }, {
+    "type" : "industrial",
+    "area" : 0.027110608
+  }, {
+    "type" : "park",
+    "area" : 0.017462539
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1011
+  }, {
+    "type" : "roof",
+    "count" : 22
+  }, {
+    "type" : "construction",
+    "count" : 7
+  }, {
+    "type" : "restaurant",
+    "count" : 6
+  }, {
+    "type" : "transportation",
+    "count" : 6
+  }, {
+    "type" : "taxi",
+    "count" : 6
+  }, {
+    "type" : "pub",
+    "count" : 6
+  }, {
+    "type" : "garages",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 5
+  }, {
+    "type" : "apartments",
+    "count" : 5
+  }, {
+    "type" : "school",
+    "count" : 5
+  }, {
+    "type" : "car_wash",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "commercial",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "mosque",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "grandstand",
+    "count" : 1
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "locker",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 2525413,
+    "totalVolume" : 23203800,
+    "count" : 9242,
+    "maxHeight" : 82.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 6
+  }, {
+    "type" : "tertiary",
+    "count" : 88
+  }, {
+    "type" : "tertiary_link",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 291
+  }, {
+    "type" : "service",
+    "count" : 137
+  }, {
+    "type" : "trunk",
+    "count" : 88
+  }, {
+    "type" : "primary",
+    "count" : 42
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "subway",
+    "count" : 9
+  }, {
+    "type" : "living_street",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 53
+  }, {
+    "type" : "secondary_link",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 40
+  }, {
+    "type" : "rail",
+    "count" : 63
+  }, {
+    "type" : "footway",
+    "count" : 134
+  }, {
+    "type" : "trunk_link",
+    "count" : 24
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 720,
+    "max" : 758,
+    "diff50m" : 17
+  }
+}

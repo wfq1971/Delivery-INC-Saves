@@ -1,0 +1,390 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.40906897
+  }, {
+    "type" : "commercial",
+    "area" : 0.06736099
+  }, {
+    "type" : "retail",
+    "area" : 0.06302333
+  }, {
+    "type" : "park",
+    "area" : 0.042926136
+  }, {
+    "type" : "construction",
+    "area" : 0.017345717
+  }, {
+    "type" : "garden",
+    "area" : 0.016989714
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.013783871
+  }, {
+    "type" : "yes",
+    "area" : 0.01049909
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1833
+  }, {
+    "type" : "house",
+    "count" : 400
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 376
+  }, {
+    "type" : "apartments",
+    "count" : 199
+  }, {
+    "type" : "bench",
+    "count" : 153
+  }, {
+    "type" : "office",
+    "count" : 106
+  }, {
+    "type" : "residential",
+    "count" : 103
+  }, {
+    "type" : "restaurant",
+    "count" : 69
+  }, {
+    "type" : "telephone",
+    "count" : 45
+  }, {
+    "type" : "cafe",
+    "count" : 44
+  }, {
+    "type" : "fast_food",
+    "count" : 37
+  }, {
+    "type" : "terrace",
+    "count" : 32
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 31
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 30
+  }, {
+    "type" : "post_box",
+    "count" : 27
+  }, {
+    "type" : "waste_basket",
+    "count" : 27
+  }, {
+    "type" : "atm",
+    "count" : 18
+  }, {
+    "type" : "recycling",
+    "count" : 16
+  }, {
+    "type" : "pub",
+    "count" : 16
+  }, {
+    "type" : "commercial",
+    "count" : 15
+  }, {
+    "type" : "charging_station",
+    "count" : 14
+  }, {
+    "type" : "garage",
+    "count" : 13
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "university",
+    "count" : 10
+  }, {
+    "type" : "car_sharing",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 9
+  }, {
+    "type" : "garages",
+    "count" : 8
+  }, {
+    "type" : "bar",
+    "count" : 8
+  }, {
+    "type" : "drinking_water",
+    "count" : 6
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "industrial",
+    "count" : 6
+  }, {
+    "type" : "grit_bin",
+    "count" : 5
+  }, {
+    "type" : "shed",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "vending_machine",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "events_venue",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "data_center",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "hall_of_residence",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "casino",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "disused:pub",
+    "count" : 1
+  }, {
+    "type" : "Community_Building",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "sanitary_dump_station",
+    "count" : 1
+  }, {
+    "type" : "translation_services",
+    "count" : 1
+  }, {
+    "type" : "water_point",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "vent_shaft",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "air_shaft",
+    "count" : 1
+  }, {
+    "type" : "fixme",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Clerkenwell",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Islington, London",
+      "name" : "Clerkenwell",
+      "place" : "suburb",
+      "wikipedia" : "en:Clerkenwell"
+    }
+  }, {
+    "name" : "Angel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Angel",
+      "place" : "quarter",
+      "wikipedia" : "en:Angel, London"
+    }
+  }, {
+    "name" : "Saint Luke's",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Saint Luke's",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:St Luke's, London"
+    }
+  }, {
+    "name" : "Clerkenwell Green",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Clerkenwell Green",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 863488,
+    "totalVolume" : 13595501,
+    "count" : 3395,
+    "maxHeight" : 168.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 73
+  }, {
+    "type" : "tertiary",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 269
+  }, {
+    "type" : "service",
+    "count" : 365
+  }, {
+    "type" : "path",
+    "count" : 20
+  }, {
+    "type" : "trunk",
+    "count" : 84
+  }, {
+    "type" : "road",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 30
+  }, {
+    "type" : "primary",
+    "count" : 94
+  }, {
+    "type" : "subway",
+    "count" : 13
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 75
+  }, {
+    "type" : "steps",
+    "count" : 51
+  }, {
+    "type" : "rail",
+    "count" : 11
+  }, {
+    "type" : "unclassified",
+    "count" : 174
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 545
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 15,
+    "max" : 49,
+    "diff50m" : 6
+  }
+}

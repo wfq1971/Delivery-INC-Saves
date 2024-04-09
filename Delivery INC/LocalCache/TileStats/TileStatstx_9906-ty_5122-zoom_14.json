@@ -1,0 +1,339 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.49265754
+  }, {
+    "type" : "commercial",
+    "area" : 0.16540413
+  }, {
+    "type" : "park",
+    "area" : 0.044303965
+  }, {
+    "type" : "industrial",
+    "area" : 0.03724534
+  }, {
+    "type" : "construction",
+    "area" : 0.024566106
+  }, {
+    "type" : "religious",
+    "area" : 0.01620074
+  }, {
+    "type" : "wood",
+    "area" : 0.01613832
+  }, {
+    "type" : "grass",
+    "area" : 0.014454332
+  }, {
+    "type" : "parking",
+    "area" : 0.013673905
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.013646022
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1390
+  }, {
+    "type" : "apartments",
+    "count" : 117
+  }, {
+    "type" : "bench",
+    "count" : 85
+  }, {
+    "type" : "commercial",
+    "count" : 57
+  }, {
+    "type" : "waste_basket",
+    "count" : 43
+  }, {
+    "type" : "waste_disposal",
+    "count" : 35
+  }, {
+    "type" : "service",
+    "count" : 33
+  }, {
+    "type" : "cafe",
+    "count" : 32
+  }, {
+    "type" : "vending_machine",
+    "count" : 27
+  }, {
+    "type" : "fast_food",
+    "count" : 21
+  }, {
+    "type" : "pharmacy",
+    "count" : 20
+  }, {
+    "type" : "bank",
+    "count" : 20
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 15
+  }, {
+    "type" : "office",
+    "count" : 15
+  }, {
+    "type" : "restaurant",
+    "count" : 13
+  }, {
+    "type" : "clinic",
+    "count" : 12
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "atm",
+    "count" : 10
+  }, {
+    "type" : "kindergarten",
+    "count" : 9
+  }, {
+    "type" : "bar",
+    "count" : 8
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "doctors",
+    "count" : 6
+  }, {
+    "type" : "dentist",
+    "count" : 5
+  }, {
+    "type" : "construction",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 5
+  }, {
+    "type" : "garages",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "theatre",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "university",
+    "count" : 3
+  }, {
+    "type" : "chapel",
+    "count" : 3
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "parcel_locker",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "payment_terminal",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "citywall",
+    "count" : 1
+  }, {
+    "type" : "checkpoint",
+    "count" : 1
+  }, {
+    "type" : "hangar",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "grit_bin",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "public_service",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Таганский",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Таганский",
+      "alt_name" : "муниципальный округ Таганский",
+      "old_name" : "Таганка",
+      "name" : "Таганский",
+      "description" : "внутригородское муниципальное образование",
+      "name:en" : "Tagansky",
+      "place" : "suburb",
+      "wikipedia" : "ru:Таганский район",
+      "addr:city" : "Москва"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 478318,
+    "totalVolume" : 9953406,
+    "count" : 942,
+    "maxHeight" : 104.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "residential",
+    "count" : 18
+  }, {
+    "type" : "service",
+    "count" : 465
+  }, {
+    "type" : "path",
+    "count" : 12
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 22
+  }, {
+    "type" : "subway",
+    "count" : 7
+  }, {
+    "type" : "secondary",
+    "count" : 69
+  }, {
+    "type" : "secondary_link",
+    "count" : 21
+  }, {
+    "type" : "steps",
+    "count" : 27
+  }, {
+    "type" : "tram",
+    "count" : 29
+  }, {
+    "type" : "rail",
+    "count" : 26
+  }, {
+    "type" : "unclassified",
+    "count" : 48
+  }, {
+    "type" : "disused",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 617
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 122,
+    "max" : 158,
+    "diff50m" : 8
+  }
+}

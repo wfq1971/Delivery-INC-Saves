@@ -1,0 +1,156 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.08005291
+  }, {
+    "type" : "park",
+    "area" : 0.055570744
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.02269661
+  }, {
+    "type" : "retail",
+    "area" : 0.012442132
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 298
+  }, {
+    "type" : "apartments",
+    "count" : 82
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "bank",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 5
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "饮马井",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "name" : "饮马井",
+      "place" : "hamlet"
+    }
+  }, {
+    "name" : "十里河村",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "十里河村",
+      "name:en" : "Shilihe",
+      "place" : "village"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 414320,
+    "totalVolume" : 3520447,
+    "count" : 300,
+    "maxHeight" : 40.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 56
+  }, {
+    "type" : "tertiary_link",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 30
+  }, {
+    "type" : "service",
+    "count" : 21
+  }, {
+    "type" : "path",
+    "count" : 10
+  }, {
+    "type" : "motorway",
+    "count" : 2
+  }, {
+    "type" : "trunk",
+    "count" : 30
+  }, {
+    "type" : "primary",
+    "count" : 8
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "motorway_link",
+    "count" : 16
+  }, {
+    "type" : "secondary",
+    "count" : 22
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 7
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 52
+  }, {
+    "type" : "trunk_link",
+    "count" : 16
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 26,
+    "max" : 73,
+    "diff50m" : 19
+  }
+}

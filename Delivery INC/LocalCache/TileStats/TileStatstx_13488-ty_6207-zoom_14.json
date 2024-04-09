@@ -1,0 +1,134 @@
+{
+  "landusages" : [ {
+    "type" : "governmental",
+    "area" : 0.22898161
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.16497801
+  }, {
+    "type" : "park",
+    "area" : 0.15865004
+  }, {
+    "type" : "yes",
+    "area" : 0.06810573
+  }, {
+    "type" : "residential",
+    "area" : 0.059119195
+  }, {
+    "type" : "wood",
+    "area" : 0.02254918
+  }, {
+    "type" : "garden",
+    "area" : 0.013526973
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 545
+  }, {
+    "type" : "house",
+    "count" : 36
+  }, {
+    "type" : "wall",
+    "count" : 20
+  }, {
+    "type" : "restaurant",
+    "count" : 12
+  }, {
+    "type" : "fast_food",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "cafe",
+    "count" : 5
+  }, {
+    "type" : "bank",
+    "count" : 5
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 687084,
+    "totalVolume" : 8821976,
+    "count" : 1315,
+    "maxHeight" : 26.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 10
+  }, {
+    "type" : "tertiary",
+    "count" : 25
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 54
+  }, {
+    "type" : "service",
+    "count" : 149
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 31
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 10
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 21
+  }, {
+    "type" : "unclassified",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 225
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 37,
+    "max" : 73,
+    "diff50m" : 11
+  }
+}

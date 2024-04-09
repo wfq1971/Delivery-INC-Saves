@@ -1,0 +1,367 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0529065
+  }, {
+    "type" : "residential",
+    "area" : 0.97273856
+  }, {
+    "type" : "garden",
+    "area" : 0.07507076
+  }, {
+    "type" : "park",
+    "area" : 0.04543841
+  }, {
+    "type" : "grass",
+    "area" : 0.042249247
+  }, {
+    "type" : "railway",
+    "area" : 0.027261434
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2663
+  }, {
+    "type" : "bench",
+    "count" : 570
+  }, {
+    "type" : "restaurant",
+    "count" : 290
+  }, {
+    "type" : "waste_basket",
+    "count" : 205
+  }, {
+    "type" : "apartments",
+    "count" : 201
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 144
+  }, {
+    "type" : "parking_space",
+    "count" : 121
+  }, {
+    "type" : "fast_food",
+    "count" : 94
+  }, {
+    "type" : "vending_machine",
+    "count" : 82
+  }, {
+    "type" : "cafe",
+    "count" : 74
+  }, {
+    "type" : "office",
+    "count" : 57
+  }, {
+    "type" : "post_box",
+    "count" : 45
+  }, {
+    "type" : "retail",
+    "count" : 37
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 35
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 30
+  }, {
+    "type" : "bank",
+    "count" : 30
+  }, {
+    "type" : "pharmacy",
+    "count" : 29
+  }, {
+    "type" : "bar",
+    "count" : 24
+  }, {
+    "type" : "drinking_water",
+    "count" : 24
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "parking_entrance",
+    "count" : 16
+  }, {
+    "type" : "school",
+    "count" : 16
+  }, {
+    "type" : "clock",
+    "count" : 16
+  }, {
+    "type" : "toilets",
+    "count" : 14
+  }, {
+    "type" : "photo_booth",
+    "count" : 13
+  }, {
+    "type" : "hotel",
+    "count" : 13
+  }, {
+    "type" : "recycling",
+    "count" : 12
+  }, {
+    "type" : "parking",
+    "count" : 11
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "taxi",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 9
+  }, {
+    "type" : "theatre",
+    "count" : 8
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "service",
+    "count" : 4
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "reception_desk",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "auction_house",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "ticket_validator",
+    "count" : 2
+  }, {
+    "type" : "car_sharing",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "civic",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "vacant",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "car_pooling",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "piano",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Faubourg Saint-Honoré",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Faubourg Saint-Honoré",
+      "place" : "suburb",
+      "wikipedia" : "fr:Faubourg Saint-Honoré"
+    }
+  }, {
+    "name" : "8e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "VIII округ",
+      "alt_name" : "VIIIe Arrondissement",
+      "name:ja" : "8区",
+      "name" : "8e Arrondissement",
+      "name:en" : "8th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:8e arrondissement de Paris",
+      "addr:postcode" : "75008"
+    }
+  }, {
+    "name" : "Quartier de l'Europe",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Quartier de l'Europe",
+      "place" : "suburb",
+      "wikipedia" : "fr:Quartier de l'Europe"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1352396,
+    "totalVolume" : 24617761,
+    "count" : 2830,
+    "maxHeight" : 70.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 55
+  }, {
+    "type" : "tertiary",
+    "count" : 64
+  }, {
+    "type" : "residential",
+    "count" : 171
+  }, {
+    "type" : "service",
+    "count" : 104
+  }, {
+    "type" : "path",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 91
+  }, {
+    "type" : "pedestrian",
+    "count" : 36
+  }, {
+    "type" : "subway",
+    "count" : 30
+  }, {
+    "type" : "living_street",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 50
+  }, {
+    "type" : "steps",
+    "count" : 367
+  }, {
+    "type" : "rail",
+    "count" : 103
+  }, {
+    "type" : "unclassified",
+    "count" : 31
+  }, {
+    "type" : "footway",
+    "count" : 1540
+  }, {
+    "type" : "primary_link",
+    "count" : 7
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 26,
+    "max" : 65,
+    "diff50m" : 9
+  }
+}

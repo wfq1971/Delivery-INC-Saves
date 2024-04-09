@@ -1,0 +1,152 @@
+{
+  "landusages" : [ {
+    "type" : "meadow",
+    "area" : 0.102067865
+  }, {
+    "type" : "residential",
+    "area" : 0.083184704
+  }, {
+    "type" : "farmyard",
+    "area" : 0.05754018
+  }, {
+    "type" : "parking",
+    "area" : 0.049421676
+  }, {
+    "type" : "wood",
+    "area" : 0.042293858
+  }, {
+    "type" : "farmland",
+    "area" : 0.034254838
+  }, {
+    "type" : "golf_course",
+    "area" : 0.02379711
+  }, {
+    "type" : "commercial",
+    "area" : 0.019210761
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.018612418
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 780
+  }, {
+    "type" : "house",
+    "count" : 311
+  }, {
+    "type" : "semidetached_house",
+    "count" : 76
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 22
+  }, {
+    "type" : "apartments",
+    "count" : 18
+  }, {
+    "type" : "garage",
+    "count" : 16
+  }, {
+    "type" : "university",
+    "count" : 14
+  }, {
+    "type" : "roof",
+    "count" : 8
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "restaurant",
+    "count" : 2
+  }, {
+    "type" : "bench",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "toilets",
+    "count" : 1
+  }, {
+    "type" : "airpump",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 267862,
+    "totalVolume" : 2866944,
+    "count" : 605,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 4
+  }, {
+    "type" : "tertiary",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 60
+  }, {
+    "type" : "service",
+    "count" : 360
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "trunk",
+    "count" : 17
+  }, {
+    "type" : "secondary",
+    "count" : 28
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 15
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "footway",
+    "count" : 252
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 310,
+    "max" : 368,
+    "diff50m" : 11
+  }
+}

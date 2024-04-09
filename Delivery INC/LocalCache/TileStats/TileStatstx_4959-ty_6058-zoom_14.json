@@ -1,0 +1,216 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.16412987
+  }, {
+    "type" : "yes",
+    "area" : 0.13555151
+  }, {
+    "type" : "aerodrome",
+    "area" : 0.0981357
+  }, {
+    "type" : "residential",
+    "area" : 0.083611526
+  }, {
+    "type" : "industrial",
+    "area" : 0.060902797
+  }, {
+    "type" : "parking",
+    "area" : 0.054127533
+  }, {
+    "type" : "wetland",
+    "area" : 0.047338694
+  }, {
+    "type" : "park",
+    "area" : 0.029888902
+  }, {
+    "type" : "grass",
+    "area" : 0.02865507
+  }, {
+    "type" : "retail",
+    "area" : 0.016477015
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 995
+  }, {
+    "type" : "house",
+    "count" : 343
+  }, {
+    "type" : "residential",
+    "count" : 92
+  }, {
+    "type" : "bench",
+    "count" : 41
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 17
+  }, {
+    "type" : "apartments",
+    "count" : 16
+  }, {
+    "type" : "restaurant",
+    "count" : 13
+  }, {
+    "type" : "garage",
+    "count" : 9
+  }, {
+    "type" : "waste_basket",
+    "count" : 8
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "recycling",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fast_food",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "cafe",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "guardhouse",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Eagle Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Eagle Hill",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Park Square",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Park Square",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "The Flats",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "The Flats",
+      "description" : "Loosely bordered by Bennington, Porter/Visconti, and Bremen. Also known as Paris Street, Paris Flats, Paris Street Flats, etc.",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 611295,
+    "totalVolume" : 5980272,
+    "count" : 3167,
+    "maxHeight" : 20.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 25
+  }, {
+    "type" : "tertiary",
+    "count" : 57
+  }, {
+    "type" : "residential",
+    "count" : 116
+  }, {
+    "type" : "service",
+    "count" : 329
+  }, {
+    "type" : "path",
+    "count" : 8
+  }, {
+    "type" : "motorway",
+    "count" : 17
+  }, {
+    "type" : "trunk",
+    "count" : 6
+  }, {
+    "type" : "subway",
+    "count" : 7
+  }, {
+    "type" : "motorway_link",
+    "count" : 15
+  }, {
+    "type" : "secondary",
+    "count" : 77
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 21
+  }, {
+    "type" : "footway",
+    "count" : 311
+  }, {
+    "type" : "trunk_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 31,
+    "diff50m" : 13
+  }
+}

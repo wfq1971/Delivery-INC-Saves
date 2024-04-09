@@ -1,0 +1,308 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.9740809
+  }, {
+    "type" : "retail",
+    "area" : 0.099839404
+  }, {
+    "type" : "park",
+    "area" : 0.055464152
+  }, {
+    "type" : "grass",
+    "area" : 0.013293677
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1953
+  }, {
+    "type" : "apartments",
+    "count" : 198
+  }, {
+    "type" : "residential",
+    "count" : 188
+  }, {
+    "type" : "bench",
+    "count" : 150
+  }, {
+    "type" : "restaurant",
+    "count" : 121
+  }, {
+    "type" : "cafe",
+    "count" : 54
+  }, {
+    "type" : "post_box",
+    "count" : 49
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 37
+  }, {
+    "type" : "bar",
+    "count" : 30
+  }, {
+    "type" : "waste_basket",
+    "count" : 29
+  }, {
+    "type" : "retail",
+    "count" : 18
+  }, {
+    "type" : "place_of_worship",
+    "count" : 17
+  }, {
+    "type" : "pub",
+    "count" : 17
+  }, {
+    "type" : "fast_food",
+    "count" : 16
+  }, {
+    "type" : "house",
+    "count" : 15
+  }, {
+    "type" : "atm",
+    "count" : 14
+  }, {
+    "type" : "commercial",
+    "count" : 14
+  }, {
+    "type" : "drinking_water",
+    "count" : 13
+  }, {
+    "type" : "car_sharing",
+    "count" : 13
+  }, {
+    "type" : "parking",
+    "count" : 13
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "school",
+    "count" : 9
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 7
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "dentist",
+    "count" : 7
+  }, {
+    "type" : "garage",
+    "count" : 7
+  }, {
+    "type" : "recycling",
+    "count" : 6
+  }, {
+    "type" : "detached",
+    "count" : 6
+  }, {
+    "type" : "vending_machine",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "vintage and modern resale",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "temple",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "Urban_Pioneer",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "pagoda",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Nob Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Nob Hill",
+      "place" : "neighbourhood",
+      "name:zh" : "诺布山区"
+    }
+  }, {
+    "name" : "Lower Nob Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "Tendernob;Upper Tenderloin",
+      "is_in" : "Tenderloin;Nob Hill",
+      "name" : "Lower Nob Hill",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Tendernob"
+    }
+  }, {
+    "name" : "Russian Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Russian Hill",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Russian Hill, San Francisco",
+      "name:zh" : "俄罗斯山"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1706682,
+    "totalVolume" : 24446731,
+    "count" : 6610,
+    "maxHeight" : 108.0
+  },
+  "roads" : [ {
+    "type" : "funicular",
+    "count" : 1
+  }, {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 103
+  }, {
+    "type" : "light_rail",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 220
+  }, {
+    "type" : "service",
+    "count" : 282
+  }, {
+    "type" : "path",
+    "count" : 21
+  }, {
+    "type" : "trunk",
+    "count" : 57
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 43
+  }, {
+    "type" : "secondary",
+    "count" : 76
+  }, {
+    "type" : "steps",
+    "count" : 82
+  }, {
+    "type" : "tram",
+    "count" : 57
+  }, {
+    "type" : "unclassified",
+    "count" : 20
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 983
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 8,
+    "max" : 142,
+    "diff50m" : 37
+  }
+}

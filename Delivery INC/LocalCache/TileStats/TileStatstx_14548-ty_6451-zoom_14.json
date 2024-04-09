@@ -1,0 +1,525 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.02364218
+  }, {
+    "type" : "pitch",
+    "area" : 0.017620198
+  }, {
+    "type" : "railway",
+    "area" : 0.015796222
+  }, {
+    "type" : "parking",
+    "area" : 0.014801516
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 6266
+  }, {
+    "type" : "road",
+    "count" : 1798
+  }, {
+    "type" : "apartments",
+    "count" : 1081
+  }, {
+    "type" : "residential",
+    "count" : 325
+  }, {
+    "type" : "restaurant",
+    "count" : 63
+  }, {
+    "type" : "fast_food",
+    "count" : 29
+  }, {
+    "type" : "post_box",
+    "count" : 26
+  }, {
+    "type" : "social_facility",
+    "count" : 26
+  }, {
+    "type" : "telephone",
+    "count" : 26
+  }, {
+    "type" : "school",
+    "count" : 24
+  }, {
+    "type" : "kindergarten",
+    "count" : 24
+  }, {
+    "type" : "toilets",
+    "count" : 21
+  }, {
+    "type" : "parking",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 18
+  }, {
+    "type" : "cafe",
+    "count" : 14
+  }, {
+    "type" : "pub",
+    "count" : 14
+  }, {
+    "type" : "bench",
+    "count" : 11
+  }, {
+    "type" : "place_of_worship",
+    "count" : 11
+  }, {
+    "type" : "doctors",
+    "count" : 10
+  }, {
+    "type" : "public",
+    "count" : 10
+  }, {
+    "type" : "post_office",
+    "count" : 8
+  }, {
+    "type" : "dentist",
+    "count" : 8
+  }, {
+    "type" : "retail",
+    "count" : 8
+  }, {
+    "type" : "community_centre",
+    "count" : 8
+  }, {
+    "type" : "university",
+    "count" : 7
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "shower",
+    "count" : 6
+  }, {
+    "type" : "bar",
+    "count" : 6
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "temple",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "hut",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "public_bath",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 2
+  }, {
+    "type" : "vending_machine",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "wayside_shrine",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "幡ヶ谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "幡ヶ谷二丁目",
+      "name" : "幡ヶ谷二丁目",
+      "name:en" : "Hatagaya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "はたがや2ちょうめ"
+    }
+  }, {
+    "name" : "幡ヶ谷三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "幡ヶ谷三丁目",
+      "name" : "幡ヶ谷三丁目",
+      "name:en" : "Hatagaya 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "はたがや3ちょうめ"
+    }
+  }, {
+    "name" : "本町六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "本町六丁目",
+      "name" : "本町六丁目",
+      "name:en" : "Honmachi 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ほんまち6ちょうめ"
+    }
+  }, {
+    "name" : "南台二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台二丁目",
+      "name" : "南台二丁目",
+      "name:en" : "Minamidai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみだい2ちょうめ"
+    }
+  }, {
+    "name" : "弥生町四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町四丁目",
+      "name" : "弥生町四丁目",
+      "name:en" : "Yayoicho 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう4ちょうめ"
+    }
+  }, {
+    "name" : "本町五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "本町五丁目",
+      "name" : "本町五丁目",
+      "name:en" : "Honmachi 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ほんまち5ちょうめ"
+    }
+  }, {
+    "name" : "弥生町三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町三丁目",
+      "name" : "弥生町三丁目",
+      "name:en" : "Yayoicho 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう3ちょうめ"
+    }
+  }, {
+    "name" : "弥生町",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Яёи-тё",
+      "name:ja" : "弥生町",
+      "name" : "弥生町",
+      "name:en" : "Yayoicho",
+      "place" : "quarter",
+      "name:ja-Hira" : "やよいちょう"
+    }
+  }, {
+    "name" : "弥生町一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町一丁目",
+      "name" : "弥生町一丁目",
+      "name:en" : "Yayoicho 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう1ちょうめ"
+    }
+  }, {
+    "name" : "南台五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台五丁目",
+      "name" : "南台五丁目",
+      "name:en" : "Minamidai 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみだい5ちょうめ"
+    }
+  }, {
+    "name" : "弥生町六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町六丁目",
+      "name" : "弥生町六丁目",
+      "name:en" : "Yayoicho 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう6ちょうめ"
+    }
+  }, {
+    "name" : "方南一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "方南一丁目",
+      "name" : "方南一丁目",
+      "name:en" : "Honan 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ほうなん1ちょうめ"
+    }
+  }, {
+    "name" : "笹塚三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "笹塚三丁目",
+      "name" : "笹塚三丁目",
+      "name:en" : "Sasazuka 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ささづか3ちょうめ"
+    }
+  }, {
+    "name" : "方南二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "方南二丁目",
+      "name" : "方南二丁目",
+      "name:en" : "Honan 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ほうなん2ちょうめ"
+    }
+  }, {
+    "name" : "南台四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台四丁目",
+      "name" : "南台四丁目",
+      "name:en" : "Minamidai 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみだい4ちょうめ"
+    }
+  }, {
+    "name" : "南台",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台",
+      "name" : "南台",
+      "name:en" : "Minamidai",
+      "place" : "quarter",
+      "name:ja-Hira" : "みなみだい"
+    }
+  }, {
+    "name" : "弥生町五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町五丁目",
+      "name" : "弥生町五丁目",
+      "name:en" : "Yayoicho 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう5ちょうめ"
+    }
+  }, {
+    "name" : "弥生町二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "弥生町二丁目",
+      "name" : "弥生町二丁目",
+      "name:en" : "Yayoicho 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "やよいちょう2ちょうめ"
+    }
+  }, {
+    "name" : "南台三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台三丁目",
+      "name" : "南台三丁目",
+      "name:en" : "Minamidai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみだい3ちょうめ"
+    }
+  }, {
+    "name" : "和田一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "和田一丁目",
+      "name" : "和田一丁目",
+      "name:en" : "Wada 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わだ1ちょうめ"
+    }
+  }, {
+    "name" : "南台一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南台一丁目",
+      "name" : "南台一丁目",
+      "name:en" : "Minamidai 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみだい1ちょうめ"
+    }
+  }, {
+    "name" : "本町五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "本町五丁目",
+      "name" : "本町五丁目",
+      "name:en" : "Honcho 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ほんちょう5ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1413520,
+    "totalVolume" : 13610269,
+    "count" : 14747,
+    "maxHeight" : 56.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 34
+  }, {
+    "type" : "residential",
+    "count" : 632
+  }, {
+    "type" : "service",
+    "count" : 87
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "motorway",
+    "count" : 3
+  }, {
+    "type" : "trunk",
+    "count" : 14
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 7
+  }, {
+    "type" : "subway",
+    "count" : 57
+  }, {
+    "type" : "motorway_link",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 27
+  }, {
+    "type" : "rail",
+    "count" : 11
+  }, {
+    "type" : "unclassified",
+    "count" : 706
+  }, {
+    "type" : "footway",
+    "count" : 190
+  }, {
+    "type" : "trunk_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 28,
+    "max" : 61,
+    "diff50m" : 12
+  }
+}

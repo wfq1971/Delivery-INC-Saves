@@ -1,0 +1,352 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.03863533
+  }, {
+    "type" : "military",
+    "area" : 0.021263119
+  }, {
+    "type" : "parking",
+    "area" : 0.01548526
+  }, {
+    "type" : "residential",
+    "area" : 0.013374686
+  }, {
+    "type" : "garden",
+    "area" : 0.010828421
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1834
+  }, {
+    "type" : "restaurant",
+    "count" : 63
+  }, {
+    "type" : "parking",
+    "count" : 59
+  }, {
+    "type" : "apartments",
+    "count" : 38
+  }, {
+    "type" : "taxi",
+    "count" : 31
+  }, {
+    "type" : "fast_food",
+    "count" : 28
+  }, {
+    "type" : "pub",
+    "count" : 26
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "bank",
+    "count" : 18
+  }, {
+    "type" : "house",
+    "count" : 18
+  }, {
+    "type" : "toilets",
+    "count" : 15
+  }, {
+    "type" : "bar",
+    "count" : 14
+  }, {
+    "type" : "cafe",
+    "count" : 13
+  }, {
+    "type" : "school",
+    "count" : 11
+  }, {
+    "type" : "church",
+    "count" : 11
+  }, {
+    "type" : "telephone",
+    "count" : 11
+  }, {
+    "type" : "pharmacy",
+    "count" : 10
+  }, {
+    "type" : "warehouse",
+    "count" : 9
+  }, {
+    "type" : "commercial",
+    "count" : 8
+  }, {
+    "type" : "retail",
+    "count" : 8
+  }, {
+    "type" : "waste_basket",
+    "count" : 6
+  }, {
+    "type" : "government",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "marketplace",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "bench",
+    "count" : 3
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "first_aid",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "allotment_house",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "collapsed",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "monastery",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Santa Ifigênia",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Santa Ifigênia",
+      "place" : "suburb",
+      "wikipedia" : "pt:Santa Ifigênia (bairro de São Paulo)"
+    }
+  }, {
+    "name" : "Bairro da Luz",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Bairro da Luz",
+      "short_name" : "Luz",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Campos Elísios",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Campos Elísios",
+      "place" : "suburb",
+      "wikipedia" : "pt:Campos Elísios (bairro de São Paulo)"
+    }
+  }, {
+    "name" : "Bom Retiro",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Bom Retiro",
+      "place" : "suburb",
+      "wikipedia" : "en:Bom Retiro (district of São Paulo)"
+    }
+  }, {
+    "name" : "República",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "República",
+      "place" : "suburb",
+      "wikipedia" : "pt:República (bairro de São Paulo)"
+    }
+  }, {
+    "name" : "Zona Cerealista",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Zona Cerealista",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Vila Sá Barbosa",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Vila Sá Barbosa",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2563926,
+    "totalVolume" : 33214151,
+    "count" : 10459,
+    "maxHeight" : 131.27
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 25
+  }, {
+    "type" : "tertiary",
+    "count" : 173
+  }, {
+    "type" : "tertiary_link",
+    "count" : 11
+  }, {
+    "type" : "residential",
+    "count" : 351
+  }, {
+    "type" : "service",
+    "count" : 214
+  }, {
+    "type" : "path",
+    "count" : 3
+  }, {
+    "type" : "trunk",
+    "count" : 82
+  }, {
+    "type" : "pedestrian",
+    "count" : 15
+  }, {
+    "type" : "primary",
+    "count" : 130
+  }, {
+    "type" : "subway",
+    "count" : 20
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 204
+  }, {
+    "type" : "secondary_link",
+    "count" : 18
+  }, {
+    "type" : "steps",
+    "count" : 15
+  }, {
+    "type" : "rail",
+    "count" : 96
+  }, {
+    "type" : "footway",
+    "count" : 429
+  }, {
+    "type" : "trunk_link",
+    "count" : 35
+  }, {
+    "type" : "primary_link",
+    "count" : 9
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 717,
+    "max" : 779,
+    "diff50m" : 19
+  }
+}

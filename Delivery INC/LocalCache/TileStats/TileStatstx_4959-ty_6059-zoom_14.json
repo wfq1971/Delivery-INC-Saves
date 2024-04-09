@@ -1,0 +1,271 @@
+{
+  "landusages" : [ {
+    "type" : "aerodrome",
+    "area" : 0.5974524
+  }, {
+    "type" : "yes",
+    "area" : 0.19604576
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.1555019
+  }, {
+    "type" : "apron",
+    "area" : 0.12117465
+  }, {
+    "type" : "marina",
+    "area" : 0.046335608
+  }, {
+    "type" : "park",
+    "area" : 0.04253494
+  }, {
+    "type" : "parking",
+    "area" : 0.039257895
+  }, {
+    "type" : "residential",
+    "area" : 0.03824213
+  }, {
+    "type" : "grass",
+    "area" : 0.02099793
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1617
+  }, {
+    "type" : "bench",
+    "count" : 109
+  }, {
+    "type" : "toilets",
+    "count" : 42
+  }, {
+    "type" : "parking_entrance",
+    "count" : 38
+  }, {
+    "type" : "apartments",
+    "count" : 33
+  }, {
+    "type" : "fast_food",
+    "count" : 25
+  }, {
+    "type" : "restaurant",
+    "count" : 24
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 19
+  }, {
+    "type" : "drinking_water",
+    "count" : 16
+  }, {
+    "type" : "waste_basket",
+    "count" : 14
+  }, {
+    "type" : "roof",
+    "count" : 14
+  }, {
+    "type" : "atm",
+    "count" : 14
+  }, {
+    "type" : "cafe",
+    "count" : 10
+  }, {
+    "type" : "transportation",
+    "count" : 7
+  }, {
+    "type" : "bridge",
+    "count" : 6
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 5
+  }, {
+    "type" : "car_rental",
+    "count" : 5
+  }, {
+    "type" : "telephone",
+    "count" : 5
+  }, {
+    "type" : "loading_dock",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "garage",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "vending_machine",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "grandstand",
+    "count" : 1
+  }, {
+    "type" : "airport;ferry_terminal;shipyard;cargo",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "ship",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "r",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Jeffries Point",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "25",
+      "gnis:ST_alpha" : "MA",
+      "gnis:id" : "612945",
+      "gnis:Class" : "Populated Place",
+      "name" : "Jeffries Point",
+      "gnis:County_num" : "025",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Jeffries Point, Boston",
+      "ele" : "13",
+      "gnis:County" : "Suffolk"
+    }
+  }, {
+    "name" : "Gove Street",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Gove Street",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 609767,
+    "totalVolume" : 6202573,
+    "count" : 1141,
+    "maxHeight" : 86.87
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 26
+  }, {
+    "type" : "tertiary",
+    "count" : 40
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 54
+  }, {
+    "type" : "service",
+    "count" : 474
+  }, {
+    "type" : "path",
+    "count" : 12
+  }, {
+    "type" : "motorway",
+    "count" : 17
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "living_street",
+    "count" : 9
+  }, {
+    "type" : "motorway_link",
+    "count" : 71
+  }, {
+    "type" : "secondary",
+    "count" : 81
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 61
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "footway",
+    "count" : 746
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -11,
+    "max" : 24,
+    "diff50m" : 12
+  }
+}

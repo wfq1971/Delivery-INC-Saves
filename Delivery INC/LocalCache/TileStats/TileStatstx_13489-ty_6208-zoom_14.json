@@ -1,0 +1,393 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.12052477
+  }, {
+    "type" : "commercial",
+    "area" : 0.112775244
+  }, {
+    "type" : "park",
+    "area" : 0.06571874
+  }, {
+    "type" : "civic_admin",
+    "area" : 0.05895026
+  }, {
+    "type" : "residential",
+    "area" : 0.032589484
+  }, {
+    "type" : "retail",
+    "area" : 0.03046155
+  }, {
+    "type" : "grass",
+    "area" : 0.026079858
+  }, {
+    "type" : "construction",
+    "area" : 0.010106319
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 831
+  }, {
+    "type" : "restaurant",
+    "count" : 34
+  }, {
+    "type" : "wall",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "cafe",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 7
+  }, {
+    "type" : "fast_food",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 6
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "bench",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "北京市人民政府旧址",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "end_date" : "2019-01-11",
+      "disused:amenity" : "townhall",
+      "name" : "北京市人民政府旧址",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "北京市",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 21893095,
+    "tags" : {
+      "gns:UNI" : "9310007",
+      "name:nan" : "Pak-kiaⁿ-chhī",
+      "name:ka" : "პეკინი",
+      "name:kk" : "Бейжің",
+      "name:nah" : "Pequin",
+      "name:kn" : "ಬೀಜಿಂಗ್",
+      "name:ko" : "베이징 시",
+      "name:kl" : "Beijing",
+      "name:km" : "ប៉េកាំង",
+      "name:nrm" : "Péqùin",
+      "name:kv" : "Пекин",
+      "rank" : "0",
+      "name:kw" : "Beijing",
+      "name:ku" : "Pekîn",
+      "name:frp" : "Pèquin",
+      "name:bjn" : "Péycing",
+      "name:ckb" : "پێکەن",
+      "name:ja" : "北京市",
+      "name:pdc" : "Beijing",
+      "population" : "21893095",
+      "alt_name:is" : "Peking",
+      "name:lmo" : "Pechin",
+      "name:jv" : "Beijing",
+      "name:wuu" : "北京",
+      "name:mi" : "Beijing",
+      "name:mg" : "Beijing",
+      "name:ja-Hira" : "ペキン",
+      "name:ml" : "ബെയ്‌ജിങ്ങ്",
+      "name:mk" : "Пекинг",
+      "name:mn" : "Бээжин",
+      "alt_name:fr" : "Beijing",
+      "name:cbk-zam" : "Pekín",
+      "name:mr" : "ीजिंग",
+      "name:ms" : "Beijing",
+      "name:tpi" : "Beijing",
+      "name:my" : "ပေကျင်းမြို့",
+      "wikipedia" : "en:Beijing",
+      "website" : "http://www.beijing.gov.cn",
+      "name:la" : "Pechinum",
+      "name:lo" : "ປັກກິ່ງ",
+      "name:lt" : "Pekinas",
+      "old_name" : "北平",
+      "name:lv" : "Pekina",
+      "name:lzh" : "北京市",
+      "name:pam" : "Beijing",
+      "name:haw" : "Beijing",
+      "name:hak" : "Pet-kîn",
+      "name:ga" : "Béising",
+      "name:gd" : "Beijing",
+      "ref" : "京",
+      "name:gn" : "Pekĩ",
+      "name:gl" : "Pequín",
+      "name:pap" : "Bejing",
+      "name:gv" : "Beijing",
+      "name:xal" : "Бәәҗң балһсн",
+      "name:gu" : "બેઇજિંગ",
+      "name:vi" : "Bắc Kinh",
+      "name:fa" : "پکن",
+      "name:fi" : "Peking",
+      "old_name:ku" : "Komara Gel a Çînê",
+      "alt_name:eo" : "Bejĝino",
+      "alt_name:en" : "Peking;Peiping Municipality;Pei-p'ing Shih;Peking Municipality;Peiping Municipal Administrative Area",
+      "name:roa-rup" : "Beijing",
+      "ref:en" : "BJ",
+      "name:lij" : "Pechin",
+      "name" : "北京市",
+      "name:fr" : "Pékin",
+      "name:fo" : "Beijing",
+      "name:ast" : "Beixín",
+      "name:rue" : "Пекінґ",
+      "ref:vi" : "Kinh",
+      "name:zh_pinyin" : "Běijīng shì",
+      "name:hy" : "Պեկին",
+      "name:ia" : "Beijing",
+      "name:yo" : "Beijing",
+      "name:id" : "Beijing",
+      "alt_name:sv" : "Peking",
+      "name:gan" : "北京",
+      "name:nov" : "Beyjing",
+      "name:war" : "Beijing",
+      "name:za" : "Baekging",
+      "name:io" : "Beijing",
+      "name:it" : "Pechino",
+      "name:is" : "Beijing",
+      "name:zh" : "北京市",
+      "name:szl" : "Bejdżing",
+      "name:he" : "בייג'ין",
+      "name:hi" : "बीजिंग",
+      "name:yue" : "北京市",
+      "name:ht" : "Peken",
+      "name:hr" : "Peking",
+      "name:yi" : "בייזשינג",
+      "name:hu" : "Peking",
+      "alt_name:cs" : "Pej-ťing",
+      "name:sk" : "Peking",
+      "name:scn" : "Pechinu",
+      "name:si" : "බෙයිජිං",
+      "name:so" : "Beijing",
+      "name:sl" : "Peking",
+      "name:xmf" : "პეკინი",
+      "name:sr" : "Пекинг",
+      "gns:UFI" : "-1898545",
+      "name:pms" : "Pechin",
+      "name:ca" : "Pequín",
+      "name:sq" : "Pekini",
+      "name:sv" : "Beijing",
+      "name:sw" : "Beijing",
+      "name:su" : "Beijing",
+      "name:roa-tara" : "Pechine",
+      "name:cdo" : "Báe̤k-gĭng",
+      "name:sco" : "Beijing",
+      "name:ext" : "Pequín",
+      "name:lez" : "Пекин",
+      "name:pnb" : "بیجنگ",
+      "name:cs" : "Peking",
+      "name:ta" : "பெய்ஜிங்",
+      "name:ar" : "بكين",
+      "name:ay" : "Pekin'",
+      "gns:ADM1" : "22",
+      "name:srn" : "Beijing",
+      "name:az" : "Pekin",
+      "name:ba" : "Пекин",
+      "name:ro" : "Beijing",
+      "name:be" : "Пекін",
+      "name:ru" : "Пекин",
+      "ref:zh" : "京",
+      "name:bg" : "Пекин",
+      "name:bn" : "বেইজিং",
+      "name:mwl" : "Pequin",
+      "name:be-tarask" : "Пэкін",
+      "name:br" : "Beijing",
+      "name:sc" : "Beijing",
+      "name:bo" : "པེ་ཅིང་གྲོང་ཁྱེར།",
+      "name:sa" : "बीजिङ्ग्",
+      "name:dv" : "ބީޖިންގ",
+      "name:ug" : "بېيجىڭ شەھىرى",
+      "name:uk" : "Пекін",
+      "gns:DSG" : "ADM1",
+      "name:ur" : "بیجنگ",
+      "name:arz" : "بيكين",
+      "name:el" : "Πεκίνο",
+      "name:uz" : "Pekin",
+      "name:en" : "Beijing",
+      "place" : "city",
+      "name:eo" : "Pekino",
+      "name:mzn" : "پکن",
+      "name:et" : "Peking",
+      "name:eu" : "Pekin",
+      "name:es" : "Pekín",
+      "name:cv" : "Пекин",
+      "name:tg" : "Пекин",
+      "name:th" : "ปักกิ่ง",
+      "name:jbo" : "beidjin",
+      "name:mhr" : "Пекин",
+      "name:te" : "బీజింగ్",
+      "name:tk" : "Pekin",
+      "name:tl" : "Beijing",
+      "name:cy" : "Beijing",
+      "name:ko_hanja" : "北京市",
+      "name:tt" : "Пекин",
+      "name:da" : "Beijing",
+      "name:tr" : "Pekin",
+      "name:de" : "Peking",
+      "int_name" : "Beijing",
+      "name:bcl" : "Beijing",
+      "name:ceb" : "Beijing",
+      "name:oc" : "Pequin",
+      "capital" : "yes",
+      "name:os" : "Пекин",
+      "name:ilo" : "Beijing",
+      "admin_level" : "2",
+      "name:na" : "Beijing",
+      "name:ne" : "बेइजिङ",
+      "name:nn" : "Beijing",
+      "name:nl" : "Peking",
+      "name:no" : "Beijing",
+      "alt_name" : "北京",
+      "name:hif" : "Beijing",
+      "name:bat-smg" : "Pekėns",
+      "name:ang" : "Beȝcinȝ",
+      "name:sah" : "Пекин",
+      "name:crh" : "Pekin",
+      "name:qu" : "Pikkin",
+      "name:bpy" : "বেইজিং",
+      "name:af" : "Beijing",
+      "name:am" : "ቤዪጂንግ",
+      "name:an" : "Pequín",
+      "name:pa" : "ਬੀਜਿੰਗ",
+      "name:pl" : "Pekin",
+      "name:ps" : "بېجنګ",
+      "name:pt" : "Pequim",
+      "name:kab" : "Pekin",
+      "old_name:vi" : "Bắc Bình",
+      "population:date" : "2020-11-01",
+      "name:zh-Hans" : "北京市",
+      "name:zh-Hant" : "北京市"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 991323,
+    "totalVolume" : 18976621,
+    "count" : 1075,
+    "maxHeight" : 56.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 10
+  }, {
+    "type" : "tertiary",
+    "count" : 44
+  }, {
+    "type" : "tertiary_link",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 56
+  }, {
+    "type" : "service",
+    "count" : 156
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 8
+  }, {
+    "type" : "primary",
+    "count" : 28
+  }, {
+    "type" : "subway",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 23
+  }, {
+    "type" : "steps",
+    "count" : 67
+  }, {
+    "type" : "tram",
+    "count" : 5
+  }, {
+    "type" : "rail",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 407
+  }, {
+    "type" : "primary_link",
+    "count" : 3
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 34,
+    "max" : 88,
+    "diff50m" : 29
+  }
+}

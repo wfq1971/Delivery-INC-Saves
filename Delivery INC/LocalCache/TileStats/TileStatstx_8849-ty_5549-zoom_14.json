@@ -1,0 +1,344 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.21193968
+  }, {
+    "type" : "commercial",
+    "area" : 0.15442768
+  }, {
+    "type" : "construction",
+    "area" : 0.13362645
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.12869224
+  }, {
+    "type" : "retail",
+    "area" : 0.0466345
+  }, {
+    "type" : "industrial",
+    "area" : 0.046336472
+  }, {
+    "type" : "park",
+    "area" : 0.044584826
+  }, {
+    "type" : "brownfield",
+    "area" : 0.036445398
+  }, {
+    "type" : "parking",
+    "area" : 0.033145137
+  }, {
+    "type" : "village_green",
+    "area" : 0.03023884
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.022053331
+  }, {
+    "type" : "pitch",
+    "area" : 0.010313131
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1787
+  }, {
+    "type" : "residential",
+    "count" : 515
+  }, {
+    "type" : "bench",
+    "count" : 152
+  }, {
+    "type" : "garage",
+    "count" : 91
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 83
+  }, {
+    "type" : "restaurant",
+    "count" : 83
+  }, {
+    "type" : "vending_machine",
+    "count" : 49
+  }, {
+    "type" : "civic",
+    "count" : 41
+  }, {
+    "type" : "warehouse",
+    "count" : 36
+  }, {
+    "type" : "commercial",
+    "count" : 30
+  }, {
+    "type" : "recycling",
+    "count" : 26
+  }, {
+    "type" : "fast_food",
+    "count" : 25
+  }, {
+    "type" : "cafe",
+    "count" : 24
+  }, {
+    "type" : "apartments",
+    "count" : 23
+  }, {
+    "type" : "atm",
+    "count" : 21
+  }, {
+    "type" : "office",
+    "count" : 21
+  }, {
+    "type" : "industrial",
+    "count" : 20
+  }, {
+    "type" : "service",
+    "count" : 17
+  }, {
+    "type" : "post_box",
+    "count" : 15
+  }, {
+    "type" : "bar",
+    "count" : 14
+  }, {
+    "type" : "transportation",
+    "count" : 13
+  }, {
+    "type" : "retail",
+    "count" : 11
+  }, {
+    "type" : "shelter",
+    "count" : 11
+  }, {
+    "type" : "parking_entrance",
+    "count" : 10
+  }, {
+    "type" : "pharmacy",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "parcel_locker",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 8
+  }, {
+    "type" : "pub",
+    "count" : 6
+  }, {
+    "type" : "construction",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "charging_station",
+    "count" : 4
+  }, {
+    "type" : "waste_basket",
+    "count" : 4
+  }, {
+    "type" : "garages",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "theatre",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "public_bookcase",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "car_wash",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "water_tower",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "casino",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "silo",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "concert_hall",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "vehicle_inspection",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Holešovice",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Holleschowitz",
+      "name" : "Holešovice",
+      "place" : "suburb",
+      "wikipedia" : "cs:Holešovice",
+      "ref:cobe" : "490067"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 615693,
+    "totalVolume" : 10764397,
+    "count" : 1283,
+    "maxHeight" : 76.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 41
+  }, {
+    "type" : "tertiary",
+    "count" : 50
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 150
+  }, {
+    "type" : "service",
+    "count" : 244
+  }, {
+    "type" : "path",
+    "count" : 37
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 121
+  }, {
+    "type" : "track",
+    "count" : 16
+  }, {
+    "type" : "subway",
+    "count" : 24
+  }, {
+    "type" : "living_street",
+    "count" : 18
+  }, {
+    "type" : "secondary",
+    "count" : 39
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 85
+  }, {
+    "type" : "tram",
+    "count" : 42
+  }, {
+    "type" : "rail",
+    "count" : 13
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "disused",
+    "count" : 8
+  }, {
+    "type" : "footway",
+    "count" : 840
+  }, {
+    "type" : "primary_link",
+    "count" : 44
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 174,
+    "max" : 207,
+    "diff50m" : 13
+  }
+}

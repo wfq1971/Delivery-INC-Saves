@@ -1,0 +1,146 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.5789249
+  }, {
+    "type" : "industrial",
+    "area" : 0.03419855
+  }, {
+    "type" : "cemetery",
+    "area" : 0.02183878
+  }, {
+    "type" : "residential",
+    "area" : 0.01475078
+  }, {
+    "type" : "wood",
+    "area" : 0.014521324
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 531
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 3
+  }, {
+    "type" : "restaurant",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "apartments",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 429428,
+    "totalVolume" : 5211511,
+    "count" : 592,
+    "maxHeight" : 72.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 39
+  }, {
+    "type" : "tertiary_link",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 42
+  }, {
+    "type" : "service",
+    "count" : 78
+  }, {
+    "type" : "path",
+    "count" : 3
+  }, {
+    "type" : "motorway",
+    "count" : 15
+  }, {
+    "type" : "trunk",
+    "count" : 59
+  }, {
+    "type" : "pedestrian",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 18
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 25
+  }, {
+    "type" : "secondary",
+    "count" : 7
+  }, {
+    "type" : "tram",
+    "count" : 13
+  }, {
+    "type" : "rail",
+    "count" : 149
+  }, {
+    "type" : "footway",
+    "count" : 48
+  }, {
+    "type" : "trunk_link",
+    "count" : 17
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -14,
+    "max" : 35,
+    "diff50m" : 25
+  }
+}

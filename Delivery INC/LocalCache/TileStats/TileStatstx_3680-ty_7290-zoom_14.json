@@ -1,0 +1,471 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.026466293
+  }, {
+    "type" : "yes",
+    "area" : 0.024310496
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 961
+  }, {
+    "type" : "restaurant",
+    "count" : 105
+  }, {
+    "type" : "fast_food",
+    "count" : 46
+  }, {
+    "type" : "apartments",
+    "count" : 45
+  }, {
+    "type" : "bar",
+    "count" : 30
+  }, {
+    "type" : "cafe",
+    "count" : 26
+  }, {
+    "type" : "industrial",
+    "count" : 20
+  }, {
+    "type" : "bank",
+    "count" : 15
+  }, {
+    "type" : "retail",
+    "count" : 15
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 14
+  }, {
+    "type" : "school",
+    "count" : 14
+  }, {
+    "type" : "commercial",
+    "count" : 14
+  }, {
+    "type" : "hotel",
+    "count" : 10
+  }, {
+    "type" : "pharmacy",
+    "count" : 9
+  }, {
+    "type" : "bench",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 8
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 8
+  }, {
+    "type" : "university",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 7
+  }, {
+    "type" : "toilets",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "house",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 4
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "temple",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "ruins",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "table",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Colonia Obrera",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Obrera",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06800"
+    }
+  }, {
+    "name" : "Colonia Del Parque",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Del Parque",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15960"
+    }
+  }, {
+    "name" : "Centro Urbano",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Centro Urbano",
+      "place" : "neighbourhood",
+      "addr:postcode" : "06010"
+    }
+  }, {
+    "name" : "Ciudad de México",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 8555500,
+    "tags" : {
+      "name:bs" : "Ciudad de México",
+      "name:se" : "México",
+      "name:sk" : "Mexiko",
+      "name:nan" : "México Chhī",
+      "name:sh" : "Ciudad de Mexico",
+      "name:scn" : "Cità dû Mèssicu",
+      "name:ka" : "მეხიკო",
+      "ref:LOCODE" : "MXMEX",
+      "name:sl" : "Ciudad de México",
+      "name:sm" : "Mexico Siti",
+      "name:xmf" : "მეხიკო",
+      "name:sr" : "Мексико Сити",
+      "name:kk" : "Мехико",
+      "name:pms" : "Sità dël Méssich",
+      "name:ca" : "Ciutat de Mèxic",
+      "name:sq" : "Meksiko",
+      "name:nah" : "Āltepētl Mēxihco",
+      "name:kn" : "ಮೆಕ್ಸಿಕೋ ನಗರ",
+      "name:sv" : "Mexico City",
+      "name:ko" : "멕시코시티",
+      "name:sw" : "Mexico",
+      "name:kl" : "Mexico City",
+      "name:km" : "ក្រុងម៉ិកស៊ិក",
+      "rank" : "0",
+      "name:kw" : "Cita Mexico",
+      "name:sco" : "Mexico Ceety",
+      "name:ku" : "Meksîko",
+      "name:ext" : "Ciá de Méjicu",
+      "name:pnb" : "میکسیکو شہر",
+      "name:cs" : "Ciudad de México",
+      "name:ta" : "மெக்சிகோ நகரம்",
+      "name:ar" : "مدينة مكسيكو",
+      "name:ckb" : "مەکسیکۆ سیتی",
+      "name:ja" : "メキシコシティ",
+      "name:ay" : "Mïxiku marka",
+      "name:rm" : "Citad da Mexico",
+      "name:az" : "Mexiko",
+      "name:ba" : "Мехико",
+      "name:ro" : "Ciudad de México",
+      "population" : "8555500",
+      "name:be" : "Мехіка",
+      "name:ru" : "Мехико",
+      "name:bg" : "Мексико",
+      "name:lmo" : "Cità del Messich",
+      "name:bn" : "মেক্সিকো সিটি",
+      "name:jv" : "Mexico City",
+      "short_name" : "CDMX",
+      "name:be-tarask" : "Мэхіка",
+      "name:br" : "Kêr-Vec'hiko",
+      "name:sc" : "Tzitade de su Mèssico",
+      "name:bo" : "མེག་སི་ཀོ་གྲོང་།",
+      "name:ug" : "مېكسىكا شەھىرى",
+      "name:uk" : "Мехіко",
+      "name:mg" : "Mexico",
+      "name:ml" : "മെക്സിക്കോ സിറ്റി",
+      "name:ur" : "میکسیکو شہر",
+      "name:mk" : "Мексико",
+      "name:mn" : "Мехико",
+      "name:arz" : "ميكسيكو سيتى",
+      "name:el" : "Πόλη του Μεξικού",
+      "name:mr" : "मेक्सिको सिटी",
+      "name:uz" : "Mexiko shahri",
+      "name:ms" : "Bandar Raya Mexico",
+      "name:en" : "Mexico City",
+      "place" : "city",
+      "name:eo" : "Meksik-urbo",
+      "wikipedia" : "es:México",
+      "name:et" : "México",
+      "name:eu" : "Mexiko Hiria",
+      "name:es" : "Ciudad de México",
+      "name:mrj" : "Мехико",
+      "name:cv" : "Мехико",
+      "name:tg" : "Мехико",
+      "name:th" : "เม็กซิโกซิตี",
+      "name:jbo" : "mexygu'e tcadu",
+      "name:mhr" : "Мехико",
+      "name:tk" : "Mehiko",
+      "name:tl" : "Lungsod ng Mehiko",
+      "name:la" : "Mexicopolis",
+      "name:cy" : "Dinas Mexico",
+      "name:tt" : "Мехико",
+      "name:vro" : "México",
+      "name:da" : "Mexico City",
+      "name:tr" : "Meksika",
+      "name:de" : "Mexiko-Stadt",
+      "name:ln" : "Mbóka ya Mexiko",
+      "name:lt" : "Meksikas",
+      "name:bcl" : "Mexico",
+      "name:lv" : "Mehiko",
+      "name:fy" : "Meksiko-Stêd",
+      "name:oc" : "Ciutat de Mexic",
+      "capital" : "yes",
+      "name:haw" : "Mēkiko D.F.",
+      "name:lad" : "Sivdad de Meksiko",
+      "name:ga" : "Cathair Mheicsiceo",
+      "name:vec" : "Sità del Mèsico",
+      "name:gd" : "Meagsago",
+      "name:os" : "Мехико",
+      "name:gn" : "Méjiko táva",
+      "name:gl" : "Cidade de México",
+      "admin_level" : "2",
+      "name:pap" : "Ciudad di Mexico",
+      "ele" : "2250",
+      "name:vi" : "Thành phố Mexico",
+      "name:fa" : "مکزیکو سیتی",
+      "name:vo" : "Ciudad de México",
+      "name:nn" : "Mexico by",
+      "name:nl" : "Mexico-Stad",
+      "name:fi" : "México",
+      "alt_name:es" : "D.F.;Cd. Mx.",
+      "name:no" : "Mexico by",
+      "alt_name" : "D.F.;Cd. Mx.",
+      "name:diq" : "Meksiko City",
+      "name:nv" : "Méhigoʼ sídii",
+      "name:lij" : "Çittæ do Mescico",
+      "name" : "Ciudad de México",
+      "name:fr" : "Mexico",
+      "name:fo" : "Meksikobýur",
+      "name:ast" : "Ciudá de Méxicu",
+      "name:rue" : "Мексіко Сіті",
+      "alt_name:vi" : "Thành phố Mê-hi-cô",
+      "name:ace" : "Banda Meksiko",
+      "name:hif" : "Mexico City",
+      "name:bat-smg" : "Meksėks",
+      "name:hy" : "Մեխիկո",
+      "name:ang" : "Mexicoburg",
+      "name:sah" : "Мехико",
+      "name:ia" : "Citate de Mexico",
+      "importance" : "international",
+      "name:yo" : "Ìlú Mẹ́ksíkò",
+      "name:id" : "Ciudad de México",
+      "name:nov" : "Mexiko Urbe",
+      "name:war" : "Syudad han Mehiko",
+      "name:qu" : "Mishiku llaqta",
+      "name:af" : "Meksikostad",
+      "name:io" : "México",
+      "name:it" : "Città del Messico",
+      "name:am" : "ሜክሲኮ ከተማ",
+      "name:is" : "Mexíkóborg",
+      "name:an" : "Ciudat de Mexico",
+      "name:zh" : "墨西哥城",
+      "name:szl" : "Meksyk",
+      "name:hsb" : "Mexiko-město",
+      "name:udm" : "Мехико",
+      "name:pl" : "Meksyk",
+      "capital_ISO3166-1" : "yes",
+      "name:he" : "מקסיקו סיטי",
+      "name:pt" : "Cidade do México",
+      "name:hi" : "मेक्सिको नगर",
+      "name:yue" : "墨西哥城",
+      "name:ht" : "Meksiko",
+      "name:hr" : "Ciudad de México",
+      "name:yi" : "מעקסיקא שטאט",
+      "name:hu" : "Mexikóváros",
+      "date:population" : "2015"
+    }
+  }, {
+    "name" : "Colonia Morazán",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Colonia Morazán",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15100"
+    }
+  }, {
+    "name" : "Unidad Candelaria Los Patos",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Unidad Candelaria Los Patos",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15120"
+    }
+  }, {
+    "name" : "Centro Urbano",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Centro Urbano",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15100"
+    }
+  }, {
+    "name" : "Unidad Habitacional Emiliano Zapata",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Unidad Habitacional Emiliano Zapata",
+      "place" : "neighbourhood",
+      "addr:postcode" : "15299"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 2314456,
+    "totalVolume" : 32087310,
+    "count" : 4739,
+    "maxHeight" : 106.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 75
+  }, {
+    "type" : "residential",
+    "count" : 276
+  }, {
+    "type" : "service",
+    "count" : 200
+  }, {
+    "type" : "path",
+    "count" : 9
+  }, {
+    "type" : "trunk",
+    "count" : 9
+  }, {
+    "type" : "pedestrian",
+    "count" : 50
+  }, {
+    "type" : "primary",
+    "count" : 66
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 44
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 31
+  }, {
+    "type" : "footway",
+    "count" : 172
+  }, {
+    "type" : "trunk_link",
+    "count" : 7
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2220,
+    "max" : 2256,
+    "diff50m" : 17
+  }
+}

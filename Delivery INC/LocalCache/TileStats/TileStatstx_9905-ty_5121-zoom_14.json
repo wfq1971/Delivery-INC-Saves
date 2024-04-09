@@ -1,0 +1,394 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.58110476
+  }, {
+    "type" : "commercial",
+    "area" : 0.1699269
+  }, {
+    "type" : "park",
+    "area" : 0.056618918
+  }, {
+    "type" : "wood",
+    "area" : 0.037253913
+  }, {
+    "type" : "railway",
+    "area" : 0.021497587
+  }, {
+    "type" : "religious",
+    "area" : 0.020242903
+  }, {
+    "type" : "industrial",
+    "area" : 0.015921155
+  }, {
+    "type" : "retail",
+    "area" : 0.013224226
+  }, {
+    "type" : "grass",
+    "area" : 0.01092667
+  }, {
+    "type" : "construction",
+    "area" : 0.010573573
+  }, {
+    "type" : "parking",
+    "area" : 0.01014823
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2880
+  }, {
+    "type" : "apartments",
+    "count" : 259
+  }, {
+    "type" : "bench",
+    "count" : 143
+  }, {
+    "type" : "office",
+    "count" : 96
+  }, {
+    "type" : "commercial",
+    "count" : 89
+  }, {
+    "type" : "cafe",
+    "count" : 89
+  }, {
+    "type" : "waste_disposal",
+    "count" : 81
+  }, {
+    "type" : "service",
+    "count" : 73
+  }, {
+    "type" : "waste_basket",
+    "count" : 56
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 52
+  }, {
+    "type" : "restaurant",
+    "count" : 50
+  }, {
+    "type" : "vending_machine",
+    "count" : 49
+  }, {
+    "type" : "fast_food",
+    "count" : 45
+  }, {
+    "type" : "bar",
+    "count" : 39
+  }, {
+    "type" : "bank",
+    "count" : 29
+  }, {
+    "type" : "clinic",
+    "count" : 27
+  }, {
+    "type" : "dentist",
+    "count" : 26
+  }, {
+    "type" : "atm",
+    "count" : 26
+  }, {
+    "type" : "university",
+    "count" : 23
+  }, {
+    "type" : "roof",
+    "count" : 20
+  }, {
+    "type" : "garages",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 16
+  }, {
+    "type" : "parking_entrance",
+    "count" : 16
+  }, {
+    "type" : "retail",
+    "count" : 15
+  }, {
+    "type" : "construction",
+    "count" : 15
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 13
+  }, {
+    "type" : "church",
+    "count" : 12
+  }, {
+    "type" : "payment_terminal",
+    "count" : 12
+  }, {
+    "type" : "kindergarten",
+    "count" : 12
+  }, {
+    "type" : "toilets",
+    "count" : 11
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 11
+  }, {
+    "type" : "training",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "doctors",
+    "count" : 9
+  }, {
+    "type" : "taxi",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 8
+  }, {
+    "type" : "language_school",
+    "count" : 7
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 6
+  }, {
+    "type" : "charging_station",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "post_box",
+    "count" : 6
+  }, {
+    "type" : "pub",
+    "count" : 5
+  }, {
+    "type" : "chapel",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "shed",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "garage",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "kiosk",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "ruins",
+    "count" : 3
+  }, {
+    "type" : "arts_centre",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "smoking_area",
+    "count" : 3
+  }, {
+    "type" : "shelter",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "cathedral",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "security_booth",
+    "count" : 2
+  }, {
+    "type" : "courthouse",
+    "count" : 2
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "gazebo",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "letter_box",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "gatehouse",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "dancing_school",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "hangar",
+    "count" : 1
+  }, {
+    "type" : "kick-scooter_rental",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "fixme",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Ивановская горка",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Ивановская горка",
+      "name:en" : "Ivanovskaya Gorka",
+      "place" : "neighbourhood",
+      "wikipedia" : "ru:Ивановская горка"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 727669,
+    "totalVolume" : 12461900,
+    "count" : 1428,
+    "maxHeight" : 68.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 10
+  }, {
+    "type" : "tertiary",
+    "count" : 12
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 23
+  }, {
+    "type" : "service",
+    "count" : 1130
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 19
+  }, {
+    "type" : "subway",
+    "count" : 23
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 42
+  }, {
+    "type" : "steps",
+    "count" : 133
+  }, {
+    "type" : "tram",
+    "count" : 9
+  }, {
+    "type" : "rail",
+    "count" : 11
+  }, {
+    "type" : "unclassified",
+    "count" : 106
+  }, {
+    "type" : "footway",
+    "count" : 1355
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 132,
+    "max" : 173,
+    "diff50m" : 7
+  }
+}

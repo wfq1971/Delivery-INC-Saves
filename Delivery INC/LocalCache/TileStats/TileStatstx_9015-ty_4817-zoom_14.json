@@ -1,0 +1,294 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.46149573
+  }, {
+    "type" : "commercial",
+    "area" : 0.23635311
+  }, {
+    "type" : "park",
+    "area" : 0.18997598
+  }, {
+    "type" : "military",
+    "area" : 0.042799603
+  }, {
+    "type" : "parking",
+    "area" : 0.012841526
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1248
+  }, {
+    "type" : "vending_machine",
+    "count" : 62
+  }, {
+    "type" : "bench",
+    "count" : 61
+  }, {
+    "type" : "apartments",
+    "count" : 49
+  }, {
+    "type" : "restaurant",
+    "count" : 34
+  }, {
+    "type" : "waste_basket",
+    "count" : 25
+  }, {
+    "type" : "residential",
+    "count" : 18
+  }, {
+    "type" : "cafe",
+    "count" : 17
+  }, {
+    "type" : "fast_food",
+    "count" : 14
+  }, {
+    "type" : "post_box",
+    "count" : 10
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 7
+  }, {
+    "type" : "kindergarten",
+    "count" : 7
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "dentist",
+    "count" : 5
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "spa",
+    "count" : 1
+  }, {
+    "type" : "dog_care",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "culture_center",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "bunker",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Östermalm",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Остермальм",
+      "name" : "Östermalm",
+      "place" : "suburb",
+      "wikipedia" : "sv:Östermalm, Stockholm"
+    }
+  }, {
+    "name" : "Diplomatstaden",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Diplomatstaden",
+      "place" : "locality",
+      "wikipedia" : "sv:Diplomatstaden",
+      "wikimedia_commons" : "Category:Diplomatstaden"
+    }
+  }, {
+    "name" : "Ladugårdsgärdet",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 21525,
+    "tags" : {
+      "name" : "Ladugårdsgärdet",
+      "loc_name" : "Gärdet",
+      "place" : "suburb",
+      "wikipedia" : "sv:Gärdet",
+      "population" : "21525"
+    }
+  }, {
+    "name" : "Hakberget",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Hakberget",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Fågelbacken",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Fågelbacken",
+      "place" : "locality"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 537053,
+    "totalVolume" : 11171285,
+    "count" : 262,
+    "maxHeight" : 76.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 78
+  }, {
+    "type" : "tertiary",
+    "count" : 36
+  }, {
+    "type" : "tertiary_link",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 97
+  }, {
+    "type" : "service",
+    "count" : 96
+  }, {
+    "type" : "path",
+    "count" : 19
+  }, {
+    "type" : "track",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 27
+  }, {
+    "type" : "secondary_link",
+    "count" : 11
+  }, {
+    "type" : "bridleway",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 54
+  }, {
+    "type" : "unclassified",
+    "count" : 14
+  }, {
+    "type" : "disused",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 796
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 2,
+    "max" : 36,
+    "diff50m" : 6
+  }
+}

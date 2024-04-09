@@ -1,0 +1,355 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.33449906
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.15199561
+  }, {
+    "type" : "park",
+    "area" : 0.06298638
+  }, {
+    "type" : "construction",
+    "area" : 0.057436965
+  }, {
+    "type" : "yes",
+    "area" : 0.03882137
+  }, {
+    "type" : "railway",
+    "area" : 0.0367788
+  }, {
+    "type" : "commercial",
+    "area" : 0.031175585
+  }, {
+    "type" : "retail",
+    "area" : 0.030306725
+  }, {
+    "type" : "garden",
+    "area" : 0.025920596
+  }, {
+    "type" : "industrial",
+    "area" : 0.018771976
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.016268365
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1532
+  }, {
+    "type" : "house",
+    "count" : 410
+  }, {
+    "type" : "residential",
+    "count" : 331
+  }, {
+    "type" : "apartments",
+    "count" : 211
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 172
+  }, {
+    "type" : "retail",
+    "count" : 80
+  }, {
+    "type" : "bench",
+    "count" : 52
+  }, {
+    "type" : "terrace",
+    "count" : 46
+  }, {
+    "type" : "restaurant",
+    "count" : 37
+  }, {
+    "type" : "telephone",
+    "count" : 36
+  }, {
+    "type" : "recycling",
+    "count" : 34
+  }, {
+    "type" : "cafe",
+    "count" : 26
+  }, {
+    "type" : "post_box",
+    "count" : 25
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 22
+  }, {
+    "type" : "commercial",
+    "count" : 21
+  }, {
+    "type" : "fast_food",
+    "count" : 18
+  }, {
+    "type" : "industrial",
+    "count" : 18
+  }, {
+    "type" : "school",
+    "count" : 15
+  }, {
+    "type" : "hotel",
+    "count" : 12
+  }, {
+    "type" : "atm",
+    "count" : 11
+  }, {
+    "type" : "toilets",
+    "count" : 11
+  }, {
+    "type" : "pub",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "office",
+    "count" : 7
+  }, {
+    "type" : "parking",
+    "count" : 6
+  }, {
+    "type" : "vending_machine",
+    "count" : 6
+  }, {
+    "type" : "waste_basket",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "car_sharing",
+    "count" : 5
+  }, {
+    "type" : "charging_station",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "hut",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "bus_station",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 3
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "bbq",
+    "count" : 2
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "air_shaft",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "left_luggage",
+    "count" : 1
+  }, {
+    "type" : "religious",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "part",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "compressed_air",
+    "count" : 1
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "air_vent",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Prescot Wharf",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Prescot Wharf",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Pimlico",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Westminster, London, UK",
+      "name" : "Pimlico",
+      "place" : "suburb",
+      "wikipedia" : "en:Pimlico"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 739730,
+    "totalVolume" : 12898483,
+    "count" : 2239,
+    "maxHeight" : 88.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 61
+  }, {
+    "type" : "tertiary",
+    "count" : 27
+  }, {
+    "type" : "residential",
+    "count" : 285
+  }, {
+    "type" : "service",
+    "count" : 206
+  }, {
+    "type" : "path",
+    "count" : 16
+  }, {
+    "type" : "trunk",
+    "count" : 105
+  }, {
+    "type" : "pedestrian",
+    "count" : 23
+  }, {
+    "type" : "primary",
+    "count" : 82
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 18
+  }, {
+    "type" : "secondary",
+    "count" : 14
+  }, {
+    "type" : "steps",
+    "count" : 33
+  }, {
+    "type" : "rail",
+    "count" : 195
+  }, {
+    "type" : "unclassified",
+    "count" : 38
+  }, {
+    "type" : "footway",
+    "count" : 428
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -9,
+    "max" : 27,
+    "diff50m" : 12
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "landusages" : [ {
+    "type" : "industrial",
+    "area" : 0.09671712
+  }, {
+    "type" : "yes",
+    "area" : 0.052454587
+  }, {
+    "type" : "parking",
+    "area" : 0.049247656
+  }, {
+    "type" : "residential",
+    "area" : 0.042344894
+  }, {
+    "type" : "park",
+    "area" : 0.03828609
+  }, {
+    "type" : "commercial",
+    "area" : 0.03762886
+  }, {
+    "type" : "retail",
+    "area" : 0.028904127
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.025046065
+  }, {
+    "type" : "construction",
+    "area" : 0.021604946
+  }, {
+    "type" : "railway",
+    "area" : 0.019754749
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3277
+  }, {
+    "type" : "bench",
+    "count" : 250
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 237
+  }, {
+    "type" : "vending_machine",
+    "count" : 179
+  }, {
+    "type" : "waste_basket",
+    "count" : 134
+  }, {
+    "type" : "restaurant",
+    "count" : 134
+  }, {
+    "type" : "apartments",
+    "count" : 72
+  }, {
+    "type" : "cafe",
+    "count" : 63
+  }, {
+    "type" : "residential",
+    "count" : 55
+  }, {
+    "type" : "parking_entrance",
+    "count" : 53
+  }, {
+    "type" : "post_box",
+    "count" : 52
+  }, {
+    "type" : "commercial",
+    "count" : 47
+  }, {
+    "type" : "retail",
+    "count" : 42
+  }, {
+    "type" : "bar",
+    "count" : 35
+  }, {
+    "type" : "office",
+    "count" : 34
+  }, {
+    "type" : "fast_food",
+    "count" : 32
+  }, {
+    "type" : "roof",
+    "count" : 26
+  }, {
+    "type" : "table",
+    "count" : 22
+  }, {
+    "type" : "atm",
+    "count" : 21
+  }, {
+    "type" : "houseboat",
+    "count" : 20
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 20
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 16
+  }, {
+    "type" : "shed",
+    "count" : 16
+  }, {
+    "type" : "industrial",
+    "count" : 15
+  }, {
+    "type" : "parking",
+    "count" : 14
+  }, {
+    "type" : "taxi",
+    "count" : 14
+  }, {
+    "type" : "car_sharing",
+    "count" : 14
+  }, {
+    "type" : "toilets",
+    "count" : 13
+  }, {
+    "type" : "bank",
+    "count" : 12
+  }, {
+    "type" : "hotel",
+    "count" : 12
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "pub",
+    "count" : 11
+  }, {
+    "type" : "ticket_validator",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "public",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 6
+  }, {
+    "type" : "dentist",
+    "count" : 6
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "pavilion",
+    "count" : 4
+  }, {
+    "type" : "house",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "food_court",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "loading_dock",
+    "count" : 3
+  }, {
+    "type" : "bus_station",
+    "count" : 3
+  }, {
+    "type" : "no",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "mixed_use",
+    "count" : 2
+  }, {
+    "type" : "tent",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "polling_station",
+    "count" : 2
+  }, {
+    "type" : "compressed_air",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "motel",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "elevator",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "gymnasium",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  }, {
+    "type" : "chair",
+    "count" : 1
+  }, {
+    "type" : "storage",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "carousel",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Mission Bay",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Mission Bay",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Mission Bay, San Francisco",
+      "name:zh" : "米慎湾"
+    }
+  }, {
+    "name" : "West SoMa",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "South of Market",
+      "name" : "West SoMa",
+      "place" : "neighbourhood",
+      "name:zh" : "西索玛"
+    }
+  }, {
+    "name" : "South of Market",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "SoMa",
+      "old_name" : "South of the Slot",
+      "name" : "South of Market",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:South of Market, San Francisco",
+      "name:zh" : "索玛区"
+    }
+  }, {
+    "name" : "McCovey Cove",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "McCovey Cove",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "South Beach",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "South of Market",
+      "name" : "South Beach",
+      "place" : "neighbourhood",
+      "name:zh" : "南滩区"
+    }
+  }, {
+    "name" : "Union Square",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "Downtown",
+      "name" : "Union Square",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Rincon Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Rincon Hill",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Rincon Hill, San Francisco"
+    }
+  }, {
+    "name" : "Transbay",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Transbay",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Transbay"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1903194,
+    "totalVolume" : 49478118,
+    "count" : 2137,
+    "maxHeight" : 195.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 22
+  }, {
+    "type" : "tertiary",
+    "count" : 128
+  }, {
+    "type" : "light_rail",
+    "count" : 40
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 98
+  }, {
+    "type" : "service",
+    "count" : 674
+  }, {
+    "type" : "path",
+    "count" : 6
+  }, {
+    "type" : "motorway",
+    "count" : 30
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 76
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "motorway_link",
+    "count" : 75
+  }, {
+    "type" : "secondary",
+    "count" : 374
+  }, {
+    "type" : "secondary_link",
+    "count" : 7
+  }, {
+    "type" : "steps",
+    "count" : 156
+  }, {
+    "type" : "tram",
+    "count" : 9
+  }, {
+    "type" : "rail",
+    "count" : 55
+  }, {
+    "type" : "unclassified",
+    "count" : 24
+  }, {
+    "type" : "footway",
+    "count" : 1487
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -6,
+    "max" : 62,
+    "diff50m" : 25
+  }
+}

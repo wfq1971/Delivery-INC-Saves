@@ -1,0 +1,428 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.34250686
+  }, {
+    "type" : "residential",
+    "area" : 0.24912073
+  }, {
+    "type" : "wood",
+    "area" : 0.054944046
+  }, {
+    "type" : "construction",
+    "area" : 0.041120462
+  }, {
+    "type" : "retail",
+    "area" : 0.04110853
+  }, {
+    "type" : "garden",
+    "area" : 0.03919021
+  }, {
+    "type" : "grass",
+    "area" : 0.027913664
+  }, {
+    "type" : "railway",
+    "area" : 0.027273571
+  }, {
+    "type" : "yes",
+    "area" : 0.02544421
+  }, {
+    "type" : "zoo",
+    "area" : 0.020071125
+  }, {
+    "type" : "pitch",
+    "area" : 0.018375207
+  }, {
+    "type" : "military",
+    "area" : 0.0127602415
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.01172117
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2043
+  }, {
+    "type" : "house",
+    "count" : 256
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 228
+  }, {
+    "type" : "bench",
+    "count" : 219
+  }, {
+    "type" : "apartments",
+    "count" : 163
+  }, {
+    "type" : "residential",
+    "count" : 89
+  }, {
+    "type" : "waste_basket",
+    "count" : 66
+  }, {
+    "type" : "university",
+    "count" : 49
+  }, {
+    "type" : "commercial",
+    "count" : 48
+  }, {
+    "type" : "retail",
+    "count" : 45
+  }, {
+    "type" : "office",
+    "count" : 40
+  }, {
+    "type" : "terrace",
+    "count" : 34
+  }, {
+    "type" : "telephone",
+    "count" : 31
+  }, {
+    "type" : "post_box",
+    "count" : 26
+  }, {
+    "type" : "cafe",
+    "count" : 22
+  }, {
+    "type" : "atm",
+    "count" : 20
+  }, {
+    "type" : "restaurant",
+    "count" : 18
+  }, {
+    "type" : "pub",
+    "count" : 16
+  }, {
+    "type" : "fast_food",
+    "count" : 15
+  }, {
+    "type" : "recycling",
+    "count" : 13
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 13
+  }, {
+    "type" : "vending_machine",
+    "count" : 13
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "hospital",
+    "count" : 9
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 9
+  }, {
+    "type" : "waste_disposal",
+    "count" : 8
+  }, {
+    "type" : "garage",
+    "count" : 7
+  }, {
+    "type" : "bar",
+    "count" : 7
+  }, {
+    "type" : "air_shaft",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 7
+  }, {
+    "type" : "semidetached_house",
+    "count" : 7
+  }, {
+    "type" : "library",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "college",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 5
+  }, {
+    "type" : "detached",
+    "count" : 5
+  }, {
+    "type" : "warehouse",
+    "count" : 5
+  }, {
+    "type" : "church",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "car_sharing",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 4
+  }, {
+    "type" : "shelter",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "greenhouse",
+    "count" : 3
+  }, {
+    "type" : "hut",
+    "count" : 3
+  }, {
+    "type" : "garages",
+    "count" : 3
+  }, {
+    "type" : "table",
+    "count" : 3
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "stripclub",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "hall_of_residence",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "tunnel_entrance",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "disused_station",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "piano",
+    "count" : 1
+  }, {
+    "type" : "trolley_bay",
+    "count" : 1
+  }, {
+    "type" : "grit_bin",
+    "count" : 1
+  }, {
+    "type" : "commerical",
+    "count" : 1
+  }, {
+    "type" : "tunnel_mouth",
+    "count" : 1
+  }, {
+    "type" : "information_centre",
+    "count" : 1
+  }, {
+    "type" : "advice",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "left_luggage",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "escape_game",
+    "count" : 1
+  }, {
+    "type" : "waiting_room",
+    "count" : 1
+  }, {
+    "type" : "substation",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "St. Andrew's Gate",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "wheelchair" : "yes",
+      "access" : "permissive",
+      "barrier" : "gate",
+      "bicycle" : "no",
+      "motor_vehicle" : "no",
+      "dogs" : "no",
+      "name" : "St. Andrew's Gate",
+      "opening_hours" : "dawn-dusk",
+      "place" : "locality",
+      "foot" : "permissive"
+    }
+  }, {
+    "name" : "Fitzrovia",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "London",
+      "name" : "Fitzrovia",
+      "place" : "suburb",
+      "wikipedia" : "en:Fitzrovia"
+    }
+  }, {
+    "name" : "Gloucester Gate",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "barrier" : "gate",
+      "name" : "Gloucester Gate",
+      "access:motor_vehicle:conditional" : "no @ (00:00-07:00)",
+      "place" : "locality"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 687449,
+    "totalVolume" : 11365807,
+    "count" : 1792,
+    "maxHeight" : 124.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 46
+  }, {
+    "type" : "tertiary",
+    "count" : 23
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 150
+  }, {
+    "type" : "service",
+    "count" : 314
+  }, {
+    "type" : "path",
+    "count" : 37
+  }, {
+    "type" : "trunk",
+    "count" : 154
+  }, {
+    "type" : "pedestrian",
+    "count" : 61
+  }, {
+    "type" : "primary",
+    "count" : 98
+  }, {
+    "type" : "track",
+    "count" : 11
+  }, {
+    "type" : "subway",
+    "count" : 45
+  }, {
+    "type" : "secondary",
+    "count" : 17
+  }, {
+    "type" : "steps",
+    "count" : 113
+  }, {
+    "type" : "rail",
+    "count" : 73
+  }, {
+    "type" : "unclassified",
+    "count" : 122
+  }, {
+    "type" : "footway",
+    "count" : 753
+  }, {
+    "type" : "trunk_link",
+    "count" : 21
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 19,
+    "max" : 61,
+    "diff50m" : 14
+  }
+}

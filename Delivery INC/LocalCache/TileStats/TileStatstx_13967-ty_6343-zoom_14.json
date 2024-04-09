@@ -1,0 +1,305 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 1.0
+  }, {
+    "type" : "wood",
+    "area" : 0.33151543
+  }, {
+    "type" : "residential",
+    "area" : 0.09274925
+  }, {
+    "type" : "brownfield",
+    "area" : 0.044712298
+  }, {
+    "type" : "construction",
+    "area" : 0.04269376
+  }, {
+    "type" : "park",
+    "area" : 0.03859606
+  }, {
+    "type" : "railway",
+    "area" : 0.022417847
+  }, {
+    "type" : "substation",
+    "area" : 0.013841644
+  }, {
+    "type" : "parking",
+    "area" : 0.013414881
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1031
+  }, {
+    "type" : "terrace",
+    "count" : 714
+  }, {
+    "type" : "residential",
+    "count" : 476
+  }, {
+    "type" : "house",
+    "count" : 330
+  }, {
+    "type" : "apartments",
+    "count" : 136
+  }, {
+    "type" : "commercial",
+    "count" : 122
+  }, {
+    "type" : "school",
+    "count" : 43
+  }, {
+    "type" : "restaurant",
+    "count" : 33
+  }, {
+    "type" : "bench",
+    "count" : 21
+  }, {
+    "type" : "cafe",
+    "count" : 18
+  }, {
+    "type" : "kindergarten",
+    "count" : 16
+  }, {
+    "type" : "detached",
+    "count" : 13
+  }, {
+    "type" : "parking",
+    "count" : 11
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "place_of_worship",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 9
+  }, {
+    "type" : "industrial",
+    "count" : 8
+  }, {
+    "type" : "prep_school",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "shelter",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "social_facility",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "karaoke_box",
+    "count" : 3
+  }, {
+    "type" : "drinking_water",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "ruins",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 2
+  }, {
+    "type" : "waste_disposal",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "grave_yard",
+    "count" : 1
+  }, {
+    "type" : "grit_bin",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "증산동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "증산동",
+      "name:ko-Latn" : "Jeungsan-dong",
+      "name:el" : "Τζούνγκσαν-ντονγκ",
+      "name:ja" : "繒山洞",
+      "name" : "증산동",
+      "name:en" : "Jeungsan-dong",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "북가좌동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "북가좌동",
+      "name:ko-Latn" : "Bukgajwa-dong",
+      "name:el" : "Μπούκατζουα-ντονγκ",
+      "name:ja" : "北加佐洞",
+      "name" : "북가좌동",
+      "name:en" : "Bukgajwa-dong",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "수색동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "수색동",
+      "name:ko-Latn" : "Susaek-dong",
+      "name:el" : "Σούσεκ-ντονγκ",
+      "name:ja" : "水色洞",
+      "name" : "수색동",
+      "name:en" : "Susaek-dong",
+      "place" : "quarter",
+      "name:zh" : "水色洞"
+    }
+  }, {
+    "name" : "증산할머니경로당",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "증산할머니경로당",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "신사동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "신사동",
+      "name:ko-Latn" : "Sinsa-dong",
+      "name:el" : "Σίνσα-ντονγκ",
+      "name:ja" : "新寺洞",
+      "name" : "신사동",
+      "name:en" : "Sinsa-dong",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 432501,
+    "totalVolume" : 7430424,
+    "count" : 2254,
+    "maxHeight" : 120.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 18
+  }, {
+    "type" : "residential",
+    "count" : 379
+  }, {
+    "type" : "service",
+    "count" : 248
+  }, {
+    "type" : "path",
+    "count" : 21
+  }, {
+    "type" : "primary",
+    "count" : 7
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 5
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 23
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 19
+  }, {
+    "type" : "rail",
+    "count" : 66
+  }, {
+    "type" : "footway",
+    "count" : 238
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 6,
+    "max" : 158,
+    "diff50m" : 25
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 1.019174
+  }, {
+    "type" : "yes",
+    "area" : 0.71566147
+  }, {
+    "type" : "park",
+    "area" : 0.052909754
+  }, {
+    "type" : "grass",
+    "area" : 0.020647032
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.015448506
+  }, {
+    "type" : "railway",
+    "area" : 0.011362444
+  }, {
+    "type" : "pitch",
+    "area" : 0.011083443
+  }, {
+    "type" : "construction",
+    "area" : 0.010186977
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2209
+  }, {
+    "type" : "apartments",
+    "count" : 301
+  }, {
+    "type" : "restaurant",
+    "count" : 176
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 166
+  }, {
+    "type" : "bench",
+    "count" : 148
+  }, {
+    "type" : "parking_space",
+    "count" : 114
+  }, {
+    "type" : "waste_basket",
+    "count" : 65
+  }, {
+    "type" : "post_box",
+    "count" : 53
+  }, {
+    "type" : "pharmacy",
+    "count" : 44
+  }, {
+    "type" : "cafe",
+    "count" : 40
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 40
+  }, {
+    "type" : "bank",
+    "count" : 34
+  }, {
+    "type" : "school",
+    "count" : 33
+  }, {
+    "type" : "fast_food",
+    "count" : 29
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 24
+  }, {
+    "type" : "industrial",
+    "count" : 17
+  }, {
+    "type" : "parking",
+    "count" : 17
+  }, {
+    "type" : "atm",
+    "count" : 15
+  }, {
+    "type" : "house",
+    "count" : 12
+  }, {
+    "type" : "recycling",
+    "count" : 10
+  }, {
+    "type" : "service",
+    "count" : 10
+  }, {
+    "type" : "vending_machine",
+    "count" : 10
+  }, {
+    "type" : "parking_entrance",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "car_rental",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 9
+  }, {
+    "type" : "bar",
+    "count" : 9
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "doctors",
+    "count" : 8
+  }, {
+    "type" : "office",
+    "count" : 8
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "veterinary",
+    "count" : 6
+  }, {
+    "type" : "place_of_worship",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "driving_school",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "retail",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "barn",
+    "count" : 1
+  }, {
+    "type" : "dark-kitchen",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Levallois-Perret",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 64253,
+    "tags" : {
+      "name:ru" : "Леваллуа-Перре",
+      "alt_name" : "Levallois",
+      "name:ja" : "ルヴァロワ＝ペレ",
+      "name" : "Levallois-Perret",
+      "name:fr" : "Levallois-Perret",
+      "place" : "town",
+      "wikipedia" : "fr:Levallois-Perret",
+      "addr:postcode" : "92300",
+      "population" : "64253"
+    }
+  }, {
+    "name" : "Les Ternes",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Les Ternes",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Porte de Villiers",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte de Villiers",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte de Villiers"
+    }
+  }, {
+    "name" : "Porte de Champerret",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte de Champerret",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte de Champerret"
+    }
+  }, {
+    "name" : "Porte de Courcelles",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte de Courcelles",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte de Courcelles"
+    }
+  }, {
+    "name" : "Porte d'Asnières",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Porte d'Asnières",
+      "place" : "locality",
+      "wikipedia" : "fr:Porte d'Asnières"
+    }
+  }, {
+    "name" : "Villa des Ternes",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "ref:FR:FANTOIR" : "751179205R",
+      "name" : "Villa des Ternes",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1095101,
+    "totalVolume" : 21236015,
+    "count" : 3793,
+    "maxHeight" : 84.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 267
+  }, {
+    "type" : "service",
+    "count" : 63
+  }, {
+    "type" : "trunk",
+    "count" : 17
+  }, {
+    "type" : "primary",
+    "count" : 98
+  }, {
+    "type" : "pedestrian",
+    "count" : 29
+  }, {
+    "type" : "track",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 9
+  }, {
+    "type" : "living_street",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 75
+  }, {
+    "type" : "steps",
+    "count" : 75
+  }, {
+    "type" : "tram",
+    "count" : 4
+  }, {
+    "type" : "rail",
+    "count" : 63
+  }, {
+    "type" : "unclassified",
+    "count" : 41
+  }, {
+    "type" : "disused",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 1421
+  }, {
+    "type" : "trunk_link",
+    "count" : 19
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 27,
+    "max" : 60,
+    "diff50m" : 8
+  }
+}

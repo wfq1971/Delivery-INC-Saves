@@ -1,0 +1,303 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.44395813
+  }, {
+    "type" : "grass",
+    "area" : 0.047046293
+  }, {
+    "type" : "wood",
+    "area" : 0.04425926
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.03127054
+  }, {
+    "type" : "garden",
+    "area" : 0.011911904
+  }, {
+    "type" : "yes",
+    "area" : 0.011747747
+  }, {
+    "type" : "zoo",
+    "area" : 0.010550452
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2500
+  }, {
+    "type" : "apartments",
+    "count" : 266
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 164
+  }, {
+    "type" : "bench",
+    "count" : 132
+  }, {
+    "type" : "restaurant",
+    "count" : 106
+  }, {
+    "type" : "waste_basket",
+    "count" : 60
+  }, {
+    "type" : "cafe",
+    "count" : 49
+  }, {
+    "type" : "drinking_water",
+    "count" : 42
+  }, {
+    "type" : "post_box",
+    "count" : 35
+  }, {
+    "type" : "bank",
+    "count" : 26
+  }, {
+    "type" : "parking_entrance",
+    "count" : 23
+  }, {
+    "type" : "terrace",
+    "count" : 22
+  }, {
+    "type" : "fast_food",
+    "count" : 20
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 20
+  }, {
+    "type" : "house",
+    "count" : 20
+  }, {
+    "type" : "school",
+    "count" : 19
+  }, {
+    "type" : "commercial",
+    "count" : 14
+  }, {
+    "type" : "bar",
+    "count" : 11
+  }, {
+    "type" : "parking",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 9
+  }, {
+    "type" : "toilets",
+    "count" : 9
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "recycling",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 8
+  }, {
+    "type" : "hotel",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 6
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "college",
+    "count" : 5
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "university",
+    "count" : 2
+  }, {
+    "type" : "synagogue",
+    "count" : 2
+  }, {
+    "type" : "museum",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "watering_place",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "stable",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "payment_terminal",
+    "count" : 1
+  }, {
+    "type" : "boat_rental",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Columbus Circle",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Коламбус-сёркл",
+      "name" : "Columbus Circle",
+      "place" : "neighbourhood",
+      "ele" : "0"
+    }
+  }, {
+    "name" : "Upper East Side",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Аппер-Ист-Сайд",
+      "name" : "Upper East Side",
+      "place" : "quarter",
+      "wikipedia" : "en:Upper East Side"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1183133,
+    "totalVolume" : 50663906,
+    "count" : 3386,
+    "maxHeight" : 472.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 18
+  }, {
+    "type" : "tertiary",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 59
+  }, {
+    "type" : "service",
+    "count" : 134
+  }, {
+    "type" : "path",
+    "count" : 11
+  }, {
+    "type" : "primary",
+    "count" : 60
+  }, {
+    "type" : "pedestrian",
+    "count" : 19
+  }, {
+    "type" : "track",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 51
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 126
+  }, {
+    "type" : "bridleway",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 97
+  }, {
+    "type" : "rail",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 1903
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 5,
+    "max" : 134,
+    "diff50m" : 55
+  }
+}

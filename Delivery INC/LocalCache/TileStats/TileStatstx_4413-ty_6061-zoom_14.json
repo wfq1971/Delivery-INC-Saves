@@ -1,0 +1,230 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.42214093
+  }, {
+    "type" : "residential",
+    "area" : 0.14082648
+  }, {
+    "type" : "parking",
+    "area" : 0.11756909
+  }, {
+    "type" : "park",
+    "area" : 0.08538646
+  }, {
+    "type" : "commercial",
+    "area" : 0.074269205
+  }, {
+    "type" : "retail",
+    "area" : 0.05304574
+  }, {
+    "type" : "grass",
+    "area" : 0.039563
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1347
+  }, {
+    "type" : "terrace",
+    "count" : 100
+  }, {
+    "type" : "apartments",
+    "count" : 49
+  }, {
+    "type" : "bench",
+    "count" : 48
+  }, {
+    "type" : "waste_basket",
+    "count" : 27
+  }, {
+    "type" : "retail",
+    "count" : 26
+  }, {
+    "type" : "commercial",
+    "count" : 24
+  }, {
+    "type" : "parking_entrance",
+    "count" : 17
+  }, {
+    "type" : "industrial",
+    "count" : 15
+  }, {
+    "type" : "warehouse",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 10
+  }, {
+    "type" : "house",
+    "count" : 7
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "binoculars",
+    "count" : 4
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "semidetached_house",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "vacant",
+    "count" : 2
+  }, {
+    "type" : "fast_food",
+    "count" : 2
+  }, {
+    "type" : "cafe",
+    "count" : 2
+  }, {
+    "type" : "garage",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "music_venue",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "East Riverfront",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "East Riverfront",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "Rivertown",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Rivertown",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 401956,
+    "totalVolume" : 5678763,
+    "count" : 425,
+    "maxHeight" : 93.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 33
+  }, {
+    "type" : "tertiary",
+    "count" : 37
+  }, {
+    "type" : "tertiary_link",
+    "count" : 35
+  }, {
+    "type" : "residential",
+    "count" : 51
+  }, {
+    "type" : "service",
+    "count" : 344
+  }, {
+    "type" : "path",
+    "count" : 161
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 47
+  }, {
+    "type" : "secondary_link",
+    "count" : 7
+  }, {
+    "type" : "steps",
+    "count" : 18
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 611
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 169,
+    "max" : 226,
+    "diff50m" : 32
+  }
+}

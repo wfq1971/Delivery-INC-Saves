@@ -1,0 +1,141 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.65741926
+  }, {
+    "type" : "park",
+    "area" : 0.072762445
+  }, {
+    "type" : "construction",
+    "area" : 0.035669412
+  }, {
+    "type" : "residential",
+    "area" : 0.02751886
+  }, {
+    "type" : "wood",
+    "area" : 0.01888725
+  }, {
+    "type" : "grass",
+    "area" : 0.013664368
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 178
+  }, {
+    "type" : "parking_space",
+    "count" : 138
+  }, {
+    "type" : "public_building",
+    "count" : 22
+  }, {
+    "type" : "restaurant",
+    "count" : 19
+  }, {
+    "type" : "training",
+    "count" : 16
+  }, {
+    "type" : "clinic",
+    "count" : 15
+  }, {
+    "type" : "toilets",
+    "count" : 15
+  }, {
+    "type" : "atm",
+    "count" : 14
+  }, {
+    "type" : "apartments",
+    "count" : 13
+  }, {
+    "type" : "bank",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 8
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 5
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 3
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 218457,
+    "totalVolume" : 15859190,
+    "count" : 163,
+    "maxHeight" : 240.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 22
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 40
+  }, {
+    "type" : "subway",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 23
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 3
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 61
+  } ],
+  "elevation" : {
+    "min" : -7,
+    "max" : 55,
+    "diff50m" : 34
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

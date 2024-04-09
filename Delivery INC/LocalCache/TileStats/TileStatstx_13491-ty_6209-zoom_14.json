@@ -1,0 +1,110 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.06113971
+  }, {
+    "type" : "residential",
+    "area" : 0.058892336
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.044861898
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 296
+  }, {
+    "type" : "residential",
+    "count" : 14
+  }, {
+    "type" : "apartments",
+    "count" : 11
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "cafe",
+    "count" : 2
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 118254,
+    "totalVolume" : 1350926,
+    "count" : 105,
+    "maxHeight" : 116.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 43
+  }, {
+    "type" : "tertiary_link",
+    "count" : 15
+  }, {
+    "type" : "residential",
+    "count" : 49
+  }, {
+    "type" : "service",
+    "count" : 10
+  }, {
+    "type" : "trunk",
+    "count" : 18
+  }, {
+    "type" : "primary",
+    "count" : 9
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 19
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 17
+  }, {
+    "type" : "rail",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 41
+  }, {
+    "type" : "trunk_link",
+    "count" : 51
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 28,
+    "max" : 62,
+    "diff50m" : 13
+  }
+}

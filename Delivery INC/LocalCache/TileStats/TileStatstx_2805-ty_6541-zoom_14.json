@@ -1,0 +1,214 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.66417176
+  }, {
+    "type" : "commercial",
+    "area" : 0.043326214
+  }, {
+    "type" : "retail",
+    "area" : 0.031190043
+  }, {
+    "type" : "park",
+    "area" : 0.017365761
+  }, {
+    "type" : "palaeontological_site",
+    "area" : 0.014939847
+  }, {
+    "type" : "construction",
+    "area" : 0.010676574
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 2566
+  }, {
+    "type" : "residential",
+    "count" : 1564
+  }, {
+    "type" : "apartments",
+    "count" : 1097
+  }, {
+    "type" : "road",
+    "count" : 971
+  }, {
+    "type" : "retail",
+    "count" : 106
+  }, {
+    "type" : "commercial",
+    "count" : 102
+  }, {
+    "type" : "garages",
+    "count" : 33
+  }, {
+    "type" : "school",
+    "count" : 19
+  }, {
+    "type" : "restaurant",
+    "count" : 16
+  }, {
+    "type" : "hotel",
+    "count" : 13
+  }, {
+    "type" : "garage",
+    "count" : 12
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "cafe",
+    "count" : 7
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "bench",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 5
+  }, {
+    "type" : "museum",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Mid-Wilshire",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Mid-Wilshire",
+      "place" : "suburb",
+      "wikipedia" : "en:Mid-Wilshire, Los Angeles"
+    }
+  }, {
+    "name" : "Park La Brea",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "is_in" : "Los Angeles,California,Calif.,CA,USA",
+      "name" : "Park La Brea",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Park La Brea, Los Angeles",
+      "ele" : "56"
+    }
+  }, {
+    "name" : "Little Ethiopia",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Little Ethiopia",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Miracle Mile",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Miracle Mile",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Miracle Mile, Los Angeles"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1377794,
+    "totalVolume" : 16226248,
+    "count" : 5672,
+    "maxHeight" : 132.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 65
+  }, {
+    "type" : "residential",
+    "count" : 200
+  }, {
+    "type" : "service",
+    "count" : 340
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 126
+  }, {
+    "type" : "secondary",
+    "count" : 56
+  }, {
+    "type" : "steps",
+    "count" : 10
+  }, {
+    "type" : "footway",
+    "count" : 163
+  }, {
+    "type" : "primary_link",
+    "count" : 9
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 38,
+    "max" : 93,
+    "diff50m" : 30
+  }
+}

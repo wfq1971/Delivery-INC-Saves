@@ -1,0 +1,239 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.47811455
+  }, {
+    "type" : "park",
+    "area" : 0.17675248
+  }, {
+    "type" : "industrial",
+    "area" : 0.09183968
+  }, {
+    "type" : "retail",
+    "area" : 0.054517254
+  }, {
+    "type" : "grass",
+    "area" : 0.03422049
+  }, {
+    "type" : "pitch",
+    "area" : 0.015973458
+  }, {
+    "type" : "parking",
+    "area" : 0.01389399
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.012181387
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1434
+  }, {
+    "type" : "apartments",
+    "count" : 133
+  }, {
+    "type" : "house",
+    "count" : 113
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 92
+  }, {
+    "type" : "residential",
+    "count" : 42
+  }, {
+    "type" : "post_box",
+    "count" : 24
+  }, {
+    "type" : "bench",
+    "count" : 18
+  }, {
+    "type" : "school",
+    "count" : 14
+  }, {
+    "type" : "telephone",
+    "count" : 10
+  }, {
+    "type" : "industrial",
+    "count" : 8
+  }, {
+    "type" : "terrace",
+    "count" : 8
+  }, {
+    "type" : "garages",
+    "count" : 7
+  }, {
+    "type" : "recycling",
+    "count" : 6
+  }, {
+    "type" : "retail",
+    "count" : 4
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 4
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "car_sharing",
+    "count" : 2
+  }, {
+    "type" : "bbq",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "shop",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Old Kent Road",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Old Kent Road",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 560598,
+    "totalVolume" : 7609336,
+    "count" : 1124,
+    "maxHeight" : 80.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 209
+  }, {
+    "type" : "tertiary",
+    "count" : 11
+  }, {
+    "type" : "residential",
+    "count" : 275
+  }, {
+    "type" : "service",
+    "count" : 272
+  }, {
+    "type" : "path",
+    "count" : 42
+  }, {
+    "type" : "trunk",
+    "count" : 90
+  }, {
+    "type" : "pedestrian",
+    "count" : 14
+  }, {
+    "type" : "primary",
+    "count" : 25
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 55
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 16
+  }, {
+    "type" : "rail",
+    "count" : 15
+  }, {
+    "type" : "unclassified",
+    "count" : 41
+  }, {
+    "type" : "footway",
+    "count" : 362
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -8,
+    "max" : 14,
+    "diff50m" : 8
+  }
+}

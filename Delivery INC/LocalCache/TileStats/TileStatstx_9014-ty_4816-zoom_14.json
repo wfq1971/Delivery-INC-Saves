@@ -1,0 +1,302 @@
+{
+  "landusages" : [ {
+    "type" : "wood",
+    "area" : 0.36421862
+  }, {
+    "type" : "residential",
+    "area" : 0.13515328
+  }, {
+    "type" : "park",
+    "area" : 0.04556011
+  }, {
+    "type" : "wetland",
+    "area" : 0.03213196
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.030618906
+  }, {
+    "type" : "commercial",
+    "area" : 0.029135685
+  }, {
+    "type" : "railway",
+    "area" : 0.02853628
+  }, {
+    "type" : "meadow",
+    "area" : 0.015329106
+  }, {
+    "type" : "parking",
+    "area" : 0.01474032
+  }, {
+    "type" : "grass",
+    "area" : 0.011388777
+  }, {
+    "type" : "pitch",
+    "area" : 0.0101207765
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1076
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 62
+  }, {
+    "type" : "bench",
+    "count" : 61
+  }, {
+    "type" : "university",
+    "count" : 58
+  }, {
+    "type" : "apartments",
+    "count" : 50
+  }, {
+    "type" : "vending_machine",
+    "count" : 31
+  }, {
+    "type" : "restaurant",
+    "count" : 24
+  }, {
+    "type" : "waste_basket",
+    "count" : 21
+  }, {
+    "type" : "cafe",
+    "count" : 18
+  }, {
+    "type" : "hospital",
+    "count" : 14
+  }, {
+    "type" : "school",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "recycling",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "pub",
+    "count" : 5
+  }, {
+    "type" : "compressed_air",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "sports_hall",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "computer_club",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Ugglebacken",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Ugglebacken",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Lärkstaden",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Lärkstaden",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Lärkstaden"
+    }
+  }, {
+    "name" : "Ruddammen",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "check_date" : "2020-06-11",
+      "name" : "Ruddammen",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Ruddammen"
+    }
+  }, {
+    "name" : "Kattrumpsbacken",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Kattrumpsbacken",
+      "place" : "locality"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 301386,
+    "totalVolume" : 4937927,
+    "count" : 266,
+    "maxHeight" : 84.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 62
+  }, {
+    "type" : "tertiary",
+    "count" : 21
+  }, {
+    "type" : "narrow_gauge",
+    "count" : 58
+  }, {
+    "type" : "residential",
+    "count" : 45
+  }, {
+    "type" : "service",
+    "count" : 134
+  }, {
+    "type" : "path",
+    "count" : 38
+  }, {
+    "type" : "motorway",
+    "count" : 12
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "track",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 8
+  }, {
+    "type" : "motorway_link",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 43
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "bridleway",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 122
+  }, {
+    "type" : "rail",
+    "count" : 1
+  }, {
+    "type" : "unclassified",
+    "count" : 27
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 482
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 7,
+    "max" : 50,
+    "diff50m" : 7
+  }
+}

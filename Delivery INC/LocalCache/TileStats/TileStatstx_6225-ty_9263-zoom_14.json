@@ -1,0 +1,508 @@
+{
+  "landusages" : [ {
+    "type" : "railway",
+    "area" : 0.05739721
+  }, {
+    "type" : "construction",
+    "area" : 0.051735222
+  }, {
+    "type" : "yes",
+    "area" : 0.049207907
+  }, {
+    "type" : "residential",
+    "area" : 0.048131697
+  }, {
+    "type" : "park",
+    "area" : 0.018766863
+  }, {
+    "type" : "industrial",
+    "area" : 0.018692128
+  }, {
+    "type" : "parking",
+    "area" : 0.015652984
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.0109494245
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1535
+  }, {
+    "type" : "residential",
+    "count" : 58
+  }, {
+    "type" : "restaurant",
+    "count" : 35
+  }, {
+    "type" : "roof",
+    "count" : 33
+  }, {
+    "type" : "construction",
+    "count" : 22
+  }, {
+    "type" : "school",
+    "count" : 16
+  }, {
+    "type" : "bank",
+    "count" : 13
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 11
+  }, {
+    "type" : "fast_food",
+    "count" : 10
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "bar",
+    "count" : 8
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "pub",
+    "count" : 7
+  }, {
+    "type" : "house",
+    "count" : 7
+  }, {
+    "type" : "commercial",
+    "count" : 7
+  }, {
+    "type" : "cafe",
+    "count" : 7
+  }, {
+    "type" : "table",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 6
+  }, {
+    "type" : "office",
+    "count" : 5
+  }, {
+    "type" : "hospital",
+    "count" : 5
+  }, {
+    "type" : "clinic",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "bench",
+    "count" : 4
+  }, {
+    "type" : "station",
+    "count" : 4
+  }, {
+    "type" : "university",
+    "count" : 4
+  }, {
+    "type" : "toilets",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "carport",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "retail",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "elevator",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "register_office",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Praça da Bandeira",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Praça da Bandeira",
+      "place" : "suburb",
+      "wikipedia" : "en:Praça da Bandeira"
+    }
+  }, {
+    "name" : "Estácio",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Estácio",
+      "place" : "suburb",
+      "wikipedia" : "en:Estácio, Rio de Janeiro"
+    }
+  }, {
+    "name" : "Cidade Nova",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Cidade Nova",
+      "place" : "suburb",
+      "wikipedia" : "en:Cidade Nova, Rio de Janeiro"
+    }
+  }, {
+    "name" : "Santo Cristo",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Santo Cristo",
+      "place" : "suburb",
+      "wikipedia" : "en:Santo Cristo, Rio de Janeiro"
+    }
+  }, {
+    "name" : "Rio de Janeiro",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 6625849,
+    "tags" : {
+      "name:bs" : "Rio de Janeiro",
+      "name:sk" : "Rio de Janeiro",
+      "name:sh" : "Rio de Žaneiro",
+      "name:scn" : "Riu de Janeiru",
+      "name:ka" : "რიო-დე-ჟანეირო",
+      "name:nap" : "Rio de Janeiro",
+      "ref:LOCODE" : "BRRIO",
+      "name:sl" : "Rio de Janeiro",
+      "name:sr" : "Рио де Жанеиро",
+      "name:kk" : "Рио-де-Жанейро",
+      "name:pms" : "Rio de Janeiro",
+      "name:ca" : "Rio de Janeiro",
+      "name:sq" : "Rio de Zhaneiro",
+      "name:nah" : "Rio de Janeiro",
+      "name:kn" : "ರಿಯೋ ಡೆ ಜನೈರೊ",
+      "name:sv" : "Rio de Janeiro",
+      "name:ko" : "리우데자네이루",
+      "name:sw" : "Rio de Janeiro",
+      "name:ce" : "Рио-де-Жанейро",
+      "name:su" : "Rio de Janeiro",
+      "name:nrm" : "Riviéthe dé Janvyi",
+      "name:cdo" : "Rio de Janeiro",
+      "name:co" : "Rio de Janeiro",
+      "name:kw" : "Rio de Janeiro",
+      "name:sco" : "Rio de Janeiro",
+      "loc_name" : "Rio",
+      "name:ku" : "Rio de Janeiro",
+      "name:ext" : "Río de Janeiro",
+      "name:lez" : "Рио-де-Жанейро",
+      "name:frp" : "Rio de Janèro",
+      "name:pnb" : "ریو ڈی جینرو",
+      "name:cs" : "Rio de Janeiro",
+      "name:tet" : "Riu de Janeiru",
+      "name:ta" : "இரியோ டி செனீரோ",
+      "name:frr" : "Rio de Janeiro",
+      "name:ky" : "Рио-де-Жанейро",
+      "IBGE:GEOCODIGO" : "3304557",
+      "name:ar" : "ريو دي جانيرو",
+      "name:ckb" : "ڕیۆ دێ ژانێرۆ",
+      "name:ja" : "リオデジャネイロ",
+      "name:rm" : "Rio de Janeiro",
+      "name:srn" : "Rio de Janeiro",
+      "name:az" : "Rio de Janeyro",
+      "heritage" : "1",
+      "name:ba" : "Рио-де-Жанейро",
+      "heritage:operator" : "whc",
+      "name:ro" : "Rio de Janeiro",
+      "population" : "6625849",
+      "name:be" : "Рыа-дэ-Жанэйра",
+      "name:ru" : "Рио-де-Жанейро",
+      "name:bg" : "Рио де Жанейро",
+      "name:lmo" : "Rio de Janeiro",
+      "name:bn" : "রিউ দি জানেইরু",
+      "name:jv" : "Rio de Janeiro",
+      "name:mwl" : "Riu de Janeiro",
+      "name:be-tarask" : "Рыё-дэ-Жанэйра",
+      "name:br" : "Rio de Janeiro",
+      "name:sc" : "Rio de Janeiro",
+      "name:bo" : "རི་འོ་དེ་རན་ནེ་རོ",
+      "flag" : "http://upload.wikimedia.org/wikipedia/commons/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg",
+      "name:ug" : "Rio dé Janéyro",
+      "name:uk" : "Ріо-де-Жанейро",
+      "name:mi" : "Rio de Janeiro",
+      "alt_name:gl" : "Rio de Janeiro",
+      "name:ml" : "റിയോ ഡി ജനീറോ",
+      "name:ur" : "ریو دے جینیرو",
+      "name:mk" : "Рио де Жанеиро",
+      "name:mn" : "Рио-де-Жанейро",
+      "name:arz" : "ريو_دى_جانيرو",
+      "name:el" : "Ρίο ντε Τζανέιρο",
+      "name:mr" : "रियो दि जानेरो",
+      "name:uz" : "Rio-de-Janeyro",
+      "name:ms" : "Rio de Janeiro",
+      "name:my" : "ရီယို ဒီ ဂျီးနေးရိုးမြို့",
+      "name:en" : "Rio de Janeiro",
+      "place" : "city",
+      "name:eo" : "Rio-de-Ĵanejro",
+      "wikipedia" : "pt:Rio de Janeiro",
+      "name:et" : "Rio de Janeiro",
+      "name:eu" : "Rio de Janeiro",
+      "name:es" : "Río de Janeiro",
+      "name:cv" : "Рио-де-Жанейро",
+      "name:tg" : "Рио-де-Жанейро",
+      "name:th" : "รีโอเดจาเนโร",
+      "name:jbo" : "rios. dis. djaneiros",
+      "name:mhr" : "Рио-де-Жанейро",
+      "whc:inscription_date" : "2012-07-01",
+      "website" : "http://www.rio.rj.gov.br/",
+      "name:tk" : "Rio-de-Žaneýro",
+      "name:tl" : "Rio de Janeiro",
+      "name:la" : "Flumen Ianuarii",
+      "name:cy" : "Rio de Janeiro",
+      "name:lb" : "Rio de Janeiro",
+      "name:tt" : "Рио-де-Жанейро",
+      "name:da" : "Rio de Janeiro",
+      "name:li" : "Rio de Janeiro",
+      "name:tr" : "Rio de Janeiro",
+      "name:tw" : "Rio de Janeiro",
+      "name:de" : "Rio de Janeiro",
+      "name:lt" : "Rio de Žaneiras",
+      "name:bcl" : "Rio de Janeiro",
+      "old_name" : "São Sebastião do Rio de Janeiro",
+      "name:ceb" : "Rio de Janeiro",
+      "name:lv" : "Riodežaneiro",
+      "state_capital" : "yes",
+      "name:fy" : "Rio de Janêro",
+      "name:oc" : "Rio de Janeiro",
+      "capital" : "4",
+      "name:pam" : "Rio de Janeiro",
+      "name:ga" : "Rio de Janeiro",
+      "name:vec" : "Rio de Janeiro",
+      "name:gd" : "Rio de Janeiro",
+      "name:zea" : "Rio de Janeiro",
+      "name:als" : "Rio de Janeiro",
+      "name:os" : "Рио-де-Жанейро",
+      "name:gn" : "Rio de Janeiro",
+      "name:ilo" : "Rio de Janeiro",
+      "name:gl" : "Río de Xaneiro",
+      "name:new" : "रियो दि ज्यानेरियो",
+      "name:pap" : "Rio de Janeiro",
+      "whc:criteria" : "4",
+      "name:vep" : "Rio-de-Žaneiro",
+      "ele" : "2",
+      "wikipedia:gl" : "Río de Xaneiro",
+      "name:na" : "Rio de Janeiro",
+      "name:vi" : "Rio de Janeiro",
+      "name:ne" : "रियो दी जेनेरियो",
+      "name:fa" : "ریودو ژانیرو",
+      "name:vo" : "Rio de Janeiro",
+      "name:nn" : "Rio de Janeiro",
+      "name:nl" : "Rio de Janeiro",
+      "name:fi" : "Rio de Janeiro",
+      "name:fj" : "Rio de Janeiro",
+      "name:no" : "Rio de Janeiro",
+      "name:lij" : "Rio de Janeiro",
+      "name" : "Rio de Janeiro",
+      "name:fr" : "Rio de Janeiro",
+      "name:fo" : "Rio de Janeiro",
+      "name:ast" : "Rio de Janeiro",
+      "name:rue" : "Ріо де Жанейро",
+      "name:hif" : "Rio de Janeiro",
+      "name:bat-smg" : "Rio dė Žanėiros",
+      "name:hy" : "Ռիո դե Ժանեյրո",
+      "name:ang" : "Rio de Janeiro",
+      "name:sah" : "Рио де Жанейро",
+      "name:bxr" : "Рио-де-Жанейро",
+      "name:ia" : "Rio de Janeiro",
+      "name:yo" : "Rio de Janeiro",
+      "name:id" : "Rio de Janeiro",
+      "name:ie" : "Rio de Janeiro",
+      "name:pcd" : "Rio d' Janeiro",
+      "name:war" : "Rio de Janeiro",
+      "name:qu" : "Rio de Janeiro",
+      "ref:whc" : "1100",
+      "name:bpy" : "রিও ডি জেনিরো",
+      "name:af" : "Rio de Janeiro",
+      "name:io" : "Rio de Janeiro",
+      "name:it" : "Rio de Janeiro",
+      "name:am" : "ሪዮ ዴ ጃኔይሮ",
+      "name:is" : "Rio de Janeiro",
+      "name:an" : "Rio de Janeiro",
+      "name:zh" : "里約熱內盧/里约热内卢",
+      "name:szl" : "Rio de Janeiro",
+      "name:hsb" : "Rio de Janeiro",
+      "name:pa" : "ਰਿਓ ਡੀ ਜਨੇਰੋ",
+      "name:pl" : "Rio de Janeiro",
+      "name:ha" : "Rio de Janeiro",
+      "name:dsb" : "Rio de Janeiro",
+      "name:he" : "ריו דה ז'ניירו",
+      "name:pt" : "Rio de Janeiro",
+      "wikipedia:ru" : "Рио-де-Жанейро",
+      "name:hi" : "रियो डि जेनेरो",
+      "name:kaa" : "Rio-de-Janeiro",
+      "population:date" : "2022-12-25",
+      "name:hr" : "Rio de Janeiro",
+      "name:eml" : "Rio de Janeiro",
+      "name:zh-Hans" : "里约热内卢",
+      "name:yi" : "ריא דע זשאנערא",
+      "name:zh-Hant" : "里約熱內盧",
+      "name:hu" : "Rio de Janeiro"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1249428,
+    "totalVolume" : 13985850,
+    "count" : 5426,
+    "maxHeight" : 72.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 117
+  }, {
+    "type" : "tertiary_link",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 226
+  }, {
+    "type" : "service",
+    "count" : 268
+  }, {
+    "type" : "path",
+    "count" : 9
+  }, {
+    "type" : "motorway",
+    "count" : 11
+  }, {
+    "type" : "trunk",
+    "count" : 44
+  }, {
+    "type" : "pedestrian",
+    "count" : 35
+  }, {
+    "type" : "primary",
+    "count" : 121
+  }, {
+    "type" : "subway",
+    "count" : 24
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "motorway_link",
+    "count" : 29
+  }, {
+    "type" : "secondary",
+    "count" : 110
+  }, {
+    "type" : "secondary_link",
+    "count" : 21
+  }, {
+    "type" : "steps",
+    "count" : 45
+  }, {
+    "type" : "tram",
+    "count" : 26
+  }, {
+    "type" : "rail",
+    "count" : 162
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "disused",
+    "count" : 40
+  }, {
+    "type" : "footway",
+    "count" : 163
+  }, {
+    "type" : "trunk_link",
+    "count" : 24
+  }, {
+    "type" : "primary_link",
+    "count" : 40
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -6,
+    "max" : 77,
+    "diff50m" : 22
+  }
+}

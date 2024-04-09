@@ -1,0 +1,618 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 0.08099252
+  }, {
+    "type" : "residential",
+    "area" : 0.0628008
+  }, {
+    "type" : "retail",
+    "area" : 0.05117273
+  }, {
+    "type" : "parking",
+    "area" : 0.02837881
+  }, {
+    "type" : "park",
+    "area" : 0.026361467
+  }, {
+    "type" : "commercial",
+    "area" : 0.014784095
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2675
+  }, {
+    "type" : "apartments",
+    "count" : 244
+  }, {
+    "type" : "restaurant",
+    "count" : 219
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 156
+  }, {
+    "type" : "bench",
+    "count" : 76
+  }, {
+    "type" : "cafe",
+    "count" : 73
+  }, {
+    "type" : "fast_food",
+    "count" : 62
+  }, {
+    "type" : "post_box",
+    "count" : 57
+  }, {
+    "type" : "residential",
+    "count" : 55
+  }, {
+    "type" : "bar",
+    "count" : 52
+  }, {
+    "type" : "waste_basket",
+    "count" : 48
+  }, {
+    "type" : "parking_entrance",
+    "count" : 26
+  }, {
+    "type" : "parking",
+    "count" : 25
+  }, {
+    "type" : "car_sharing",
+    "count" : 23
+  }, {
+    "type" : "atm",
+    "count" : 21
+  }, {
+    "type" : "retail",
+    "count" : 19
+  }, {
+    "type" : "office",
+    "count" : 18
+  }, {
+    "type" : "place_of_worship",
+    "count" : 16
+  }, {
+    "type" : "pub",
+    "count" : 16
+  }, {
+    "type" : "commercial",
+    "count" : 15
+  }, {
+    "type" : "theatre",
+    "count" : 15
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 14
+  }, {
+    "type" : "school",
+    "count" : 13
+  }, {
+    "type" : "hotel",
+    "count" : 12
+  }, {
+    "type" : "terrace",
+    "count" : 11
+  }, {
+    "type" : "car_rental",
+    "count" : 11
+  }, {
+    "type" : "bank",
+    "count" : 11
+  }, {
+    "type" : "nightclub",
+    "count" : 9
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 8
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "government",
+    "count" : 7
+  }, {
+    "type" : "clock",
+    "count" : 7
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 7
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "vending_machine",
+    "count" : 6
+  }, {
+    "type" : "social_facility",
+    "count" : 6
+  }, {
+    "type" : "college",
+    "count" : 5
+  }, {
+    "type" : "fountain",
+    "count" : 5
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "church",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "university",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "civic",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "karaoke_box",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "dojo",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "bridge",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "pagoda",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "motel",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "loading_dock",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "San Francisco",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 808437,
+    "tags" : {
+      "alt_name:cmn-Hant" : "聖弗朗西斯科",
+      "name:nan" : "San Francisco",
+      "official_name:zh" : "旧金山市县;舊金山市郡;三藩市市縣",
+      "alt_name:cmn-Hans" : "圣弗朗西斯科",
+      "name:ka" : "სან-ფრანცისკო",
+      "name:kk" : "Сан-Франциско",
+      "name:ki" : "San Francisco",
+      "name:nah" : "San Francisco",
+      "name:kn" : "ಸಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೊ",
+      "name:ko" : "샌프란시스코",
+      "name:kw" : "San Francisco",
+      "name:ku" : "San Francisco",
+      "name:ky" : "Сан-Франциско",
+      "name:ckb" : "سان فرانسیسکۆ",
+      "name:ja" : "サンフランシスコ",
+      "name:pdc" : "San Francisco",
+      "official_name:cmn-Hant" : "舊金山市郡",
+      "official_name:cmn-Hans" : "旧金山市县",
+      "short_name:en" : "SF",
+      "population" : "808437",
+      "alt_name:zh" : "聖弗朗西斯科;圣弗朗西斯科",
+      "name:lmo" : "San Francisco",
+      "name:jv" : "San Francisco",
+      "gnis:feature_id" : "277593",
+      "name:wuu" : "舊金山",
+      "name:mi" : "San Francisco",
+      "official_name:yue" : "三藩市市縣",
+      "name:mg" : "San Francisco",
+      "name:ml" : "സാൻ ഫ്രാൻസിസ്കോ",
+      "name:zh-Hant-HK" : "三藩市",
+      "name:mk" : "Сан Франциско",
+      "name:mn" : "Сан-Франциско",
+      "name:cbk-zam" : "San Francisco",
+      "name:mr" : "सॅन फ्रान्सिस्को",
+      "name:ms" : "San Francisco",
+      "name:my" : "ဆန်ဖရန်စစ္စကိုမြို့",
+      "wikipedia" : "en:San Francisco",
+      "name:mrj" : "Сан-Франциско",
+      "name:la" : "Franciscopolis",
+      "name:lb" : "San Francisco",
+      "census:population" : "873965;2020",
+      "name:li" : "San Francisco",
+      "name:ln" : "San Francisco",
+      "name:azb" : "سان فرانسیسکو",
+      "name:lt" : "San Fransiskas",
+      "name:lv" : "Sanfrancisko",
+      "name:cmn" : "舊金山;旧金山",
+      "name:fy" : "San Francisco",
+      "name:pam" : "San Francisco",
+      "name:haw" : "Kapalakiko",
+      "name:hak" : "San Francisco",
+      "name:ga" : "San Francisco",
+      "alt_name:cmn" : "聖弗朗西斯科;圣弗朗西斯科",
+      "name:gd" : "San Francisco",
+      "name:gl" : "San Francisco",
+      "name:pap" : "San Francisco",
+      "name:gv" : "San Francisco",
+      "name:vi" : "Cựu Kim Sơn",
+      "official_name:zh-Hant-HK" : "三藩市市縣",
+      "name:fa" : "سان فرانسیسکو",
+      "name:vo" : "San Francisco",
+      "name:fi" : "San Francisco",
+      "name:fj" : "San Francisco",
+      "name:diq" : "San Francisco",
+      "alt_name:en" : "San Fran",
+      "name" : "San Francisco",
+      "name:fr" : "San Francisco",
+      "name:fo" : "San Francisco",
+      "name:ast" : "San Francisco",
+      "alt_name:vi" : "San Francisco",
+      "official_name" : "City and County of San Francisco",
+      "name:hy" : "Սան Ֆրանցիսկո",
+      "alt_name:zh-Hant" : "聖弗朗西斯科",
+      "alt_name:zh-Hans" : "圣弗朗西斯科",
+      "name:ia" : "San Francisco",
+      "name:yo" : "San Francisco",
+      "name:id" : "San Francisco",
+      "name:ie" : "San Francisco",
+      "name:gan" : "舊金山",
+      "name:zh-Hant-TW" : "舊金山",
+      "name:war" : "San Francisco",
+      "name:io" : "San Francisco",
+      "name:it" : "San Francisco",
+      "name:is" : "San Francisco",
+      "name:zh" : "旧金山;舊金山;三藩市",
+      "name:szl" : "San Francisco",
+      "name:ha" : "San Francisco",
+      "name:chy" : "San Francisco",
+      "name:he" : "סן פרנסיסקו",
+      "name:hi" : "सैन फ़्रांसिस्को",
+      "name:yue" : "三藩市",
+      "name:ht" : "San Francisco",
+      "name:hr" : "San Francisco",
+      "name:eml" : "San Francisco",
+      "name:yi" : "סאן פראנציסקא",
+      "name:hu" : "San Francisco",
+      "name:bs" : "San Francisco",
+      "name:sk" : "San Francisco",
+      "name:sh" : "San Francisco",
+      "name:scn" : "San Franciscu",
+      "name:si" : "සැන් ෆ්‍රැන්සිස්කෝ",
+      "name:so" : "San Fransisko",
+      "name:sl" : "San Francisco",
+      "name:xmf" : "სან-ფრანცისკო",
+      "name:sr" : "Сан Франциско",
+      "name:bar" : "San Francisco",
+      "name:pms" : "San Francisco",
+      "name:ca" : "San Francisco",
+      "name:sq" : "San Francisco",
+      "name:sv" : "San Francisco",
+      "name:sw" : "San Francisco",
+      "name:ce" : "Сан-Франциско",
+      "name:cdo" : "Gô-gĭng-săng",
+      "name:co" : "San Francisco",
+      "name:sco" : "San Francisco",
+      "name:ext" : "San Franciscu",
+      "name:pnb" : "سان فرانسسکو",
+      "name:cs" : "San Francisco",
+      "name:ta" : "சான் பிரான்சிஸ்கோ",
+      "official_name:zh-Hant-TW" : "舊金山市郡",
+      "name:ar" : "سان فرانسيسكو",
+      "name:kbp" : "Sanfransiskoo",
+      "name:az" : "San-Fransisko",
+      "name:ba" : "Сан-Франциско",
+      "name:ro" : "San Francisco",
+      "name:be" : "Сан-Францыска",
+      "name:ru" : "Сан-Франциско",
+      "name:bg" : "Сан Франциско",
+      "name:bm" : "San Francisco",
+      "name:bn" : "সান ফ্রান্সিস্কো",
+      "short_name" : "SF",
+      "name:br" : "San Francisco",
+      "name:sc" : "San Francisco",
+      "name:bo" : "སན་ཧྥུ་རན་སིས་ཁོ",
+      "name:ug" : "San Fransisko",
+      "name:uk" : "Сан-Франциско",
+      "name:ur" : "سان فرانسسکو",
+      "name:arz" : "سان فرانسيسكو",
+      "name:el" : "Σαν Φρανσίσκο",
+      "name:uz" : "San Fransisko",
+      "name:en" : "San Francisco",
+      "place" : "city",
+      "name:eo" : "San-Francisko",
+      "name:et" : "San Francisco",
+      "name:eu" : "San Frantzisko",
+      "name:es" : "San Francisco",
+      "name:cv" : "Сан-Франциско",
+      "name:th" : "ซานฟรานซิสโก",
+      "name:mhr" : "Сан-Франциско",
+      "name:te" : "శాన్ ఫ్రాన్సిస్కో",
+      "name:tl" : "San Francisco",
+      "name:cy" : "San Francisco",
+      "name:stq" : "San Francisco",
+      "name:tt" : "Сан-Франциско",
+      "name:da" : "San Francisco",
+      "name:tr" : "San Francisco",
+      "name:tw" : "San Francisco",
+      "name:de" : "San Francisco",
+      "name:cmn-Hans" : "旧金山",
+      "name:cmn-Hant" : "舊金山",
+      "name:ty" : "San Francisco",
+      "name:ceb" : "San Francisco",
+      "name:oc" : "San Francisco",
+      "official_name:es" : "Ciudad y Condado de San Francisco",
+      "name:rmy" : "San Francisco",
+      "name:lrc" : "سان‌ فرانسیسکو",
+      "official_name:en" : "City and County of San Francisco",
+      "name:lad" : "San Francisco",
+      "name:vec" : "San Francisco",
+      "name:als" : "San Francisco",
+      "name:os" : "Сан-Франциско",
+      "name:ilo" : "San Francisco",
+      "name:new" : "स्यान फ्रान्सिस्को",
+      "name:vep" : "San Francisko",
+      "name:na" : "San Francisco",
+      "name:ne" : "सान फ्रान्सिस्को",
+      "name:nds" : "San Francisco",
+      "name:nn" : "San Francisco",
+      "name:nl" : "San Francisco",
+      "name:no" : "San Francisco",
+      "alt_name" : "San Fran",
+      "official_name:zh-Hant" : "舊金山市郡;三藩市市縣",
+      "official_name:zh-Hans" : "旧金山市县",
+      "name:nv" : "Naʼníʼá Hóneezí",
+      "name:hyw" : "Սան Ֆրանսիսքօ",
+      "name:sah" : "Сан Франсиско",
+      "name:krc" : "Сан-Франциско",
+      "name:qu" : "San Francisco",
+      "name:dty" : "सान फ्रान्सिस्को",
+      "name:bpy" : "সান ফ্রান্সিসকো",
+      "name:af" : "San Francisco",
+      "name:am" : "ሳን ፍራንሲስኰ",
+      "name:inh" : "Сан-Франциско",
+      "name:an" : "San Francisco",
+      "name:pa" : "ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ",
+      "name:pl" : "San Francisco",
+      "name:ps" : "سان فرانسسکو",
+      "name:pt" : "São Francisco",
+      "name:kab" : "San Francisco",
+      "name:zh-Hans" : "旧金山",
+      "name:zh-Hant" : "舊金山;三藩市",
+      "loc_name:vi" : "Xăng Phăng"
+    }
+  }, {
+    "name" : "Japantown",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "CA",
+      "is_in" : "San Francisco,California,Calif.,CA,USA",
+      "gnis:County_num" : "075",
+      "gnis:County" : "San Francisco",
+      "alt_name" : "Nihonmachi",
+      "gnis:ST_num" : "06",
+      "gnis:id" : "1655436",
+      "gnis:Class" : "Populated Place",
+      "name" : "Japantown",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "46",
+      "name:zh" : "日本城"
+    }
+  }, {
+    "name" : "Western Addition",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "06",
+      "gnis:ST_alpha" : "CA",
+      "gnis:id" : "1660151",
+      "gnis:Class" : "Populated Place",
+      "name" : "Western Addition",
+      "gnis:County_num" : "075",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "79",
+      "name:zh" : "西增区",
+      "gnis:County" : "San Francisco"
+    }
+  }, {
+    "name" : "Hayes Valley",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Hayes Valley",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Hayes Valley, San Francisco"
+    }
+  }, {
+    "name" : "Civic Center",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Civic Center",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Civic Center, San Francisco"
+    }
+  }, {
+    "name" : "Tenderloin",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Tenderloin",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Tenderloin, San Francisco"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1841929,
+    "totalVolume" : 37587444,
+    "count" : 3798,
+    "maxHeight" : 155.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 16
+  }, {
+    "type" : "tertiary",
+    "count" : 111
+  }, {
+    "type" : "light_rail",
+    "count" : 7
+  }, {
+    "type" : "residential",
+    "count" : 200
+  }, {
+    "type" : "service",
+    "count" : 583
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "motorway",
+    "count" : 4
+  }, {
+    "type" : "trunk",
+    "count" : 50
+  }, {
+    "type" : "pedestrian",
+    "count" : 25
+  }, {
+    "type" : "primary",
+    "count" : 116
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 323
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 81
+  }, {
+    "type" : "tram",
+    "count" : 5
+  }, {
+    "type" : "unclassified",
+    "count" : 5
+  }, {
+    "type" : "footway",
+    "count" : 1132
+  }, {
+    "type" : "trunk_link",
+    "count" : 3
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 7,
+    "max" : 102,
+    "diff50m" : 23
+  }
+}

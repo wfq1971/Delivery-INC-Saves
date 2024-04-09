@@ -1,0 +1,471 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.3812887
+  }, {
+    "type" : "residential",
+    "area" : 0.11019392
+  }, {
+    "type" : "retail",
+    "area" : 0.0725757
+  }, {
+    "type" : "yes",
+    "area" : 0.049908563
+  }, {
+    "type" : "park",
+    "area" : 0.021099059
+  }, {
+    "type" : "construction",
+    "area" : 0.02032107
+  }, {
+    "type" : "parking",
+    "area" : 0.014725783
+  }, {
+    "type" : "railway",
+    "area" : 0.0140764965
+  }, {
+    "type" : "grass",
+    "area" : 0.010742101
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3693
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 285
+  }, {
+    "type" : "apartments",
+    "count" : 227
+  }, {
+    "type" : "commercial",
+    "count" : 223
+  }, {
+    "type" : "restaurant",
+    "count" : 166
+  }, {
+    "type" : "bench",
+    "count" : 132
+  }, {
+    "type" : "cafe",
+    "count" : 124
+  }, {
+    "type" : "house",
+    "count" : 120
+  }, {
+    "type" : "office",
+    "count" : 118
+  }, {
+    "type" : "fast_food",
+    "count" : 100
+  }, {
+    "type" : "residential",
+    "count" : 73
+  }, {
+    "type" : "bar",
+    "count" : 66
+  }, {
+    "type" : "pub",
+    "count" : 57
+  }, {
+    "type" : "post_box",
+    "count" : 53
+  }, {
+    "type" : "telephone",
+    "count" : 48
+  }, {
+    "type" : "atm",
+    "count" : 47
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 40
+  }, {
+    "type" : "retail",
+    "count" : 33
+  }, {
+    "type" : "no",
+    "count" : 32
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 32
+  }, {
+    "type" : "vending_machine",
+    "count" : 28
+  }, {
+    "type" : "terrace",
+    "count" : 22
+  }, {
+    "type" : "church",
+    "count" : 22
+  }, {
+    "type" : "clock",
+    "count" : 17
+  }, {
+    "type" : "bank",
+    "count" : 15
+  }, {
+    "type" : "drinking_water",
+    "count" : 11
+  }, {
+    "type" : "hotel",
+    "count" : 10
+  }, {
+    "type" : "dentist",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "fountain",
+    "count" : 9
+  }, {
+    "type" : "castle",
+    "count" : 9
+  }, {
+    "type" : "clinic",
+    "count" : 9
+  }, {
+    "type" : "waste_basket",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 9
+  }, {
+    "type" : "industrial",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "post_office",
+    "count" : 7
+  }, {
+    "type" : "university",
+    "count" : 7
+  }, {
+    "type" : "pharmacy",
+    "count" : 6
+  }, {
+    "type" : "train_station",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "service",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "taxi",
+    "count" : 5
+  }, {
+    "type" : "ticket_validator",
+    "count" : 4
+  }, {
+    "type" : "doctors",
+    "count" : 4
+  }, {
+    "type" : "facade",
+    "count" : 4
+  }, {
+    "type" : "car_sharing",
+    "count" : 4
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 3
+  }, {
+    "type" : "dormitory",
+    "count" : 3
+  }, {
+    "type" : "shelter",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "greenhouse",
+    "count" : 3
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 2
+  }, {
+    "type" : "substation",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 2
+  }, {
+    "type" : "grit_bin",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "shared_office",
+    "count" : 2
+  }, {
+    "type" : "tower",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "art",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "watering_place",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "left_luggage",
+    "count" : 1
+  }, {
+    "type" : "shoe_shine",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "deli",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "musical_instrument",
+    "count" : 1
+  }, {
+    "type" : "gallery",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "hall",
+    "count" : 1
+  }, {
+    "type" : "data_center",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Tower Liberty",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Tower Liberty",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Aldgate",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Aldgate",
+      "place" : "quarter",
+      "wikipedia" : "en:Aldgate"
+    }
+  }, {
+    "name" : "Bishopsgate",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Bishopsgate",
+      "place" : "quarter",
+      "wikipedia" : "en:Bishopsgate"
+    }
+  }, {
+    "name" : "Cornhill",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Cornhill",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "East Smithfield",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "East Smithfield",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Spitalfields",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Spitalfields",
+      "place" : "quarter",
+      "wikipedia" : "en:Spitalfields"
+    }
+  }, {
+    "name" : "Mile End New Town",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Mile End New Town",
+      "place" : "locality",
+      "wikipedia" : "en:Mile End New Town"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1302832,
+    "totalVolume" : 33888009,
+    "count" : 2698,
+    "maxHeight" : 278.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 154
+  }, {
+    "type" : "tertiary",
+    "count" : 127
+  }, {
+    "type" : "light_rail",
+    "count" : 26
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 206
+  }, {
+    "type" : "service",
+    "count" : 403
+  }, {
+    "type" : "path",
+    "count" : 48
+  }, {
+    "type" : "trunk",
+    "count" : 166
+  }, {
+    "type" : "pedestrian",
+    "count" : 94
+  }, {
+    "type" : "primary",
+    "count" : 205
+  }, {
+    "type" : "subway",
+    "count" : 85
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 30
+  }, {
+    "type" : "steps",
+    "count" : 294
+  }, {
+    "type" : "rail",
+    "count" : 150
+  }, {
+    "type" : "unclassified",
+    "count" : 279
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 1394
+  }, {
+    "type" : "trunk_link",
+    "count" : 11
+  }, {
+    "type" : "primary_link",
+    "count" : 13
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 5,
+    "max" : 59,
+    "diff50m" : 19
+  }
+}

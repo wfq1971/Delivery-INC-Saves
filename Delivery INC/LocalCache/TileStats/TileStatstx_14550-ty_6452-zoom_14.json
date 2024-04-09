@@ -1,0 +1,608 @@
+{
+  "landusages" : [ {
+    "type" : "cemetery",
+    "area" : 0.07145264
+  }, {
+    "type" : "pitch",
+    "area" : 0.026365433
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.024698235
+  }, {
+    "type" : "park",
+    "area" : 0.017077567
+  }, {
+    "type" : "forest",
+    "area" : 0.016877297
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2200
+  }, {
+    "type" : "restaurant",
+    "count" : 421
+  }, {
+    "type" : "cafe",
+    "count" : 232
+  }, {
+    "type" : "apartments",
+    "count" : 108
+  }, {
+    "type" : "fast_food",
+    "count" : 74
+  }, {
+    "type" : "retail",
+    "count" : 54
+  }, {
+    "type" : "pub",
+    "count" : 54
+  }, {
+    "type" : "bar",
+    "count" : 47
+  }, {
+    "type" : "vending_machine",
+    "count" : 47
+  }, {
+    "type" : "house",
+    "count" : 46
+  }, {
+    "type" : "dentist",
+    "count" : 42
+  }, {
+    "type" : "doctors",
+    "count" : 37
+  }, {
+    "type" : "telephone",
+    "count" : 35
+  }, {
+    "type" : "commercial",
+    "count" : 31
+  }, {
+    "type" : "post_box",
+    "count" : 26
+  }, {
+    "type" : "parking",
+    "count" : 26
+  }, {
+    "type" : "pharmacy",
+    "count" : 25
+  }, {
+    "type" : "place_of_worship",
+    "count" : 20
+  }, {
+    "type" : "university",
+    "count" : 18
+  }, {
+    "type" : "school",
+    "count" : 17
+  }, {
+    "type" : "roof",
+    "count" : 17
+  }, {
+    "type" : "kindergarten",
+    "count" : 14
+  }, {
+    "type" : "toilets",
+    "count" : 13
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 12
+  }, {
+    "type" : "bank",
+    "count" : 12
+  }, {
+    "type" : "office",
+    "count" : 11
+  }, {
+    "type" : "studio",
+    "count" : 10
+  }, {
+    "type" : "clinic",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "police",
+    "count" : 8
+  }, {
+    "type" : "atm",
+    "count" : 8
+  }, {
+    "type" : "bench",
+    "count" : 7
+  }, {
+    "type" : "social_facility",
+    "count" : 7
+  }, {
+    "type" : "fuel",
+    "count" : 7
+  }, {
+    "type" : "college",
+    "count" : 7
+  }, {
+    "type" : "construction",
+    "count" : 6
+  }, {
+    "type" : "nightclub",
+    "count" : 5
+  }, {
+    "type" : "post_office",
+    "count" : 5
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "allotment_house",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "smoking_area",
+    "count" : 4
+  }, {
+    "type" : "prep_school",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "chapel",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "childcare",
+    "count" : 2
+  }, {
+    "type" : "language_school",
+    "count" : 2
+  }, {
+    "type" : "stadium",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "music_venue",
+    "count" : 1
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "exhibition_centre",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "渋谷四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "渋谷四丁目",
+      "name" : "渋谷四丁目",
+      "name:en" : "Shibuya 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しぶや4ちょうめ"
+    }
+  }, {
+    "name" : "南青山七丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山七丁目",
+      "name" : "南青山七丁目",
+      "name:en" : "Minamiaoyama 7-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま7ちょうめ"
+    }
+  }, {
+    "name" : "南青山六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山六丁目",
+      "name" : "南青山六丁目",
+      "name:en" : "Minamiaoyama 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま6ちょうめ",
+      "name:es" : "6-chome"
+    }
+  }, {
+    "name" : "神宮前五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前五丁目",
+      "name" : "神宮前五丁目",
+      "name:en" : "Jingumae 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ5ちょうめ"
+    }
+  }, {
+    "name" : "神宮前一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前一丁目",
+      "name" : "神宮前一丁目",
+      "name:en" : "Jingumae 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ1ちょうめ"
+    }
+  }, {
+    "name" : "神宮前四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前四丁目",
+      "name" : "神宮前四丁目",
+      "name:en" : "Jingumae 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ4ちょうめ"
+    }
+  }, {
+    "name" : "神宮前三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前三丁目",
+      "name" : "神宮前三丁目",
+      "name:en" : "Jingumae 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ3ちょうめ"
+    }
+  }, {
+    "name" : "南青山三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山三丁目",
+      "name" : "南青山三丁目",
+      "name:en" : "Minamiaoyama 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま3ちょうめ"
+    }
+  }, {
+    "name" : "渋谷",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "渋谷",
+      "name" : "渋谷",
+      "name:en" : "Shibuya",
+      "place" : "quarter",
+      "wikipedia" : "ja:渋谷",
+      "name:ja-Hira" : "しぶや",
+      "name:es" : "Shibuya",
+      "name:zh" : "澀谷"
+    }
+  }, {
+    "name" : "渋谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "渋谷二丁目",
+      "name" : "渋谷二丁目",
+      "name:en" : "Shibuya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しぶや2ちょうめ"
+    }
+  }, {
+    "name" : "渋谷一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "渋谷一丁目",
+      "name" : "渋谷一丁目",
+      "name:en" : "Shibuya 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しぶや1ちょうめ"
+    }
+  }, {
+    "name" : "神宮前六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前六丁目",
+      "name" : "神宮前六丁目",
+      "name:en" : "Jingumae 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ6ちょうめ"
+    }
+  }, {
+    "name" : "原宿",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "原宿",
+      "name" : "原宿",
+      "name:it" : "Harajuku",
+      "name:ja-Latn" : "Harajuku",
+      "name:fr" : "Harajuku",
+      "name:en" : "Harajuku",
+      "place" : "locality",
+      "wikipedia" : "ja:原宿",
+      "name:es" : "Harajuku",
+      "name:zh" : "原宿"
+    }
+  }, {
+    "name" : "南青山五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山五丁目",
+      "name" : "南青山五丁目",
+      "name:en" : "Minamiaoyama 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま5ちょうめ"
+    }
+  }, {
+    "name" : "西麻布四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西麻布四丁目",
+      "name" : "西麻布四丁目",
+      "name:en" : "Nishi-Azabu 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしあざぶ4ちょうめ"
+    }
+  }, {
+    "name" : "北青山三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "北青山三丁目",
+      "name" : "北青山三丁目",
+      "name:en" : "Kitaaoyama 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "きたあおやま3ちょうめ"
+    }
+  }, {
+    "name" : "南青山四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山四丁目",
+      "name" : "南青山四丁目",
+      "name:en" : "Minamiaoyama 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま4ちょうめ"
+    }
+  }, {
+    "name" : "西麻布二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西麻布二丁目",
+      "name" : "西麻布二丁目",
+      "name:en" : "Nishi-Azabu 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしあざぶ2ちょうめ"
+    }
+  }, {
+    "name" : "北青山二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "北青山二丁目",
+      "name" : "北青山二丁目",
+      "name:en" : "Kitaaoyama 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "きたあおやま2ちょうめ"
+    }
+  }, {
+    "name" : "南青山二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山二丁目",
+      "name" : "南青山二丁目",
+      "name:en" : "Minamiaoyama 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま2ちょうめ"
+    }
+  }, {
+    "name" : "神宮前二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神宮前二丁目",
+      "name" : "神宮前二丁目",
+      "name:en" : "Jingumae 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんぐうまえ2ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1485722,
+    "totalVolume" : 26622395,
+    "count" : 7638,
+    "maxHeight" : 230.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 7
+  }, {
+    "type" : "tertiary",
+    "count" : 69
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 363
+  }, {
+    "type" : "service",
+    "count" : 173
+  }, {
+    "type" : "path",
+    "count" : 32
+  }, {
+    "type" : "motorway",
+    "count" : 12
+  }, {
+    "type" : "trunk",
+    "count" : 31
+  }, {
+    "type" : "primary",
+    "count" : 32
+  }, {
+    "type" : "pedestrian",
+    "count" : 28
+  }, {
+    "type" : "subway",
+    "count" : 47
+  }, {
+    "type" : "motorway_link",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 93
+  }, {
+    "type" : "secondary_link",
+    "count" : 21
+  }, {
+    "type" : "steps",
+    "count" : 157
+  }, {
+    "type" : "rail",
+    "count" : 24
+  }, {
+    "type" : "unclassified",
+    "count" : 190
+  }, {
+    "type" : "footway",
+    "count" : 903
+  }, {
+    "type" : "trunk_link",
+    "count" : 6
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 7,
+    "max" : 94,
+    "diff50m" : 31
+  }
+}

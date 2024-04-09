@@ -1,0 +1,413 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0260242
+  }, {
+    "type" : "residential",
+    "area" : 1.0
+  }, {
+    "type" : "park",
+    "area" : 0.011055519
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1559
+  }, {
+    "type" : "restaurant",
+    "count" : 859
+  }, {
+    "type" : "apartments",
+    "count" : 729
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 396
+  }, {
+    "type" : "fast_food",
+    "count" : 220
+  }, {
+    "type" : "cafe",
+    "count" : 174
+  }, {
+    "type" : "office",
+    "count" : 125
+  }, {
+    "type" : "parking_space",
+    "count" : 119
+  }, {
+    "type" : "bench",
+    "count" : 115
+  }, {
+    "type" : "bar",
+    "count" : 108
+  }, {
+    "type" : "waste_basket",
+    "count" : 77
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 71
+  }, {
+    "type" : "bank",
+    "count" : 66
+  }, {
+    "type" : "post_box",
+    "count" : 64
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 58
+  }, {
+    "type" : "pharmacy",
+    "count" : 48
+  }, {
+    "type" : "atm",
+    "count" : 46
+  }, {
+    "type" : "school",
+    "count" : 43
+  }, {
+    "type" : "recycling",
+    "count" : 33
+  }, {
+    "type" : "pub",
+    "count" : 27
+  }, {
+    "type" : "retail",
+    "count" : 24
+  }, {
+    "type" : "college",
+    "count" : 24
+  }, {
+    "type" : "theatre",
+    "count" : 23
+  }, {
+    "type" : "vending_machine",
+    "count" : 22
+  }, {
+    "type" : "hotel",
+    "count" : 22
+  }, {
+    "type" : "parking_entrance",
+    "count" : 15
+  }, {
+    "type" : "drinking_water",
+    "count" : 15
+  }, {
+    "type" : "post_office",
+    "count" : 13
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "parking",
+    "count" : 11
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 11
+  }, {
+    "type" : "taxi",
+    "count" : 11
+  }, {
+    "type" : "toilets",
+    "count" : 10
+  }, {
+    "type" : "clock",
+    "count" : 9
+  }, {
+    "type" : "charging_station",
+    "count" : 8
+  }, {
+    "type" : "roof",
+    "count" : 8
+  }, {
+    "type" : "dentist",
+    "count" : 8
+  }, {
+    "type" : "kiosk",
+    "count" : 7
+  }, {
+    "type" : "nightclub",
+    "count" : 7
+  }, {
+    "type" : "doctors",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "place_of_worship",
+    "count" : 7
+  }, {
+    "type" : "studio",
+    "count" : 6
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "parcel_locker",
+    "count" : 6
+  }, {
+    "type" : "construction",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 5
+  }, {
+    "type" : "social_facility",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 4
+  }, {
+    "type" : "cinema",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "coworking_space",
+    "count" : 3
+  }, {
+    "type" : "car_rental",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "stripclub",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 2
+  }, {
+    "type" : "conference_centre",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "training",
+    "count" : 1
+  }, {
+    "type" : "swingerclub",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "car_sharing",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "wine_bar",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  }, {
+    "type" : "nursery",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "toy_library",
+    "count" : 1
+  }, {
+    "type" : "bunker",
+    "count" : 1
+  }, {
+    "type" : "photo_booth",
+    "count" : 1
+  }, {
+    "type" : "temple",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Sentier",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Sentier",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Opéra",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Opéra",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "9e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "IX округ",
+      "alt_name" : "IXe Arrondissement",
+      "name:ja" : "9区",
+      "name" : "9e Arrondissement",
+      "name:en" : "9th Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:9e arrondissement de Paris",
+      "addr:postcode" : "75009"
+    }
+  }, {
+    "name" : "Faubourg Montmartre",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Faubourg Montmartre",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "2e Arrondissement",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "II округ",
+      "alt_name" : "IIe Arrondissement",
+      "name:ja" : "2区",
+      "name" : "2e Arrondissement",
+      "name:en" : "2nd Arrondissement",
+      "place" : "suburb",
+      "wikipedia" : "fr:2e arrondissement de Paris",
+      "addr:postcode" : "75002"
+    }
+  }, {
+    "name" : "Faubourg Poissonnière",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Faubourg Poissonnière",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Quartier Saint-Georges",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Quartier Saint-Georges",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1696910,
+    "totalVolume" : 33716441,
+    "count" : 4574,
+    "maxHeight" : 48.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 24
+  }, {
+    "type" : "tertiary",
+    "count" : 67
+  }, {
+    "type" : "residential",
+    "count" : 253
+  }, {
+    "type" : "service",
+    "count" : 70
+  }, {
+    "type" : "primary",
+    "count" : 21
+  }, {
+    "type" : "pedestrian",
+    "count" : 82
+  }, {
+    "type" : "subway",
+    "count" : 44
+  }, {
+    "type" : "living_street",
+    "count" : 41
+  }, {
+    "type" : "secondary",
+    "count" : 67
+  }, {
+    "type" : "steps",
+    "count" : 260
+  }, {
+    "type" : "rail",
+    "count" : 37
+  }, {
+    "type" : "unclassified",
+    "count" : 17
+  }, {
+    "type" : "footway",
+    "count" : 575
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 38,
+    "max" : 66,
+    "diff50m" : 8
+  }
+}

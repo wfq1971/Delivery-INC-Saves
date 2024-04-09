@@ -1,0 +1,145 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.19623588
+  }, {
+    "type" : "railway",
+    "area" : 0.10130206
+  }, {
+    "type" : "commercial",
+    "area" : 0.065585524
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.028730277
+  }, {
+    "type" : "park",
+    "area" : 0.025202764
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 547
+  }, {
+    "type" : "restaurant",
+    "count" : 18
+  }, {
+    "type" : "cafe",
+    "count" : 16
+  }, {
+    "type" : "bank",
+    "count" : 11
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "residential",
+    "count" : 8
+  }, {
+    "type" : "apartments",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 5
+  }, {
+    "type" : "transportation",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "建外街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "建外街道",
+      "name:en" : "Jianwai",
+      "place" : "suburb",
+      "name:zh" : "建外街道",
+      "division_code" : "110105001000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 567785,
+    "totalVolume" : 12285686,
+    "count" : 554,
+    "maxHeight" : 249.9
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 45
+  }, {
+    "type" : "tertiary_link",
+    "count" : 6
+  }, {
+    "type" : "residential",
+    "count" : 57
+  }, {
+    "type" : "service",
+    "count" : 53
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "trunk",
+    "count" : 28
+  }, {
+    "type" : "subway",
+    "count" : 5
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 6
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 14
+  }, {
+    "type" : "rail",
+    "count" : 172
+  }, {
+    "type" : "unclassified",
+    "count" : 19
+  }, {
+    "type" : "footway",
+    "count" : 88
+  }, {
+    "type" : "trunk_link",
+    "count" : 47
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 30,
+    "max" : 72,
+    "diff50m" : 21
+  }
+}

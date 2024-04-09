@@ -1,0 +1,238 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.05722283
+  }, {
+    "type" : "commercial",
+    "area" : 0.033243112
+  }, {
+    "type" : "retail",
+    "area" : 0.026021725
+  }, {
+    "type" : "residential",
+    "area" : 0.023900125
+  }, {
+    "type" : "parking",
+    "area" : 0.016256705
+  }, {
+    "type" : "construction",
+    "area" : 0.013875774
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 283
+  }, {
+    "type" : "restaurant",
+    "count" : 69
+  }, {
+    "type" : "residential",
+    "count" : 63
+  }, {
+    "type" : "cafe",
+    "count" : 34
+  }, {
+    "type" : "commercial",
+    "count" : 28
+  }, {
+    "type" : "bank",
+    "count" : 22
+  }, {
+    "type" : "apartments",
+    "count" : 11
+  }, {
+    "type" : "fast_food",
+    "count" : 11
+  }, {
+    "type" : "bar",
+    "count" : 7
+  }, {
+    "type" : "transportation",
+    "count" : 7
+  }, {
+    "type" : "waste_basket",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "temporary",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "karaoke_box",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "billiards",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "public_bookcase",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "朝阳区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 0,
+    "tags" : {
+      "name:vi" : "Triều Dương",
+      "note" : "population=3922000",
+      "capital" : "6",
+      "gns:UNI" : "9336398",
+      "gns:ADM1" : "22",
+      "gns:DSG" : "ADM3",
+      "gns:UFI" : "-1900208",
+      "place:CN" : "district",
+      "name" : "朝阳区",
+      "name:fr" : "Chaoyang",
+      "name:en" : "Chaoyang",
+      "place" : "city",
+      "wikipedia" : "zh:朝阳区",
+      "name:zh-Hans" : "朝阳区",
+      "name:zh-Hant" : "朝陽區",
+      "name:zh_pinyin" : "Chaoyang Qu",
+      "name:zh" : "朝阳区"
+    }
+  }, {
+    "name" : "朝外街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "朝外街道",
+      "name:en" : "Chaowai",
+      "place" : "suburb",
+      "name:zh" : "朝外街道",
+      "division_code" : "110105002000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 804945,
+    "totalVolume" : 16384219,
+    "count" : 580,
+    "maxHeight" : 330.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 38
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 35
+  }, {
+    "type" : "service",
+    "count" : 59
+  }, {
+    "type" : "path",
+    "count" : 14
+  }, {
+    "type" : "trunk",
+    "count" : 17
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "primary",
+    "count" : 5
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 8
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 9
+  }, {
+    "type" : "unclassified",
+    "count" : 35
+  }, {
+    "type" : "footway",
+    "count" : 47
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 23,
+    "max" : 107,
+    "diff50m" : 32
+  }
+}

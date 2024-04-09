@@ -1,0 +1,601 @@
+{
+  "landusages" : [ {
+    "type" : "forest",
+    "area" : 0.05213428
+  }, {
+    "type" : "garden",
+    "area" : 0.038347665
+  }, {
+    "type" : "park",
+    "area" : 0.028327309
+  }, {
+    "type" : "pitch",
+    "area" : 0.020232521
+  }, {
+    "type" : "cemetery",
+    "area" : 0.013742523
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1911
+  }, {
+    "type" : "bench",
+    "count" : 73
+  }, {
+    "type" : "vending_machine",
+    "count" : 60
+  }, {
+    "type" : "restaurant",
+    "count" : 38
+  }, {
+    "type" : "temple",
+    "count" : 31
+  }, {
+    "type" : "place_of_worship",
+    "count" : 26
+  }, {
+    "type" : "drinking_water",
+    "count" : 21
+  }, {
+    "type" : "apartments",
+    "count" : 20
+  }, {
+    "type" : "kindergarten",
+    "count" : 18
+  }, {
+    "type" : "toilets",
+    "count" : 17
+  }, {
+    "type" : "university",
+    "count" : 16
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 16
+  }, {
+    "type" : "social_facility",
+    "count" : 15
+  }, {
+    "type" : "telephone",
+    "count" : 15
+  }, {
+    "type" : "commercial",
+    "count" : 13
+  }, {
+    "type" : "dormitory",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "clock",
+    "count" : 11
+  }, {
+    "type" : "fast_food",
+    "count" : 11
+  }, {
+    "type" : "school",
+    "count" : 11
+  }, {
+    "type" : "post_box",
+    "count" : 9
+  }, {
+    "type" : "parking",
+    "count" : 9
+  }, {
+    "type" : "post_office",
+    "count" : 8
+  }, {
+    "type" : "dentist",
+    "count" : 8
+  }, {
+    "type" : "cafe",
+    "count" : 8
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "shelter",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "pub",
+    "count" : 5
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "shower",
+    "count" : 4
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "pharmacy",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "prep_school",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "greenhouse",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "detached",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "water_point",
+    "count" : 2
+  }, {
+    "type" : "shrine",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "carport",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "public_building",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "関口二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "関口二丁目",
+      "name" : "関口二丁目",
+      "name:en" : "Sekiguchi 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せきぐち2ちょうめ"
+    }
+  }, {
+    "name" : "小日向三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小日向三丁目",
+      "name" : "小日向三丁目",
+      "name:en" : "Kohinata 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こひなた3ちょうめ"
+    }
+  }, {
+    "name" : "大塚五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚五丁目",
+      "name" : "大塚五丁目",
+      "name:en" : "Otsuka 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか5ちょうめ"
+    }
+  }, {
+    "name" : "小石川五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小石川五丁目",
+      "name" : "小石川五丁目",
+      "name:en" : "Koishikawa 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こいしかわ5ちょうめ"
+    }
+  }, {
+    "name" : "南大塚二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南大塚二丁目",
+      "name" : "南大塚二丁目",
+      "name:en" : "Minami-Otsuka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみおおつか2ちょうめ"
+    }
+  }, {
+    "name" : "関口三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "関口三丁目",
+      "name" : "関口三丁目",
+      "name:en" : "Sekiguchi 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せきぐち3ちょうめ"
+    }
+  }, {
+    "name" : "音羽一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "音羽一丁目",
+      "name" : "音羽一丁目",
+      "name:en" : "Otowa 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おとわ1ちょうめ"
+    }
+  }, {
+    "name" : "目白台三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "目白台三丁目",
+      "name" : "目白台三丁目",
+      "name:en" : "Mejirodai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "めじろだい3ちょうめ"
+    }
+  }, {
+    "name" : "大塚六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚六丁目",
+      "name" : "大塚六丁目",
+      "name:en" : "Otsuka 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか6ちょうめ"
+    }
+  }, {
+    "name" : "大塚四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚四丁目",
+      "name" : "大塚四丁目",
+      "name:en" : "Otsuka 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか4ちょうめ"
+    }
+  }, {
+    "name" : "南大塚一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南大塚一丁目",
+      "name" : "南大塚一丁目",
+      "name:en" : "Minami-Otsuka 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみおおつか1ちょうめ"
+    }
+  }, {
+    "name" : "春日二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "春日二丁目",
+      "name" : "春日二丁目",
+      "name:en" : "Kasuga 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かすが2ちょうめ"
+    }
+  }, {
+    "name" : "小日向一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小日向一丁目",
+      "name" : "小日向一丁目",
+      "name:en" : "Kohinata 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こひなた1ちょうめ"
+    }
+  }, {
+    "name" : "小日向四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小日向四丁目",
+      "name" : "小日向四丁目",
+      "name:en" : "Kohinata 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こひなた4ちょうめ"
+    }
+  }, {
+    "name" : "小石川四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小石川四丁目",
+      "name" : "小石川四丁目",
+      "name:en" : "Koishikawa 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こいしかわ4ちょうめ"
+    }
+  }, {
+    "name" : "大塚一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚一丁目",
+      "name" : "大塚一丁目",
+      "name:en" : "Otsuka 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか1ちょうめ"
+    }
+  }, {
+    "name" : "白山三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "白山三丁目",
+      "name" : "白山三丁目",
+      "name:en" : "Hakusan 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "はくさん3ちょうめ"
+    }
+  }, {
+    "name" : "千石二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千石二丁目",
+      "name" : "千石二丁目",
+      "name:en" : "Sengoku 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんごく2ちょうめ"
+    }
+  }, {
+    "name" : "小日向二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "小日向二丁目",
+      "name" : "小日向二丁目",
+      "name:en" : "Kohinata 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こひなた2ちょうめ"
+    }
+  }, {
+    "name" : "音羽二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "音羽二丁目",
+      "name" : "音羽二丁目",
+      "name:en" : "Otowa 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おとわ2ちょうめ"
+    }
+  }, {
+    "name" : "大塚二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚二丁目",
+      "name" : "大塚二丁目",
+      "name:en" : "Otsuka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか2ちょうめ"
+    }
+  }, {
+    "name" : "大塚三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "大塚三丁目",
+      "name" : "大塚三丁目",
+      "name:en" : "Otsuka 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "おおつか3ちょうめ"
+    }
+  }, {
+    "name" : "文京区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 227902,
+    "tags" : {
+      "name:th" : "เขตบุงเกียว",
+      "name:ar" : "بونكيو، طوكيو",
+      "name:ja" : "文京区",
+      "name:uk" : "Бункьо",
+      "name:ja-Latn" : "Bunkyō-ku",
+      "name:pl" : "Bunkyō",
+      "name:ja-Hira" : "ぶんきょうく",
+      "population" : "227902",
+      "name:ru" : "Бункё",
+      "name:ko" : "분쿄구",
+      "name:de" : "Bunkyō",
+      "name:lt" : "Bunkijas",
+      "name" : "文京区",
+      "name:it" : "Bunkyo",
+      "name:fr" : "Bunkyō",
+      "population:date" : "2018",
+      "name:en" : "Bunkyo",
+      "place" : "city",
+      "wikipedia" : "ja:文京区",
+      "name:zh-Hant" : "文京區",
+      "name:es" : "Bunkyō",
+      "name:zh" : "文京區"
+    }
+  }, {
+    "name" : "千石三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千石三丁目",
+      "name" : "千石三丁目",
+      "name:en" : "Sengoku 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんごく3ちょうめ"
+    }
+  }, {
+    "name" : "千石一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "千石一丁目",
+      "name" : "千石一丁目",
+      "name:en" : "Sengoku 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "せんごく1ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1466664,
+    "totalVolume" : 15580361,
+    "count" : 12904,
+    "maxHeight" : 100.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 48
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 200
+  }, {
+    "type" : "service",
+    "count" : 480
+  }, {
+    "type" : "path",
+    "count" : 55
+  }, {
+    "type" : "motorway",
+    "count" : 2
+  }, {
+    "type" : "trunk",
+    "count" : 16
+  }, {
+    "type" : "pedestrian",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 12
+  }, {
+    "type" : "subway",
+    "count" : 40
+  }, {
+    "type" : "motorway_link",
+    "count" : 9
+  }, {
+    "type" : "secondary",
+    "count" : 32
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 83
+  }, {
+    "type" : "tram",
+    "count" : 2
+  }, {
+    "type" : "unclassified",
+    "count" : 406
+  }, {
+    "type" : "footway",
+    "count" : 516
+  }, {
+    "type" : "trunk_link",
+    "count" : 6
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 10,
+    "max" : 51,
+    "diff50m" : 14
+  }
+}

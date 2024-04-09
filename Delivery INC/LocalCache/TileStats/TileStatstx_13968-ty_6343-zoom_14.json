@@ -1,0 +1,226 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 1.0
+  }, {
+    "type" : "wood",
+    "area" : 0.24436647
+  }, {
+    "type" : "residential",
+    "area" : 0.13856697
+  }, {
+    "type" : "pitch",
+    "area" : 0.010819114
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1247
+  }, {
+    "type" : "apartments",
+    "count" : 142
+  }, {
+    "type" : "residential",
+    "count" : 87
+  }, {
+    "type" : "house",
+    "count" : 65
+  }, {
+    "type" : "terrace",
+    "count" : 42
+  }, {
+    "type" : "restaurant",
+    "count" : 26
+  }, {
+    "type" : "school",
+    "count" : 22
+  }, {
+    "type" : "university",
+    "count" : 17
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "retail",
+    "count" : 10
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "bench",
+    "count" : 10
+  }, {
+    "type" : "shelter",
+    "count" : 10
+  }, {
+    "type" : "place_of_worship",
+    "count" : 9
+  }, {
+    "type" : "cafe",
+    "count" : 9
+  }, {
+    "type" : "prep_school",
+    "count" : 7
+  }, {
+    "type" : "church",
+    "count" : 6
+  }, {
+    "type" : "fast_food",
+    "count" : 6
+  }, {
+    "type" : "fuel",
+    "count" : 6
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "civic",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "bank",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "garages",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "응암동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "응암동",
+      "name:ko-Latn" : "Eungam-dong",
+      "name:el" : "Ούνγαμ-ντονγκ",
+      "name:ja" : "鷹岩洞",
+      "name" : "응암동",
+      "name:en" : "Eungam-dong",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 402126,
+    "totalVolume" : 7116260,
+    "count" : 1684,
+    "maxHeight" : 100.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 15
+  }, {
+    "type" : "tertiary",
+    "count" : 10
+  }, {
+    "type" : "residential",
+    "count" : 600
+  }, {
+    "type" : "service",
+    "count" : 189
+  }, {
+    "type" : "path",
+    "count" : 188
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 1
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 3
+  }, {
+    "type" : "living_street",
+    "count" : 34
+  }, {
+    "type" : "secondary",
+    "count" : 25
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 14
+  }, {
+    "type" : "unclassified",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 156
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 12,
+    "max" : 218,
+    "diff50m" : 35
+  }
+}

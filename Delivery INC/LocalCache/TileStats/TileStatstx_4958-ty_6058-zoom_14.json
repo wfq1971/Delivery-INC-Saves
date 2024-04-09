@@ -1,0 +1,221 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.40634042
+  }, {
+    "type" : "yes",
+    "area" : 0.38140047
+  }, {
+    "type" : "industrial",
+    "area" : 0.2364611
+  }, {
+    "type" : "parking",
+    "area" : 0.055222355
+  }, {
+    "type" : "residential",
+    "area" : 0.054223202
+  }, {
+    "type" : "park",
+    "area" : 0.03269639
+  }, {
+    "type" : "wetland",
+    "area" : 0.02730881
+  }, {
+    "type" : "retail",
+    "area" : 0.01682148
+  }, {
+    "type" : "marina",
+    "area" : 0.01314865
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 892
+  }, {
+    "type" : "bench",
+    "count" : 80
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 14
+  }, {
+    "type" : "waste_basket",
+    "count" : 14
+  }, {
+    "type" : "restaurant",
+    "count" : 8
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "apartments",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "money_transfer",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "canopy",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "East Boston",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "25",
+      "gnis:ST_alpha" : "MA",
+      "gnis:id" : "612734",
+      "gnis:Class" : "Populated Place",
+      "name" : "East Boston",
+      "gnis:County_num" : "025",
+      "short_name" : "Eastie",
+      "place" : "suburb",
+      "wikipedia" : "en:East Boston",
+      "ele" : "3",
+      "gnis:County" : "Suffolk"
+    }
+  }, {
+    "name" : "Admirals Hill",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "25",
+      "gnis:ST_alpha" : "MA",
+      "is_in" : "Middlesex,Massachusetts,Mass.,MA,USA",
+      "gnis:id" : "1971975",
+      "gnis:Class" : "Populated Place",
+      "name" : "Admirals Hill",
+      "gnis:County_num" : "017",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "32",
+      "gnis:County" : "Middlesex"
+    }
+  }, {
+    "name" : "Waterfront",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Waterfront",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "Chelsea Square",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Chelsea Square",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 453953,
+    "totalVolume" : 5617716,
+    "count" : 1260,
+    "maxHeight" : 44.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 107
+  }, {
+    "type" : "service",
+    "count" : 192
+  }, {
+    "type" : "path",
+    "count" : 11
+  }, {
+    "type" : "motorway",
+    "count" : 5
+  }, {
+    "type" : "pedestrian",
+    "count" : 4
+  }, {
+    "type" : "motorway_link",
+    "count" : 3
+  }, {
+    "type" : "secondary",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 6
+  }, {
+    "type" : "rail",
+    "count" : 9
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "footway",
+    "count" : 494
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -14,
+    "max" : 35,
+    "diff50m" : 22
+  }
+}

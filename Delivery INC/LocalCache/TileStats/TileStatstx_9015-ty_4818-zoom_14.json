@@ -1,0 +1,274 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.35898858
+  }, {
+    "type" : "park",
+    "area" : 0.10893276
+  }, {
+    "type" : "residential",
+    "area" : 0.09269715
+  }, {
+    "type" : "forest",
+    "area" : 0.09265034
+  }, {
+    "type" : "marina",
+    "area" : 0.052467804
+  }, {
+    "type" : "commercial",
+    "area" : 0.029943665
+  }, {
+    "type" : "grass",
+    "area" : 0.015136326
+  }, {
+    "type" : "yes",
+    "area" : 0.014983212
+  }, {
+    "type" : "industrial",
+    "area" : 0.013669626
+  }, {
+    "type" : "parking",
+    "area" : 0.013315283
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 863
+  }, {
+    "type" : "bench",
+    "count" : 83
+  }, {
+    "type" : "restaurant",
+    "count" : 29
+  }, {
+    "type" : "waste_basket",
+    "count" : 24
+  }, {
+    "type" : "toilets",
+    "count" : 21
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 18
+  }, {
+    "type" : "vending_machine",
+    "count" : 17
+  }, {
+    "type" : "cafe",
+    "count" : 17
+  }, {
+    "type" : "residential",
+    "count" : 9
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "retail",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "commercial",
+    "count" : 6
+  }, {
+    "type" : "post_box",
+    "count" : 6
+  }, {
+    "type" : "museum",
+    "count" : 6
+  }, {
+    "type" : "office",
+    "count" : 5
+  }, {
+    "type" : "apartments",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "gazebo",
+    "count" : 3
+  }, {
+    "type" : "parking_space",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "kiosk",
+    "count" : 2
+  }, {
+    "type" : "industrial",
+    "count" : 2
+  }, {
+    "type" : "boat_rental",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 2
+  }, {
+    "type" : "smoking_area",
+    "count" : 2
+  }, {
+    "type" : "depot",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "sanitary_dump_station",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Skeppsholmen",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Skeppsholmen",
+      "place" : "suburb",
+      "wikipedia" : "sv:Skeppsholmen"
+    }
+  }, {
+    "name" : "Djurgårdsstaden",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Djurgårdsstaden",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Djurgårdsstaden"
+    }
+  }, {
+    "name" : "Stadskvarteren",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "usage" : "tourism",
+      "name" : "Stadskvarteren",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Galärvarvet",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name" : "Galärvarvet",
+      "place" : "locality"
+    }
+  }, {
+    "name" : "Oscarsterrassen",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "website" : "http://www.skansen.se/sv/oscarsterrassen",
+      "name" : "Oscarsterrassen",
+      "name:en" : "King Oscar’s Terrace",
+      "place" : "locality"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 242232,
+    "totalVolume" : 4210153,
+    "count" : 626,
+    "maxHeight" : 121.0
+  },
+  "roads" : [ {
+    "type" : "funicular",
+    "count" : 1
+  }, {
+    "type" : "cycleway",
+    "count" : 43
+  }, {
+    "type" : "tertiary",
+    "count" : 45
+  }, {
+    "type" : "tertiary_link",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 54
+  }, {
+    "type" : "service",
+    "count" : 62
+  }, {
+    "type" : "path",
+    "count" : 44
+  }, {
+    "type" : "pedestrian",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 49
+  }, {
+    "type" : "tram",
+    "count" : 32
+  }, {
+    "type" : "unclassified",
+    "count" : 57
+  }, {
+    "type" : "footway",
+    "count" : 438
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -1,
+    "max" : 45,
+    "diff50m" : 15
+  }
+}

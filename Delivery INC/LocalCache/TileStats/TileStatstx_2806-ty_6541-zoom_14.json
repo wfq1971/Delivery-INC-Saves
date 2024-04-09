@@ -1,0 +1,134 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.6753091
+  }, {
+    "type" : "commercial",
+    "area" : 0.029306898
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 3829
+  }, {
+    "type" : "residential",
+    "count" : 1124
+  }, {
+    "type" : "road",
+    "count" : 557
+  }, {
+    "type" : "apartments",
+    "count" : 185
+  }, {
+    "type" : "commercial",
+    "count" : 81
+  }, {
+    "type" : "retail",
+    "count" : 56
+  }, {
+    "type" : "garage",
+    "count" : 19
+  }, {
+    "type" : "garages",
+    "count" : 13
+  }, {
+    "type" : "school",
+    "count" : 10
+  }, {
+    "type" : "industrial",
+    "count" : 7
+  }, {
+    "type" : "restaurant",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 4
+  }, {
+    "type" : "warehouse",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 3
+  }, {
+    "type" : "cafe",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "pharmacy",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 1034249,
+    "totalVolume" : 8986743,
+    "count" : 5629,
+    "maxHeight" : 55.9
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 34
+  }, {
+    "type" : "residential",
+    "count" : 85
+  }, {
+    "type" : "service",
+    "count" : 217
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "primary",
+    "count" : 129
+  }, {
+    "type" : "secondary",
+    "count" : 75
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 10
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 43,
+    "max" : 82,
+    "diff50m" : 15
+  }
+}

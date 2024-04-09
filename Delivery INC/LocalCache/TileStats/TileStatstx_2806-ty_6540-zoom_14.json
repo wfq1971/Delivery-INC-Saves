@@ -1,0 +1,181 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.53449816
+  }, {
+    "type" : "commercial",
+    "area" : 0.12740126
+  }, {
+    "type" : "golf_course",
+    "area" : 0.09819588
+  }, {
+    "type" : "grass",
+    "area" : 0.03988907
+  }, {
+    "type" : "sand",
+    "area" : 0.023575101
+  }, {
+    "type" : "retail",
+    "area" : 0.01996047
+  }, {
+    "type" : "parking",
+    "area" : 0.012843868
+  } ],
+  "amenities" : [ {
+    "type" : "house",
+    "count" : 3010
+  }, {
+    "type" : "residential",
+    "count" : 813
+  }, {
+    "type" : "road",
+    "count" : 619
+  }, {
+    "type" : "apartments",
+    "count" : 593
+  }, {
+    "type" : "retail",
+    "count" : 194
+  }, {
+    "type" : "commercial",
+    "count" : 187
+  }, {
+    "type" : "garages",
+    "count" : 117
+  }, {
+    "type" : "industrial",
+    "count" : 100
+  }, {
+    "type" : "garage",
+    "count" : 34
+  }, {
+    "type" : "restaurant",
+    "count" : 24
+  }, {
+    "type" : "school",
+    "count" : 17
+  }, {
+    "type" : "warehouse",
+    "count" : 16
+  }, {
+    "type" : "cafe",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "semidetached_house",
+    "count" : 6
+  }, {
+    "type" : "fuel",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 5
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 4
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Hancock Park",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "06",
+      "gnis:ST_alpha" : "CA",
+      "gnis:id" : "1732781",
+      "gnis:Class" : "Populated Place",
+      "name" : "Hancock Park",
+      "gnis:County_num" : "037",
+      "place" : "quarter",
+      "wikipedia" : "en:Hancock Park, Los Angeles",
+      "ele" : "64",
+      "gnis:County" : "Los Angeles"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1259722,
+    "totalVolume" : 10897274,
+    "count" : 5543,
+    "maxHeight" : 48.5
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 30
+  }, {
+    "type" : "residential",
+    "count" : 99
+  }, {
+    "type" : "service",
+    "count" : 313
+  }, {
+    "type" : "path",
+    "count" : 22
+  }, {
+    "type" : "primary",
+    "count" : 28
+  }, {
+    "type" : "secondary",
+    "count" : 121
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 3
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 66,
+    "max" : 95,
+    "diff50m" : 8
+  }
+}

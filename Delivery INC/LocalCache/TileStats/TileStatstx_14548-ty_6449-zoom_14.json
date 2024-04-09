@@ -1,0 +1,585 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.04767466
+  }, {
+    "type" : "pitch",
+    "area" : 0.017315783
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.011439715
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1841
+  }, {
+    "type" : "apartments",
+    "count" : 129
+  }, {
+    "type" : "bench",
+    "count" : 83
+  }, {
+    "type" : "restaurant",
+    "count" : 76
+  }, {
+    "type" : "house",
+    "count" : 65
+  }, {
+    "type" : "place_of_worship",
+    "count" : 27
+  }, {
+    "type" : "social_facility",
+    "count" : 24
+  }, {
+    "type" : "kindergarten",
+    "count" : 21
+  }, {
+    "type" : "dentist",
+    "count" : 18
+  }, {
+    "type" : "pub",
+    "count" : 17
+  }, {
+    "type" : "pharmacy",
+    "count" : 15
+  }, {
+    "type" : "toilets",
+    "count" : 13
+  }, {
+    "type" : "doctors",
+    "count" : 12
+  }, {
+    "type" : "cafe",
+    "count" : 11
+  }, {
+    "type" : "hospital",
+    "count" : 10
+  }, {
+    "type" : "waste_basket",
+    "count" : 10
+  }, {
+    "type" : "post_box",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "drinking_water",
+    "count" : 7
+  }, {
+    "type" : "telephone",
+    "count" : 7
+  }, {
+    "type" : "vending_machine",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "bar",
+    "count" : 6
+  }, {
+    "type" : "community_centre",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "bank",
+    "count" : 6
+  }, {
+    "type" : "shower",
+    "count" : 5
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "garage",
+    "count" : 5
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "college",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 3
+  }, {
+    "type" : "temple",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "retail",
+    "count" : 2
+  }, {
+    "type" : "gambling",
+    "count" : 2
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "supermarket",
+    "count" : 1
+  }, {
+    "type" : "sports_hall",
+    "count" : 1
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "沼袋二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "沼袋二丁目",
+      "name" : "沼袋二丁目",
+      "name:en" : "Numabukuro 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぬまぶくろ2ちょうめ"
+    }
+  }, {
+    "name" : "江古田二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "江古田二丁目",
+      "is_in" : "江古田 (Egota)",
+      "name" : "江古田二丁目",
+      "name:en" : "Egota 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "えごた2ちょうめ"
+    }
+  }, {
+    "name" : "松が丘二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "松が丘二丁目",
+      "name" : "松が丘二丁目",
+      "name:en" : "Matsugaoka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "まつがおか2ちょうめ"
+    }
+  }, {
+    "name" : "松が丘一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "松が丘一丁目",
+      "name" : "松が丘一丁目",
+      "name:en" : "Matsugaoka 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "まつがおか1ちょうめ"
+    }
+  }, {
+    "name" : "西落合二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西落合二丁目",
+      "name" : "西落合二丁目",
+      "name:en" : "Nishiochiai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしおちあい2ちょうめ"
+    }
+  }, {
+    "name" : "江古田一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "江古田一丁目",
+      "name" : "江古田一丁目",
+      "name:en" : "Egota 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "えごた1ちょうめ"
+    }
+  }, {
+    "name" : "西落合三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西落合三丁目",
+      "name" : "西落合三丁目",
+      "name:en" : "Nishiochiai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしおちあい3ちょうめ"
+    }
+  }, {
+    "name" : "西落合四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西落合四丁目",
+      "name" : "西落合四丁目",
+      "name:en" : "Nishiochiai 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしおちあい4ちょうめ"
+    }
+  }, {
+    "name" : "江古田三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "江古田三丁目",
+      "is_in" : "江古田 (Egota)",
+      "name" : "江古田三丁目",
+      "name:en" : "Egota 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "えごた3ちょうめ"
+    }
+  }, {
+    "name" : "新井一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井一丁目",
+      "name" : "新井一丁目",
+      "name:en" : "Arai 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらい1ちょうめ"
+    }
+  }, {
+    "name" : "新井",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井",
+      "is_in" : "中野区 (Nakano)",
+      "name" : "新井",
+      "name:en" : "Arai",
+      "name:ja_rm" : "Arai",
+      "place" : "quarter",
+      "name:ja-Hira" : "あらい1ちょうめ"
+    }
+  }, {
+    "name" : "上高田二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上高田二丁目",
+      "name" : "上高田二丁目",
+      "name:en" : "Kamitakada 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かみたかだ2ちょうめ"
+    }
+  }, {
+    "name" : "上高田",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上高田",
+      "is_in" : "中野区 (Nakano)",
+      "name" : "上高田",
+      "name:en" : "Kamitakada",
+      "name:ja_rm" : "Kamitakada",
+      "place" : "quarter",
+      "name:ja-Hira" : "かみたかだ"
+    }
+  }, {
+    "name" : "新井二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井二丁目",
+      "name" : "新井二丁目",
+      "name:en" : "Arai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらい2ちょうめ"
+    }
+  }, {
+    "name" : "新井五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井五丁目",
+      "name" : "新井五丁目",
+      "name:en" : "Arai 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらい5ちょうめ"
+    }
+  }, {
+    "name" : "上高田三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上高田三丁目",
+      "name" : "上高田三丁目",
+      "name:en" : "Kamitakada 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かみたかだ3ちょうめ"
+    }
+  }, {
+    "name" : "沼袋四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "沼袋四丁目",
+      "name" : "沼袋四丁目",
+      "name:en" : "Numabukuro 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぬまぶくろ4ちょうめ"
+    }
+  }, {
+    "name" : "中野区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 336639,
+    "tags" : {
+      "name:th" : "เขตนากาโนะ",
+      "name:ar" : "ناكانو، طوكيو",
+      "name:ja" : "中野区",
+      "name:uk" : "Накано",
+      "name:ja-Latn" : "Nakano-ku",
+      "name:pl" : "Nakano",
+      "name:ja-Hira" : "なかのく",
+      "population" : "336639",
+      "name:ru" : "Накано",
+      "name:ko" : "나카노구",
+      "name:de" : "Nakano",
+      "name:lt" : "Nakanas",
+      "name" : "中野区",
+      "name:it" : "Nakano",
+      "name:fr" : "Nakano",
+      "population:date" : "2018",
+      "name:en" : "Nakano",
+      "place" : "city",
+      "wikipedia" : "ja:中野区",
+      "name:zh-Hant" : "中野區",
+      "name:es" : "Nakano",
+      "name:zh" : "中野區"
+    }
+  }, {
+    "name" : "沼袋一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "沼袋一丁目",
+      "name" : "沼袋一丁目",
+      "name:en" : "Numabukuro 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぬまぶくろ1ちょうめ"
+    }
+  }, {
+    "name" : "豊玉南一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "豊玉南一丁目",
+      "name" : "豊玉南一丁目",
+      "name:en" : "Toyotama-minami 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とよたまみなみ1ちょうめ"
+    }
+  }, {
+    "name" : "新井三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井三丁目",
+      "name" : "新井三丁目",
+      "name:en" : "Arai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらい3ちょうめ"
+    }
+  }, {
+    "name" : "上高田四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上高田四丁目",
+      "name" : "上高田四丁目",
+      "name:en" : "Kamitakada 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かみたかだ4ちょうめ"
+    }
+  }, {
+    "name" : "沼袋三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "沼袋三丁目",
+      "name" : "沼袋三丁目",
+      "name:en" : "Numabukuro 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ぬまぶくろ3ちょうめ"
+    }
+  }, {
+    "name" : "新井四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "新井四丁目",
+      "name" : "新井四丁目",
+      "name:en" : "Arai 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あらい4ちょうめ"
+    }
+  }, {
+    "name" : "江古田四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "江古田四丁目",
+      "name" : "江古田四丁目",
+      "name:en" : "Egota 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "えごた4ちょうめ"
+    }
+  }, {
+    "name" : "江古田",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "江古田",
+      "is_in" : "中野区 (Nakano)",
+      "name" : "江古田",
+      "name:en" : "Egota",
+      "name:ja_rm" : "Egota",
+      "place" : "quarter",
+      "name:ja-Hira" : "えごた"
+    }
+  }, {
+    "name" : "上高田五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上高田五丁目",
+      "name" : "上高田五丁目",
+      "name:en" : "Kamitakada 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かみたかだ5ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1454610,
+    "totalVolume" : 14045527,
+    "count" : 12755,
+    "maxHeight" : 36.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 1
+  }, {
+    "type" : "tertiary",
+    "count" : 87
+  }, {
+    "type" : "residential",
+    "count" : 426
+  }, {
+    "type" : "service",
+    "count" : 192
+  }, {
+    "type" : "path",
+    "count" : 28
+  }, {
+    "type" : "primary",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 18
+  }, {
+    "type" : "steps",
+    "count" : 71
+  }, {
+    "type" : "rail",
+    "count" : 13
+  }, {
+    "type" : "unclassified",
+    "count" : 719
+  }, {
+    "type" : "footway",
+    "count" : 279
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 23,
+    "max" : 52,
+    "diff50m" : 8
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "landusages" : [ {
+    "type" : "parking",
+    "area" : 0.06916452
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.035534292
+  }, {
+    "type" : "park",
+    "area" : 0.016682046
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1742
+  }, {
+    "type" : "restaurant",
+    "count" : 174
+  }, {
+    "type" : "residential",
+    "count" : 93
+  }, {
+    "type" : "cafe",
+    "count" : 87
+  }, {
+    "type" : "parking",
+    "count" : 35
+  }, {
+    "type" : "pharmacy",
+    "count" : 33
+  }, {
+    "type" : "car_rental",
+    "count" : 33
+  }, {
+    "type" : "telephone",
+    "count" : 23
+  }, {
+    "type" : "shelter",
+    "count" : 20
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 20
+  }, {
+    "type" : "atm",
+    "count" : 20
+  }, {
+    "type" : "fast_food",
+    "count" : 18
+  }, {
+    "type" : "mosque",
+    "count" : 15
+  }, {
+    "type" : "bank",
+    "count" : 15
+  }, {
+    "type" : "house",
+    "count" : 13
+  }, {
+    "type" : "commercial",
+    "count" : 13
+  }, {
+    "type" : "parking_entrance",
+    "count" : 9
+  }, {
+    "type" : "terrace",
+    "count" : 9
+  }, {
+    "type" : "apartments",
+    "count" : 8
+  }, {
+    "type" : "driving_school",
+    "count" : 7
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "service",
+    "count" : 4
+  }, {
+    "type" : "ice_cream",
+    "count" : 4
+  }, {
+    "type" : "hospital",
+    "count" : 4
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "bus_station",
+    "count" : 4
+  }, {
+    "type" : "internet_cafe",
+    "count" : 3
+  }, {
+    "type" : "hotel",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "car_wash",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "nursing_home",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "الرقة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "الرقة",
+      "name" : "الرقة",
+      "name:en" : "Al Rigga",
+      "place" : "suburb",
+      "wikipedia" : "en:Al Rigga",
+      "name:ml" : "അൽ-റിഗ്ഗ"
+    }
+  }, {
+    "name" : "المرقبات",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "المرقبات",
+      "name" : "المرقبات",
+      "name:en" : "Al Muraqqabat",
+      "place" : "suburb",
+      "name:ml" : "അൽ-മുറഖബാത്ത്"
+    }
+  }, {
+    "name" : "نايف",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "نايف",
+      "name" : "نايف",
+      "name:en" : "Naif",
+      "place" : "suburb",
+      "name:ml" : "നായിഫ്"
+    }
+  }, {
+    "name" : "كورنيش ديرة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "كورنيش ديرة",
+      "name" : "كورنيش ديرة",
+      "name:en" : "Corniche Deira",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "البراحة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "البراحة",
+      "wikipedia:ar" : "البراحة",
+      "name" : "البراحة",
+      "name:fa" : "البراحه",
+      "name:en" : "Al Baraha",
+      "place" : "suburb",
+      "wikipedia" : "ar:البراحة",
+      "name:ml" : "അൽ ബറാഹ",
+      "name:ur" : "البراحہ"
+    }
+  }, {
+    "name" : "ديرة",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "ديرة",
+      "name" : "ديرة",
+      "name:en" : "Deira",
+      "place" : "town",
+      "wikipedia" : "en:Deira, Dubai",
+      "name:ml" : "ദെയ്റ",
+      "name:he" : "דעירה"
+    }
+  }, {
+    "name" : "المطينة",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "المطينة",
+      "wikipedia:ar" : "المطينة",
+      "name" : "المطينة",
+      "name:fa" : "المطینه",
+      "name:en" : "Al Muteena",
+      "place" : "suburb",
+      "wikipedia" : "ar:المطينة",
+      "name:ml" : "അൽ മത്തീന",
+      "name:ur" : "المطینہ"
+    }
+  }, {
+    "name" : "المرر",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ar" : "المرر",
+      "name" : "المرر",
+      "name:en" : "Al Murar",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1588604,
+    "totalVolume" : 21738358,
+    "count" : 2766,
+    "maxHeight" : 36.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 22
+  }, {
+    "type" : "tertiary_link",
+    "count" : 16
+  }, {
+    "type" : "residential",
+    "count" : 428
+  }, {
+    "type" : "service",
+    "count" : 590
+  }, {
+    "type" : "trunk",
+    "count" : 5
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 60
+  }, {
+    "type" : "subway",
+    "count" : 9
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 52
+  }, {
+    "type" : "secondary_link",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 11
+  }, {
+    "type" : "unclassified",
+    "count" : 16
+  }, {
+    "type" : "footway",
+    "count" : 432
+  }, {
+    "type" : "trunk_link",
+    "count" : 6
+  }, {
+    "type" : "primary_link",
+    "count" : 55
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -15,
+    "max" : 38,
+    "diff50m" : 23
+  }
+}

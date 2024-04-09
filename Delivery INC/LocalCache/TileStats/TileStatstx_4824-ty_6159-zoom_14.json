@@ -1,0 +1,536 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.044165682
+  }, {
+    "type" : "residential",
+    "area" : 0.022627011
+  }, {
+    "type" : "yes",
+    "area" : 0.019116905
+  }, {
+    "type" : "parking",
+    "area" : 0.010131959
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3563
+  }, {
+    "type" : "apartments",
+    "count" : 1559
+  }, {
+    "type" : "restaurant",
+    "count" : 624
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 554
+  }, {
+    "type" : "bench",
+    "count" : 272
+  }, {
+    "type" : "cafe",
+    "count" : 176
+  }, {
+    "type" : "bar",
+    "count" : 149
+  }, {
+    "type" : "fast_food",
+    "count" : 139
+  }, {
+    "type" : "waste_basket",
+    "count" : 130
+  }, {
+    "type" : "retail",
+    "count" : 59
+  }, {
+    "type" : "university",
+    "count" : 54
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 50
+  }, {
+    "type" : "pharmacy",
+    "count" : 50
+  }, {
+    "type" : "bank",
+    "count" : 46
+  }, {
+    "type" : "post_box",
+    "count" : 40
+  }, {
+    "type" : "drinking_water",
+    "count" : 38
+  }, {
+    "type" : "school",
+    "count" : 35
+  }, {
+    "type" : "pub",
+    "count" : 32
+  }, {
+    "type" : "ice_cream",
+    "count" : 28
+  }, {
+    "type" : "office",
+    "count" : 28
+  }, {
+    "type" : "place_of_worship",
+    "count" : 25
+  }, {
+    "type" : "theatre",
+    "count" : 24
+  }, {
+    "type" : "church",
+    "count" : 23
+  }, {
+    "type" : "hotel",
+    "count" : 17
+  }, {
+    "type" : "vending_machine",
+    "count" : 15
+  }, {
+    "type" : "residential",
+    "count" : 13
+  }, {
+    "type" : "toilets",
+    "count" : 13
+  }, {
+    "type" : "atm",
+    "count" : 13
+  }, {
+    "type" : "clinic",
+    "count" : 10
+  }, {
+    "type" : "community_centre",
+    "count" : 9
+  }, {
+    "type" : "dentist",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 9
+  }, {
+    "type" : "civic",
+    "count" : 9
+  }, {
+    "type" : "fire_station",
+    "count" : 7
+  }, {
+    "type" : "social_facility",
+    "count" : 7
+  }, {
+    "type" : "parking",
+    "count" : 7
+  }, {
+    "type" : "arts_centre",
+    "count" : 7
+  }, {
+    "type" : "marketplace",
+    "count" : 7
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "kindergarten",
+    "count" : 5
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "public_bookcase",
+    "count" : 5
+  }, {
+    "type" : "bus_station",
+    "count" : 5
+  }, {
+    "type" : "dormitory",
+    "count" : 5
+  }, {
+    "type" : "nightclub",
+    "count" : 4
+  }, {
+    "type" : "service",
+    "count" : 4
+  }, {
+    "type" : "events_venue",
+    "count" : 4
+  }, {
+    "type" : "cinema",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "telephone",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "religious",
+    "count" : 3
+  }, {
+    "type" : "studio",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "police",
+    "count" : 3
+  }, {
+    "type" : "synagogue",
+    "count" : 2
+  }, {
+    "type" : "courthouse",
+    "count" : 2
+  }, {
+    "type" : "parking_space",
+    "count" : 2
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "relay_box",
+    "count" : 2
+  }, {
+    "type" : "fortune_teller",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "dojo",
+    "count" : 2
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "money_transfer",
+    "count" : 2
+  }, {
+    "type" : "karaoke",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "polling_station",
+    "count" : 1
+  }, {
+    "type" : "graphic_design",
+    "count" : 1
+  }, {
+    "type" : "give_box",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "animal_shelter",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "printer",
+    "count" : 1
+  }, {
+    "type" : "swingerclub",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "toy_library",
+    "count" : 1
+  }, {
+    "type" : "prison",
+    "count" : 1
+  }, {
+    "type" : "cafe;bar",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "postal_relay_box",
+    "count" : 1
+  }, {
+    "type" : "mosque",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Chinatown",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Чайнатаун",
+      "alt_name" : "曼哈頓華埠",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "946588",
+      "gnis:Class" : "Populated Place",
+      "name" : "Chinatown",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Chinatown, Manhattan",
+      "name:zh-Hans" : "唐人街",
+      "name:zh-Hant" : "中國城",
+      "ele" : "12",
+      "name:zh" : "唐人街;華埠;中國城"
+    }
+  }, {
+    "name" : "SoHo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "tourism" : "attraction",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Сохо",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2045148",
+      "gnis:Class" : "Populated Place",
+      "name" : "SoHo",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:SoHo, Manhattan",
+      "name:zh-Hant" : "蘇活區",
+      "ele" : "9",
+      "name:zh" : "苏活区"
+    }
+  }, {
+    "name" : "NoHo",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Нохо",
+      "name" : "NoHo",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:NoHo, Manhattan"
+    }
+  }, {
+    "name" : "Lower East Side",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Лауэр-Ист-Сайд",
+      "alt_name" : "LES",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062661",
+      "gnis:Class" : "Populated Place",
+      "name" : "Lower East Side",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "ele" : "10"
+    }
+  }, {
+    "name" : "University Village",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "36",
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:id" : "2082838",
+      "gnis:Class" : "Populated Place",
+      "name" : "University Village",
+      "gnis:County_num" : "061",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:University Village (Manhattan)",
+      "ele" : "8",
+      "gnis:County" : "New York"
+    }
+  }, {
+    "name" : "Washington Square Village",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "36",
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:id" : "2082837",
+      "gnis:Class" : "Populated Place",
+      "name" : "Washington Square Village",
+      "gnis:County_num" : "061",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Washington Square Village",
+      "ele" : "10",
+      "gnis:County" : "New York"
+    }
+  }, {
+    "name" : "Little Italy",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "addr:state" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "alt_name:ru" : "Маленькая Италия",
+      "addr:city" : "New York",
+      "gnis:County" : "New York",
+      "name:ru" : "Литл-Итали",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062660",
+      "gnis:Class" : "Populated Place",
+      "name" : "Little Italy",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Little Italy, Manhattan",
+      "ele" : "11"
+    }
+  }, {
+    "name" : "East Village",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_alpha" : "NY",
+      "is_in" : "New York,New York,N.Y.,NY,USA",
+      "gnis:County_num" : "061",
+      "gnis:County" : "New York",
+      "name:ru" : "Ист-Виллидж",
+      "gnis:ST_num" : "36",
+      "gnis:id" : "2062664",
+      "gnis:Class" : "Populated Place",
+      "name" : "East Village",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:East Village, Manhattan",
+      "ele" : "10"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1674313,
+    "totalVolume" : 44045676,
+    "count" : 5662,
+    "maxHeight" : 179.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 25
+  }, {
+    "type" : "tertiary",
+    "count" : 7
+  }, {
+    "type" : "residential",
+    "count" : 286
+  }, {
+    "type" : "service",
+    "count" : 130
+  }, {
+    "type" : "path",
+    "count" : 2
+  }, {
+    "type" : "motorway",
+    "count" : 5
+  }, {
+    "type" : "trunk",
+    "count" : 23
+  }, {
+    "type" : "pedestrian",
+    "count" : 18
+  }, {
+    "type" : "primary",
+    "count" : 246
+  }, {
+    "type" : "subway",
+    "count" : 152
+  }, {
+    "type" : "motorway_link",
+    "count" : 1
+  }, {
+    "type" : "secondary",
+    "count" : 97
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 60
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 2501
+  }, {
+    "type" : "trunk_link",
+    "count" : 2
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 5,
+    "max" : 53,
+    "diff50m" : 17
+  }
+}

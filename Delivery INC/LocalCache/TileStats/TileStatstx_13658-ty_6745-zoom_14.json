@@ -1,0 +1,270 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 0.50673914
+  }, {
+    "type" : "wood",
+    "area" : 0.32673296
+  }, {
+    "type" : "residential",
+    "area" : 0.17165042
+  }, {
+    "type" : "park",
+    "area" : 0.018018376
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.0123325605
+  }, {
+    "type" : "pitch",
+    "area" : 0.011994501
+  }, {
+    "type" : "commercial",
+    "area" : 0.011879695
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 503
+  }, {
+    "type" : "road",
+    "count" : 420
+  }, {
+    "type" : "apartments",
+    "count" : 225
+  }, {
+    "type" : "restaurant",
+    "count" : 204
+  }, {
+    "type" : "college",
+    "count" : 149
+  }, {
+    "type" : "school",
+    "count" : 129
+  }, {
+    "type" : "public_building",
+    "count" : 105
+  }, {
+    "type" : "clinic",
+    "count" : 79
+  }, {
+    "type" : "atm",
+    "count" : 72
+  }, {
+    "type" : "training",
+    "count" : 54
+  }, {
+    "type" : "hospital",
+    "count" : 52
+  }, {
+    "type" : "marketplace",
+    "count" : 52
+  }, {
+    "type" : "bank",
+    "count" : 44
+  }, {
+    "type" : "cafe",
+    "count" : 40
+  }, {
+    "type" : "fast_food",
+    "count" : 39
+  }, {
+    "type" : "food_court",
+    "count" : 36
+  }, {
+    "type" : "residential",
+    "count" : 31
+  }, {
+    "type" : "dormitory",
+    "count" : 28
+  }, {
+    "type" : "toilets",
+    "count" : 21
+  }, {
+    "type" : "townhall",
+    "count" : 18
+  }, {
+    "type" : "pharmacy",
+    "count" : 18
+  }, {
+    "type" : "police",
+    "count" : 14
+  }, {
+    "type" : "social_facility",
+    "count" : 13
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 12
+  }, {
+    "type" : "pub",
+    "count" : 12
+  }, {
+    "type" : "transportation",
+    "count" : 8
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "university",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 5
+  }, {
+    "type" : "library",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "玉泉社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "玉泉社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "灵隐街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "灵隐街道",
+      "name:en" : "Lingyin",
+      "place" : "town"
+    }
+  }, {
+    "name" : "古荡南区社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "古荡南区社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "古荡北区社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "古荡北区社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "古荡东区社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "古荡东区社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "庆丰社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "庆丰社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "浙大求是社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "浙大求是社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "莲花社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "莲花社区",
+      "place" : "village"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 647155,
+    "totalVolume" : 8806033,
+    "count" : 1243,
+    "maxHeight" : 30.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 4
+  }, {
+    "type" : "tertiary",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 81
+  }, {
+    "type" : "service",
+    "count" : 114
+  }, {
+    "type" : "path",
+    "count" : 71
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 14
+  }, {
+    "type" : "subway",
+    "count" : 13
+  }, {
+    "type" : "secondary",
+    "count" : 16
+  }, {
+    "type" : "steps",
+    "count" : 30
+  }, {
+    "type" : "unclassified",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 51
+  }, {
+    "type" : "primary_link",
+    "count" : 3
+  } ],
+  "elevation" : {
+    "min" : -4,
+    "max" : 175,
+    "diff50m" : 70
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

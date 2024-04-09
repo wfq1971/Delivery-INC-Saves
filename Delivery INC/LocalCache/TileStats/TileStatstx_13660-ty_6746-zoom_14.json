@@ -1,0 +1,354 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "nature_reserve",
+    "area" : 0.9553421
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.33323458
+  }, {
+    "type" : "park",
+    "area" : 0.07973868
+  }, {
+    "type" : "residential",
+    "area" : 0.047819015
+  }, {
+    "type" : "wood",
+    "area" : 0.04405339
+  }, {
+    "type" : "retail",
+    "area" : 0.029712267
+  }, {
+    "type" : "yes",
+    "area" : 0.0156044355
+  }, {
+    "type" : "commercial",
+    "area" : 0.012022274
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 1161
+  }, {
+    "type" : "restaurant",
+    "count" : 912
+  }, {
+    "type" : "road",
+    "count" : 611
+  }, {
+    "type" : "toilets",
+    "count" : 480
+  }, {
+    "type" : "public_building",
+    "count" : 377
+  }, {
+    "type" : "clinic",
+    "count" : 300
+  }, {
+    "type" : "residential",
+    "count" : 237
+  }, {
+    "type" : "food_court",
+    "count" : 192
+  }, {
+    "type" : "fast_food",
+    "count" : 177
+  }, {
+    "type" : "training",
+    "count" : 142
+  }, {
+    "type" : "pub",
+    "count" : 136
+  }, {
+    "type" : "cafe",
+    "count" : 129
+  }, {
+    "type" : "marketplace",
+    "count" : 106
+  }, {
+    "type" : "pharmacy",
+    "count" : 102
+  }, {
+    "type" : "atm",
+    "count" : 94
+  }, {
+    "type" : "hospital",
+    "count" : 93
+  }, {
+    "type" : "bank",
+    "count" : 90
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 72
+  }, {
+    "type" : "commercial",
+    "count" : 70
+  }, {
+    "type" : "school",
+    "count" : 63
+  }, {
+    "type" : "college",
+    "count" : 59
+  }, {
+    "type" : "townhall",
+    "count" : 49
+  }, {
+    "type" : "police",
+    "count" : 44
+  }, {
+    "type" : "social_facility",
+    "count" : 35
+  }, {
+    "type" : "hotel",
+    "count" : 29
+  }, {
+    "type" : "apartments",
+    "count" : 28
+  }, {
+    "type" : "library",
+    "count" : 10
+  }, {
+    "type" : "transportation",
+    "count" : 8
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 4
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "train_station",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "nightclub",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "recycling",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "劳动路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "劳动路社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "清河坊社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "清河坊社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "吴山路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "吴山路社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "青年路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "青年路社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "茅廊巷社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "茅廊巷社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "岳王路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "岳王路社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "清波街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "清波街道",
+      "name:en" : "Qingbo",
+      "place" : "town"
+    }
+  }, {
+    "name" : "定安路社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "定安路社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "湖滨街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "湖滨街道",
+      "name:en" : "Hubin",
+      "place" : "town"
+    }
+  }, {
+    "name" : "梅花碑社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "梅花碑社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "涌金门社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "涌金门社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "东平巷社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "东平巷社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "柳翠井巷社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "柳翠井巷社区",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 926206,
+    "totalVolume" : 11722473,
+    "count" : 1179,
+    "maxHeight" : 72.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 10
+  }, {
+    "type" : "tertiary",
+    "count" : 24
+  }, {
+    "type" : "residential",
+    "count" : 13
+  }, {
+    "type" : "service",
+    "count" : 132
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 13
+  }, {
+    "type" : "primary",
+    "count" : 35
+  }, {
+    "type" : "pedestrian",
+    "count" : 22
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "motorway_link",
+    "count" : 27
+  }, {
+    "type" : "secondary",
+    "count" : 58
+  }, {
+    "type" : "steps",
+    "count" : 59
+  }, {
+    "type" : "unclassified",
+    "count" : 56
+  }, {
+    "type" : "footway",
+    "count" : 146
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "elevation" : {
+    "min" : 2,
+    "max" : 58,
+    "diff50m" : 34
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK"
+}

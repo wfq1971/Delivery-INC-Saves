@@ -1,0 +1,176 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.20013846
+  }, {
+    "type" : "cemetery",
+    "area" : 0.16339536
+  }, {
+    "type" : "grass",
+    "area" : 0.09095053
+  }, {
+    "type" : "park",
+    "area" : 0.06168792
+  }, {
+    "type" : "parking",
+    "area" : 0.061348923
+  }, {
+    "type" : "industrial",
+    "area" : 0.020260619
+  }, {
+    "type" : "religious",
+    "area" : 0.017083442
+  }, {
+    "type" : "commercial",
+    "area" : 0.014030512
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1387
+  }, {
+    "type" : "terrace",
+    "count" : 104
+  }, {
+    "type" : "house",
+    "count" : 63
+  }, {
+    "type" : "apartments",
+    "count" : 55
+  }, {
+    "type" : "retail",
+    "count" : 27
+  }, {
+    "type" : "garage",
+    "count" : 21
+  }, {
+    "type" : "industrial",
+    "count" : 9
+  }, {
+    "type" : "church",
+    "count" : 7
+  }, {
+    "type" : "bench",
+    "count" : 7
+  }, {
+    "type" : "roof",
+    "count" : 6
+  }, {
+    "type" : "school",
+    "count" : 6
+  }, {
+    "type" : "shed",
+    "count" : 5
+  }, {
+    "type" : "commercial",
+    "count" : 5
+  }, {
+    "type" : "greenhouse",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "ruins",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "place_of_worship",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "restaurant",
+    "count" : 1
+  }, {
+    "type" : "storage_tank",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Elmwood Park",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Elmwood Park",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "McDougall-Hunt",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "McDougall-Hunt",
+      "place" : "neighbourhood"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 364416,
+    "totalVolume" : 4449741,
+    "count" : 836,
+    "maxHeight" : 80.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 25
+  }, {
+    "type" : "tertiary",
+    "count" : 59
+  }, {
+    "type" : "tertiary_link",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 72
+  }, {
+    "type" : "service",
+    "count" : 370
+  }, {
+    "type" : "path",
+    "count" : 40
+  }, {
+    "type" : "primary",
+    "count" : 17
+  }, {
+    "type" : "track",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 28
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 743
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 177,
+    "max" : 202,
+    "diff50m" : 12
+  }
+}

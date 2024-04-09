@@ -1,0 +1,466 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.11733748
+  }, {
+    "type" : "grass",
+    "area" : 0.04465431
+  }, {
+    "type" : "wood",
+    "area" : 0.0427796
+  }, {
+    "type" : "construction",
+    "area" : 0.025747314
+  }, {
+    "type" : "yes",
+    "area" : 0.021932015
+  }, {
+    "type" : "park",
+    "area" : 0.018630847
+  }, {
+    "type" : "parking",
+    "area" : 0.017946893
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.015960952
+  }, {
+    "type" : "commercial",
+    "area" : 0.012463042
+  } ],
+  "amenities" : [ {
+    "type" : "parking_space",
+    "count" : 729
+  }, {
+    "type" : "road",
+    "count" : 462
+  }, {
+    "type" : "public_building",
+    "count" : 220
+  }, {
+    "type" : "restaurant",
+    "count" : 217
+  }, {
+    "type" : "toilets",
+    "count" : 202
+  }, {
+    "type" : "apartments",
+    "count" : 188
+  }, {
+    "type" : "clinic",
+    "count" : 137
+  }, {
+    "type" : "fast_food",
+    "count" : 124
+  }, {
+    "type" : "atm",
+    "count" : 91
+  }, {
+    "type" : "training",
+    "count" : 90
+  }, {
+    "type" : "bank",
+    "count" : 77
+  }, {
+    "type" : "marketplace",
+    "count" : 67
+  }, {
+    "type" : "hospital",
+    "count" : 61
+  }, {
+    "type" : "transportation",
+    "count" : 39
+  }, {
+    "type" : "food_court",
+    "count" : 37
+  }, {
+    "type" : "school",
+    "count" : 35
+  }, {
+    "type" : "pub",
+    "count" : 33
+  }, {
+    "type" : "cafe",
+    "count" : 32
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 30
+  }, {
+    "type" : "pharmacy",
+    "count" : 30
+  }, {
+    "type" : "commercial",
+    "count" : 30
+  }, {
+    "type" : "townhall",
+    "count" : 25
+  }, {
+    "type" : "police",
+    "count" : 21
+  }, {
+    "type" : "library",
+    "count" : 20
+  }, {
+    "type" : "social_facility",
+    "count" : 16
+  }, {
+    "type" : "parking_entrance",
+    "count" : 13
+  }, {
+    "type" : "residential",
+    "count" : 12
+  }, {
+    "type" : "train_station",
+    "count" : 7
+  }, {
+    "type" : "veterinary",
+    "count" : 6
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "no",
+    "count" : 3
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "江汀社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "江汀社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "观音塘",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "观音塘",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "常青苑社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "常青苑社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "青荷苑社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "青荷苑社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "四季青街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "四季青街道",
+      "name:en" : "Sijiqing",
+      "place" : "town"
+    }
+  }, {
+    "name" : "杭州市",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 10360000,
+    "tags" : {
+      "gns:UNI" : "9345061",
+      "name:sk" : "Chang-čou",
+      "name:nan" : "Hâng-chiu-chhī",
+      "name:sh" : "Hangzhou",
+      "name:kg" : "Hangzhou",
+      "name:sr" : "Хангџоу",
+      "gns:UFI" : "-1908367",
+      "name:ca" : "Hangzhou",
+      "name:ki" : "Hangzhou",
+      "name:kn" : "ಹಾಂಗ್ಝೌ",
+      "name:sv" : "Hangzhou",
+      "name:ko" : "항저우시",
+      "name:kl" : "Hangzhou",
+      "name:cdo" : "Hòng-ciŭ",
+      "name:sco" : "Hangzhou",
+      "name:pnb" : "هانگژو",
+      "name:cs" : "Chang-čou",
+      "name:ta" : "காங்சூ",
+      "name:ky" : "Ханчжоу",
+      "name:ar" : "هانغتشو",
+      "name:ja" : "杭州市",
+      "gns:ADM1" : "02",
+      "name:az" : "Xançjou",
+      "name:ro" : "Hangzhou",
+      "population" : "10360000",
+      "name:be" : "Ханчжоу",
+      "name:ru" : "Ханчжоу",
+      "name:bg" : "Ханджоу",
+      "name:bn" : "হাংচৌ",
+      "name:br" : "Hangzhou",
+      "name:bo" : "ཧང་ཀྲོའུ།",
+      "name:wuu" : "杭州市",
+      "name:ug" : "خاڭجۇ شەھىر",
+      "name:uk" : "Ханчжоу",
+      "name:mg" : "Hangzhou",
+      "gns:DSG" : "ADM2",
+      "name:ml" : "ഹാങ്ഝൗ",
+      "name:ur" : "ہانگژو",
+      "name:mn" : "Ханжоу",
+      "name:el" : "Χανγκτσόου",
+      "name:mr" : "हांगचौ",
+      "name:uz" : "Xanchjou",
+      "name:my" : "ဟန်ကျိုးမြို့",
+      "name:en" : "Hangzhou",
+      "place" : "city",
+      "name:eo" : "Hangĝoŭo",
+      "wikipedia" : "en:Hangzhou",
+      "name:et" : "Hangzhou Shi",
+      "name:eu" : "Hangzhou",
+      "name:es" : "Hangzhou",
+      "name:th" : "หางโจว",
+      "name:tl" : "Hangzhou",
+      "name:la" : "Hancheum",
+      "name:da" : "Hangzhou",
+      "name:tr" : "Hangzhou",
+      "name:de" : "Hangzhou",
+      "place:CN" : "prefecture-level_city",
+      "name:lt" : "Hangdžou",
+      "old_name" : "Hangchow",
+      "name:ceb" : "Hangzhou",
+      "name:lv" : "Handžou",
+      "name:oc" : "Hangzhou",
+      "capital" : "4",
+      "name:hak" : "Hòng-chû-sṳ",
+      "name:ga" : "Hangzhou",
+      "name:als" : "Hangzhou",
+      "name:os" : "Ханчжоу",
+      "name:gl" : "Hangzhou",
+      "name:vep" : "Hančžou",
+      "name:vi" : "Hàng Châu",
+      "name:fa" : "هانگژو",
+      "name:nn" : "Hangzhou",
+      "name:nl" : "Hangzhou",
+      "name:fi" : "Hangzhou",
+      "name:no" : "Hangzhou",
+      "name" : "杭州市",
+      "name:ny" : "Hangzhou",
+      "name:fr" : "Hangzhou",
+      "name:ast" : "Hangzhou",
+      "name:ace" : "Hangzhou",
+      "name:zh_pinyin" : "Hángzhōu",
+      "name:hy" : "Հանչժոու",
+      "name:sah" : "Ханчжоу",
+      "name:ia" : "Hangzhou",
+      "name:id" : "Hangzhou",
+      "name:war" : "Hangzhou",
+      "name:qu" : "Hangzhou",
+      "name:za" : "Hangzcouh",
+      "name:af" : "Hangzhou",
+      "name:it" : "Hangzhou",
+      "name:an" : "Hangzhou",
+      "name:zh" : "杭州市",
+      "name:pa" : "ਹਾਂਙਚੋ",
+      "name:pl" : "Hangzhou",
+      "name:ha" : "Hangzhou",
+      "name:chy" : "Hangzhou",
+      "name:he" : "האנגג'ואו",
+      "name:pt" : "Hangzhou",
+      "name:hi" : "हांगझोऊ",
+      "name:yue" : "杭州",
+      "name:kaa" : "Xanchjou",
+      "population:date" : "2019-11-01",
+      "name:hr" : "Hangzhou",
+      "name:zh-Hant" : "杭州市",
+      "name:hu" : "Hangcsou"
+    }
+  }, {
+    "name" : "市民中心",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "市民中心",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "江锦社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "江锦社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "洁莲社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "洁莲社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "采荷街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "采荷街道",
+      "name:en" : "Caihe",
+      "place" : "town"
+    }
+  }, {
+    "name" : "红菱社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "红菱社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "夕照社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "夕照社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "钱杭社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "钱杭社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "荷花塘社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "荷花塘社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "城星社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "城星社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "静怡社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "静怡社区",
+      "place" : "village"
+    }
+  }, {
+    "name" : "采荷",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "采荷",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "健风社区",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "name" : "健风社区",
+      "place" : "village"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 980221,
+    "totalVolume" : 59538299,
+    "count" : 942,
+    "maxHeight" : 299.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 6
+  }, {
+    "type" : "tertiary",
+    "count" : 21
+  }, {
+    "type" : "residential",
+    "count" : 34
+  }, {
+    "type" : "service",
+    "count" : 110
+  }, {
+    "type" : "motorway",
+    "count" : 13
+  }, {
+    "type" : "primary",
+    "count" : 55
+  }, {
+    "type" : "subway",
+    "count" : 36
+  }, {
+    "type" : "motorway_link",
+    "count" : 18
+  }, {
+    "type" : "secondary",
+    "count" : 37
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 18
+  }, {
+    "type" : "unclassified",
+    "count" : 44
+  }, {
+    "type" : "footway",
+    "count" : 69
+  } ],
+  "elevation" : {
+    "min" : -6,
+    "max" : 24,
+    "diff50m" : 13
+  },
+  "countryCode" : "CN",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

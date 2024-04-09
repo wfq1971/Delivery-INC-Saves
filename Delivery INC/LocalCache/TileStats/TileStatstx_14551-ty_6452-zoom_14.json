@@ -1,0 +1,723 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.06237569
+  }, {
+    "type" : "park",
+    "area" : 0.05778902
+  }, {
+    "type" : "construction",
+    "area" : 0.036822703
+  }, {
+    "type" : "residential",
+    "area" : 0.03332353
+  }, {
+    "type" : "forest",
+    "area" : 0.028733801
+  }, {
+    "type" : "parking",
+    "area" : 0.015549587
+  }, {
+    "type" : "garden",
+    "area" : 0.013477394
+  }, {
+    "type" : "yes",
+    "area" : 0.010006761
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2536
+  }, {
+    "type" : "restaurant",
+    "count" : 462
+  }, {
+    "type" : "apartments",
+    "count" : 115
+  }, {
+    "type" : "pub",
+    "count" : 105
+  }, {
+    "type" : "cafe",
+    "count" : 103
+  }, {
+    "type" : "bar",
+    "count" : 97
+  }, {
+    "type" : "fast_food",
+    "count" : 58
+  }, {
+    "type" : "vending_machine",
+    "count" : 53
+  }, {
+    "type" : "house",
+    "count" : 53
+  }, {
+    "type" : "post_box",
+    "count" : 45
+  }, {
+    "type" : "commercial",
+    "count" : 35
+  }, {
+    "type" : "bench",
+    "count" : 34
+  }, {
+    "type" : "toilets",
+    "count" : 30
+  }, {
+    "type" : "studio",
+    "count" : 28
+  }, {
+    "type" : "residential",
+    "count" : 26
+  }, {
+    "type" : "place_of_worship",
+    "count" : 25
+  }, {
+    "type" : "office",
+    "count" : 25
+  }, {
+    "type" : "dentist",
+    "count" : 21
+  }, {
+    "type" : "retail",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 19
+  }, {
+    "type" : "telephone",
+    "count" : 17
+  }, {
+    "type" : "post_office",
+    "count" : 14
+  }, {
+    "type" : "parking_entrance",
+    "count" : 14
+  }, {
+    "type" : "parking",
+    "count" : 13
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "police",
+    "count" : 11
+  }, {
+    "type" : "kindergarten",
+    "count" : 10
+  }, {
+    "type" : "construction",
+    "count" : 10
+  }, {
+    "type" : "school",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 7
+  }, {
+    "type" : "hotel",
+    "count" : 6
+  }, {
+    "type" : "drinking_water",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "clinic",
+    "count" : 6
+  }, {
+    "type" : "smoking_area",
+    "count" : 6
+  }, {
+    "type" : "nightclub",
+    "count" : 6
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "public",
+    "count" : 5
+  }, {
+    "type" : "shrine",
+    "count" : 5
+  }, {
+    "type" : "doctors",
+    "count" : 5
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 4
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "social_facility",
+    "count" : 3
+  }, {
+    "type" : "detached",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "manufacture",
+    "count" : 2
+  }, {
+    "type" : "public_building",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "no",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 2
+  }, {
+    "type" : "veterinary",
+    "count" : 2
+  }, {
+    "type" : "conference_centre",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "convent",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "shop",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "karaoke_box",
+    "count" : 1
+  }, {
+    "type" : "waste_basket",
+    "count" : 1
+  }, {
+    "type" : "Akasaka Biz Tower",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "fixme",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "六本木六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木六丁目",
+      "name" : "六本木六丁目",
+      "name:en" : "Roppongi 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ6ちょうめ"
+    }
+  }, {
+    "name" : "麻布永坂町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Адзабу-Нагасакатё",
+      "name:ja" : "麻布永坂町",
+      "name" : "麻布永坂町",
+      "name:en" : "Azabu-Nagasakacho",
+      "name:ja_rm" : "Azabu-Nagasakachō",
+      "place" : "neighbourhood",
+      "name:es" : "Azabu-Nagasakacho",
+      "name:ja_kana" : "あざぶながさかちょう"
+    }
+  }, {
+    "name" : "六本木五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木五丁目",
+      "name" : "六本木五丁目",
+      "name:en" : "Roppongi 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ5ちょうめ"
+    }
+  }, {
+    "name" : "麻布台三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麻布台三丁目",
+      "name" : "麻布台三丁目",
+      "name:en" : "Azabudai 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あざぶだい3ちょうめ"
+    }
+  }, {
+    "name" : "麻布台",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Адзабудай",
+      "name:ja" : "麻布台",
+      "name" : "麻布台",
+      "name:en" : "Azabudai",
+      "name:ja_rm" : "Azabudai",
+      "place" : "quarter",
+      "name:ja-Hira" : "あざぶだい",
+      "name:es" : "Azabudai"
+    }
+  }, {
+    "name" : "麻布台一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麻布台一丁目",
+      "name" : "麻布台一丁目",
+      "name:en" : "Azabudai 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あざぶだい1ちょうめ"
+    }
+  }, {
+    "name" : "赤坂九丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂九丁目",
+      "name" : "赤坂九丁目",
+      "name:en" : "Akasaka 9-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか9ちょうめ"
+    }
+  }, {
+    "name" : "赤坂七丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂七丁目",
+      "name" : "赤坂七丁目",
+      "name:en" : "Akasaka 7-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか7ちょうめ"
+    }
+  }, {
+    "name" : "赤坂五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂五丁目",
+      "name" : "赤坂五丁目",
+      "name:en" : "Akasaka 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか5ちょうめ"
+    }
+  }, {
+    "name" : "虎ノ門五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "虎ノ門五丁目",
+      "name" : "虎ノ門五丁目",
+      "name:en" : "Toranomon 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とらのもん5ちょうめ"
+    }
+  }, {
+    "name" : "六本木一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木一丁目",
+      "name" : "六本木一丁目",
+      "name:en" : "Roppongi 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ1ちょうめ"
+    }
+  }, {
+    "name" : "赤坂六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂六丁目",
+      "name" : "赤坂六丁目",
+      "name:en" : "Akasaka 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか6ちょうめ"
+    }
+  }, {
+    "name" : "赤坂",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Акасака",
+      "name:ja" : "赤坂",
+      "name" : "赤坂",
+      "name:it" : "Akasaka",
+      "name:ja-Latn" : "Akasaka",
+      "name:en" : "Akasaka",
+      "place" : "quarter",
+      "name:ja-Hira" : "あかさか",
+      "name:es" : "Akasaka"
+    }
+  }, {
+    "name" : "西麻布三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西麻布三丁目",
+      "name" : "西麻布三丁目",
+      "name:en" : "Nishi-Azabu 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしあざぶ3ちょうめ"
+    }
+  }, {
+    "name" : "南青山一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "南青山一丁目",
+      "name" : "南青山一丁目",
+      "name:en" : "Minamiaoyama 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "みなみあおやま1ちょうめ"
+    }
+  }, {
+    "name" : "赤坂八丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂八丁目",
+      "name" : "赤坂八丁目",
+      "name:en" : "Akasaka 8-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか8ちょうめ"
+    }
+  }, {
+    "name" : "西麻布一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "西麻布一丁目",
+      "name" : "西麻布一丁目",
+      "name:en" : "Nishi-Azabu 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "にしあざぶ1ちょうめ"
+    }
+  }, {
+    "name" : "麻布狸穴町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Адзабу-Мамианатё",
+      "name:ja" : "麻布狸穴町",
+      "name" : "麻布狸穴町",
+      "name:en" : "Azabu-Mamianacho",
+      "name:ja_rm" : "Azabu-Mamianachō",
+      "place" : "neighbourhood",
+      "name:es" : "Azabu-Mamianacho",
+      "name:ja_kana" : "あざぶまみあなちょう"
+    }
+  }, {
+    "name" : "麻布台二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麻布台二丁目",
+      "name" : "麻布台二丁目",
+      "name:en" : "Azabudai 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あざぶだい2ちょうめ"
+    }
+  }, {
+    "name" : "六本木七丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木七丁目",
+      "name" : "六本木七丁目",
+      "name:en" : "Roppongi 7-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ7ちょうめ"
+    }
+  }, {
+    "name" : "六本木",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Роппонги",
+      "name:ja" : "六本木",
+      "name" : "六本木",
+      "name:it" : "Roppongi",
+      "name:ja-Latn" : "Roppongi",
+      "name:en" : "Roppongi",
+      "place" : "quarter",
+      "wikipedia" : "ja:六本木",
+      "name:ja-Hira" : "ろっぽんぎ"
+    }
+  }, {
+    "name" : "六本木四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木四丁目",
+      "name" : "六本木四丁目",
+      "name:en" : "Roppongi 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ4ちょうめ"
+    }
+  }, {
+    "name" : "六本木三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木三丁目",
+      "name" : "六本木三丁目",
+      "name:en" : "Roppongi 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ3ちょうめ"
+    }
+  }, {
+    "name" : "六本木二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六本木二丁目",
+      "name" : "六本木二丁目",
+      "name:en" : "Roppongi 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろっぽんぎ2ちょうめ"
+    }
+  }, {
+    "name" : "虎ノ門四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "토라노몬 4쵸메",
+      "name:ja" : "虎ノ門四丁目",
+      "name" : "虎ノ門四丁目",
+      "name:en" : "Toranomon 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とらのもん4ちょうめ"
+    }
+  }, {
+    "name" : "赤坂一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂一丁目",
+      "name" : "赤坂一丁目",
+      "name:en" : "Akasaka 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか1ちょうめ"
+    }
+  }, {
+    "name" : "赤坂二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂二丁目",
+      "name" : "赤坂二丁目",
+      "name:en" : "Akasaka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか2ちょうめ"
+    }
+  }, {
+    "name" : "赤坂四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂四丁目",
+      "name" : "赤坂四丁目",
+      "name:en" : "Akasaka 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか4ちょうめ"
+    }
+  }, {
+    "name" : "永田町二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "永田町二丁目",
+      "name" : "永田町二丁目",
+      "name:en" : "Nagatacho 2-chome",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:永田町",
+      "name:ja-Hira" : "ながたちょう2ちょうめ"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1492214,
+    "totalVolume" : 41764711,
+    "count" : 5246,
+    "maxHeight" : 333.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 4
+  }, {
+    "type" : "tertiary",
+    "count" : 111
+  }, {
+    "type" : "tertiary_link",
+    "count" : 7
+  }, {
+    "type" : "residential",
+    "count" : 249
+  }, {
+    "type" : "service",
+    "count" : 253
+  }, {
+    "type" : "path",
+    "count" : 66
+  }, {
+    "type" : "motorway",
+    "count" : 25
+  }, {
+    "type" : "trunk",
+    "count" : 21
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "primary",
+    "count" : 54
+  }, {
+    "type" : "subway",
+    "count" : 56
+  }, {
+    "type" : "motorway_link",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 92
+  }, {
+    "type" : "secondary_link",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 399
+  }, {
+    "type" : "unclassified",
+    "count" : 167
+  }, {
+    "type" : "footway",
+    "count" : 958
+  }, {
+    "type" : "trunk_link",
+    "count" : 1
+  }, {
+    "type" : "primary_link",
+    "count" : 18
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -3,
+    "max" : 61,
+    "diff50m" : 33
+  }
+}

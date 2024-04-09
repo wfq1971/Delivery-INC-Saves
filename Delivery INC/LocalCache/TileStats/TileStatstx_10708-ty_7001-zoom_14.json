@@ -1,0 +1,77 @@
+{
+  "landusages" : [ {
+    "type" : "sand",
+    "area" : 0.6655335
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.33166134
+  }, {
+    "type" : "construction",
+    "area" : 0.08563034
+  }, {
+    "type" : "marina",
+    "area" : 0.026889307
+  }, {
+    "type" : "yes",
+    "area" : 0.013930271
+  }, {
+    "type" : "parking",
+    "area" : 0.012228421
+  }, {
+    "type" : "residential",
+    "area" : 0.011305781
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 246
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  } ],
+  "places" : [ ],
+  "buildings" : {
+    "totalArea" : 325553,
+    "totalVolume" : 3030625,
+    "count" : 173,
+    "maxHeight" : 16.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 8
+  }, {
+    "type" : "service",
+    "count" : 87
+  }, {
+    "type" : "primary",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 9
+  }, {
+    "type" : "secondary_link",
+    "count" : 8
+  }, {
+    "type" : "unclassified",
+    "count" : 98
+  }, {
+    "type" : "footway",
+    "count" : 30
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 0,
+    "max" : 0,
+    "diff50m" : 0
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.5458373
+  }, {
+    "type" : "commercial",
+    "area" : 0.11378341
+  }, {
+    "type" : "yes",
+    "area" : 0.03146737
+  }, {
+    "type" : "park",
+    "area" : 0.030661065
+  }, {
+    "type" : "railway",
+    "area" : 0.02603577
+  }, {
+    "type" : "religious",
+    "area" : 0.02551251
+  }, {
+    "type" : "village_green",
+    "area" : 0.02481563
+  }, {
+    "type" : "retail",
+    "area" : 0.01845654
+  }, {
+    "type" : "institutional",
+    "area" : 0.012769012
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.012399848
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3176
+  }, {
+    "type" : "residential",
+    "count" : 1154
+  }, {
+    "type" : "restaurant",
+    "count" : 492
+  }, {
+    "type" : "bench",
+    "count" : 381
+  }, {
+    "type" : "civic",
+    "count" : 284
+  }, {
+    "type" : "cafe",
+    "count" : 205
+  }, {
+    "type" : "bar",
+    "count" : 135
+  }, {
+    "type" : "atm",
+    "count" : 126
+  }, {
+    "type" : "vending_machine",
+    "count" : 117
+  }, {
+    "type" : "fast_food",
+    "count" : 98
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 95
+  }, {
+    "type" : "apartments",
+    "count" : 79
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 70
+  }, {
+    "type" : "toilets",
+    "count" : 46
+  }, {
+    "type" : "clock",
+    "count" : 43
+  }, {
+    "type" : "theatre",
+    "count" : 39
+  }, {
+    "type" : "office",
+    "count" : 38
+  }, {
+    "type" : "bank",
+    "count" : 38
+  }, {
+    "type" : "pub",
+    "count" : 33
+  }, {
+    "type" : "hotel",
+    "count" : 32
+  }, {
+    "type" : "post_box",
+    "count" : 32
+  }, {
+    "type" : "transportation",
+    "count" : 32
+  }, {
+    "type" : "industrial",
+    "count" : 31
+  }, {
+    "type" : "garage",
+    "count" : 28
+  }, {
+    "type" : "pharmacy",
+    "count" : 26
+  }, {
+    "type" : "church",
+    "count" : 23
+  }, {
+    "type" : "recycling",
+    "count" : 22
+  }, {
+    "type" : "school",
+    "count" : 21
+  }, {
+    "type" : "waste_basket",
+    "count" : 21
+  }, {
+    "type" : "roof",
+    "count" : 20
+  }, {
+    "type" : "nightclub",
+    "count" : 19
+  }, {
+    "type" : "commercial",
+    "count" : 19
+  }, {
+    "type" : "retail",
+    "count" : 19
+  }, {
+    "type" : "parking_entrance",
+    "count" : 18
+  }, {
+    "type" : "drinking_water",
+    "count" : 18
+  }, {
+    "type" : "service",
+    "count" : 17
+  }, {
+    "type" : "government",
+    "count" : 15
+  }, {
+    "type" : "fountain",
+    "count" : 15
+  }, {
+    "type" : "university",
+    "count" : 13
+  }, {
+    "type" : "ice_cream",
+    "count" : 12
+  }, {
+    "type" : "shelter",
+    "count" : 11
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "charging_station",
+    "count" : 8
+  }, {
+    "type" : "cinema",
+    "count" : 8
+  }, {
+    "type" : "car_rental",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "synagogue",
+    "count" : 7
+  }, {
+    "type" : "library",
+    "count" : 7
+  }, {
+    "type" : "police",
+    "count" : 6
+  }, {
+    "type" : "taxi",
+    "count" : 6
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "parcel_locker",
+    "count" : 5
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "casino",
+    "count" : 4
+  }, {
+    "type" : "brothel",
+    "count" : 4
+  }, {
+    "type" : "arts_centre",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "marketplace",
+    "count" : 3
+  }, {
+    "type" : "house",
+    "count" : 3
+  }, {
+    "type" : "chapel",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "train_station",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "stripclub",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "warehouse",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "public_bath",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "townhall",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "stock_exchange",
+    "count" : 1
+  }, {
+    "type" : "car_pooling",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "basilica",
+    "count" : 1
+  }, {
+    "type" : "gambling",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "luggage",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "concert_hall",
+    "count" : 1
+  }, {
+    "type" : "locker",
+    "count" : 1
+  }, {
+    "type" : "elevator",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Staré Město",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:pl" : "Stare Miasto",
+      "name:da" : "Den Gamle By",
+      "name:nl" : "Oude Stad",
+      "name:be" : "Стары горад",
+      "name:ru" : "Старый город",
+      "name:pt" : "Cidade Velha",
+      "name:de" : "Altstadt",
+      "name" : "Staré Město",
+      "name:it" : "Città Vecchia",
+      "name:fr" : "Vieille Ville",
+      "name:en" : "Old Town",
+      "place" : "suburb",
+      "name:eo" : "Malnova Urbo",
+      "wikipedia" : "cs:Staré Město (Praha)",
+      "name:cs" : "Staré Město",
+      "name:hu" : "Óváros",
+      "name:es" : "Ciudad Vieja",
+      "ref:cobe" : "400017"
+    }
+  }, {
+    "name" : "Josefov",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:be" : "Юзэфаў",
+      "name:ru" : "Йозефов",
+      "name:de" : "Josefstadt",
+      "old_name" : "Židovské město",
+      "name:etymology:wikipedia" : "cs:Josef II.",
+      "name" : "Josefov",
+      "place" : "suburb",
+      "wikipedia" : "cs:Josefov (Praha)",
+      "name:cs" : "Josefov",
+      "name:etymology:wikidata" : "Q76555",
+      "name:etymology" : "Josef II.",
+      "ref:cobe" : "127001"
+    }
+  }, {
+    "name" : "Praha",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 1275406,
+    "tags" : {
+      "name:bs" : "Prag",
+      "name:se" : "Praha",
+      "name:sk" : "Praha",
+      "name:nan" : "Praha",
+      "name:sh" : "Prag",
+      "name:ka" : "პრაღა",
+      "name:nap" : "Praga",
+      "name:sl" : "Praga",
+      "name:sr" : "Праг",
+      "ISO3166-2" : "CZ-PR",
+      "name:kk" : "Прага",
+      "name:pms" : "Praga",
+      "name:ca" : "Praga",
+      "name:sq" : "Praga",
+      "name:nah" : "Praha",
+      "name:kn" : "ಪ್ರಾಗ",
+      "name:sv" : "Prag",
+      "name:ko" : "프라하",
+      "name:sw" : "Praha",
+      "name:kl" : "Praha",
+      "name:nrm" : "Prague",
+      "name:roa-tara" : "Praghe",
+      "name:kv" : "Прага",
+      "name:co" : "Praga",
+      "name:kw" : "Praha",
+      "name:sco" : "Prague",
+      "name:ku" : "Prag",
+      "name:ext" : "Praga",
+      "name:pnb" : "پراگ",
+      "name:cs" : "Praha",
+      "name:ta" : "பிராகா",
+      "name:ky" : "Прага",
+      "name:ar" : "براغ",
+      "name:ckb" : "پراگ",
+      "name:ja" : "プラハ",
+      "name:zu" : "IPraha",
+      "name:az" : "Praqa",
+      "name:csb" : "Praga",
+      "name:ro" : "Praga",
+      "population" : "1275406",
+      "name:be" : "Прага",
+      "name:ru" : "Прага",
+      "name:bg" : "Прага",
+      "name:lmo" : "Praga",
+      "name:bn" : "প্রাগ",
+      "name:jv" : "Praha",
+      "name:be-tarask" : "Прага",
+      "name:br" : "Praha",
+      "name:sc" : "Praga",
+      "name:bo" : "པུ་ལ་ཁེ།",
+      "name:ug" : "پراگا",
+      "name:uk" : "Прага",
+      "name:mi" : "Prague",
+      "name:arc" : "ܦܪܐܓ",
+      "name:ml" : "പ്രാഗ്",
+      "name:ee" : "Prague",
+      "name:ur" : "پراگ",
+      "name:mk" : "Прага",
+      "name:mn" : "Прага",
+      "name:arz" : "براج",
+      "name:el" : "Πράγα",
+      "name:mt" : "Praga",
+      "name:mr" : "प्राग",
+      "name:uz" : "Praga",
+      "name:ms" : "Praha",
+      "name:sr-Latn" : "Prag",
+      "name:my" : "ပရက်ဂ်မြို့",
+      "name:en" : "Prague",
+      "place" : "city",
+      "name:eo" : "Prago",
+      "name:mzn" : "پراگ",
+      "wikipedia" : "cs:Praha",
+      "name:et" : "Praha",
+      "name:eu" : "Praga",
+      "name:es" : "Praga",
+      "name:cv" : "Прага",
+      "name:tg" : "Прага",
+      "name:th" : "ปราก",
+      "name:jbo" : "pragas",
+      "name:mhr" : "Прага",
+      "website" : "http://www.praha.eu/",
+      "name:cu" : "Прага",
+      "name:tl" : "Praga",
+      "name:la" : "Praga",
+      "name:cy" : "Prag",
+      "name:lb" : "Prag",
+      "name:stq" : "Praag",
+      "name:tt" : "Праһа",
+      "name:vro" : "Praha",
+      "name:da" : "Prag",
+      "name:li" : "Praag",
+      "name:tr" : "Prag",
+      "name:de" : "Prag",
+      "name:lt" : "Praha",
+      "name:nds-nl" : "Praag",
+      "name:lv" : "Prāga",
+      "name:fy" : "Praach",
+      "name:oc" : "Praga",
+      "capital" : "yes",
+      "name:pam" : "Prague",
+      "name:rmy" : "Praga",
+      "name:lad" : "Praga",
+      "name:ga" : "Prág",
+      "name:vec" : "Praga",
+      "name:gd" : "Pràg",
+      "name:os" : "Прагæ",
+      "name:gl" : "Praga",
+      "admin_level" : "2",
+      "name:gv" : "Praag",
+      "name:tzl" : "Praha",
+      "ele" : "192",
+      "name:na" : "Praha",
+      "name:vi" : "Praha",
+      "name:nds" : "Prag",
+      "name:fa" : "پراگ",
+      "name:nn" : "Praha",
+      "name:nl" : "Praag",
+      "name:fi" : "Praha",
+      "name:no" : "Praha",
+      "name:roa-rup" : "Praga",
+      "name:lij" : "Praga",
+      "name" : "Praha",
+      "name:fr" : "Prague",
+      "name:fo" : "Prag",
+      "name:ast" : "Praga",
+      "name:hif" : "Prague",
+      "name:bat-smg" : "Praha",
+      "name:hy" : "Պրահա",
+      "name:sah" : "Прага",
+      "name:krc" : "Прага",
+      "name:ia" : "Praga",
+      "name:yo" : "Prague",
+      "name:id" : "Praha",
+      "name:ie" : "Praha",
+      "name:pcd" : "Prague",
+      "name:nov" : "Praha",
+      "name:war" : "Praga",
+      "name:qu" : "Praha",
+      "name:af" : "Praag",
+      "name:io" : "Praha",
+      "name:it" : "Praga",
+      "name:am" : "ፕራግ",
+      "name:ak" : "Prague",
+      "name:is" : "Prag",
+      "name:an" : "Praga",
+      "name:zh" : "布拉格",
+      "name:szl" : "Praga",
+      "name:hsb" : "Praha",
+      "name:udm" : "Прага",
+      "name:pl" : "Praga",
+      "name:mdf" : "Прага",
+      "capital_ISO3166-1" : "yes",
+      "name:dsb" : "Praha",
+      "name:he" : "פראג",
+      "name:ps" : "پراګ",
+      "name:pt" : "Praga",
+      "name:hi" : "प्राग",
+      "name:yue" : "布拉格",
+      "name:gag" : "Praga",
+      "name:hr" : "Prag",
+      "name:yi" : "פראג",
+      "name:hu" : "Prága"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1440998,
+    "totalVolume" : 21553474,
+    "count" : 3036,
+    "maxHeight" : 80.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 12
+  }, {
+    "type" : "tertiary",
+    "count" : 43
+  }, {
+    "type" : "residential",
+    "count" : 462
+  }, {
+    "type" : "service",
+    "count" : 224
+  }, {
+    "type" : "path",
+    "count" : 3
+  }, {
+    "type" : "pedestrian",
+    "count" : 128
+  }, {
+    "type" : "primary",
+    "count" : 25
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 60
+  }, {
+    "type" : "living_street",
+    "count" : 53
+  }, {
+    "type" : "secondary",
+    "count" : 30
+  }, {
+    "type" : "secondary_link",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 209
+  }, {
+    "type" : "tram",
+    "count" : 80
+  }, {
+    "type" : "rail",
+    "count" : 154
+  }, {
+    "type" : "disused",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 1681
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 177,
+    "max" : 245,
+    "diff50m" : 9
+  }
+}

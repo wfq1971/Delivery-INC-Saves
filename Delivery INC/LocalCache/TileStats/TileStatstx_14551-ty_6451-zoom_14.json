@@ -1,0 +1,751 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.092863314
+  }, {
+    "type" : "forest",
+    "area" : 0.063360676
+  }, {
+    "type" : "garden",
+    "area" : 0.054901943
+  }, {
+    "type" : "park",
+    "area" : 0.03244
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.030679638
+  }, {
+    "type" : "military",
+    "area" : 0.027200602
+  }, {
+    "type" : "official_residence",
+    "area" : 0.022052003
+  }, {
+    "type" : "pitch",
+    "area" : 0.01746553
+  }, {
+    "type" : "parking",
+    "area" : 0.0137496395
+  }, {
+    "type" : "commercial",
+    "area" : 0.011833061
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1683
+  }, {
+    "type" : "restaurant",
+    "count" : 188
+  }, {
+    "type" : "pub",
+    "count" : 82
+  }, {
+    "type" : "cafe",
+    "count" : 77
+  }, {
+    "type" : "fast_food",
+    "count" : 53
+  }, {
+    "type" : "bar",
+    "count" : 39
+  }, {
+    "type" : "post_box",
+    "count" : 32
+  }, {
+    "type" : "apartments",
+    "count" : 28
+  }, {
+    "type" : "office",
+    "count" : 27
+  }, {
+    "type" : "university",
+    "count" : 24
+  }, {
+    "type" : "bench",
+    "count" : 24
+  }, {
+    "type" : "parking",
+    "count" : 23
+  }, {
+    "type" : "dentist",
+    "count" : 23
+  }, {
+    "type" : "roof",
+    "count" : 22
+  }, {
+    "type" : "telephone",
+    "count" : 19
+  }, {
+    "type" : "vending_machine",
+    "count" : 18
+  }, {
+    "type" : "pharmacy",
+    "count" : 18
+  }, {
+    "type" : "toilets",
+    "count" : 16
+  }, {
+    "type" : "temple",
+    "count" : 13
+  }, {
+    "type" : "house",
+    "count" : 13
+  }, {
+    "type" : "post_office",
+    "count" : 13
+  }, {
+    "type" : "police",
+    "count" : 11
+  }, {
+    "type" : "drinking_water",
+    "count" : 10
+  }, {
+    "type" : "commercial",
+    "count" : 9
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "kindergarten",
+    "count" : 9
+  }, {
+    "type" : "doctors",
+    "count" : 8
+  }, {
+    "type" : "studio",
+    "count" : 8
+  }, {
+    "type" : "hotel",
+    "count" : 8
+  }, {
+    "type" : "place_of_worship",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 7
+  }, {
+    "type" : "train_station",
+    "count" : 6
+  }, {
+    "type" : "college",
+    "count" : 5
+  }, {
+    "type" : "social_facility",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 5
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 5
+  }, {
+    "type" : "clinic",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 5
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "karaoke_box",
+    "count" : 4
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 4
+  }, {
+    "type" : "public_building",
+    "count" : 4
+  }, {
+    "type" : "fixme",
+    "count" : 4
+  }, {
+    "type" : "taxi",
+    "count" : 3
+  }, {
+    "type" : "shrine",
+    "count" : 3
+  }, {
+    "type" : "hospital",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "clock",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "internet_cafe",
+    "count" : 3
+  }, {
+    "type" : "parking_entrance",
+    "count" : 3
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "smoking_area",
+    "count" : 2
+  }, {
+    "type" : "public_bath",
+    "count" : 2
+  }, {
+    "type" : "waste_basket",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "garage",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "cargo",
+    "count" : 1
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "conference_centre",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "若葉三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "若葉三丁目",
+      "name" : "若葉三丁目",
+      "name:en" : "Wakaba 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わかば3ちょうめ"
+    }
+  }, {
+    "name" : "若葉二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "若葉二丁目",
+      "name" : "若葉二丁目",
+      "name:en" : "Wakaba 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わかば2ちょうめ"
+    }
+  }, {
+    "name" : "若葉一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "若葉一丁目",
+      "name" : "若葉一丁目",
+      "name:en" : "Wakaba 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "わかば1ちょうめ"
+    }
+  }, {
+    "name" : "四谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷二丁目",
+      "name" : "四谷二丁目",
+      "name:en" : "Yotsuya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつや2ちょうめ"
+    }
+  }, {
+    "name" : "四谷三栄町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷三栄町",
+      "name" : "四谷三栄町",
+      "name:en" : "Yotsuya-San-eicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつやさんえいちょう"
+    }
+  }, {
+    "name" : "九段南四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "九段南四丁目",
+      "name" : "九段南四丁目",
+      "name:en" : "Kudanminami 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "くだんみなみ4ちょうめ"
+    }
+  }, {
+    "name" : "三番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "三番町",
+      "name" : "三番町",
+      "name:en" : "Sanbancho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "さんばんちょう"
+    }
+  }, {
+    "name" : "九段南三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "九段南三丁目",
+      "name" : "九段南三丁目",
+      "name:en" : "Kudanminami 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "くだんみなみ3ちょうめ"
+    }
+  }, {
+    "name" : "平河町二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "平河町二丁目",
+      "name" : "平河町二丁目",
+      "name:en" : "Hirakawacho 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ひらかわちょう2ちょうめ"
+    }
+  }, {
+    "name" : "隼町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Хаябусатё",
+      "name:ja" : "隼町",
+      "name" : "隼町",
+      "name:ja-Latn" : "Hayabusachō",
+      "name:en" : "Hayabusacho",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:隼町",
+      "name:ja-Hira" : "はやぶさちょう",
+      "name:es" : "Hayabusacho"
+    }
+  }, {
+    "name" : "麹町六丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町六丁目",
+      "name" : "麹町六丁目",
+      "name:en" : "Kojimachi 6-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち6ちょうめ"
+    }
+  }, {
+    "name" : "六番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "六番町",
+      "name" : "六番町",
+      "name:en" : "Rokubancho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ろくばんちょう"
+    }
+  }, {
+    "name" : "麹町四丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町四丁目",
+      "name" : "麹町四丁目",
+      "name:en" : "Kojimachi 4-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち4ちょうめ"
+    }
+  }, {
+    "name" : "二番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "二番町",
+      "name" : "二番町",
+      "name:en" : "Nibancho",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:二番町 (千代田区)",
+      "name:ja-Hira" : "にばんちょう"
+    }
+  }, {
+    "name" : "麹町三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町三丁目",
+      "name" : "麹町三丁目",
+      "name:en" : "Kojimachi 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち3ちょうめ"
+    }
+  }, {
+    "name" : "四番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四番町",
+      "name" : "四番町",
+      "name:en" : "Yonbancho",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:四番町 (千代田区)",
+      "name:ja-Hira" : "よんばんちょう"
+    }
+  }, {
+    "name" : "麹町一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町一丁目",
+      "name" : "麹町一丁目",
+      "name:en" : "Kojimachi 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち1ちょうめ"
+    }
+  }, {
+    "name" : "一番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "一番町",
+      "name" : "一番町",
+      "name:en" : "Ichibancho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちばんちょう"
+    }
+  }, {
+    "name" : "麹町五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町五丁目",
+      "name" : "麹町五丁目",
+      "name:en" : "Kojimachi 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち5ちょうめ"
+    }
+  }, {
+    "name" : "四谷見付",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷見付",
+      "name" : "四谷見付",
+      "name:en" : "Yotsuyamitsuke",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつやみつけ"
+    }
+  }, {
+    "name" : "四谷本塩町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷本塩町",
+      "name" : "四谷本塩町",
+      "name:en" : "Yotsuya-Honshiocho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつやほんしおちょう"
+    }
+  }, {
+    "name" : "五番町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "五番町",
+      "name" : "五番町",
+      "name:en" : "Gobancho",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:五番町 (千代田区)",
+      "name:ja-Hira" : "ごばんちょう"
+    }
+  }, {
+    "name" : "市谷本村町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "市谷本村町",
+      "name" : "市谷本村町",
+      "name:en" : "Ichigaya-Honmuracho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちがやほんむらちょう"
+    }
+  }, {
+    "name" : "麹町二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "麹町二丁目",
+      "name" : "麹町二丁目",
+      "name:en" : "Kojimachi 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こうじまち2ちょうめ"
+    }
+  }, {
+    "name" : "市谷田町一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "市谷田町一丁目",
+      "name" : "市谷田町一丁目",
+      "name:en" : "Ichigaya-Tamachi 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちがやたまち1ちょうめ"
+    }
+  }, {
+    "name" : "元赤坂二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "元赤坂二丁目",
+      "name" : "元赤坂二丁目",
+      "name:en" : "Motoakasaka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "もとあかさか2ちょうめ"
+    }
+  }, {
+    "name" : "元赤坂一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "元赤坂一丁目",
+      "name" : "元赤坂一丁目",
+      "name:en" : "Motoakasaka 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "もとあかさか1ちょうめ"
+    }
+  }, {
+    "name" : "紀尾井町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Киоитё",
+      "name:ja" : "紀尾井町",
+      "name" : "紀尾井町",
+      "name:ja-Latn" : "Kioichō",
+      "name:en" : "Kioicho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "きおいちょう",
+      "name:es" : "Kioicho",
+      "name:zh" : "紀尾井町"
+    }
+  }, {
+    "name" : "赤坂三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "赤坂三丁目",
+      "name" : "赤坂三丁目",
+      "name:en" : "Akasaka 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "あかさか3ちょうめ"
+    }
+  }, {
+    "name" : "平河町一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "平河町一丁目",
+      "name" : "平河町一丁目",
+      "name:en" : "Hirakawacho 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "ひらかわちょう1ちょうめ"
+    }
+  }, {
+    "name" : "四谷一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷一丁目",
+      "name" : "四谷一丁目",
+      "name:en" : "Yotsuya 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつや1ちょうめ"
+    }
+  }, {
+    "name" : "四谷坂町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "四谷坂町",
+      "name" : "四谷坂町",
+      "name:en" : "Yotsuya-Sakamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よつやさかまち"
+    }
+  }, {
+    "name" : "片町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "片町",
+      "name" : "片町",
+      "name:en" : "Katamachi",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かたまち"
+    }
+  }, {
+    "name" : "市谷八幡町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "市谷八幡町",
+      "name" : "市谷八幡町",
+      "name:en" : "Ichigaya-Hachimancho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "いちがやはちまんちょう"
+    }
+  }, {
+    "name" : "半蔵門",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "半蔵門",
+      "name" : "半蔵門",
+      "name:en" : "Hanzomon",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "はんぞうもん"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1270796,
+    "totalVolume" : 21179533,
+    "count" : 4781,
+    "maxHeight" : 160.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 2
+  }, {
+    "type" : "tertiary",
+    "count" : 79
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 155
+  }, {
+    "type" : "service",
+    "count" : 219
+  }, {
+    "type" : "path",
+    "count" : 15
+  }, {
+    "type" : "motorway",
+    "count" : 30
+  }, {
+    "type" : "trunk",
+    "count" : 62
+  }, {
+    "type" : "pedestrian",
+    "count" : 5
+  }, {
+    "type" : "primary",
+    "count" : 26
+  }, {
+    "type" : "subway",
+    "count" : 48
+  }, {
+    "type" : "secondary",
+    "count" : 39
+  }, {
+    "type" : "secondary_link",
+    "count" : 9
+  }, {
+    "type" : "steps",
+    "count" : 90
+  }, {
+    "type" : "rail",
+    "count" : 34
+  }, {
+    "type" : "unclassified",
+    "count" : 138
+  }, {
+    "type" : "footway",
+    "count" : 709
+  }, {
+    "type" : "trunk_link",
+    "count" : 20
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : -5,
+    "max" : 81,
+    "diff50m" : 48
+  }
+}

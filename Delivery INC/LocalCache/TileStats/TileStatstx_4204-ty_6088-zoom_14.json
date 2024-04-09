@@ -1,0 +1,336 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.38794744
+  }, {
+    "type" : "marina",
+    "area" : 0.31185237
+  }, {
+    "type" : "yes",
+    "area" : 0.10527643
+  }, {
+    "type" : "park",
+    "area" : 0.091193885
+  }, {
+    "type" : "commercial",
+    "area" : 0.06621021
+  }, {
+    "type" : "residential",
+    "area" : 0.06369942
+  }, {
+    "type" : "retail",
+    "area" : 0.05543239
+  }, {
+    "type" : "water_works",
+    "area" : 0.039596427
+  }, {
+    "type" : "bridge",
+    "area" : 0.026617413
+  }, {
+    "type" : "parking",
+    "area" : 0.015790084
+  }, {
+    "type" : "garden",
+    "area" : 0.011163678
+  }, {
+    "type" : "grass",
+    "area" : 0.010422115
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2282
+  }, {
+    "type" : "apartments",
+    "count" : 128
+  }, {
+    "type" : "restaurant",
+    "count" : 119
+  }, {
+    "type" : "cafe",
+    "count" : 57
+  }, {
+    "type" : "bench",
+    "count" : 56
+  }, {
+    "type" : "hotel",
+    "count" : 45
+  }, {
+    "type" : "parking_entrance",
+    "count" : 39
+  }, {
+    "type" : "retail",
+    "count" : 35
+  }, {
+    "type" : "office",
+    "count" : 34
+  }, {
+    "type" : "bar",
+    "count" : 33
+  }, {
+    "type" : "roof",
+    "count" : 29
+  }, {
+    "type" : "terrace",
+    "count" : 25
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 25
+  }, {
+    "type" : "fast_food",
+    "count" : 25
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 20
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 17
+  }, {
+    "type" : "commercial",
+    "count" : 13
+  }, {
+    "type" : "university",
+    "count" : 12
+  }, {
+    "type" : "parking",
+    "count" : 10
+  }, {
+    "type" : "bank",
+    "count" : 9
+  }, {
+    "type" : "hospital",
+    "count" : 8
+  }, {
+    "type" : "bridge",
+    "count" : 8
+  }, {
+    "type" : "pharmacy",
+    "count" : 7
+  }, {
+    "type" : "drinking_water",
+    "count" : 6
+  }, {
+    "type" : "garage",
+    "count" : 6
+  }, {
+    "type" : "studio",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "church",
+    "count" : 4
+  }, {
+    "type" : "residential",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 4
+  }, {
+    "type" : "school",
+    "count" : 4
+  }, {
+    "type" : "waste_basket",
+    "count" : 4
+  }, {
+    "type" : "cinema",
+    "count" : 3
+  }, {
+    "type" : "vending_machine",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "loading_dock",
+    "count" : 3
+  }, {
+    "type" : "water_tower",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "atm",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 2
+  }, {
+    "type" : "boat_rental",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "greenhouse",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "boathouse",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "pavilion",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "theatre",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Magnificent Mile",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "The Mag Mile",
+      "is_in" : "Cook,Illinois,Ill.,IL,USA",
+      "name" : "Magnificent Mile",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Magnificent Mile"
+    }
+  }, {
+    "name" : "Streeterville",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "gnis:ST_num" : "17",
+      "gnis:ST_alpha" : "IL",
+      "is_in" : "Cook,Illinois,Ill.,IL,USA",
+      "gnis:id" : "1829650",
+      "gnis:Class" : "Populated Place",
+      "name" : "Streeterville",
+      "gnis:County_num" : "031",
+      "import_uuid" : "bb7269ee-502a-5391-8056-e3ce0e66489c",
+      "place" : "neighbourhood",
+      "wikipedia" : "en:Streeterville",
+      "ele" : "180",
+      "gnis:County" : "Cook"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1039514,
+    "totalVolume" : 63002004,
+    "count" : 741,
+    "maxHeight" : 457.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 24
+  }, {
+    "type" : "tertiary",
+    "count" : 136
+  }, {
+    "type" : "residential",
+    "count" : 40
+  }, {
+    "type" : "service",
+    "count" : 271
+  }, {
+    "type" : "path",
+    "count" : 21
+  }, {
+    "type" : "motorway",
+    "count" : 4
+  }, {
+    "type" : "trunk",
+    "count" : 33
+  }, {
+    "type" : "primary",
+    "count" : 11
+  }, {
+    "type" : "track",
+    "count" : 2
+  }, {
+    "type" : "living_street",
+    "count" : 3
+  }, {
+    "type" : "motorway_link",
+    "count" : 5
+  }, {
+    "type" : "secondary",
+    "count" : 230
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 150
+  }, {
+    "type" : "rail",
+    "count" : 6
+  }, {
+    "type" : "unclassified",
+    "count" : 14
+  }, {
+    "type" : "footway",
+    "count" : 1287
+  }, {
+    "type" : "trunk_link",
+    "count" : 43
+  }, {
+    "type" : "primary_link",
+    "count" : 1
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 132,
+    "max" : 311,
+    "diff50m" : 110
+  }
+}

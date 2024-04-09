@@ -1,0 +1,200 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.4332236
+  }, {
+    "type" : "forest",
+    "area" : 0.120377
+  }, {
+    "type" : "wood",
+    "area" : 0.037221193
+  }, {
+    "type" : "residential",
+    "area" : 0.034157813
+  }, {
+    "type" : "yes",
+    "area" : 0.027912473
+  }, {
+    "type" : "commercial",
+    "area" : 0.016536633
+  }, {
+    "type" : "village_green",
+    "area" : 0.015741345
+  }, {
+    "type" : "construction",
+    "area" : 0.014822991
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 588
+  }, {
+    "type" : "fast_food",
+    "count" : 6
+  }, {
+    "type" : "telephone",
+    "count" : 6
+  }, {
+    "type" : "apartments",
+    "count" : 5
+  }, {
+    "type" : "toilets",
+    "count" : 5
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "bank",
+    "count" : 4
+  }, {
+    "type" : "restaurant",
+    "count" : 4
+  }, {
+    "type" : "cafe",
+    "count" : 4
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "atm",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "taxi",
+    "count" : 1
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "天桥街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "天桥街道",
+      "name:en" : "Tianqiao",
+      "place" : "suburb",
+      "name:zh-Hant" : "天橋街道",
+      "name:zh" : "天桥街道",
+      "division_code" : "110102014000"
+    }
+  }, {
+    "name" : "天坛街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "天坛街道",
+      "name:en" : "Tiantan",
+      "place" : "suburb",
+      "name:zh" : "天坛街道",
+      "division_code" : "110101016000"
+    }
+  }, {
+    "name" : "前门街道",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "前门街道",
+      "name:en" : "Qianmen",
+      "place" : "suburb",
+      "name:zh-Hans" : "前门街道",
+      "name:zh-Hant" : "前門街道",
+      "name:zh" : "前门街道",
+      "division_code" : "110101011000"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 401852,
+    "totalVolume" : 4842110,
+    "count" : 373,
+    "maxHeight" : 32.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 3
+  }, {
+    "type" : "tertiary",
+    "count" : 28
+  }, {
+    "type" : "tertiary_link",
+    "count" : 14
+  }, {
+    "type" : "residential",
+    "count" : 77
+  }, {
+    "type" : "service",
+    "count" : 107
+  }, {
+    "type" : "path",
+    "count" : 5
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "primary",
+    "count" : 26
+  }, {
+    "type" : "subway",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 4
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 19
+  }, {
+    "type" : "tram",
+    "count" : 4
+  }, {
+    "type" : "unclassified",
+    "count" : 3
+  }, {
+    "type" : "footway",
+    "count" : 275
+  }, {
+    "type" : "primary_link",
+    "count" : 9
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 39,
+    "max" : 60,
+    "diff50m" : 9
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "landusages" : [ {
+    "type" : "commercial",
+    "area" : 0.47761926
+  }, {
+    "type" : "residential",
+    "area" : 0.3037794
+  }, {
+    "type" : "park",
+    "area" : 0.111868486
+  }, {
+    "type" : "wood",
+    "area" : 0.020601204
+  }, {
+    "type" : "yes",
+    "area" : 0.013154813
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1412
+  }, {
+    "type" : "restaurant",
+    "count" : 126
+  }, {
+    "type" : "vending_machine",
+    "count" : 76
+  }, {
+    "type" : "fast_food",
+    "count" : 57
+  }, {
+    "type" : "bench",
+    "count" : 54
+  }, {
+    "type" : "cafe",
+    "count" : 51
+  }, {
+    "type" : "apartments",
+    "count" : 50
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 42
+  }, {
+    "type" : "office",
+    "count" : 25
+  }, {
+    "type" : "post_box",
+    "count" : 24
+  }, {
+    "type" : "bar",
+    "count" : 18
+  }, {
+    "type" : "parking",
+    "count" : 16
+  }, {
+    "type" : "waste_basket",
+    "count" : 12
+  }, {
+    "type" : "house",
+    "count" : 11
+  }, {
+    "type" : "retail",
+    "count" : 11
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "bank",
+    "count" : 6
+  }, {
+    "type" : "pub",
+    "count" : 6
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "cinema",
+    "count" : 6
+  }, {
+    "type" : "church",
+    "count" : 5
+  }, {
+    "type" : "taxi",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "recycling",
+    "count" : 4
+  }, {
+    "type" : "parking_entrance",
+    "count" : 4
+  }, {
+    "type" : "music_venue",
+    "count" : 3
+  }, {
+    "type" : "compressed_air",
+    "count" : 3
+  }, {
+    "type" : "charging_station",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "museum",
+    "count" : 3
+  }, {
+    "type" : "closed",
+    "count" : 3
+  }, {
+    "type" : "university",
+    "count" : 3
+  }, {
+    "type" : "nightclub",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "roof",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "food_court",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "embassy",
+    "count" : 2
+  }, {
+    "type" : "arts_centre",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 2
+  }, {
+    "type" : "coworking_space",
+    "count" : 1
+  }, {
+    "type" : "concert_hall",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "cultural",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "biergarten",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "commercial",
+    "count" : 1
+  }, {
+    "type" : "spa",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "stripclub",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Norrmalm",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Norrmalm",
+      "place" : "suburb"
+    }
+  }, {
+    "name" : "Villastaden",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Villastaden",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Villastaden, Stockholm"
+    }
+  }, {
+    "name" : "Eriksberg",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "Eriksberg",
+      "place" : "neighbourhood",
+      "wikipedia" : "sv:Eriksberg, Stockholm"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 772768,
+    "totalVolume" : 15734905,
+    "count" : 360,
+    "maxHeight" : 73.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 56
+  }, {
+    "type" : "tertiary",
+    "count" : 118
+  }, {
+    "type" : "tertiary_link",
+    "count" : 3
+  }, {
+    "type" : "residential",
+    "count" : 140
+  }, {
+    "type" : "service",
+    "count" : 67
+  }, {
+    "type" : "path",
+    "count" : 15
+  }, {
+    "type" : "pedestrian",
+    "count" : 32
+  }, {
+    "type" : "subway",
+    "count" : 16
+  }, {
+    "type" : "living_street",
+    "count" : 11
+  }, {
+    "type" : "secondary",
+    "count" : 34
+  }, {
+    "type" : "steps",
+    "count" : 80
+  }, {
+    "type" : "tram",
+    "count" : 5
+  }, {
+    "type" : "unclassified",
+    "count" : 42
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 791
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 12,
+    "max" : 39,
+    "diff50m" : 6
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.22289528
+  }, {
+    "type" : "forest",
+    "area" : 0.10254202
+  }, {
+    "type" : "garden",
+    "area" : 0.030051328
+  }, {
+    "type" : "pitch",
+    "area" : 0.018238692
+  }, {
+    "type" : "parking",
+    "area" : 0.010678349
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1982
+  }, {
+    "type" : "restaurant",
+    "count" : 362
+  }, {
+    "type" : "apartments",
+    "count" : 115
+  }, {
+    "type" : "cafe",
+    "count" : 101
+  }, {
+    "type" : "bar",
+    "count" : 101
+  }, {
+    "type" : "retail",
+    "count" : 71
+  }, {
+    "type" : "fast_food",
+    "count" : 64
+  }, {
+    "type" : "pub",
+    "count" : 57
+  }, {
+    "type" : "vending_machine",
+    "count" : 40
+  }, {
+    "type" : "bench",
+    "count" : 38
+  }, {
+    "type" : "toilets",
+    "count" : 23
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "post_box",
+    "count" : 20
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 20
+  }, {
+    "type" : "pharmacy",
+    "count" : 20
+  }, {
+    "type" : "telephone",
+    "count" : 18
+  }, {
+    "type" : "drinking_water",
+    "count" : 16
+  }, {
+    "type" : "bank",
+    "count" : 15
+  }, {
+    "type" : "house",
+    "count" : 13
+  }, {
+    "type" : "nightclub",
+    "count" : 13
+  }, {
+    "type" : "hospital",
+    "count" : 13
+  }, {
+    "type" : "clinic",
+    "count" : 13
+  }, {
+    "type" : "detached",
+    "count" : 12
+  }, {
+    "type" : "office",
+    "count" : 11
+  }, {
+    "type" : "place_of_worship",
+    "count" : 11
+  }, {
+    "type" : "studio",
+    "count" : 11
+  }, {
+    "type" : "commercial",
+    "count" : 11
+  }, {
+    "type" : "post_office",
+    "count" : 10
+  }, {
+    "type" : "dentist",
+    "count" : 9
+  }, {
+    "type" : "parking_entrance",
+    "count" : 9
+  }, {
+    "type" : "kindergarten",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "train_station",
+    "count" : 8
+  }, {
+    "type" : "theatre",
+    "count" : 8
+  }, {
+    "type" : "ice_cream",
+    "count" : 7
+  }, {
+    "type" : "school",
+    "count" : 7
+  }, {
+    "type" : "gambling",
+    "count" : 7
+  }, {
+    "type" : "waste_basket",
+    "count" : 7
+  }, {
+    "type" : "social_facility",
+    "count" : 7
+  }, {
+    "type" : "doctors",
+    "count" : 6
+  }, {
+    "type" : "police",
+    "count" : 5
+  }, {
+    "type" : "cinema",
+    "count" : 5
+  }, {
+    "type" : "atm",
+    "count" : 5
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "karaoke_box",
+    "count" : 3
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "fire_station",
+    "count" : 3
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 3
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "brothel",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 2
+  }, {
+    "type" : "community_centre",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 2
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 1
+  }, {
+    "type" : "shop",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "shrine",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "public_building",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "smoking_area",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "円山町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "円山町",
+      "name" : "円山町",
+      "name:en" : "Maruyamacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "まるやまちょう"
+    }
+  }, {
+    "name" : "松濤一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "松濤一丁目",
+      "name" : "松濤一丁目",
+      "name:en" : "Shoto 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しょうとう1ちょうめ"
+    }
+  }, {
+    "name" : "上原二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上原二丁目",
+      "name" : "上原二丁目",
+      "name:en" : "Uehara 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "うえはら2ちょうめ"
+    }
+  }, {
+    "name" : "富ヶ谷二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "富ヶ谷二丁目",
+      "name" : "富ヶ谷二丁目",
+      "name:en" : "Tomigaya 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とみがや2ちょうめ"
+    }
+  }, {
+    "name" : "上原一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上原一丁目",
+      "name" : "上原一丁目",
+      "name:en" : "Uehara 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "うえはら1ちょうめ"
+    }
+  }, {
+    "name" : "富ヶ谷一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "富ヶ谷一丁目",
+      "name" : "富ヶ谷一丁目",
+      "name:en" : "Tomigaya 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "とみがや1ちょうめ"
+    }
+  }, {
+    "name" : "元代々木町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 3609,
+    "tags" : {
+      "name:ja" : "元代々木町",
+      "name" : "元代々木町",
+      "population:date" : "2017-12-01",
+      "name:en" : "Motoyoyogicho",
+      "place" : "neighbourhood",
+      "wikipedia" : "ja:元代々木町",
+      "name:ja-Hira" : "もとよよぎちょう",
+      "population" : "3609"
+    }
+  }, {
+    "name" : "神南一丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神南一丁目",
+      "name" : "神南一丁目",
+      "name:en" : "Jinnan 1-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんなん1ちょうめ"
+    }
+  }, {
+    "name" : "渋谷区",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 230707,
+    "tags" : {
+      "name:th" : "เขตชิบูยะ",
+      "name:ar" : "شيبويا، طوكيو",
+      "name:ja" : "渋谷区",
+      "name:uk" : "Сібуя",
+      "name:ja-Latn" : "Shibuya-ku",
+      "name:pl" : "Shibuya",
+      "name:ja-Hira" : "しぶやく",
+      "population" : "230707",
+      "name:ru" : "Сибуя",
+      "name:ko" : "시부야구",
+      "name:de" : "Shibuya",
+      "name" : "渋谷区",
+      "name:it" : "Shibuya",
+      "name:fr" : "Shibuya",
+      "population:date" : "2018",
+      "name:en" : "Shibuya",
+      "place" : "city",
+      "wikipedia" : "ja:渋谷区",
+      "name:zh-Hans" : "涩谷区",
+      "name:eu" : "Shibuya",
+      "name:zh-Hant" : "澀谷區",
+      "name:es" : "Shibuya",
+      "name:zh" : "涩谷区"
+    }
+  }, {
+    "name" : "神南二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神南二丁目",
+      "name" : "神南二丁目",
+      "name:en" : "Jinnan 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "じんなん2ちょうめ"
+    }
+  }, {
+    "name" : "代々木五丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "代々木五丁目",
+      "name" : "代々木五丁目",
+      "name:en" : "Yoyogi 5-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よよぎ5ちょうめ"
+    }
+  }, {
+    "name" : "駒場二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "駒場二丁目",
+      "name" : "駒場二丁目",
+      "name:en" : "Komaba 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こまば2ちょうめ"
+    }
+  }, {
+    "name" : "渋谷百軒店",
+    "type" : "locality",
+    "zOrder" : 1,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "渋谷百軒店",
+      "name" : "渋谷百軒店",
+      "name:en" : "Hyakkendana",
+      "place" : "locality",
+      "name:ja-Hira" : "しぶやひゃっけんだな"
+    }
+  }, {
+    "name" : "道玄坂二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "道玄坂二丁目",
+      "name" : "道玄坂二丁目",
+      "name:en" : "Dogenzaka 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "どうげんざか2ちょうめ"
+    }
+  }, {
+    "name" : "神山町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "神山町",
+      "name" : "神山町",
+      "name:en" : "Kamiyamacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "かみやまちょう"
+    }
+  }, {
+    "name" : "宇田川町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Удагаватё",
+      "name:ja" : "宇田川町",
+      "name" : "宇田川町",
+      "name:en" : "Udagawacho",
+      "name:ja_rm" : "Udagawacho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "うだがわちょう",
+      "name:es" : "Udagawacho"
+    }
+  }, {
+    "name" : "代々木神園町",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "代々木神園町",
+      "name" : "代々木神園町",
+      "name:en" : "Yoyogi-Kamizonocho",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "よよぎかみぞのちょう"
+    }
+  }, {
+    "name" : "駒場三丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "駒場三丁目",
+      "name" : "駒場三丁目",
+      "name:en" : "Komaba 3-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "こまば3ちょうめ"
+    }
+  }, {
+    "name" : "松濤二丁目",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "松濤二丁目",
+      "name" : "松濤二丁目",
+      "name:en" : "Shoto 2-chome",
+      "place" : "neighbourhood",
+      "name:ja-Hira" : "しょうとう2ちょうめ"
+    }
+  }, {
+    "name" : "松濤",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ru" : "Сёто",
+      "name:ja" : "松濤",
+      "name" : "松濤",
+      "name:en" : "Shoto",
+      "name:ja_rm" : "Shōtō",
+      "place" : "quarter",
+      "name:ja-Hira" : "しょうとう"
+    }
+  }, {
+    "name" : "上原",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "上原",
+      "name" : "上原",
+      "name:en" : "Uehara",
+      "place" : "quarter",
+      "name:ja-Hira" : "うえはら"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1230753,
+    "totalVolume" : 17719351,
+    "count" : 7070,
+    "maxHeight" : 230.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 7
+  }, {
+    "type" : "tertiary",
+    "count" : 135
+  }, {
+    "type" : "tertiary_link",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 326
+  }, {
+    "type" : "service",
+    "count" : 174
+  }, {
+    "type" : "path",
+    "count" : 122
+  }, {
+    "type" : "motorway",
+    "count" : 7
+  }, {
+    "type" : "trunk",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 21
+  }, {
+    "type" : "pedestrian",
+    "count" : 61
+  }, {
+    "type" : "subway",
+    "count" : 38
+  }, {
+    "type" : "motorway_link",
+    "count" : 8
+  }, {
+    "type" : "secondary",
+    "count" : 13
+  }, {
+    "type" : "secondary_link",
+    "count" : 3
+  }, {
+    "type" : "steps",
+    "count" : 147
+  }, {
+    "type" : "rail",
+    "count" : 65
+  }, {
+    "type" : "unclassified",
+    "count" : 255
+  }, {
+    "type" : "footway",
+    "count" : 571
+  }, {
+    "type" : "trunk_link",
+    "count" : 3
+  }, {
+    "type" : "primary_link",
+    "count" : 14
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 11,
+    "max" : 74,
+    "diff50m" : 26
+  }
+}

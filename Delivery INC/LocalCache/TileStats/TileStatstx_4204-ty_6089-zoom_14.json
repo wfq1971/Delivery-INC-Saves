@@ -1,0 +1,495 @@
+{
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.4792331
+  }, {
+    "type" : "marina",
+    "area" : 0.47726408
+  }, {
+    "type" : "park",
+    "area" : 0.433149
+  }, {
+    "type" : "yes",
+    "area" : 0.12868597
+  }, {
+    "type" : "parking",
+    "area" : 0.06412005
+  }, {
+    "type" : "commercial",
+    "area" : 0.06308659
+  }, {
+    "type" : "residential",
+    "area" : 0.036480267
+  }, {
+    "type" : "railway",
+    "area" : 0.024128962
+  }, {
+    "type" : "garden",
+    "area" : 0.023775056
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.022359675
+  }, {
+    "type" : "bridge",
+    "area" : 0.018734835
+  }, {
+    "type" : "pitch",
+    "area" : 0.014184625
+  }, {
+    "type" : "meadow",
+    "area" : 0.010603678
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2408
+  }, {
+    "type" : "bench",
+    "count" : 112
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 59
+  }, {
+    "type" : "office",
+    "count" : 59
+  }, {
+    "type" : "parking_entrance",
+    "count" : 52
+  }, {
+    "type" : "restaurant",
+    "count" : 47
+  }, {
+    "type" : "roof",
+    "count" : 39
+  }, {
+    "type" : "fast_food",
+    "count" : 33
+  }, {
+    "type" : "residential",
+    "count" : 29
+  }, {
+    "type" : "apartments",
+    "count" : 27
+  }, {
+    "type" : "cafe",
+    "count" : 22
+  }, {
+    "type" : "waste_basket",
+    "count" : 22
+  }, {
+    "type" : "hotel",
+    "count" : 15
+  }, {
+    "type" : "drinking_water",
+    "count" : 15
+  }, {
+    "type" : "commercial",
+    "count" : 14
+  }, {
+    "type" : "fountain",
+    "count" : 14
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 11
+  }, {
+    "type" : "university",
+    "count" : 11
+  }, {
+    "type" : "bar",
+    "count" : 10
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "loading_dock",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 7
+  }, {
+    "type" : "bank",
+    "count" : 6
+  }, {
+    "type" : "pavilion",
+    "count" : 5
+  }, {
+    "type" : "vending_machine",
+    "count" : 5
+  }, {
+    "type" : "garage",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "atm",
+    "count" : 4
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "school",
+    "count" : 3
+  }, {
+    "type" : "theatre",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "post_box",
+    "count" : 2
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "social_centre",
+    "count" : 1
+  }, {
+    "type" : "power_substation",
+    "count" : 1
+  }, {
+    "type" : "shower",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "boathouse",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Chicago",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 2746388,
+    "tags" : {
+      "name:nan" : "Chicago",
+      "name:ka" : "ჩიკაგო",
+      "name:kk" : "Чикаго",
+      "name:ki" : "Chicago",
+      "name:kn" : "ಶಿಕಾಗೊ",
+      "name:ko" : "시카고",
+      "name:kl" : "Chicago",
+      "rank" : "0",
+      "name:kw" : "Chicago",
+      "name:ku" : "Chicago",
+      "name:frp" : "Chicagô",
+      "name:frr" : "Chicago",
+      "name:ky" : "Чикаго",
+      "name:ckb" : "شیکاگۆ",
+      "name:ja" : "シカゴ",
+      "name:zu" : "Chicago",
+      "name:pdc" : "Chicago",
+      "population" : "2746388",
+      "gnis:County" : "Cook",
+      "name:lmo" : "Chicago",
+      "name:jv" : "Chicago",
+      "name:moh" : "O’nionkserì:ke",
+      "name:wuu" : "芝加哥",
+      "name:mi" : "Chicago",
+      "name:mg" : "Chicago",
+      "name:ml" : "ഷിക്കാഗോ",
+      "name:mk" : "Чикаго",
+      "name:mn" : "Чикаго",
+      "name:mr" : "शिकागो",
+      "name:ms" : "Chicago",
+      "name:tpi" : "Chicago",
+      "name:my" : "ရှီကာဂိုမြို့",
+      "wikipedia" : "en:Chicago",
+      "name:mrj" : "Чикаго",
+      "name:la" : "Sicagum",
+      "name:lb" : "Chicago",
+      "name:li" : "Chicago",
+      "name:azb" : "شیکاقو",
+      "name:lt" : "Čikaga",
+      "name:lv" : "Čikāga",
+      "name:fy" : "Chicago",
+      "name:pam" : "Chicago",
+      "name:haw" : "Kikako",
+      "gnis:County_num" : "031",
+      "name:hak" : "Chicago",
+      "name:ga" : "Chicago",
+      "name:gd" : "Chicago",
+      "name:gn" : "Chikago",
+      "name:gl" : "Chicago",
+      "name:pap" : "Chicago",
+      "name:gv" : "Chicago",
+      "name:xh" : "E-Chicago",
+      "name:tzl" : "Cicavo",
+      "ele" : "179",
+      "name:vi" : "Chicago",
+      "name:fa" : "شیکاگو",
+      "name:vo" : "Chicago",
+      "name:fi" : "Chicago",
+      "name:fj" : "Chicago",
+      "name:diq" : "Chicago",
+      "name:got" : "\uD800\uDF43\uD800\uDF3E\uD800\uDF39\uD800\uDF3A\uD800\uDF30\uD800\uDF32\uD800\uDF49",
+      "name:roa-rup" : "Chicago",
+      "gnis:id" : "423587",
+      "name:lij" : "Chicago",
+      "name" : "Chicago",
+      "name:fr" : "Chicago",
+      "name:fo" : "Chicago",
+      "name:ast" : "Chicago",
+      "name:rue" : "Чикаго",
+      "name:wa" : "Tchicago",
+      "name:ace" : "Chicago",
+      "name:hy" : "Չիկագո",
+      "name:bxr" : "Чикаго",
+      "name:ia" : "Chicago",
+      "name:yo" : "Ṣìkágò",
+      "name:id" : "Chicago",
+      "name:ie" : "Chicago",
+      "name:pcd" : "Chicago",
+      "name:gan" : "芝加哥",
+      "name:ig" : "Chicago",
+      "name:nov" : "Chicago",
+      "name:war" : "Chicago",
+      "name:io" : "Chicago",
+      "name:it" : "Chicago",
+      "name:iu" : "ᓰᖄᑯ",
+      "name:is" : "Chicago",
+      "name:zh" : "芝加哥",
+      "name:szl" : "Chicago",
+      "name:hsb" : "Chicago",
+      "name:ha" : "Chicago",
+      "name:chy" : "Chicago",
+      "name:he" : "שיקגו",
+      "name:hi" : "शिकागॊ",
+      "name:yue" : "芝加哥",
+      "name:ht" : "Chikago",
+      "name:hr" : "Chicago",
+      "name:eml" : "Chicago",
+      "name:yi" : "שיקאגא",
+      "name:hu" : "Chicago",
+      "name:sg" : "Chicago",
+      "name:bs" : "Chicago",
+      "name:se" : "Chicago",
+      "name:sk" : "Chicago",
+      "name:sh" : "Chicago",
+      "name:scn" : "Chicagu",
+      "name:sn" : "Chicago",
+      "name:so" : "Chicago",
+      "name:sl" : "Chicago",
+      "name:xmf" : "ჩიკაგო",
+      "name:sr" : "Чикаго",
+      "name:bar" : "Chicago",
+      "name:jam" : "Chikaago",
+      "name:ca" : "Xicago",
+      "name:sq" : "Çikago",
+      "name:sv" : "Chicago",
+      "name:sw" : "Chicago",
+      "name:st" : "Chicago",
+      "name:ce" : "Чикаго",
+      "name:roa-tara" : "Chicago",
+      "name:cdo" : "Ciĕ-gă-gŏ̤",
+      "name:co" : "Chicago",
+      "name:sco" : "Chicago",
+      "name:ext" : "Chicago",
+      "name:pnb" : "شکاگو",
+      "name:cs" : "Chicago",
+      "name:tet" : "Chicago",
+      "name:ta" : "சிகாகோ",
+      "name:ar" : "شيكاغو",
+      "name:rm" : "Chicago",
+      "name:rn" : "Chicago",
+      "name:srn" : "Chicago",
+      "name:az" : "Çikaqo",
+      "name:ro" : "Chicago",
+      "name:be" : "Чыкага",
+      "name:ru" : "Чикаго",
+      "name:bi" : "Chicago",
+      "name:bg" : "Чикаго",
+      "name:bh" : "शिकागो",
+      "name:bm" : "Chicago",
+      "name:bn" : "শিকাগো",
+      "name:mwl" : "Chicago",
+      "name:be-tarask" : "Чыкага",
+      "name:br" : "Chicago",
+      "name:sc" : "Chicago",
+      "name:ug" : "Chikago",
+      "alt_name:oj" : "Gaa-zhigaagowanzhigokaag",
+      "name:uk" : "Чикаго",
+      "name:arc" : "ܫܝܩܓܘ",
+      "name:ur" : "شکاگو، الینوائے",
+      "name:arz" : "شيكاجو",
+      "name:el" : "Σικάγο",
+      "name:uz" : "Chicago",
+      "name:en" : "Chicago",
+      "place" : "city",
+      "name:eo" : "Ĉikago",
+      "name:mzn" : "شیکاگو",
+      "name:et" : "Chicago",
+      "name:eu" : "Chicago",
+      "name:es" : "Chicago",
+      "name:tg" : "Чикаго",
+      "name:th" : "ชิคาโก",
+      "name:te" : "చికాగో",
+      "name:tk" : "Chicago",
+      "name:tl" : "Chicago",
+      "name:cy" : "Chicago",
+      "name:stq" : "Chicago",
+      "name:lfn" : "Chicago",
+      "name:tt" : "Çikago",
+      "name:da" : "Chicago",
+      "name:tr" : "Chicago",
+      "name:tw" : "Kyekago",
+      "name:de" : "Chicago",
+      "name:myv" : "Чикаго",
+      "name:bcl" : "Chicago",
+      "name:ceb" : "Chicago",
+      "name:nds-nl" : "Chicago",
+      "name:mia" : "šikaakonki",
+      "name:oc" : "Chicago",
+      "capital" : "6",
+      "gnis:ST_alpha" : "IL",
+      "name:rmy" : "Chicago",
+      "name:oj" : "Zhigaagong",
+      "name:lad" : "Chicago",
+      "name:vec" : "Chicago",
+      "name:als" : "Chicago",
+      "name:os" : "Чикаго",
+      "gnis:ST_num" : "17",
+      "name:ilo" : "Chicago",
+      "name:new" : "शिकागो",
+      "name:vep" : "Čikago",
+      "name:na" : "Chicago",
+      "name:ne" : "शिकागो",
+      "name:nds" : "Chicago",
+      "name:nn" : "Chicago",
+      "name:nl" : "Chicago",
+      "name:no" : "Chicago",
+      "name:nv" : "Shikááʼgóó",
+      "name:fur" : "Chicago",
+      "name:hyw" : "Շիքակօ",
+      "name:hif" : "Chicago",
+      "name:bat-smg" : "Čėkaga",
+      "name:ang" : "Chicago",
+      "name:sah" : "Чикаго",
+      "name:krc" : "Чикаго",
+      "name:win" : "Gųųšgoonąk",
+      "name:qu" : "Chicago",
+      "name:dty" : "शिकागो",
+      "name:af" : "Chicago",
+      "name:am" : "ሺካጎ",
+      "name:mez" : "Sekākoh",
+      "name:ak" : "Chicago",
+      "name:an" : "Chicago",
+      "name:pa" : "ਸ਼ਿਕਾਗੋ",
+      "name:pl" : "Chicago",
+      "name:dsb" : "Chicago",
+      "name:ps" : "شیکاګو",
+      "name:pt" : "Chicago",
+      "name:kab" : "Chicago",
+      "name:kaa" : "Shikago",
+      "population:date" : "2020",
+      "name:zh-Hans" : "芝加哥",
+      "name:zh-Hant" : "芝加哥"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 497443,
+    "totalVolume" : 27342330,
+    "count" : 462,
+    "maxHeight" : 346.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 22
+  }, {
+    "type" : "tertiary",
+    "count" : 49
+  }, {
+    "type" : "residential",
+    "count" : 17
+  }, {
+    "type" : "service",
+    "count" : 175
+  }, {
+    "type" : "path",
+    "count" : 24
+  }, {
+    "type" : "trunk",
+    "count" : 19
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "subway",
+    "count" : 28
+  }, {
+    "type" : "secondary",
+    "count" : 220
+  }, {
+    "type" : "secondary_link",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 275
+  }, {
+    "type" : "rail",
+    "count" : 96
+  }, {
+    "type" : "unclassified",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 1448
+  }, {
+    "type" : "trunk_link",
+    "count" : 15
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 151,
+    "max" : 263,
+    "diff50m" : 46
+  }
+}

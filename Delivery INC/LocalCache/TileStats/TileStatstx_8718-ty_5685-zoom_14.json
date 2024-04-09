@@ -1,0 +1,513 @@
+{
+  "landusages" : [ {
+    "type" : "residential",
+    "area" : 0.74833524
+  }, {
+    "type" : "park",
+    "area" : 0.07225707
+  }, {
+    "type" : "yes",
+    "area" : 0.06251978
+  }, {
+    "type" : "grass",
+    "area" : 0.030138776
+  }, {
+    "type" : "construction",
+    "area" : 0.023449326
+  }, {
+    "type" : "railway",
+    "area" : 0.0148012005
+  }, {
+    "type" : "retail",
+    "area" : 0.013515516
+  }, {
+    "type" : "religious",
+    "area" : 0.011678769
+  }, {
+    "type" : "commercial",
+    "area" : 0.010898124
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 3996
+  }, {
+    "type" : "apartments",
+    "count" : 683
+  }, {
+    "type" : "bench",
+    "count" : 391
+  }, {
+    "type" : "vending_machine",
+    "count" : 337
+  }, {
+    "type" : "restaurant",
+    "count" : 211
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 152
+  }, {
+    "type" : "waste_basket",
+    "count" : 147
+  }, {
+    "type" : "office",
+    "count" : 105
+  }, {
+    "type" : "cafe",
+    "count" : 102
+  }, {
+    "type" : "retail",
+    "count" : 101
+  }, {
+    "type" : "fast_food",
+    "count" : 77
+  }, {
+    "type" : "university",
+    "count" : 63
+  }, {
+    "type" : "doctors",
+    "count" : 54
+  }, {
+    "type" : "atm",
+    "count" : 53
+  }, {
+    "type" : "telephone",
+    "count" : 44
+  }, {
+    "type" : "fountain",
+    "count" : 40
+  }, {
+    "type" : "parking_entrance",
+    "count" : 35
+  }, {
+    "type" : "hotel",
+    "count" : 31
+  }, {
+    "type" : "post_box",
+    "count" : 31
+  }, {
+    "type" : "bank",
+    "count" : 29
+  }, {
+    "type" : "bar",
+    "count" : 27
+  }, {
+    "type" : "charging_station",
+    "count" : 26
+  }, {
+    "type" : "taxi",
+    "count" : 25
+  }, {
+    "type" : "parking",
+    "count" : 23
+  }, {
+    "type" : "pub",
+    "count" : 23
+  }, {
+    "type" : "house",
+    "count" : 22
+  }, {
+    "type" : "pharmacy",
+    "count" : 22
+  }, {
+    "type" : "government",
+    "count" : 19
+  }, {
+    "type" : "grit_bin",
+    "count" : 17
+  }, {
+    "type" : "dentist",
+    "count" : 16
+  }, {
+    "type" : "commercial",
+    "count" : 16
+  }, {
+    "type" : "school",
+    "count" : 16
+  }, {
+    "type" : "nightclub",
+    "count" : 14
+  }, {
+    "type" : "residential",
+    "count" : 13
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 12
+  }, {
+    "type" : "bridge",
+    "count" : 12
+  }, {
+    "type" : "church",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "recycling",
+    "count" : 11
+  }, {
+    "type" : "library",
+    "count" : 11
+  }, {
+    "type" : "garage",
+    "count" : 11
+  }, {
+    "type" : "ice_cream",
+    "count" : 10
+  }, {
+    "type" : "elevator",
+    "count" : 9
+  }, {
+    "type" : "cinema",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 8
+  }, {
+    "type" : "kindergarten",
+    "count" : 8
+  }, {
+    "type" : "garages",
+    "count" : 7
+  }, {
+    "type" : "theatre",
+    "count" : 5
+  }, {
+    "type" : "college",
+    "count" : 5
+  }, {
+    "type" : "arts_centre",
+    "count" : 5
+  }, {
+    "type" : "car_sharing",
+    "count" : 5
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "car_rental",
+    "count" : 4
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "place_of_worship",
+    "count" : 4
+  }, {
+    "type" : "dormitory",
+    "count" : 4
+  }, {
+    "type" : "construction",
+    "count" : 4
+  }, {
+    "type" : "clock",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 4
+  }, {
+    "type" : "childcare",
+    "count" : 3
+  }, {
+    "type" : "ruins",
+    "count" : 3
+  }, {
+    "type" : "clinic",
+    "count" : 3
+  }, {
+    "type" : "fraternity",
+    "count" : 3
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 2
+  }, {
+    "type" : "canteen",
+    "count" : 2
+  }, {
+    "type" : "public_bookcase",
+    "count" : 2
+  }, {
+    "type" : "internet_cafe",
+    "count" : 2
+  }, {
+    "type" : "casino",
+    "count" : 2
+  }, {
+    "type" : "gambling",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "parcel_locker",
+    "count" : 2
+  }, {
+    "type" : "bookmaker",
+    "count" : 2
+  }, {
+    "type" : "biergarten",
+    "count" : 2
+  }, {
+    "type" : "photo_booth",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "sports_centre",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "semidetached_house",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  }, {
+    "type" : "parking_space",
+    "count" : 1
+  }, {
+    "type" : "events_venue",
+    "count" : 1
+  }, {
+    "type" : "language_school",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "lost_property_office",
+    "count" : 1
+  }, {
+    "type" : "hookah_lounge",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "restaurant;bar",
+    "count" : 1
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "detached",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "rectory",
+    "count" : 1
+  }, {
+    "type" : "courthouse",
+    "count" : 1
+  }, {
+    "type" : "transformer_tower",
+    "count" : 1
+  }, {
+    "type" : "public_bath",
+    "count" : 1
+  }, {
+    "type" : "terrace",
+    "count" : 1
+  }, {
+    "type" : "resraurant",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "money_transfer",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Maxvorstadt",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Maxvorstadt",
+      "place" : "suburb",
+      "wikipedia" : "de:Maxvorstadt",
+      "name:bar" : "Maxvorstod"
+    }
+  }, {
+    "name" : "München",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 1484226,
+    "tags" : {
+      "name:oc" : "Munic",
+      "capital" : "4",
+      "openGeoDB:community_identification_number" : "09162",
+      "name:sk" : "Mníchov",
+      "name:sh" : "München",
+      "name:ka" : "მიუნხენი",
+      "ref:LOCODE" : "DEMUC",
+      "name:sr" : "Минхен",
+      "name:kk" : "Мюнхен",
+      "name:bar" : "Minga",
+      "openGeoDB:telephone_area_code" : "089",
+      "name:ca" : "Munic",
+      "name:kn" : "ಮುನಿಕ್",
+      "name:als" : "Münche",
+      "name:ko" : "뮌헨",
+      "name:gl" : "Múnic",
+      "name:cs" : "Mnichov",
+      "ele" : "519",
+      "name:vi" : "München",
+      "name:ar" : "ميونخ",
+      "name:ja" : "ミュンヘン",
+      "openGeoDB:type" : "Landeshauptstadt",
+      "name:fa" : "مونیخ",
+      "name:az" : "Münhen",
+      "name:nl" : "München",
+      "population" : "1484226",
+      "name:be" : "Мюнхен",
+      "name:fi" : "München",
+      "name:ru" : "Мюнхен",
+      "phone" : "+49 89 115",
+      "name:bg" : "Мюнхен",
+      "name" : "München",
+      "name:fr" : "Munich",
+      "name:be-tarask" : "Мюнхэн",
+      "name:br" : "München",
+      "name:hy" : "Մյունխեն",
+      "name:uk" : "Мюнхен",
+      "name:ur" : "میونخ",
+      "name:mk" : "Минхен",
+      "name:el" : "Μόναχο",
+      "name:uz" : "Munhen",
+      "openGeoDB:license_plate_code" : "M",
+      "name:it" : "Monaco di Baviera",
+      "name:en" : "Munich",
+      "place" : "city",
+      "name:eo" : "Munkeno",
+      "wikipedia" : "de:München",
+      "name:eu" : "Munich",
+      "name:es" : "Múnich",
+      "name:zh" : "慕尼黑",
+      "name:hsb" : "Mnichow",
+      "website" : "https://www.muenchen.de/",
+      "name:la" : "Monacum",
+      "name:pl" : "Monachium",
+      "name:tt" : "Мүнхен",
+      "name:dsb" : "München",
+      "name:da" : "München",
+      "name:he" : "מינכן",
+      "name:tr" : "Münih",
+      "name:pt" : "Munique",
+      "name:de" : "München",
+      "name:hi" : "म्यूनिख",
+      "int_name" : "Munich",
+      "openGeoDB:loc_id" : "212",
+      "name:lt" : "Miunchenas",
+      "alt_name:la" : "Monachium;Monachum",
+      "name:hr" : "München",
+      "name:lv" : "Minhene",
+      "name:zh-Hant" : "慕尼黑"
+    }
+  }, {
+    "name" : "Altstadt",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:de" : "Altstadt",
+      "name" : "Altstadt",
+      "place" : "suburb",
+      "wikipedia" : "de:Altstadt-Lehel",
+      "name:es" : "Casco Antiguo"
+    }
+  }, {
+    "name" : "Kreuzviertel",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name" : "Kreuzviertel",
+      "place" : "quarter",
+      "wikipedia" : "de:Altstadt (München)#Kreuzviertel"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1383948,
+    "totalVolume" : 22949293,
+    "count" : 2503,
+    "maxHeight" : 71.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 47
+  }, {
+    "type" : "tertiary",
+    "count" : 47
+  }, {
+    "type" : "residential",
+    "count" : 252
+  }, {
+    "type" : "service",
+    "count" : 491
+  }, {
+    "type" : "path",
+    "count" : 178
+  }, {
+    "type" : "pedestrian",
+    "count" : 148
+  }, {
+    "type" : "subway",
+    "count" : 40
+  }, {
+    "type" : "secondary",
+    "count" : 217
+  }, {
+    "type" : "secondary_link",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 447
+  }, {
+    "type" : "tram",
+    "count" : 68
+  }, {
+    "type" : "rail",
+    "count" : 27
+  }, {
+    "type" : "footway",
+    "count" : 2023
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 512,
+    "max" : 539,
+    "diff50m" : 11
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "landusages" : [ {
+    "type" : "peninsula",
+    "area" : 1.0
+  }, {
+    "type" : "residential",
+    "area" : 0.13520588
+  }, {
+    "type" : "forest",
+    "area" : 0.076853074
+  }, {
+    "type" : "park",
+    "area" : 0.017363805
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.014543777
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1374
+  }, {
+    "type" : "residential",
+    "count" : 782
+  }, {
+    "type" : "apartments",
+    "count" : 446
+  }, {
+    "type" : "retail",
+    "count" : 232
+  }, {
+    "type" : "house",
+    "count" : 52
+  }, {
+    "type" : "restaurant",
+    "count" : 50
+  }, {
+    "type" : "cafe",
+    "count" : 27
+  }, {
+    "type" : "school",
+    "count" : 24
+  }, {
+    "type" : "shelter",
+    "count" : 23
+  }, {
+    "type" : "university",
+    "count" : 18
+  }, {
+    "type" : "church",
+    "count" : 17
+  }, {
+    "type" : "commercial",
+    "count" : 13
+  }, {
+    "type" : "bench",
+    "count" : 9
+  }, {
+    "type" : "place_of_worship",
+    "count" : 7
+  }, {
+    "type" : "fuel",
+    "count" : 7
+  }, {
+    "type" : "atm",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "pharmacy",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 4
+  }, {
+    "type" : "townhall",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "library",
+    "count" : 3
+  }, {
+    "type" : "toilets",
+    "count" : 3
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "doctors",
+    "count" : 3
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "guesthouse",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "prep_school",
+    "count" : 1
+  }, {
+    "type" : "research_institute",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "arts_centre",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "cathedral",
+    "count" : 1
+  }, {
+    "type" : "dentist",
+    "count" : 1
+  }, {
+    "type" : "gusethouse",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "남가좌동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "남가좌동",
+      "name:ko-Latn" : "Namgajwa-dong",
+      "name:el" : "Νάμγκατουζα-ντονγκ",
+      "name:ja" : "南加佐洞",
+      "name" : "남가좌동",
+      "name:en" : "Namgajwa-dong",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "연남동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "연남동",
+      "name:ko-Latn" : "Yeonnam-dong",
+      "name:el" : "Γιόναμ-ντονγκ",
+      "name:ja" : "延南洞",
+      "name" : "연남동",
+      "name:en" : "Yeonnam-dong",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "연희동",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "name:ko" : "연희동",
+      "name:ko-Latn" : "Yeonhui-dong",
+      "name:el" : "Γιόνχι-ντονγκ",
+      "name:ja" : "延禧洞",
+      "name" : "연희동",
+      "name:en" : "Yeonhui-dong",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 563501,
+    "totalVolume" : 10534438,
+    "count" : 3409,
+    "maxHeight" : 132.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 23
+  }, {
+    "type" : "tertiary",
+    "count" : 23
+  }, {
+    "type" : "residential",
+    "count" : 575
+  }, {
+    "type" : "service",
+    "count" : 347
+  }, {
+    "type" : "path",
+    "count" : 28
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 19
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 50
+  }, {
+    "type" : "secondary_link",
+    "count" : 7
+  }, {
+    "type" : "steps",
+    "count" : 22
+  }, {
+    "type" : "rail",
+    "count" : 16
+  }, {
+    "type" : "footway",
+    "count" : 237
+  }, {
+    "type" : "trunk_link",
+    "count" : 4
+  }, {
+    "type" : "primary_link",
+    "count" : 16
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 8,
+    "max" : 89,
+    "diff50m" : 20
+  }
+}

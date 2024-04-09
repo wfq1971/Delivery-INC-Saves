@@ -1,0 +1,230 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.14828049
+  }, {
+    "type" : "residential",
+    "area" : 0.12300795
+  }, {
+    "type" : "railway",
+    "area" : 0.079602234
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.064372346
+  }, {
+    "type" : "yes",
+    "area" : 0.02679143
+  }, {
+    "type" : "sports_centre",
+    "area" : 0.02429398
+  }, {
+    "type" : "pitch",
+    "area" : 0.015141493
+  }, {
+    "type" : "parking",
+    "area" : 0.014511201
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 729
+  }, {
+    "type" : "apartments",
+    "count" : 56
+  }, {
+    "type" : "school",
+    "count" : 22
+  }, {
+    "type" : "parking_entrance",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "restaurant",
+    "count" : 3
+  }, {
+    "type" : "grave_yard",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "roof",
+    "count" : 1
+  }, {
+    "type" : "grandstand",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "东庄社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "东庄社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "花椒树社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "花椒树社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "西罗园第四社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "西罗园第四社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "龙泉社区",
+    "type" : "neighbourhood",
+    "zOrder" : 5,
+    "population" : 0,
+    "tags" : {
+      "name" : "龙泉社区",
+      "place" : "neighbourhood"
+    }
+  }, {
+    "name" : "四路通社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "四路通社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "洋桥北里社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "洋桥北里社区",
+      "place" : "quarter"
+    }
+  }, {
+    "name" : "西罗园街道",
+    "type" : "town",
+    "zOrder" : 10,
+    "population" : 0,
+    "tags" : {
+      "capital" : "8",
+      "place:CN" : "subdistrict",
+      "name" : "西罗园街道",
+      "name:en" : "Xiluoyuan",
+      "place" : "town"
+    }
+  }, {
+    "name" : "西罗园第一社区",
+    "type" : "quarter",
+    "zOrder" : 4,
+    "population" : 0,
+    "tags" : {
+      "place:CN" : "community",
+      "name" : "西罗园第一社区",
+      "place" : "quarter"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 528180,
+    "totalVolume" : 7908293,
+    "count" : 441,
+    "maxHeight" : 48.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 26
+  }, {
+    "type" : "tertiary",
+    "count" : 56
+  }, {
+    "type" : "tertiary_link",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 43
+  }, {
+    "type" : "service",
+    "count" : 113
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "trunk",
+    "count" : 13
+  }, {
+    "type" : "primary",
+    "count" : 12
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "secondary",
+    "count" : 21
+  }, {
+    "type" : "secondary_link",
+    "count" : 1
+  }, {
+    "type" : "steps",
+    "count" : 15
+  }, {
+    "type" : "rail",
+    "count" : 201
+  }, {
+    "type" : "unclassified",
+    "count" : 9
+  }, {
+    "type" : "footway",
+    "count" : 143
+  }, {
+    "type" : "trunk_link",
+    "count" : 43
+  }, {
+    "type" : "primary_link",
+    "count" : 11
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 33,
+    "max" : 71,
+    "diff50m" : 19
+  }
+}

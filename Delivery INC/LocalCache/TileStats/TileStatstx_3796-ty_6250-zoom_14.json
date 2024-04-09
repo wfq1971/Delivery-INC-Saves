@@ -1,0 +1,228 @@
+{
+  "landusages" : [ {
+    "type" : "parking",
+    "area" : 0.11589563
+  }, {
+    "type" : "residential",
+    "area" : 0.062483262
+  }, {
+    "type" : "park",
+    "area" : 0.052805264
+  }, {
+    "type" : "retail",
+    "area" : 0.030952826
+  }, {
+    "type" : "wood",
+    "area" : 0.015008268
+  }, {
+    "type" : "grass",
+    "area" : 0.013468563
+  }, {
+    "type" : "golf_course",
+    "area" : 0.010996738
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2158
+  }, {
+    "type" : "house",
+    "count" : 356
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 270
+  }, {
+    "type" : "waste_basket",
+    "count" : 84
+  }, {
+    "type" : "bench",
+    "count" : 81
+  }, {
+    "type" : "university",
+    "count" : 71
+  }, {
+    "type" : "apartments",
+    "count" : 57
+  }, {
+    "type" : "recycling",
+    "count" : 24
+  }, {
+    "type" : "atm",
+    "count" : 15
+  }, {
+    "type" : "restaurant",
+    "count" : 12
+  }, {
+    "type" : "residential",
+    "count" : 10
+  }, {
+    "type" : "dormitory",
+    "count" : 10
+  }, {
+    "type" : "roof",
+    "count" : 9
+  }, {
+    "type" : "bar",
+    "count" : 9
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 9
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "garage",
+    "count" : 7
+  }, {
+    "type" : "retail",
+    "count" : 7
+  }, {
+    "type" : "detached",
+    "count" : 7
+  }, {
+    "type" : "cafe",
+    "count" : 6
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "waste_disposal",
+    "count" : 5
+  }, {
+    "type" : "greenhouse",
+    "count" : 4
+  }, {
+    "type" : "fountain",
+    "count" : 3
+  }, {
+    "type" : "bicycle_repair_station",
+    "count" : 3
+  }, {
+    "type" : "group_housing",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "supermarket",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "apartment",
+    "count" : 1
+  }, {
+    "type" : "group housing",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "warehouse",
+    "count" : 1
+  }, {
+    "type" : "public",
+    "count" : 1
+  }, {
+    "type" : "school",
+    "count" : 1
+  }, {
+    "type" : "parking",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "Group Housing",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "hut",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Manhattan",
+    "type" : "city",
+    "zOrder" : 11,
+    "population" : 50689,
+    "tags" : {
+      "name:ru" : "Манхэттен",
+      "gnis:ST_num" : "20",
+      "gnis:ST_alpha" : "KS",
+      "gnis:id" : "476378",
+      "name" : "Manhattan",
+      "gnis:County_num" : "161",
+      "name:en" : "Manhattan",
+      "place" : "city",
+      "census:population" : "50689;2006",
+      "ele" : "311",
+      "population" : "50689",
+      "gnis:County" : "Riley"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 594844,
+    "totalVolume" : 7072345,
+    "count" : 1718,
+    "maxHeight" : 40.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 61
+  }, {
+    "type" : "residential",
+    "count" : 147
+  }, {
+    "type" : "service",
+    "count" : 659
+  }, {
+    "type" : "path",
+    "count" : 10
+  }, {
+    "type" : "pedestrian",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 27
+  }, {
+    "type" : "steps",
+    "count" : 111
+  }, {
+    "type" : "unclassified",
+    "count" : 6
+  }, {
+    "type" : "footway",
+    "count" : 1130
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 306,
+    "max" : 370,
+    "diff50m" : 9
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "landusages" : [ {
+    "type" : "yes",
+    "area" : 1.0449089
+  }, {
+    "type" : "residential",
+    "area" : 0.8965563
+  }, {
+    "type" : "park",
+    "area" : 0.17463054
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.1045942
+  }, {
+    "type" : "grass",
+    "area" : 0.05698758
+  }, {
+    "type" : "marina",
+    "area" : 0.044992324
+  }, {
+    "type" : "military",
+    "area" : 0.041469254
+  }, {
+    "type" : "pitch",
+    "area" : 0.010412674
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1849
+  }, {
+    "type" : "apartments",
+    "count" : 228
+  }, {
+    "type" : "bench",
+    "count" : 197
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 169
+  }, {
+    "type" : "restaurant",
+    "count" : 124
+  }, {
+    "type" : "parking_space",
+    "count" : 64
+  }, {
+    "type" : "fountain",
+    "count" : 61
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 41
+  }, {
+    "type" : "post_box",
+    "count" : 36
+  }, {
+    "type" : "cafe",
+    "count" : 33
+  }, {
+    "type" : "waste_basket",
+    "count" : 32
+  }, {
+    "type" : "drinking_water",
+    "count" : 29
+  }, {
+    "type" : "school",
+    "count" : 25
+  }, {
+    "type" : "bank",
+    "count" : 20
+  }, {
+    "type" : "recycling",
+    "count" : 19
+  }, {
+    "type" : "pharmacy",
+    "count" : 19
+  }, {
+    "type" : "toilets",
+    "count" : 16
+  }, {
+    "type" : "vending_machine",
+    "count" : 16
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 16
+  }, {
+    "type" : "atm",
+    "count" : 13
+  }, {
+    "type" : "retail",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 12
+  }, {
+    "type" : "parking_entrance",
+    "count" : 12
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "office",
+    "count" : 9
+  }, {
+    "type" : "residential",
+    "count" : 8
+  }, {
+    "type" : "fast_food",
+    "count" : 7
+  }, {
+    "type" : "taxi",
+    "count" : 7
+  }, {
+    "type" : "boat",
+    "count" : 6
+  }, {
+    "type" : "post_office",
+    "count" : 6
+  }, {
+    "type" : "kindergarten",
+    "count" : 6
+  }, {
+    "type" : "bar",
+    "count" : 5
+  }, {
+    "type" : "train_station",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "dentist",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 3
+  }, {
+    "type" : "community_centre",
+    "count" : 3
+  }, {
+    "type" : "church",
+    "count" : 3
+  }, {
+    "type" : "government",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "commercial",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "house",
+    "count" : 2
+  }, {
+    "type" : "clock",
+    "count" : 2
+  }, {
+    "type" : "fuel",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "theatre",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "doctors",
+    "count" : 2
+  }, {
+    "type" : "place_of_worship",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 1
+  }, {
+    "type" : "driving_school",
+    "count" : 1
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 1
+  }, {
+    "type" : "reception_desk",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "disused",
+    "count" : 1
+  }, {
+    "type" : "bridge",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "police",
+    "count" : 1
+  }, {
+    "type" : "chapel",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "dojo",
+    "count" : 1
+  }, {
+    "type" : "library",
+    "count" : 1
+  }, {
+    "type" : "ngo",
+    "count" : 1
+  }, {
+    "type" : "clinic",
+    "count" : 1
+  }, {
+    "type" : "tower",
+    "count" : 1
+  }, {
+    "type" : "palace",
+    "count" : 1
+  }, {
+    "type" : "kiosk",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "Gros-Caillou",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name" : "Gros-Caillou",
+      "place" : "suburb"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 857682,
+    "totalVolume" : 21497381,
+    "count" : 2593,
+    "maxHeight" : 324.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 38
+  }, {
+    "type" : "tertiary",
+    "count" : 15
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 242
+  }, {
+    "type" : "service",
+    "count" : 177
+  }, {
+    "type" : "path",
+    "count" : 15
+  }, {
+    "type" : "primary",
+    "count" : 82
+  }, {
+    "type" : "pedestrian",
+    "count" : 83
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 130
+  }, {
+    "type" : "secondary_link",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 149
+  }, {
+    "type" : "rail",
+    "count" : 14
+  }, {
+    "type" : "unclassified",
+    "count" : 7
+  }, {
+    "type" : "footway",
+    "count" : 877
+  }, {
+    "type" : "primary_link",
+    "count" : 5
+  } ],
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "1",
+  "elevation" : {
+    "min" : 21,
+    "max" : 79,
+    "diff50m" : 39
+  }
+}
