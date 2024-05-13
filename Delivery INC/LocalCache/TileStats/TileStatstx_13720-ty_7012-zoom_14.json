@@ -1,0 +1,326 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.115491934
+  }, {
+    "type" : "residential",
+    "area" : 0.013620664
+  }, {
+    "type" : "industrial",
+    "area" : 0.012809156
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1032
+  }, {
+    "type" : "apartments",
+    "count" : 317
+  }, {
+    "type" : "restaurant",
+    "count" : 164
+  }, {
+    "type" : "school",
+    "count" : 125
+  }, {
+    "type" : "residential",
+    "count" : 90
+  }, {
+    "type" : "clinic",
+    "count" : 75
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 54
+  }, {
+    "type" : "pharmacy",
+    "count" : 49
+  }, {
+    "type" : "bank",
+    "count" : 41
+  }, {
+    "type" : "training",
+    "count" : 26
+  }, {
+    "type" : "atm",
+    "count" : 23
+  }, {
+    "type" : "library",
+    "count" : 23
+  }, {
+    "type" : "fast_food",
+    "count" : 21
+  }, {
+    "type" : "food_court",
+    "count" : 19
+  }, {
+    "type" : "marketplace",
+    "count" : 17
+  }, {
+    "type" : "cafe",
+    "count" : 17
+  }, {
+    "type" : "parking_space",
+    "count" : 15
+  }, {
+    "type" : "parcel_locker",
+    "count" : 13
+  }, {
+    "type" : "college",
+    "count" : 9
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "place_of_worship",
+    "count" : 7
+  }, {
+    "type" : "fuel",
+    "count" : 7
+  }, {
+    "type" : "temple",
+    "count" : 7
+  }, {
+    "type" : "retail",
+    "count" : 7
+  }, {
+    "type" : "public",
+    "count" : 5
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "social_facility",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "office",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "hotel",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 2
+  }, {
+    "type" : "roof",
+    "count" : 2
+  }, {
+    "type" : "toilets",
+    "count" : 2
+  }, {
+    "type" : "commercial",
+    "count" : 2
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  }, {
+    "type" : "shed",
+    "count" : 1
+  }, {
+    "type" : "house",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "田心子",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2638785",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "田心子",
+      "name:en" : "Tianxinzi",
+      "place" : "hamlet",
+      "name:zh" : "田心子"
+    }
+  }, {
+    "name" : "蘆洲區",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 200702,
+    "tags" : {
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Lôo-tsiu-khu",
+      "old_name:nan" : "Lô͘-chiu-chhī",
+      "name:nan" : "Lô͘-chiu-khu",
+      "old_name:ko" : "루저우 시",
+      "name:hak" : "Lù-chû-khî",
+      "GNS:id" : "-2633619",
+      "is_in:zh" : "台灣新北市",
+      "GNS:dsg_code" : "PPL",
+      "name:ko" : "루저우 구",
+      "name:nan-POJ" : "Lô͘-chiu-khu",
+      "name:en" : "Luzhou District",
+      "place" : "suburb",
+      "wikipedia" : "zh:蘆洲區",
+      "name:zh" : "蘆洲區",
+      "name:vi" : "Lô Châu",
+      "name:ja" : "蘆洲区",
+      "old_name:ja_kana" : "ろしゅうし",
+      "old_name:zh_pinyin" : "Lúzhōu Shì",
+      "is_in" : "Xinbei City, Taiwan",
+      "population" : "200702",
+      "name:ja_kana" : "ろしゅうく",
+      "name:de" : "Luzhou",
+      "old_name:en" : "Luzhou City",
+      "old_name" : "蘆洲市",
+      "old_name:zh" : "蘆洲市",
+      "name" : "蘆洲區",
+      "name:fr" : "Luzhou",
+      "name:nan-HJ" : "蘆洲區",
+      "old_name:hak" : "Lù-chû-sṳ",
+      "old_name:ja" : "蘆洲市",
+      "postal_code" : "247",
+      "name:zh_pinyin" : "Lúzhōu Qū"
+    }
+  }, {
+    "name" : "下竹圍",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630105",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "下竹圍",
+      "name:en" : "Xiazhuwei",
+      "place" : "hamlet",
+      "name:zh" : "下竹圍"
+    }
+  }, {
+    "name" : "分子尾",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10165524",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "分子尾",
+      "name:en" : "Fenziwei",
+      "place" : "hamlet",
+      "name:zh" : "分子尾"
+    }
+  }, {
+    "name" : "大有",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2638664",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "大有",
+      "name:en" : "Dayou",
+      "place" : "hamlet",
+      "name:zh" : "大有"
+    }
+  }, {
+    "name" : "褒子寮",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630262",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "褒子寮",
+      "name:en" : "Baoziliao",
+      "place" : "hamlet",
+      "name:zh" : "褒子寮"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 844475,
+    "totalVolume" : 12725909,
+    "count" : 2688,
+    "maxHeight" : 80.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 5
+  }, {
+    "type" : "tertiary",
+    "count" : 76
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 168
+  }, {
+    "type" : "service",
+    "count" : 590
+  }, {
+    "type" : "path",
+    "count" : 7
+  }, {
+    "type" : "raceway",
+    "count" : 1
+  }, {
+    "type" : "motorway",
+    "count" : 11
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 4
+  }, {
+    "type" : "secondary",
+    "count" : 31
+  }, {
+    "type" : "steps",
+    "count" : 7
+  }, {
+    "type" : "unclassified",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 125
+  }, {
+    "type" : "trunk_link",
+    "count" : 1
+  } ],
+  "elevation" : {
+    "min" : -7,
+    "max" : 26,
+    "diff50m" : 14
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

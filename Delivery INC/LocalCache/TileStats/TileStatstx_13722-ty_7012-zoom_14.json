@@ -1,0 +1,469 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.1282931
+  }, {
+    "type" : "wood",
+    "area" : 0.079255246
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.07237148
+  }, {
+    "type" : "residential",
+    "area" : 0.031248514
+  }, {
+    "type" : "recreation_ground",
+    "area" : 0.017722547
+  }, {
+    "type" : "military",
+    "area" : 0.016385071
+  }, {
+    "type" : "grass",
+    "area" : 0.016110871
+  }, {
+    "type" : "parking",
+    "area" : 0.01181988
+  }, {
+    "type" : "bridge",
+    "area" : 0.01125712
+  }, {
+    "type" : "yes",
+    "area" : 0.011139513
+  }, {
+    "type" : "pitch",
+    "area" : 0.010737278
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 2125
+  }, {
+    "type" : "residential",
+    "count" : 1751
+  }, {
+    "type" : "restaurant",
+    "count" : 465
+  }, {
+    "type" : "apartments",
+    "count" : 292
+  }, {
+    "type" : "school",
+    "count" : 95
+  }, {
+    "type" : "house",
+    "count" : 83
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 58
+  }, {
+    "type" : "temple",
+    "count" : 45
+  }, {
+    "type" : "parking_space",
+    "count" : 42
+  }, {
+    "type" : "cafe",
+    "count" : 40
+  }, {
+    "type" : "bank",
+    "count" : 38
+  }, {
+    "type" : "toilets",
+    "count" : 36
+  }, {
+    "type" : "drinking_water",
+    "count" : 35
+  }, {
+    "type" : "place_of_worship",
+    "count" : 33
+  }, {
+    "type" : "pharmacy",
+    "count" : 32
+  }, {
+    "type" : "fast_food",
+    "count" : 32
+  }, {
+    "type" : "clinic",
+    "count" : 26
+  }, {
+    "type" : "food_court",
+    "count" : 22
+  }, {
+    "type" : "roof",
+    "count" : 21
+  }, {
+    "type" : "library",
+    "count" : 17
+  }, {
+    "type" : "commercial",
+    "count" : 17
+  }, {
+    "type" : "atm",
+    "count" : 17
+  }, {
+    "type" : "bench",
+    "count" : 16
+  }, {
+    "type" : "marketplace",
+    "count" : 16
+  }, {
+    "type" : "parcel_locker",
+    "count" : 12
+  }, {
+    "type" : "pub",
+    "count" : 12
+  }, {
+    "type" : "university",
+    "count" : 10
+  }, {
+    "type" : "public_building",
+    "count" : 10
+  }, {
+    "type" : "shelter",
+    "count" : 9
+  }, {
+    "type" : "studio",
+    "count" : 8
+  }, {
+    "type" : "hotel",
+    "count" : 8
+  }, {
+    "type" : "post_box",
+    "count" : 7
+  }, {
+    "type" : "college",
+    "count" : 7
+  }, {
+    "type" : "office",
+    "count" : 6
+  }, {
+    "type" : "parking",
+    "count" : 6
+  }, {
+    "type" : "public",
+    "count" : 6
+  }, {
+    "type" : "veterinary",
+    "count" : 5
+  }, {
+    "type" : "terrace",
+    "count" : 5
+  }, {
+    "type" : "storage_tank",
+    "count" : 4
+  }, {
+    "type" : "training",
+    "count" : 4
+  }, {
+    "type" : "police",
+    "count" : 4
+  }, {
+    "type" : "vending_machine",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 3
+  }, {
+    "type" : "hut",
+    "count" : 3
+  }, {
+    "type" : "retail",
+    "count" : 3
+  }, {
+    "type" : "waste_basket",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 3
+  }, {
+    "type" : "telephone",
+    "count" : 3
+  }, {
+    "type" : "bicycle_parking",
+    "count" : 2
+  }, {
+    "type" : "shower",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "recycling",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "service",
+    "count" : 2
+  }, {
+    "type" : "driving_school",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "taxi",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "construction",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "transportation",
+    "count" : 1
+  }, {
+    "type" : "parking_entrance",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "civic",
+    "count" : 1
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "clock",
+    "count" : 1
+  }, {
+    "type" : "doctors",
+    "count" : 1
+  }, {
+    "type" : "ice_cream",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "industrial",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "大龍峒",
+    "type" : "village",
+    "zOrder" : 8,
+    "population" : 0,
+    "tags" : {
+      "alt_name" : "大龍泵",
+      "name:nan-TL" : "Tuā-lông-pōng",
+      "name:nan" : "Tōa-lông-pōng",
+      "name:nan-POJ" : "Tōa-lông-pōng",
+      "name" : "大龍峒",
+      "name:nan-HJ" : "大龍泵",
+      "name:en" : "Dalongdong",
+      "place" : "village",
+      "wikipedia" : "zh:大龍峒",
+      "name:zh" : "大龍峒"
+    }
+  }, {
+    "name" : "劍潭",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136017",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Kiàm-thâm",
+      "name:nan" : "Kiàm-thâm",
+      "name:nan-POJ" : "Kiàm-thâm",
+      "name" : "劍潭",
+      "name:nan-HJ" : "劍潭",
+      "name:en" : "Jiantan",
+      "place" : "hamlet",
+      "name:zh" : "劍潭"
+    }
+  }, {
+    "name" : "葫蘆堵",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2631794",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "葫蘆堵",
+      "name:en" : "Huludu",
+      "place" : "hamlet",
+      "name:zh" : "葫蘆堵"
+    }
+  }, {
+    "name" : "後港",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630137",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Āu-káng",
+      "name:nan" : "Āu-káng",
+      "name:nan-POJ" : "Āu-káng",
+      "name" : "後港",
+      "name:nan-HJ" : "後港",
+      "name:en" : "Hougang",
+      "place" : "hamlet",
+      "name:zh" : "後港"
+    }
+  }, {
+    "name" : "大同區",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 130071,
+    "tags" : {
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Tāi-tông-khu",
+      "name:nan" : "Tāi-tông-khu",
+      "name:id" : "Distrik Datong",
+      "name:hak" : "Thai-thùng-khî",
+      "GNS:id" : "-2638583",
+      "is_in:zh" : "台灣台北市",
+      "GNS:dsg_code" : "PPLX",
+      "name:ko" : "다퉁구",
+      "name:nan-POJ" : "Tāi-tông-khu",
+      "name:it" : "Distretto di Datong",
+      "name:en" : "Datong",
+      "place" : "suburb",
+      "wikipedia" : "zh:大同區 (臺灣)",
+      "name:zh" : "大同區",
+      "name:vi" : "Đại Đồng",
+      "name:ja" : "大同区",
+      "population" : "130071",
+      "name:ru" : "Датун",
+      "name:de" : "Datong",
+      "name:yue" : "大同區",
+      "name" : "大同區",
+      "name:fr" : "Datong",
+      "name:nan-HJ" : "大同區",
+      "postal_code" : "103"
+    }
+  }, {
+    "name" : "西新庄子",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2631067",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Sai-sin-tsng-á",
+      "name:nan" : "Sai-sin-chng-á",
+      "name:nan-POJ" : "Sai-sin-chng-á",
+      "name" : "西新庄子",
+      "name:nan-HJ" : "西新庄仔",
+      "name:en" : "Xixinzhuangzi",
+      "place" : "hamlet",
+      "wikipedia" : "zh:西新庄子",
+      "name:zh" : "西新庄子"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 1008125,
+    "totalVolume" : 15375039,
+    "count" : 3464,
+    "maxHeight" : 76.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 43
+  }, {
+    "type" : "tertiary",
+    "count" : 105
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 254
+  }, {
+    "type" : "service",
+    "count" : 456
+  }, {
+    "type" : "path",
+    "count" : 44
+  }, {
+    "type" : "motorway",
+    "count" : 36
+  }, {
+    "type" : "trunk",
+    "count" : 13
+  }, {
+    "type" : "pedestrian",
+    "count" : 7
+  }, {
+    "type" : "primary",
+    "count" : 67
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 6
+  }, {
+    "type" : "living_street",
+    "count" : 1
+  }, {
+    "type" : "motorway_link",
+    "count" : 24
+  }, {
+    "type" : "secondary",
+    "count" : 42
+  }, {
+    "type" : "secondary_link",
+    "count" : 6
+  }, {
+    "type" : "steps",
+    "count" : 195
+  }, {
+    "type" : "unclassified",
+    "count" : 26
+  }, {
+    "type" : "disused",
+    "count" : 2
+  }, {
+    "type" : "footway",
+    "count" : 775
+  }, {
+    "type" : "trunk_link",
+    "count" : 16
+  }, {
+    "type" : "primary_link",
+    "count" : 4
+  } ],
+  "elevation" : {
+    "min" : -12,
+    "max" : 150,
+    "diff50m" : 49
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}

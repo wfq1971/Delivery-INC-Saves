@@ -1,0 +1,282 @@
+{
+  "landusages" : [ {
+    "type" : "park",
+    "area" : 0.44852766
+  }, {
+    "type" : "industrial",
+    "area" : 0.29100856
+  }, {
+    "type" : "parking",
+    "area" : 0.028394299
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.027149899
+  }, {
+    "type" : "construction",
+    "area" : 0.02576857
+  }, {
+    "type" : "residential",
+    "area" : 0.022029104
+  }, {
+    "type" : "pitch",
+    "area" : 0.017339144
+  }, {
+    "type" : "bridge",
+    "area" : 0.014080774
+  }, {
+    "type" : "greenfield",
+    "area" : 0.0116972085
+  }, {
+    "type" : "brownfield",
+    "area" : 0.010722698
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 983
+  }, {
+    "type" : "apartments",
+    "count" : 147
+  }, {
+    "type" : "residential",
+    "count" : 69
+  }, {
+    "type" : "restaurant",
+    "count" : 49
+  }, {
+    "type" : "school",
+    "count" : 39
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 30
+  }, {
+    "type" : "police",
+    "count" : 21
+  }, {
+    "type" : "industrial",
+    "count" : 20
+  }, {
+    "type" : "toilets",
+    "count" : 16
+  }, {
+    "type" : "bank",
+    "count" : 16
+  }, {
+    "type" : "construction",
+    "count" : 16
+  }, {
+    "type" : "training",
+    "count" : 15
+  }, {
+    "type" : "retail",
+    "count" : 13
+  }, {
+    "type" : "parcel_locker",
+    "count" : 13
+  }, {
+    "type" : "pharmacy",
+    "count" : 12
+  }, {
+    "type" : "parking_space",
+    "count" : 12
+  }, {
+    "type" : "food_court",
+    "count" : 12
+  }, {
+    "type" : "clinic",
+    "count" : 12
+  }, {
+    "type" : "commercial",
+    "count" : 10
+  }, {
+    "type" : "atm",
+    "count" : 9
+  }, {
+    "type" : "cafe",
+    "count" : 8
+  }, {
+    "type" : "public_building",
+    "count" : 8
+  }, {
+    "type" : "library",
+    "count" : 6
+  }, {
+    "type" : "place_of_worship",
+    "count" : 5
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "public",
+    "count" : 3
+  }, {
+    "type" : "fast_food",
+    "count" : 3
+  }, {
+    "type" : "parking",
+    "count" : 3
+  }, {
+    "type" : "shed",
+    "count" : 3
+  }, {
+    "type" : "shelter",
+    "count" : 2
+  }, {
+    "type" : "transportation",
+    "count" : 2
+  }, {
+    "type" : "office",
+    "count" : 2
+  }, {
+    "type" : "temple",
+    "count" : 2
+  }, {
+    "type" : "drinking_water",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  }, {
+    "type" : "kindergarten",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "stadium",
+    "count" : 1
+  }, {
+    "type" : "pub",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "頂崁",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2639004",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "頂崁",
+      "name:en" : "Dingkan",
+      "place" : "hamlet",
+      "name:zh" : "頂崁"
+    }
+  }, {
+    "name" : "二重埔",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2629238",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:ja" : "アーチョンプー",
+      "name:nan" : "Jī-tiunn-poo",
+      "name" : "二重埔",
+      "name:en" : "Erchongbu",
+      "place" : "hamlet",
+      "name:zh" : "二重埔"
+    }
+  }, {
+    "name" : "後埔",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630216",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "後埔",
+      "name:en" : "Houbu",
+      "place" : "hamlet",
+      "name:zh" : "後埔"
+    }
+  }, {
+    "name" : "福址",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10164509",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:ja" : "福祉",
+      "name" : "福址",
+      "name:en" : "Fuzhi",
+      "place" : "hamlet",
+      "name:ja-Hira" : "ふうじ",
+      "name:zh" : "福址"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 622525,
+    "totalVolume" : 13823266,
+    "count" : 1597,
+    "maxHeight" : 492.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 44
+  }, {
+    "type" : "tertiary",
+    "count" : 95
+  }, {
+    "type" : "tertiary_link",
+    "count" : 2
+  }, {
+    "type" : "residential",
+    "count" : 128
+  }, {
+    "type" : "service",
+    "count" : 279
+  }, {
+    "type" : "path",
+    "count" : 1
+  }, {
+    "type" : "trunk",
+    "count" : 24
+  }, {
+    "type" : "primary",
+    "count" : 34
+  }, {
+    "type" : "subway",
+    "count" : 10
+  }, {
+    "type" : "secondary",
+    "count" : 16
+  }, {
+    "type" : "secondary_link",
+    "count" : 5
+  }, {
+    "type" : "steps",
+    "count" : 44
+  }, {
+    "type" : "unclassified",
+    "count" : 15
+  }, {
+    "type" : "footway",
+    "count" : 256
+  }, {
+    "type" : "trunk_link",
+    "count" : 21
+  }, {
+    "type" : "primary_link",
+    "count" : 9
+  } ],
+  "elevation" : {
+    "min" : -6,
+    "max" : 43,
+    "diff50m" : 24
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK",
+  "version" : "2"
+}

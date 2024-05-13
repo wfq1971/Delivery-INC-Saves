@@ -1,0 +1,407 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "wood",
+    "area" : 0.15829167
+  }, {
+    "type" : "residential",
+    "area" : 0.10934793
+  }, {
+    "type" : "industrial",
+    "area" : 0.0791717
+  }, {
+    "type" : "park",
+    "area" : 0.06932162
+  }, {
+    "type" : "military",
+    "area" : 0.06026293
+  }, {
+    "type" : "forest",
+    "area" : 0.04268448
+  }, {
+    "type" : "water_geometry",
+    "area" : 0.014426496
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1187
+  }, {
+    "type" : "apartments",
+    "count" : 464
+  }, {
+    "type" : "restaurant",
+    "count" : 433
+  }, {
+    "type" : "residential",
+    "count" : 251
+  }, {
+    "type" : "industrial",
+    "count" : 184
+  }, {
+    "type" : "school",
+    "count" : 78
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 51
+  }, {
+    "type" : "fast_food",
+    "count" : 46
+  }, {
+    "type" : "cafe",
+    "count" : 43
+  }, {
+    "type" : "bank",
+    "count" : 42
+  }, {
+    "type" : "clinic",
+    "count" : 40
+  }, {
+    "type" : "commercial",
+    "count" : 28
+  }, {
+    "type" : "pharmacy",
+    "count" : 27
+  }, {
+    "type" : "police",
+    "count" : 25
+  }, {
+    "type" : "shelter",
+    "count" : 25
+  }, {
+    "type" : "prep_school",
+    "count" : 19
+  }, {
+    "type" : "atm",
+    "count" : 15
+  }, {
+    "type" : "college",
+    "count" : 14
+  }, {
+    "type" : "parcel_locker",
+    "count" : 14
+  }, {
+    "type" : "training",
+    "count" : 13
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "library",
+    "count" : 12
+  }, {
+    "type" : "place_of_worship",
+    "count" : 12
+  }, {
+    "type" : "office",
+    "count" : 11
+  }, {
+    "type" : "house",
+    "count" : 10
+  }, {
+    "type" : "dentist",
+    "count" : 10
+  }, {
+    "type" : "kindergarten",
+    "count" : 9
+  }, {
+    "type" : "parking",
+    "count" : 9
+  }, {
+    "type" : "roof",
+    "count" : 8
+  }, {
+    "type" : "public_building",
+    "count" : 8
+  }, {
+    "type" : "outbuilding",
+    "count" : 8
+  }, {
+    "type" : "social_facility",
+    "count" : 6
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "marketplace",
+    "count" : 6
+  }, {
+    "type" : "dormitory",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 5
+  }, {
+    "type" : "events_venue",
+    "count" : 4
+  }, {
+    "type" : "community_centre",
+    "count" : 4
+  }, {
+    "type" : "pub",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "temple",
+    "count" : 4
+  }, {
+    "type" : "bar",
+    "count" : 3
+  }, {
+    "type" : "transportation",
+    "count" : 3
+  }, {
+    "type" : "garages",
+    "count" : 3
+  }, {
+    "type" : "ice_cream",
+    "count" : 3
+  }, {
+    "type" : "post_box",
+    "count" : 3
+  }, {
+    "type" : "bench",
+    "count" : 3
+  }, {
+    "type" : "car_wash",
+    "count" : 3
+  }, {
+    "type" : "veterinary",
+    "count" : 3
+  }, {
+    "type" : "parking_space",
+    "count" : 3
+  }, {
+    "type" : "construction",
+    "count" : 2
+  }, {
+    "type" : "church",
+    "count" : 2
+  }, {
+    "type" : "parking_entrance",
+    "count" : 2
+  }, {
+    "type" : "public",
+    "count" : 2
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "hospital",
+    "count" : 2
+  }, {
+    "type" : "stadium",
+    "count" : 2
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "planetarium",
+    "count" : 1
+  }, {
+    "type" : "charging_station",
+    "count" : 1
+  }, {
+    "type" : "food_court",
+    "count" : 1
+  }, {
+    "type" : "internet_cafe",
+    "count" : 1
+  }, {
+    "type" : "university",
+    "count" : 1
+  }, {
+    "type" : "hotel",
+    "count" : 1
+  }, {
+    "type" : "fire_station",
+    "count" : 1
+  }, {
+    "type" : "studio",
+    "count" : 1
+  }, {
+    "type" : "locker",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "vending_machine",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "內湖區",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 287733,
+    "tags" : {
+      "name:vi" : "Nội Hồ",
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Lāi-ôo-khu",
+      "name:ja" : "内湖区",
+      "name:nan" : "Lāi-ô͘-khu",
+      "name:id" : "Distrik Neihu",
+      "name:hak" : "Nui-fù-khî",
+      "population" : "287733",
+      "GNS:id" : "-2634743",
+      "GNS:dsg_code" : "PPL",
+      "name:ko" : "네이후구",
+      "name:de" : "Neihu",
+      "name:yue" : "內湖區",
+      "name:nan-POJ" : "Lāi-ô͘-khu",
+      "name" : "內湖區",
+      "name:it" : "Distretto di Neihu",
+      "name:fr" : "Neihu",
+      "name:nan-HJ" : "內湖區",
+      "name:en" : "Neihu",
+      "place" : "suburb",
+      "wikipedia" : "zh:內湖區",
+      "postal_code" : "114",
+      "name:zh" : "內湖區"
+    }
+  }, {
+    "name" : "番子坡",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2629451",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "番子坡",
+      "name:en" : "Fanzipo",
+      "place" : "hamlet",
+      "name:zh" : "番子坡"
+    }
+  }, {
+    "name" : "公館",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2632885",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:nan" : "Kong-kuán",
+      "name" : "公館",
+      "name:en" : "Gongguan",
+      "place" : "hamlet",
+      "name:zh" : "公館"
+    }
+  }, {
+    "name" : "下灣子",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136385",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "下灣子",
+      "name:en" : "Xiawanzi",
+      "place" : "hamlet",
+      "name:zh" : "下灣子"
+    }
+  }, {
+    "name" : "灣子",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2640150",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "灣子",
+      "name:en" : "Wanzi",
+      "place" : "hamlet",
+      "name:zh" : "灣子"
+    }
+  }, {
+    "name" : "後湖",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136062",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "後湖",
+      "name:en" : "Houhu",
+      "place" : "hamlet",
+      "name:zh" : "後湖"
+    }
+  }, {
+    "name" : "內湖",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 0,
+    "tags" : {
+      "name:ja" : "内湖",
+      "name" : "內湖",
+      "name:en" : "Neihu",
+      "place" : "suburb",
+      "name:zh" : "內湖"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 995085,
+    "totalVolume" : 15740822,
+    "count" : 2352,
+    "maxHeight" : 116.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 42
+  }, {
+    "type" : "tertiary_link",
+    "count" : 1
+  }, {
+    "type" : "residential",
+    "count" : 304
+  }, {
+    "type" : "service",
+    "count" : 304
+  }, {
+    "type" : "path",
+    "count" : 14
+  }, {
+    "type" : "motorway",
+    "count" : 10
+  }, {
+    "type" : "pedestrian",
+    "count" : 22
+  }, {
+    "type" : "subway",
+    "count" : 5
+  }, {
+    "type" : "living_street",
+    "count" : 10
+  }, {
+    "type" : "motorway_link",
+    "count" : 9
+  }, {
+    "type" : "secondary",
+    "count" : 69
+  }, {
+    "type" : "steps",
+    "count" : 46
+  }, {
+    "type" : "unclassified",
+    "count" : 17
+  }, {
+    "type" : "footway",
+    "count" : 334
+  } ],
+  "elevation" : {
+    "min" : 1,
+    "max" : 100,
+    "diff50m" : 37
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}

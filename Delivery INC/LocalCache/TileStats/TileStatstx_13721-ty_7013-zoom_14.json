@@ -1,0 +1,343 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.3087886
+  }, {
+    "type" : "park",
+    "area" : 0.07770739
+  }, {
+    "type" : "residential",
+    "area" : 0.03993103
+  }, {
+    "type" : "bridge",
+    "area" : 0.027685247
+  }, {
+    "type" : "farmland",
+    "area" : 0.016802764
+  }, {
+    "type" : "wetland",
+    "area" : 0.013492896
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1283
+  }, {
+    "type" : "residential",
+    "count" : 729
+  }, {
+    "type" : "restaurant",
+    "count" : 383
+  }, {
+    "type" : "apartments",
+    "count" : 259
+  }, {
+    "type" : "school",
+    "count" : 77
+  }, {
+    "type" : "cafe",
+    "count" : 57
+  }, {
+    "type" : "pharmacy",
+    "count" : 54
+  }, {
+    "type" : "clinic",
+    "count" : 53
+  }, {
+    "type" : "bank",
+    "count" : 49
+  }, {
+    "type" : "fast_food",
+    "count" : 47
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 39
+  }, {
+    "type" : "parking_space",
+    "count" : 28
+  }, {
+    "type" : "commercial",
+    "count" : 24
+  }, {
+    "type" : "atm",
+    "count" : 23
+  }, {
+    "type" : "food_court",
+    "count" : 22
+  }, {
+    "type" : "pub",
+    "count" : 20
+  }, {
+    "type" : "training",
+    "count" : 20
+  }, {
+    "type" : "toilets",
+    "count" : 19
+  }, {
+    "type" : "police",
+    "count" : 19
+  }, {
+    "type" : "marketplace",
+    "count" : 18
+  }, {
+    "type" : "parking_entrance",
+    "count" : 18
+  }, {
+    "type" : "parking",
+    "count" : 17
+  }, {
+    "type" : "social_facility",
+    "count" : 16
+  }, {
+    "type" : "library",
+    "count" : 15
+  }, {
+    "type" : "drinking_water",
+    "count" : 12
+  }, {
+    "type" : "public_building",
+    "count" : 12
+  }, {
+    "type" : "dentist",
+    "count" : 12
+  }, {
+    "type" : "parcel_locker",
+    "count" : 12
+  }, {
+    "type" : "roof",
+    "count" : 11
+  }, {
+    "type" : "prep_school",
+    "count" : 10
+  }, {
+    "type" : "place_of_worship",
+    "count" : 10
+  }, {
+    "type" : "house",
+    "count" : 9
+  }, {
+    "type" : "temple",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 8
+  }, {
+    "type" : "vending_machine",
+    "count" : 8
+  }, {
+    "type" : "public",
+    "count" : 8
+  }, {
+    "type" : "retail",
+    "count" : 6
+  }, {
+    "type" : "hospital",
+    "count" : 6
+  }, {
+    "type" : "office",
+    "count" : 6
+  }, {
+    "type" : "motorcycle_parking",
+    "count" : 6
+  }, {
+    "type" : "ice_cream",
+    "count" : 5
+  }, {
+    "type" : "bar",
+    "count" : 4
+  }, {
+    "type" : "hotel",
+    "count" : 4
+  }, {
+    "type" : "post_box",
+    "count" : 4
+  }, {
+    "type" : "fuel",
+    "count" : 4
+  }, {
+    "type" : "kindergarten",
+    "count" : 4
+  }, {
+    "type" : "veterinary",
+    "count" : 4
+  }, {
+    "type" : "industrial",
+    "count" : 3
+  }, {
+    "type" : "service",
+    "count" : 3
+  }, {
+    "type" : "post_office",
+    "count" : 3
+  }, {
+    "type" : "karaoke_box",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "cinema",
+    "count" : 2
+  }, {
+    "type" : "fire_station",
+    "count" : 2
+  }, {
+    "type" : "ferry_terminal",
+    "count" : 2
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  }, {
+    "type" : "government",
+    "count" : 1
+  }, {
+    "type" : "synagogue",
+    "count" : 1
+  }, {
+    "type" : "shelter",
+    "count" : 1
+  }, {
+    "type" : "waste_disposal",
+    "count" : 1
+  }, {
+    "type" : "karaoke",
+    "count" : 1
+  }, {
+    "type" : "bus_station",
+    "count" : 1
+  }, {
+    "type" : "bureau_de_change",
+    "count" : 1
+  }, {
+    "type" : "dormitory",
+    "count" : 1
+  }, {
+    "type" : "brothel",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "三重區",
+    "type" : "suburb",
+    "zOrder" : 6,
+    "population" : 388581,
+    "tags" : {
+      "GNS:dsg_string" : "populated place",
+      "name:nan-TL" : "Sam-tiông-khu",
+      "old_name:nan" : "Sam-tiông-chhī",
+      "name:nan" : "Sam-tiông-khu",
+      "old_name:ko" : "싼충 시",
+      "name:hak" : "Sâm-chhùng-khî",
+      "GNS:id" : "-2636074",
+      "is_in:zh" : "台灣新北市",
+      "GNS:dsg_code" : "PPL",
+      "name:ko" : "싼충 구",
+      "name:nan-POJ" : "Sam-tiông-khu",
+      "name:it" : "Distretto di Sanchong",
+      "name:en" : "Sanchong",
+      "place" : "suburb",
+      "wikipedia" : "zh:三重區",
+      "name:zh" : "三重區",
+      "name:vi" : "Tam Trọng",
+      "name:ja" : "三重区",
+      "old_name:ja_kana" : "さんじゅうし",
+      "old_name:zh_pinyin" : "Sānchóng Shì",
+      "population" : "388581",
+      "name:ja_kana" : "さんじゅうく",
+      "name:de" : "Sanchong",
+      "old_name" : "三重市",
+      "old_name:zh" : "三重市",
+      "name" : "三重區",
+      "name:fr" : "Sanchong",
+      "name:nan-HJ" : "三重區",
+      "old_name:hak" : "Sâm-chhùng-sṳ",
+      "old_name:ja" : "三重市",
+      "postal_code" : "241",
+      "name:zh_pinyin" : "Sānchóng Qū"
+    }
+  }, {
+    "name" : "菜寮",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2639281",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:ja" : "菜寮",
+      "name" : "菜寮",
+      "name:en" : "Cailiao",
+      "place" : "hamlet",
+      "name:ja-Hira" : "ざぃりゃう",
+      "name:zh" : "菜寮"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 850811,
+    "totalVolume" : 20030410,
+    "count" : 2559,
+    "maxHeight" : 148.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 44
+  }, {
+    "type" : "tertiary",
+    "count" : 85
+  }, {
+    "type" : "tertiary_link",
+    "count" : 5
+  }, {
+    "type" : "residential",
+    "count" : 158
+  }, {
+    "type" : "service",
+    "count" : 343
+  }, {
+    "type" : "path",
+    "count" : 45
+  }, {
+    "type" : "trunk",
+    "count" : 29
+  }, {
+    "type" : "pedestrian",
+    "count" : 3
+  }, {
+    "type" : "primary",
+    "count" : 67
+  }, {
+    "type" : "subway",
+    "count" : 20
+  }, {
+    "type" : "living_street",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 52
+  }, {
+    "type" : "secondary_link",
+    "count" : 11
+  }, {
+    "type" : "steps",
+    "count" : 50
+  }, {
+    "type" : "unclassified",
+    "count" : 28
+  }, {
+    "type" : "footway",
+    "count" : 289
+  }, {
+    "type" : "trunk_link",
+    "count" : 38
+  }, {
+    "type" : "primary_link",
+    "count" : 14
+  } ],
+  "elevation" : {
+    "min" : -2,
+    "max" : 33,
+    "diff50m" : 26
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}

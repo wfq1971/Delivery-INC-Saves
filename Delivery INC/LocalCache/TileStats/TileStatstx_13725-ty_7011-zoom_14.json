@@ -1,0 +1,289 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "wood",
+    "area" : 0.70499796
+  }, {
+    "type" : "residential",
+    "area" : 0.055537034
+  }, {
+    "type" : "cemetery",
+    "area" : 0.017570164
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 411
+  }, {
+    "type" : "apartments",
+    "count" : 246
+  }, {
+    "type" : "residential",
+    "count" : 99
+  }, {
+    "type" : "restaurant",
+    "count" : 34
+  }, {
+    "type" : "house",
+    "count" : 28
+  }, {
+    "type" : "shelter",
+    "count" : 26
+  }, {
+    "type" : "place_of_worship",
+    "count" : 23
+  }, {
+    "type" : "toilets",
+    "count" : 14
+  }, {
+    "type" : "school",
+    "count" : 11
+  }, {
+    "type" : "bench",
+    "count" : 11
+  }, {
+    "type" : "cafe",
+    "count" : 9
+  }, {
+    "type" : "clinic",
+    "count" : 8
+  }, {
+    "type" : "temple",
+    "count" : 8
+  }, {
+    "type" : "fast_food",
+    "count" : 8
+  }, {
+    "type" : "parking_entrance",
+    "count" : 7
+  }, {
+    "type" : "pharmacy",
+    "count" : 5
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 5
+  }, {
+    "type" : "drinking_water",
+    "count" : 5
+  }, {
+    "type" : "roof",
+    "count" : 4
+  }, {
+    "type" : "parking",
+    "count" : 4
+  }, {
+    "type" : "prep_school",
+    "count" : 3
+  }, {
+    "type" : "atm",
+    "count" : 3
+  }, {
+    "type" : "parcel_locker",
+    "count" : 3
+  }, {
+    "type" : "dentist",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "training",
+    "count" : 2
+  }, {
+    "type" : "fountain",
+    "count" : 1
+  }, {
+    "type" : "grave_yard",
+    "count" : 1
+  }, {
+    "type" : "animal_boarding",
+    "count" : 1
+  }, {
+    "type" : "post_box",
+    "count" : 1
+  }, {
+    "type" : "social_facility",
+    "count" : 1
+  }, {
+    "type" : "bank",
+    "count" : 1
+  }, {
+    "type" : "post_office",
+    "count" : 1
+  }, {
+    "type" : "music_school",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  }, {
+    "type" : "outbuilding",
+    "count" : 1
+  }, {
+    "type" : "marketplace",
+    "count" : 1
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "telephone",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "新坡尾",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2631302",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "新坡尾",
+      "name:en" : "Xinpowei",
+      "place" : "hamlet",
+      "name:zh" : "新坡尾"
+    }
+  }, {
+    "name" : "崁子脚",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136061",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "崁子脚",
+      "name:en" : "Kanzijiao",
+      "place" : "hamlet",
+      "name:zh" : "崁子脚"
+    }
+  }, {
+    "name" : "土埤脚",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136036",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "土埤脚",
+      "name:en" : "Tupijiao",
+      "place" : "hamlet",
+      "name:zh" : "土埤脚"
+    }
+  }, {
+    "name" : "石崁",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136059",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "石崁",
+      "name:en" : "Shikan",
+      "place" : "hamlet",
+      "name:zh" : "石崁"
+    }
+  }, {
+    "name" : "石崎脚",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136035",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "石崎脚",
+      "name:en" : "Shiqijiao",
+      "place" : "hamlet",
+      "name:zh" : "石崎脚"
+    }
+  }, {
+    "name" : "梘頭",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2627751",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "梘頭",
+      "name:en" : "Jiantou",
+      "place" : "hamlet",
+      "name:zh" : "梘頭"
+    }
+  }, {
+    "name" : "番仔寮",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136396",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "番仔寮",
+      "name:en" : "Fanziliao",
+      "place" : "hamlet",
+      "name:zh" : "番仔寮"
+    }
+  }, {
+    "name" : "下厝",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "10136060",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "下厝",
+      "name:en" : "Xiacuo",
+      "place" : "hamlet",
+      "name:zh" : "下厝"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 147550,
+    "totalVolume" : 2066276,
+    "count" : 534,
+    "maxHeight" : 40.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 20
+  }, {
+    "type" : "residential",
+    "count" : 63
+  }, {
+    "type" : "service",
+    "count" : 85
+  }, {
+    "type" : "path",
+    "count" : 67
+  }, {
+    "type" : "pedestrian",
+    "count" : 10
+  }, {
+    "type" : "track",
+    "count" : 6
+  }, {
+    "type" : "living_street",
+    "count" : 4
+  }, {
+    "type" : "steps",
+    "count" : 29
+  }, {
+    "type" : "unclassified",
+    "count" : 18
+  }, {
+    "type" : "footway",
+    "count" : 109
+  } ],
+  "elevation" : {
+    "min" : 19,
+    "max" : 409,
+    "diff50m" : 60
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}

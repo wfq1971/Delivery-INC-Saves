@@ -1,0 +1,215 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "wood",
+    "area" : 0.7496273
+  }, {
+    "type" : "residential",
+    "area" : 0.013578529
+  }, {
+    "type" : "park",
+    "area" : 0.011296778
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 355
+  }, {
+    "type" : "apartments",
+    "count" : 184
+  }, {
+    "type" : "restaurant",
+    "count" : 40
+  }, {
+    "type" : "residential",
+    "count" : 38
+  }, {
+    "type" : "school",
+    "count" : 36
+  }, {
+    "type" : "shelter",
+    "count" : 14
+  }, {
+    "type" : "university",
+    "count" : 12
+  }, {
+    "type" : "place_of_worship",
+    "count" : 11
+  }, {
+    "type" : "temple",
+    "count" : 9
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 8
+  }, {
+    "type" : "toilets",
+    "count" : 6
+  }, {
+    "type" : "cafe",
+    "count" : 6
+  }, {
+    "type" : "parking_space",
+    "count" : 6
+  }, {
+    "type" : "house",
+    "count" : 5
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "fast_food",
+    "count" : 5
+  }, {
+    "type" : "college",
+    "count" : 4
+  }, {
+    "type" : "drinking_water",
+    "count" : 4
+  }, {
+    "type" : "clinic",
+    "count" : 4
+  }, {
+    "type" : "bench",
+    "count" : 4
+  }, {
+    "type" : "bank",
+    "count" : 2
+  }, {
+    "type" : "social_facility",
+    "count" : 2
+  }, {
+    "type" : "library",
+    "count" : 2
+  }, {
+    "type" : "parking",
+    "count" : 2
+  }, {
+    "type" : "pub",
+    "count" : 2
+  }, {
+    "type" : "bar",
+    "count" : 1
+  }, {
+    "type" : "parcel_locker",
+    "count" : 1
+  }, {
+    "type" : "veterinary",
+    "count" : 1
+  }, {
+    "type" : "no",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "pharmacy",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "西湖",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630916",
+      "GNS:dsg_code" : "PPL",
+      "name:lzh" : "西湖",
+      "GNS:dsg_string" : "populated place",
+      "name:nan" : "Se-ôo",
+      "name" : "西湖",
+      "name:en" : "Xihu",
+      "place" : "hamlet",
+      "name:zh-Hant" : "西湖",
+      "name:zh" : "西湖"
+    }
+  }, {
+    "name" : "糞箕湖",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2629493",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name" : "糞箕湖",
+      "name:en" : "Fenjihu",
+      "place" : "hamlet",
+      "name:zh" : "糞箕湖"
+    }
+  }, {
+    "name" : "山脚",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2636352",
+      "GNS:dsg_code" : "PPL",
+      "GNS:dsg_string" : "populated place",
+      "name:nan" : "Suann-kha",
+      "name" : "山脚",
+      "name:nan-HJ" : "山跤",
+      "name:en" : "Shanjiao",
+      "place" : "hamlet",
+      "name:zh" : "山脚"
+    }
+  }, {
+    "name" : "鴨母寮",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2640606",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name:nan" : "Ah-bó-liâu",
+      "name" : "鴨母寮",
+      "name:en" : "Yamuliao",
+      "place" : "hamlet",
+      "name:zh" : "鴨母寮"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 159722,
+    "totalVolume" : 2164221,
+    "count" : 588,
+    "maxHeight" : 56.0
+  },
+  "roads" : [ {
+    "type" : "tertiary",
+    "count" : 8
+  }, {
+    "type" : "residential",
+    "count" : 51
+  }, {
+    "type" : "service",
+    "count" : 134
+  }, {
+    "type" : "path",
+    "count" : 60
+  }, {
+    "type" : "track",
+    "count" : 1
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "secondary",
+    "count" : 2
+  }, {
+    "type" : "steps",
+    "count" : 12
+  }, {
+    "type" : "unclassified",
+    "count" : 13
+  }, {
+    "type" : "footway",
+    "count" : 72
+  } ],
+  "elevation" : {
+    "min" : 9,
+    "max" : 429,
+    "diff50m" : 48
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}

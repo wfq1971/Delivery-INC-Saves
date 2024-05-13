@@ -1,0 +1,281 @@
+{
+  "version" : "1",
+  "landusages" : [ {
+    "type" : "water_geometry",
+    "area" : 0.18919662
+  }, {
+    "type" : "residential",
+    "area" : 0.07115931
+  }, {
+    "type" : "park",
+    "area" : 0.06461097
+  }, {
+    "type" : "parking",
+    "area" : 0.019034194
+  }, {
+    "type" : "bridge",
+    "area" : 0.018907614
+  }, {
+    "type" : "construction",
+    "area" : 0.011113096
+  } ],
+  "amenities" : [ {
+    "type" : "road",
+    "count" : 1104
+  }, {
+    "type" : "residential",
+    "count" : 577
+  }, {
+    "type" : "restaurant",
+    "count" : 267
+  }, {
+    "type" : "apartments",
+    "count" : 253
+  }, {
+    "type" : "school",
+    "count" : 93
+  }, {
+    "type" : "clinic",
+    "count" : 77
+  }, {
+    "type" : "pharmacy",
+    "count" : 74
+  }, {
+    "type" : "cafe",
+    "count" : 38
+  }, {
+    "type" : "bicycle_rental",
+    "count" : 36
+  }, {
+    "type" : "bank",
+    "count" : 36
+  }, {
+    "type" : "food_court",
+    "count" : 35
+  }, {
+    "type" : "fast_food",
+    "count" : 27
+  }, {
+    "type" : "training",
+    "count" : 23
+  }, {
+    "type" : "toilets",
+    "count" : 17
+  }, {
+    "type" : "dentist",
+    "count" : 17
+  }, {
+    "type" : "library",
+    "count" : 16
+  }, {
+    "type" : "parking_space",
+    "count" : 15
+  }, {
+    "type" : "commercial",
+    "count" : 15
+  }, {
+    "type" : "place_of_worship",
+    "count" : 14
+  }, {
+    "type" : "atm",
+    "count" : 13
+  }, {
+    "type" : "veterinary",
+    "count" : 10
+  }, {
+    "type" : "prep_school",
+    "count" : 9
+  }, {
+    "type" : "drinking_water",
+    "count" : 9
+  }, {
+    "type" : "construction",
+    "count" : 8
+  }, {
+    "type" : "parking",
+    "count" : 8
+  }, {
+    "type" : "pub",
+    "count" : 8
+  }, {
+    "type" : "public",
+    "count" : 7
+  }, {
+    "type" : "social_facility",
+    "count" : 7
+  }, {
+    "type" : "shelter",
+    "count" : 6
+  }, {
+    "type" : "parcel_locker",
+    "count" : 6
+  }, {
+    "type" : "roof",
+    "count" : 5
+  }, {
+    "type" : "temple",
+    "count" : 5
+  }, {
+    "type" : "bus_station",
+    "count" : 5
+  }, {
+    "type" : "parking_entrance",
+    "count" : 5
+  }, {
+    "type" : "retail",
+    "count" : 5
+  }, {
+    "type" : "marketplace",
+    "count" : 4
+  }, {
+    "type" : "industrial",
+    "count" : 4
+  }, {
+    "type" : "post_office",
+    "count" : 2
+  }, {
+    "type" : "nursing_home",
+    "count" : 2
+  }, {
+    "type" : "college",
+    "count" : 2
+  }, {
+    "type" : "kindergarten",
+    "count" : 2
+  }, {
+    "type" : "police",
+    "count" : 2
+  }, {
+    "type" : "charging_station",
+    "count" : 2
+  }, {
+    "type" : "shed",
+    "count" : 2
+  }, {
+    "type" : "vending_machine",
+    "count" : 2
+  }, {
+    "type" : "dormitory",
+    "count" : 2
+  }, {
+    "type" : "car_rental",
+    "count" : 1
+  }, {
+    "type" : "train_station",
+    "count" : 1
+  }, {
+    "type" : "vehicle_ramp",
+    "count" : 1
+  }, {
+    "type" : "car_wash",
+    "count" : 1
+  }, {
+    "type" : "bench",
+    "count" : 1
+  }, {
+    "type" : "childcare",
+    "count" : 1
+  }, {
+    "type" : "service",
+    "count" : 1
+  }, {
+    "type" : "fuel",
+    "count" : 1
+  }, {
+    "type" : "karaoke",
+    "count" : 1
+  }, {
+    "type" : "hospital",
+    "count" : 1
+  }, {
+    "type" : "office",
+    "count" : 1
+  }, {
+    "type" : "church",
+    "count" : 1
+  }, {
+    "type" : "community_centre",
+    "count" : 1
+  } ],
+  "places" : [ {
+    "name" : "溪尾",
+    "type" : "hamlet",
+    "zOrder" : 7,
+    "population" : 0,
+    "tags" : {
+      "GNS:id" : "-2630973",
+      "GNS:dsg_code" : "PPLX",
+      "GNS:dsg_string" : "populated place",
+      "name" : "溪尾",
+      "name:en" : "Xiwei",
+      "place" : "hamlet",
+      "name:zh" : "溪尾"
+    }
+  } ],
+  "buildings" : {
+    "totalArea" : 855226,
+    "totalVolume" : 16103418,
+    "count" : 2660,
+    "maxHeight" : 108.0
+  },
+  "roads" : [ {
+    "type" : "cycleway",
+    "count" : 49
+  }, {
+    "type" : "tertiary",
+    "count" : 45
+  }, {
+    "type" : "residential",
+    "count" : 157
+  }, {
+    "type" : "service",
+    "count" : 425
+  }, {
+    "type" : "path",
+    "count" : 4
+  }, {
+    "type" : "motorway",
+    "count" : 25
+  }, {
+    "type" : "trunk",
+    "count" : 2
+  }, {
+    "type" : "pedestrian",
+    "count" : 6
+  }, {
+    "type" : "track",
+    "count" : 2
+  }, {
+    "type" : "subway",
+    "count" : 2
+  }, {
+    "type" : "motorway_link",
+    "count" : 19
+  }, {
+    "type" : "secondary",
+    "count" : 47
+  }, {
+    "type" : "secondary_link",
+    "count" : 10
+  }, {
+    "type" : "steps",
+    "count" : 36
+  }, {
+    "type" : "unclassified",
+    "count" : 4
+  }, {
+    "type" : "footway",
+    "count" : 269
+  }, {
+    "type" : "primary_link",
+    "count" : 2
+  } ],
+  "elevation" : {
+    "min" : -1,
+    "max" : 31,
+    "diff50m" : 20
+  },
+  "countryCode" : "TW",
+  "connections" : 0,
+  "status" : "OK"
+}
